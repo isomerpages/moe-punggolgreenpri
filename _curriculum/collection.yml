@@ -1,5 +1,4 @@
 collections:
   curriculum:
     output: true
-    order:
-      - CCA/.keep
+    order: []
