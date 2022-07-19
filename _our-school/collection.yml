@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - School Core Values STRIVE.md
-      - School Rules.md
-      - School Crest & Song.md
-      - School History and Information.md
-      - Our Vision, Mission, Values.md
       - Principal's Message.md
+      - Our Vision, Mission, Values.md
+      - School History and Information.md
+      - School Crest & Song.md
+      - School Rules.md
+      - School Core Values STRIVE.md
