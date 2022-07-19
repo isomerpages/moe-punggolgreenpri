@@ -2,19 +2,19 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Learning for Life Programme (Student Leadership).md
-      - Applied Learning Programme (STEM).md
-      - Student Management.md
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Language.md
+      - Social Studies.md
+      - CCE/.keep
+      - CCE/MOE Sexuality Education.md
+      - CCE/Character and Citizenship Education.md
+      - ICT.md
       - PE, Art and Music/.keep
       - PE, Art and Music/PE, Art and Music.md
       - PE, Art and Music/Swimsafer 2.md
       - PE, Art and Music/Art Competitions.md
-      - ICT.md
-      - CCE/MOE Sexuality Education.md
-      - CCE/Character and Citizenship Education.md
-      - CCE/.keep
-      - Social Studies.md
-      - Mother Tongue Language.md
-      - Science.md
-      - Mathematics.md
-      - English Language.md
+      - Student Management.md
+      - Applied Learning Programme (STEM).md
+      - Learning for Life Programme (Student Leadership).md
