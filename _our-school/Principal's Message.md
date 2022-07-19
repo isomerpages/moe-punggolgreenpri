@@ -26,8 +26,6 @@ So let me take this opportunity to invite you to join the school and partner us 
 
   
 
-Mr Hanafi B Asmore
-
-Principal
-
+Mr Hanafi B Asmore<br>
+Principal<br>
 Punggol Green Primary School
