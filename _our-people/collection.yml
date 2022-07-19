@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Our Pride and Joy.md
-      - Administrative and Support Staff.md
-      - School Counsellor & Allied Educators.md
-      - Form Teachers.md
-      - Executive Committee.md
       - School Leaders.md
+      - Executive Committee.md
+      - Form Teachers.md
+      - School Counsellor & Allied Educators.md
+      - Administrative and Support Staff.md
+      - Our Pride and Joy.md
