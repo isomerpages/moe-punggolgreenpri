@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Administrative & Support Staff/Administrative and Support Staff.md
       - Administrative & Support Staff/.keep
       - School Leaders.md
       - Executive Committee.md
