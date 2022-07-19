@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Counsellor & Allied Educators.md
       - Form Teachers.md
       - Executive Committee.md
       - School Leaders.md
