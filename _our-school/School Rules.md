@@ -8,7 +8,6 @@ description: ""
 **<font size=6>School Rules</font>**
 
 1\. All students must attend the Flag Raising Ceremony. Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
-
 Students who are not Singapore Citizens must stand at attention.
 
   
