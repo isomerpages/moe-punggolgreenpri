@@ -38,7 +38,7 @@ description: ""
 | Name | Designation |
 | --- | --- |
 | Mdm Lee Peiyan  | Year Head / Upper Pri  |
-|  Mdm Yogeshwari Kannadasan  |  Assistant Year Head / Upper Pri (Int) |
+| Mdm Yogeshwari Kannadasan  |  Assistant Year Head / Upper Pri (Int) |
 | Mr Adrian Yeo | Year Head / Middle Pri  |
 | Mrs Shannon Loh  | Assistant Year Head / Middle Pri  |
 | Ms Tan Wei Li  | Year Head / Lower Pri (Covering)  |
@@ -52,9 +52,9 @@ description: ""
 | Miss Nadira Bte Noordin  | LH / Science |
 | Mr Neo Qing Hao | LH / PE & CCA |
 | Ms Sharmilah Sheikh | LH / English (Int)  |
-| Mdm Munirah Bte Mohamed | SH / MTL (ML)  |
+|Mdm Munirah Bte Mohamed | SH / MTL (ML)  |
 | Ms Koh Wei Ning | SH / Citizenship Education |
-| Ms Ruhernie Abu Yamin | SH / Aesthetics |
+|Ms Ruhernie Abu Yamin | SH / Aesthetics |
 | Mr Kenny Teo   | SH / Student Well-Being  |
 | Mr Tan Yong Siong Lite | SH / ICT (Int)  |
 
