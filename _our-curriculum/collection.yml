@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PE, Art and Music/.keep
-      - PE, Art and Music.md
       - ICT.md
       - CCE/MOE Sexuality Education.md
       - CCE/Character and Citizenship Education.md
