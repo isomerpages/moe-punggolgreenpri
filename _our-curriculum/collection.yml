@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Applied Learning Programme (STEM).md
       - Student Management.md
       - PE, Art and Music/.keep
       - PE, Art and Music/PE, Art and Music.md
