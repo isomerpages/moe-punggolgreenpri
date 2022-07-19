@@ -15,8 +15,7 @@ description: ""
 | Mr Hanafi Asmore | Principal |
 | Dr Lee Kok Sonk | Vice-Principal - Academic |
 | Mrs Teo-Tay Chai Hong  |  Vice-Principal - Academic |
-| Mrs Betty See  
- | Vice-Principal - Administration |
+| Mrs Betty See  | Vice-Principal - Administration |
 
 **<font size=5>Heads of Department</font>**
 
