@@ -7,8 +7,8 @@ description: ""
 
 **<font size=6>Executive Committee</font>**
 
-Principal & Vice-Principals
----------------------------
+**<font size=5>Principal & Vice-Principals</font>**
+
 
 | Name | Designation |
 | --- | --- |
@@ -18,8 +18,7 @@ Principal & Vice-Principals
 | Mrs Betty See  
  | Vice-Principal - Administration |
 
-Heads of Department
--------------------
+**<font size=5>Heads of Department</font>**
 
 | Name | Designation |
 | --- | --- |
@@ -36,8 +35,8 @@ Heads of Department
  |
 | Mdm Raihana Bte Mohd Nor |  School Staff Developer |
 
-Year Heads and Assistant Year Heads
------------------------------------
+**<font size=5>Year Heads and Assistant Year Heads</font>**
+
 
 | Name | Designation |
 | --- | --- |
@@ -54,8 +53,8 @@ Year Heads and Assistant Year Heads
  |
 | Mdm Nur Azimah Binte Syed Hussain | Assistant Year Head / Lower Pri (Int) |
 
-Level Heads and Subject Heads
------------------------------
+**<font size=5>Level Heads and Subject Heads</font>**
+
 
 | Name | Designation |
 | --- | --- |
@@ -68,8 +67,8 @@ Level Heads and Subject Heads
 | Mr Kenny Teo   | SH / Student Well-Being  |
 |   Mr Tan Yong Siong Lite | SH / ICT (Int)  |
 
-Senior Teacher Council
-----------------------
+**<font size=5>Senior Teacher Council</font>**
+
 
 | Name | Designation |
 | --- | --- |
