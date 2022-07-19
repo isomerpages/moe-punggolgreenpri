@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - PE, Art and Music/Art Competitions.md
-      - PE, Art and Music/Swimsafer 2.md
-      - PE, Art and Music/PE, Art and Music.md
       - PE, Art and Music/.keep
+      - PE, Art and Music/PE, Art and Music.md
+      - PE, Art and Music/Swimsafer 2.md
+      - PE, Art and Music/Art Competitions.md
       - ICT.md
       - CCE/MOE Sexuality Education.md
       - CCE/Character and Citizenship Education.md
