@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Learning for Life Programme (Student Leadership).md
       - Applied Learning Programme (STEM).md
       - Student Management.md
       - PE, Art and Music/.keep
