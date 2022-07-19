@@ -27,4 +27,5 @@ Be the best that we can be
 
   
 **<font size=5>School Core Values: S.T.R.I.V.E.</font>**<br>
-![](/images/Our%20School/vision%20mission%20values%202.png)
+<img src="/images/Our%20School/vision%20mission%20values%202.png"  
+     style="width:65%">
