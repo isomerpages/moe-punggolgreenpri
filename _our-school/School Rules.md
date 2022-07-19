@@ -25,21 +25,15 @@ Students who are not Singapore Citizens must stand at attention.
 
   
 
-5\. No electronic devices, mobile phones or toys should be brought to school by students without permission from the teacher, vice-principal and principal. Use of mobile phones are not allowed at all times within
-
-the school premises. If caught, the phone will be confiscated. For repeat offenders, parents will have to collect the mobile phone from the teacher.
+5\. No electronic devices, mobile phones or toys should be brought to school by students without permission from the teacher, vice-principal and principal. Use of mobile phones are not allowed at all times within the school premises. If caught, the phone will be confiscated. For repeat offenders, parents will have to collect the mobile phone from the teacher.
 
   
 
-6\. During school hours, no student is allowed to leave the classroom or school premises without permission from the teacher, vice-principal or principal. Students must be accompanied by their parents or guardians if
-
-they need to leave the school premises before dismissal time.
+6\. During school hours, no student is allowed to leave the classroom or school premises without permission from the teacher, vice-principal or principal. Students must be accompanied by their parents or guardians if they need to leave the school premises before dismissal time.
 
   
 
-7\. A medical certificate or a letter from a parent is required when a student is absent from any school activities including tests and examinations. Students absent from school for medical reasons should stay at home for
-
-the duration indicated in the medical certificate.
+7\. A medical certificate or a letter from a parent is required when a student is absent from any school activities including tests and examinations. Students absent from school for medical reasons should stay at home forthe duration indicated in the medical certificate.
 
   
 
