@@ -4,7 +4,6 @@ permalink: /our-people/our-pride-and-joy
 description: ""
 third_nav_title: Our Pride and Joy
 ---
-
 ![](/images/sub-banner.jpg)
 
 **<font size=6>Our Pride and Joy</font>**
