@@ -47,3 +47,5 @@ the duration indicated in the medical certificate.
 
 <img src="/images/Our%20School/whale.jpg"  
      style="width:40%">
+
+<center>Attire</center>
