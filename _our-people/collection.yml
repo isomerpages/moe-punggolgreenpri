@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers.md
       - Executive Committee.md
       - School Leaders.md
