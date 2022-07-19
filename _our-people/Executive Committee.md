@@ -31,8 +31,7 @@ description: ""
  | HOD ICT |
 | Mr Satiish Sathasilvam | HOD CCE |
 |  Mr Rajendran s/o Nagappan |  HOD Special Projects |
-| Mr Ong Shu Chieh, Jack | HOD Student Management  
- |
+| Mr Ong Shu Chieh, Jack | HOD Student Management  |
 | Mdm Raihana Bte Mohd Nor |  School Staff Developer |
 
 **<font size=5>Year Heads and Assistant Year Heads</font>**
@@ -40,17 +39,11 @@ description: ""
 
 | Name | Designation |
 | --- | --- |
-| Mdm Lee Peiyan  
- | Year Head / Upper Pri  
- |
+| Mdm Lee Peiyan  | Year Head / Upper Pri  |
 |  Mdm Yogeshwari Kannadasan  |  Assistant Year Head / Upper Pri (Int) |
 |  Mr Adrian Yeo | Year Head / Middle Pri  |
-| Mrs Shannon Loh  
- | Assistant Year Head / Middle Pri  
- |
-|  Ms Tan Wei Li  
- | Year Head / Lower Pri (Covering)  
- |
+| Mrs Shannon Loh  | Assistant Year Head / Middle Pri  |
+|  Ms Tan Wei Li  | Year Head / Lower Pri (Covering)  |
 | Mdm Nur Azimah Binte Syed Hussain | Assistant Year Head / Lower Pri (Int) |
 
 **<font size=5>Level Heads and Subject Heads</font>**
