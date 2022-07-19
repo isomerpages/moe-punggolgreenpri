@@ -27,8 +27,7 @@ description: ""
 |  Mdm Loke Ai Guat Audrey | HOD Mathematics  |
 |  Mdm Toh Irene | HOD Mathematics (Covering)  |
 | Mrs Jasmine Lim | HOD Science |
-| Mr Desmond Tay Boon Peng  
- | HOD ICT |
+| Mr Desmond Tay Boon Peng  | HOD ICT |
 | Mr Satiish Sathasilvam | HOD CCE |
 |  Mr Rajendran s/o Nagappan |  HOD Special Projects |
 | Mr Ong Shu Chieh, Jack | HOD Student Management  |
