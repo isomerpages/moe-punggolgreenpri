@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - Social Studies.md
       - Mother Tongue Language.md
