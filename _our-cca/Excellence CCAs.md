@@ -3,13 +3,13 @@ title: Excellence CCAs
 permalink: /our-curriculum/cca/excellence-ccas
 description: ""
 ---
-CCA
-===
+![](/images/sub-banner.jpg)
+
+**<font size=6>CCA</font>**
 
 CCAs are an integral part of our students’ holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
 
-Excellence CCAs
-===============
+**<font size=6>Excellence CCAs</font>**
 
 Excellence CCAs are available to the P3 to P6 students. The various CCAs will conduct recruitment and hold selection and audition trials for the students. Selected students will then be invited to attend the CCA training sessions.
 
