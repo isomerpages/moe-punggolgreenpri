@@ -96,8 +96,8 @@ The key considerations for designing the programmes are:
     *   Read and Share
     
  ![](/images/Our%20Curriculum/MTL%2010.png)
-	 
-          *    Learn It, Use It, Share It
+
+  *    Learn It, Use It, Share It
 
 
  ![](/images/Our%20Curriculum/MTL%2011.png)
