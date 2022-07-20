@@ -18,7 +18,7 @@ Student Leadership in the school starts with the belief that every student must 
 **APPLE Framework**
 ![](/images/Our%20Curriculum/APPLE%20Framework.png)
 
-**Philosophy of the APPLE Programme**
+**<u>Philosophy of the APPLE Programme</u>**
 
 The APPLE programme - Achieving Purpose and Performance in Leadership Excellence, is underpinned by the Leadership Challenge Model by Kouzes & Posner. In designing the APPLE programme, the ‘Five Practices of Exemplary Leadership’ provides a solid foundation as it entails the core leadership competencies with embedded behaviour and actions we want our students to practice in their life. This will enable them to continue to grow and develop themselves as exemplary leaders and make a positive change. 
 
@@ -28,7 +28,7 @@ With the purposefulness of leadership rooted in place and the proficiency in lea
 
   
 
-**Philosophy of the APPLE Programme**
+**<u>Philosophy of the APPLE Programme</u>**
 
 The APPLE programmes consists of three distinct domains: _Leader in Me, Lead to Serve_ and _Changemaker_. The focus and objective of each domain are as follows:  
 
