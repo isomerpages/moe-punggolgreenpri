@@ -7,9 +7,8 @@ description: ""
 
 **<font size=6>Mother Tongue Language</font>**
 
+**<font size=5>Subject Overview</font>**
 
-Subject Overview
-----------------
 
 The purpose of learning MTL at primary school is to equip our students with literacy skills that will enable them to harness opportunities in the future as bilingual individuals. MTL teachers adopt differentiated teaching approaches to cater to the needs of students from different home language backgrounds. To ignite students’ joy of learning MTL, PGPS provides a broad range of MTL learning experiences to help students discover their talents and interests.
 
@@ -24,8 +23,8 @@ For lower primary students and students who need more support in MTL, the learni
 
 ![](/images/Our%20Curriculum/MTL%202.jpg)
 
-Vision, Mission and Approach
-----------------------------
+**<font size=5>Vision, Mission and Approach</font>**
+
 
 In alignment with the school’s direction, the vision of the PGPS MTL Department is to develop PGPS students into confident MTL users who embrace learning with joy and initiative. Our mission is to curate MTL experiences that are relevant, fun and integrated.
 
@@ -56,8 +55,8 @@ In the Mastery Stage (Primary 5 and 6), we enable students to apply MTL with con
 
 ![](/images/Our%20Curriculum/MTL%205.png)
 
-Programmes and Desired Outcomes
--------------------------------
+**<font size=5>Programmes and Desired Outcomes</font>**
+
 
 In the course of their MTL Journey, PGPS students are exposed to a wide variety of MTL programmes and activities that complement what they have learnt in the curriculum, so as to groom them to be i) self-directed learners; ii) confident leaders; iii) innovative collaborators; and iv) caring citizens.
 
@@ -73,8 +72,8 @@ The key considerations for designing the programmes are:
 *   Interdisciplinary – to integrate MTL with other disciplines, so that students see MTL as relevant; and
 *   Partnership – to partner with parents and leverage on community resources to support students’ MTL journey.
 
-2020 Programme Highlights
--------------------------
+**<font size=5>2020 Programme Highlights</font>**
+
 
 *   Self-Directed Learners
 
@@ -112,7 +111,6 @@ The key considerations for designing the programmes are:
 
  ![](/images/Our%20Curriculum/MTL%2013.png)
 
-2021 Programme Highlights
--------------------------
+**<font size=5>2021 Programme Highlights</font>**
 
 Coming Soon
