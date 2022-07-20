@@ -2,6 +2,7 @@ collections:
   excellence-ccas:
     output: true
     order:
+      - Game and Sports/.keep
       - Aesthetics/.keep
       - Clubs/.keep
       - Excellence CCAs.md
