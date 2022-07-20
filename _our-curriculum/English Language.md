@@ -16,21 +16,32 @@ To produce eloquent and confident students with a strong appreciation of the Eng
 To provide a rich curriculum that is enabling, engaging and enriching
 
 
-![](/images/Our%20Curriculum/English%201.png)
 
-![](/images/Our%20Curriculum/English%202.jpg)
+
+<img src="/images/Our%20Curriculum/English%201.png"  
+     style="width:75%">
+
+<img src="/images/Our%20Curriculum/English%202.jpg"  
+     style="width:75%">
+
 
 <center>MLEA for Lower primary students</center>
 
-![](/images/Our%20Curriculum/English%203.jpg)
+<img src="/images/Our%20Curriculum/English%203.jpg"  
+     style="width:75%">
+
 
 <center>Story-telling session conducted by Teachers during EL Fest</center>
 
-![](/images/Our%20Curriculum/English%204.png)
+<img src="/images/Our%20Curriculum/English%204.png"  
+     style="width:75%">
+
 
 <center>Poetry Recitation during EL Fest</center>
 
-![](/images/Our%20Curriculum/English%205.png)
+<img src="/images/Our%20Curriculum/English%205.png"  
+     style="width:75%">
+
 
 <center>Experiential Learning during EL Lessons</center>
 
