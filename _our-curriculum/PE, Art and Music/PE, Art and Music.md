@@ -16,13 +16,18 @@ A caring community of self-directed leaders with an awareness and appreciation o
   
 **<font size=5>Department Mission</font>**<br>
 
-![](/images/Our%20Curriculum/PE%201.png)
+<img src="/images/Our%20Curriculum/PE%201.png"  
+     style="width:75%">
+
 
 **<font size=5>Department Student Outcomes</font>**<br>
 
-![](/images/Our%20Curriculum/PE%202.png)
+<img src="/images/Our%20Curriculum/PE%202.png"  
+     style="width:75%">
+		 
+<img src="/images/Our%20Curriculum/PE%203.png"  
+     style="width:75%">
 
-![](/images/Our%20Curriculum/PE%203.png)
 
 
 **<font size=5><u>Physical Education & CCA at PGPS</u></font>**<br>
