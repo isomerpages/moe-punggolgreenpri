@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Excellence CCAs.md
+      - Clubs/Green Club.md
       - Clubs/.keep
       - Aesthetics/.keep
       - Game and Sports/.keep
