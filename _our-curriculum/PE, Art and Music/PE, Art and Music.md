@@ -25,7 +25,8 @@ A caring community of self-directed leaders with an awareness and appreciation o
 
 ![](/images/Our%20Curriculum/PE%203.png)
 
-Physical Education & CCA at PGPS
+
+**<font size=5><u>Physical Education & CCA at PGPS</u></font>**<br>
 
   
 
@@ -41,9 +42,8 @@ Building upon the PE programme, the sports CCA programme provides opportunities 
 
   
 
-7 Key Learning Areas in Physical Education
 
-  
+**<font size=5><u>7 Key Learning Areas in Physical Education</u></font>**<br>
 
 *   Athletics (From Primary 3) 
     
@@ -60,7 +60,7 @@ Building upon the PE programme, the sports CCA programme provides opportunities 
 *   Swimming (Primary 3)
     
 
-### Primary 1 & 2 lessons focus on the exploration and mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop a strong foundation in movement. This provides the foundation for continual skill acquisition and facilitates future successful participation in physical activity.
+Primary 1 & 2 lessons focus on the exploration and mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop a strong foundation in movement. This provides the foundation for continual skill acquisition and facilitates future successful participation in physical activity.
 
   
 
@@ -68,4 +68,4 @@ Building upon the PE programme, the sports CCA programme provides opportunities 
 
   
 
-### Primary 3 & 4 lessons focus on the acquisition of broad-based skills and concepts (across and within physical activities and sports). Students will explore and learn more complex combinations and sequences of movements, and apply skills in more recognizable forms of sporting activities and games.
+Primary 3 & 4 lessons focus on the acquisition of broad-based skills and concepts (across and within physical activities and sports). Students will explore and learn more complex combinations and sequences of movements, and apply skills in more recognizable forms of sporting activities and games.
