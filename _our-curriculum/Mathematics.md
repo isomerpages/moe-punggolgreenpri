@@ -7,20 +7,19 @@ description: ""
 
 **<font size=6>Mathematics</font>**
 
-Department Vision:
-------------------
+**<font size=5>Department Vision:</font>**
+
 
 Every PGPS student, a self-directed problem solver with a positive learning attitude, grounded in mathematical concepts and skills.
 
-Department Mission:
--------------------
+**<font size=5>Department Mission:</font>**
+
 
 *   To ignite joy of learning Mathematics
 *   To empower learners with strong Mathematical concepts, reasoning and communication skills
 *   To nurture confident problem solvers with effective 21st century competencies
 
-Key Programmes
---------------
+**<font size=5>Key Programmes</font>**
 
 1.  Integrated Math Trails
 2.  Termly Weekly Math Week
