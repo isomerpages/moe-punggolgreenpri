@@ -99,3 +99,48 @@ The Aesthetics department in PGPS aims to nurture expressive and passionate life
   
 
 The PGPS Art curriculum enables every PGPS student to enjoy, appreciate art, develop and communicate visual literacy through creation. Through the integrated domains of See, Express and Appreciate, PGPS students are engaged through art discussions using inquiry approaches which promote a lifelong enjoyment for and an appreciation of artistic works whilst developing visual literacy.
+
+![](/images/Our%20Curriculum/PE%205.png)
+
+**Image: Art lessons in classrooms**  
+
+  
+
+The PGPS Music curriculum empowers every PGPS student with musical knowledge, skills and dispositions to appreciate various music genres. Through musical experiences in the domains of Listening, Creating and Performing, students gain understanding and appreciation of musical elements and concepts within rich musical contexts across genres and traditions of local and global cultures and also develop awareness and ability for creative expression through music performance and music creation.
+
+![](/images/Our%20Curriculum/PE%206.png)
+
+**Image: Music lessons in classrooms**  
+
+  
+
+The Aesthetics department helm various key programmes such as the Arts Fiesta, P4 Museum-Based Learning, PGPS Got Talent P1 and P2 Music Appreciation Day and P3 Music learning journey. These programmes present ample opportunities for creative and innovative self-expression in varied modes. It also contributes to developing a fuller range of our students’ interests and talents.
+
+![](/images/Our%20Curriculum/PE%207.jpg)
+
+**Image: Arts Fiesta celebrations**
+
+
+![](/images/Our%20Curriculum/PE%208.jpg)
+
+**Image: Music busking during Arts Fiesta**
+
+![](/images/Our%20Curriculum/PE%209.jpg)
+
+**Image: PGPS’ Got Talent!**
+
+![](/images/Our%20Curriculum/PE%2010.jpg)
+
+**Image: P1 Instrument Making Competition** 
+
+  
+
+In PGPS, we are committed to create a vibrant culture of the arts in which students not only learn and appreciate but are also given various platforms to shine and showcase their talents. Hence, we believe that the arts is integral to the holistic development of our students and contributes to their development of the 21st Century Competencies that would better prepare them to face future challenges.
+
+**<font size=5><u>Programme for Active Learning (PAL) at PGPS</u></font>**
+
+To encourage learning beyond the classroom, the Primary 1 and 2 students experience Programme for Active Learning (PAL) during curriculum time. PAL lessons are a series of purposefully planned activities to provide the students with broad exposure and experiences in the four domains; Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The activities facilitate the holistic development of the students in the five broad learning areas of physical, cognitive, social, aesthetics and moral. By equipping our students with the social and emotional competencies, it will better prepare every PGPS student to be a future-ready leader with the heart for others.
+
+![](/images/Our%20Curriculum/PE%2011.jpg)
+
+**Image: PAL lessons during curriculum time for P1-2s**
