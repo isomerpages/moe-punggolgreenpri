@@ -1,4 +1,5 @@
 collections:
   excellence-ccas:
     output: true
-    order: []
+    order:
+      - Excellence CCAs.md
