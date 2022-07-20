@@ -60,7 +60,7 @@ Information for Parents
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://punggolgreenpri.moe.edu.sg/qql/slot/u679/2022/CCE/Annex%20A%20-%20Parent%20Opt-Out%20Form.docx). The completed opt-out form is to be submitted by 09/02/2022.  
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](file.go.gov.sg/annex-a-parent-opt-out-form.docx). The completed opt-out form is to be submitted by 09/02/2022.  
   
 10.      Parents can contact the school at admin\_punggolgreen\_ps@moe.edu.sg or Mr Satiish (HOD Character & Citizenship Education) at satiish\_sathasilvam@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.  
   
