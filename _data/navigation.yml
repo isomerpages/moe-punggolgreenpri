@@ -6,12 +6,6 @@ links:
     collection: our-people
   - title: Our Curriculum
     collection: our-curriculum
-  - title: Our HBL
-    collection: our-hbl
-  - title: Our Partners In Education
-    collection: our-partners-in-education
-  - title: Our MOE Kindergarten
-    collection: our-moe-kindergarten
   - title: Our CCA
     url: /our-curriculum/cca/excellence-ccas
     sublinks:
@@ -19,3 +13,9 @@ links:
         url: /our-curriculum/cca/excellence-ccas
       - title: Co-Curricular Programmes
         url: /our-curriculum/cca/co-curricular-programmes
+  - title: Our HBL
+    collection: our-hbl
+  - title: Our Partners In Education
+    collection: our-partners-in-education
+  - title: Our MOE Kindergarten
+    collection: our-moe-kindergarten
