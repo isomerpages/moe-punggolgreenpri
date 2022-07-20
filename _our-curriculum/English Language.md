@@ -39,8 +39,7 @@ To provide a rich curriculum that is enabling, engaging and enriching
 **<font size=5>Department Key Stage Outcomes</font>**
 
 
-**Primary 1 & 2 (Orientation Stage)**
-
+**Primary 1 & 2 (Orientation Stage)**<br>
 **By the end of their lower primary years, students will be able to:**
 
 *   Possess values, dispositions and skills to listen actively and communicate confidently
@@ -49,8 +48,7 @@ To provide a rich curriculum that is enabling, engaging and enriching
 
   
 
-**Primary 3 & 4 (Exploration Stage)**
-
+**Primary 3 & 4 (Exploration Stage)**<br>
 **By the end of their middle primary years, students will be able to:**
 
 *   Listen actively to different perspectives and communicate confidently and effectively while collaborating with others
@@ -59,8 +57,7 @@ To provide a rich curriculum that is enabling, engaging and enriching
 
   
 
-**Primary 5 & 6 (Mastery Stage)**
-
+**Primary 5 & 6 (Mastery Stage)**<br>
 **By the end of their upper primary years, students will be able to:**
 
 *   Communicate confidently, effectively and sensitively while collaborating with others by balancing an appreciation of the Singapore spirit with multi-ethnic and multi-cultural sensitivities
@@ -76,40 +73,28 @@ To achieve the department’s key stage outcomes as well as the PGPS Student Out
 
 **_Enabling Our Students_**
 
-Learning Support Programme (P1 & P2) 
-
-KidsRead Programme (P1 & P2)
-
-Reading Remediation Programme (P3 & P4)
-
+Learning Support Programme (P1 & P2) <br>
+KidsRead Programme (P1 & P2) <br>
+Reading Remediation Programme (P3 & P4)<br>
 School-based Dyslexia Programme (P3 & P4) 
 
   
 
 **_Engaging Our Students_**
 
-STELLAR (Strategies for English Language Learning and Reading) 
-
-Process-Genre Approach to Writing 
-
-School-Wide Reading Programme (SWRP)
-
-Joy of Writing through the Writer’s Notebook
-
+STELLAR (Strategies for English Language Learning and Reading) <br>
+Process-Genre Approach to Writing <br>
+School-Wide Reading Programme (SWRP)<br>
+Joy of Writing through the Writer’s Notebook<br>
 English Language Fest 
 
   
 
 **_Enriching Our Students_**
 
-Interdisciplinary Learning Journeys 
-
-What’s Up Newspaper Publications for our P5 and P6 students  
-
-Theatrical Experience 
-
-Public Speaking & Communication Skills Workshop for selected P3 students 
-
-Introduction to Debates Workshop for selected P5 students
-
+Interdisciplinary Learning Journeys <br>
+What’s Up Newspaper Publications for our P5 and P6 students  <br>
+Theatrical Experience <br>
+Public Speaking & Communication Skills Workshop for selected P3 students <br>
+Introduction to Debates Workshop for selected P5 students<br>
 Debate Workshop for selected P5 students
