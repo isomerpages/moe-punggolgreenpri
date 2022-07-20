@@ -18,7 +18,7 @@ Student Leadership in the school starts with the belief that every student must 
   
 **APPLE Framework**
 <img src="/images/Our%20Curriculum/APPLE%20Framework.png"  
-     style="width:55%">
+     style="width:65%">
 
 
 **<u>Philosophy of the APPLE Programme</u>**
