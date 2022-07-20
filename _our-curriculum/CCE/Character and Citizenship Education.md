@@ -61,8 +61,7 @@ Snapshot of PGPS CCE Programmes
 
   
 
-Form Teacher Guidance Period (FTGP):
-
+<u>Form Teacher Guidance Period (FTGP):</u><br>
 FTGP lessons emphasise on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the Secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
 
   
@@ -71,8 +70,7 @@ Through case scenarios and dialogues, students are encouraged to think through a
 
   
 
-Education & Career Guidance (ECG): Our Aspirations
-
+<u>Education & Career Guidance (ECG): Our Aspirations</u><br>
 It is never too young to have an aspiration on what we want to be when we grow up. You will be surprised by how varied our students’ aspirations could be, from becoming a Master Chef, a YouTuber to a LEGO designer! 
 
   
@@ -81,8 +79,7 @@ ECG@PGPS: For Students, By Students was conceptualised in 2021 where Primary 5 a
 
   
 
-Values-in-Action (VIA)
-
+<u>Values-in-Action (VIA)</u><br>
 Our VIA programmes aim to create meaningful learning experiences to support students’ development as caring and socially responsible citizens who contribute actively to the community, through the learning and application of values, knowledge and skills. 
 
   
@@ -91,13 +88,15 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
   
 
-<center>School-Wide VIA:</center>
+<center><u>School-Wide VIA:</u></center>
 
 ![](/images/Our%20Curriculum/CCE%203.png)
 
-<center>Level-Wide VIA:</center>
+<center><u>Level-Wide VIA:</u></center>
 
 ![](/images/Our%20Curriculum/CCE%204.jpg)
+
+<br>
 
 **National Education (NE)** 
 
