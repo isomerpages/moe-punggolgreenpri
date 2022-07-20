@@ -7,17 +7,13 @@ description: ""
 
 **<font size=6>ICT</font>**
 
-**<font size=5>Department Vision</font>**
-
+**<font size=5>Department Vision</font>**<br>
 Future-ready and Responsible Digital Learner.
 
-**<font size=5>Department Mission</font>**
-
-
+**<font size=5>Department Mission</font>**<br>
 Igniting the joy of learning through technology and nurturing our students to be proficient in digital literacy and grounded in values.
 
-**<font size=5>Overview</font>**
-
+**<font size=5>Overview</font>**<br>
 We adopted a two-tier segmented approach with broad-based programs for all levels and talent-development to stretch students through core-curriculum activities.  
 
   
