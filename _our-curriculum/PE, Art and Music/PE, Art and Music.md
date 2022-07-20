@@ -6,8 +6,7 @@ third_nav_title: PE, Art and Music
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=6>PE, Art and Music
-</font>**
+**<font size=6>PE, Art and Music</font>**
 
 [CCA Microsite](https://for.edu.sg/pgps-cca-microsite)
 
