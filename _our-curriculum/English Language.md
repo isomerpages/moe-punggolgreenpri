@@ -7,7 +7,7 @@ description: ""
 
 **<font size=5>English Language</font>**
 
-It has been said that the English Language can only be understood “**_through tough_**, **_thorough thought_**”. **_Though_** some may hence see the learning of the language as difficult (there are 5 ways just to pronounce ‘**_-ough_**’! Ouch!), we appreciate it as a fun challenge and this is the spirit that we hope to inculcate in our students!
+It has been said that the English Language can only be understood “**_thr<u>ough</u> t<u>ough</u>_**, **_thor<u>ough</u> th<u>ough</u>t_**”. **_Th<u>ough</u>_** some may hence see the learning of the language as difficult (there are 5 ways just to pronounce ‘**_-ough_**’! Ouch!), we appreciate it as a fun challenge and this is the spirit that we hope to inculcate in our students!
 
 **<font size=5>Vision</font>**<br>
 To produce eloquent and confident students with a strong appreciation of the English Language
