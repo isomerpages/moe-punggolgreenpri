@@ -2,6 +2,7 @@ collections:
   our-hbl:
     output: true
     order:
+      - Mother Tongue Classes.md
       - Primary 6.md
       - Primary 5.md
       - Primary 4.md
