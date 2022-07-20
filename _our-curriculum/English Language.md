@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=5>English Language</font>**
+**<font size=6>English Language</font>**
 
 It has been said that the English Language can only be understood “**_thr<u>ough</u> t<u>ough</u>_**, **_thor<u>ough</u> th<u>ough</u>t_**”. **_Th<u>ough</u>_** some may hence see the learning of the language as difficult (there are 5 ways just to pronounce ‘**_-ough_**’! Ouch!), we appreciate it as a fun challenge and this is the spirit that we hope to inculcate in our students!
 
