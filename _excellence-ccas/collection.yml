@@ -2,4 +2,5 @@ collections:
   excellence-ccas:
     output: true
     order:
+      - Clubs/.keep
       - Excellence CCAs.md
