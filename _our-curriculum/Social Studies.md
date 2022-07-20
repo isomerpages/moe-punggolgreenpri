@@ -11,8 +11,7 @@ description: ""
 
 Leaders of Character, Citizens of Compassion
 
-Department Mission
-------------------
+**<font size=5>Department Mission</font>**
 
 Nurture future-ready leaders of exemplary characters who are empowered in making a difference for the society.  
 
@@ -22,19 +21,19 @@ Working hand-in-hand with CCE, the Social Studies curriculum aims to invoke the 
 
   
 
-> *   Orientation Stage (P1 - 2)
+*   <u>Orientation Stage (P1 - 2)</u>
 
 Students at this stage learn to be aware of their own identity and their immediate environment. They explore the different roles that they play and understand how their actions can affect the people and places around them.
 
   
 
-> *   Exploration Stage (P3 - 4)
+*   <u>Exploration Stage (P3 - 4)</u>
 
 As the students progress, they get to know more about Singapore’s past, present and future. They learn to appreciate Singapore’s achievements and explore ways to contribute back to the community to build a better future for Singapore.
 
   
 
-> *   Mastery Stage (P5 - 6)
+*   <u>Mastery Stage (P5 - 6)</u>
 
 Students continue to understand Singapore’s development as a nation through the National Symbols, events and places. They then continue to embark on a journey to understand the interconnectedness of Singapore and the world they live in.
 
