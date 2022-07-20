@@ -17,7 +17,9 @@ Philosophy : We Discipline because we CARE! _Every_ Teacher _Cares_, _Eve
 
 Discipline Approach : Discipline with Dignity, Counsel with Compassion
 
-![](/images/Our%20Curriculum/Student%20Management.png)
+<img src="/images/Our%20Curriculum/Student%20Management.png"  
+     style="width:75%">
+
 
 In Punggol Green Primary School, we practice the culture of mutual respect between the teachers and the students. When we discipline the students, we do not diminish the self-esteem of the students. We focus on correcting the behaviours of the students and not directing our efforts at the students, where their sense of self-worth may be affected. The words and actions we choose must make meaning, always falling back on our School’s values and Students’ Outcomes.
 
