@@ -17,7 +17,9 @@ We are committed to providing opportunities for all students to develop their le
 Student Leadership in the school starts with the belief that every student must first learn to lead self before leading others. We believe every student can be developed as a leader and that leadership development must be structured, customised and intentional. The six-year leadership development that all PGPS students will experience will enable them to develop personal effectiveness and well-being, build positive relationships, live out their values and grow their character. Adopting the spiral approach in the APPLE programme ensures that students are able to better relate to and understand the purpose and meaningfulness of acquiring the skills and competencies and applying them in their daily lives. Through this approach, we strive to enable all students to achieve the school vision of ‘Future-Ready Leaders With The Heart For Others’.  
   
 **APPLE Framework**
-![](/images/Our%20Curriculum/APPLE%20Framework.png)
+<img src="/images/Our%20Curriculum/APPLE%20Framework.png"  
+     style="width:55%">
+
 
 **<u>Philosophy of the APPLE Programme</u>**
 
