@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Excellence CCAs.md
-      - Clubs/Robotics Club.md
-      - Clubs/Journalism Club.md
-      - Clubs/Innovation Club.md
-      - Clubs/Infocomm Club.md
-      - Clubs/Green Club.md
       - Clubs/.keep
+      - Clubs/Green Club.md
+      - Clubs/Infocomm Club.md
+      - Clubs/Innovation Club.md
+      - Clubs/Journalism Club.md
+      - Clubs/Robotics Club.md
       - Aesthetics/.keep
       - Game and Sports/.keep
       - Uniform Groups/.keep
