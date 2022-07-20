@@ -7,12 +7,10 @@ description: ""
 
 **<font size=6>Social Studies</font>**
 
-**<font size=5>Department Vision</font>**
-
+**<font size=5>Department Vision</font>**<br>
 Leaders of Character, Citizens of Compassion
 
-**<font size=5>Department Mission</font>**
-
+**<font size=5>Department Mission</font>**<br>
 Nurture future-ready leaders of exemplary characters who are empowered in making a difference for the society.  
 
   
