@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=5>Mathematics</font>**
+**<font size=6>Mathematics</font>**
 
 Department Vision:
 ------------------
