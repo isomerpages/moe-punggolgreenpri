@@ -8,7 +8,8 @@ third_nav_title: CCE
 
 **<font size=6>Character and Citizenship Education</font>**
 
-![](/images/Our%20Curriculum/CCE%201.png)
+<img src="/images/Our%20Curriculum/CCE%201.png"  
+     style="width:65%">
 
 **<font size=5>Department Vision</font>**<br>
 Leaders of Character, Citizens of Compassion
@@ -46,7 +47,9 @@ Anchored on the school’s core values (STRIVE) , and guided by the MOE’s Fram
   
 **<font size=5>CCE@PGPS Programmes</font>**<br>  
 
-![](/images/Our%20Curriculum/CCE%202.png)
+<img src="/images/Our%20Curriculum/CCE%202.png"  
+     style="width:65%">
+
 
 **<font size=5>Snapshot of PGPS CCE Programmes</font>**<br>  
 
@@ -82,11 +85,16 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 <center><u>School-Wide VIA:</u></center>
 
-![](/images/Our%20Curriculum/CCE%203.png)
+<img src="/images/Our%20Curriculum/CCE%203.png"  
+     style="width:65%">
+
 
 <center><u>Level-Wide VIA:</u></center>
 
-![](/images/Our%20Curriculum/CCE%204.jpg)
+<img src="/images/Our%20Curriculum/CCE%204.jpg"  
+     style="width:65%">
+
+
 
 <br>
 
@@ -94,4 +102,5 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities and develop them to be concerned and active citizens through customised lessons and programmes.
 
-![](/images/Our%20Curriculum/CCE%205.png)
+<img src="/images/Our%20Curriculum/CCE%205.png"  
+     style="width:65%">
