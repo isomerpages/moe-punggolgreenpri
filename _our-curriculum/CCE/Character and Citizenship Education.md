@@ -10,20 +10,14 @@ third_nav_title: CCE
 
 ![](/images/Our%20Curriculum/CCE%201.png)
 
-Department Vision
------------------
-
+**<font size=5>Department Vision</font>**<br>
 Leaders of Character, Citizens of Compassion
 
-Department Mission
-------------------
-
+**<font size=5>Department Mission</font>**<br>
 Nurture future-ready leaders of exemplary characters who are empowered in making a difference for the society.
 
-Overview of CCE@PGPS
---------------------
 
-  
+**<font size=5>Overview of CCE@PGPS</font>**<br>  
 
 CCE@PGPS is aligned to the school’s vision of ‘Future-Ready Leaders With The Heart For Others’ by providing a total curriculum that develops students holistically. The design of CCE@PGPS takes into consideration the interests, needs and abilities of our students by customising the various programmes that cater to their developmental needs.
 
@@ -50,14 +44,12 @@ Anchored on the school’s core values (STRIVE) , and guided by the MOE’s Fram
   
 
   
-
-CCE@PGPS Programmes
--------------------
+**<font size=5>CCE@PGPS Programmes</font>**<br>  
 
 ![](/images/Our%20Curriculum/CCE%202.png)
 
-Snapshot of PGPS CCE Programmes
--------------------------------
+**<font size=5>Snapshot of PGPS CCE Programmes</font>**<br>  
+
 
   
 
@@ -98,7 +90,7 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 <br>
 
-**National Education (NE)** 
+**<u>National Education (NE)</u>** 
 
 As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities and develop them to be concerned and active citizens through customised lessons and programmes.
 
