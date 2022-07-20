@@ -24,7 +24,6 @@ Our lower primary students learn the basic ICT baseline skills including familia
   
 
 <u>Exploration stage (Primary 3s and 4s)</u><br>
-
 Our middle primary students learn enhanced ICT applications such as MS Publisher, Google Classroom and Coding through integration of subjects to develop their critical thinking skills.
 
   
