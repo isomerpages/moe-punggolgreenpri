@@ -2,5 +2,6 @@ collections:
   excellence-ccas:
     output: true
     order:
+      - Aesthetics/.keep
       - Clubs/.keep
       - Excellence CCAs.md
