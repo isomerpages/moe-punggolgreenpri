@@ -36,4 +36,5 @@ Our upper primary students learn block-based coding through IMDA Code-For-Fun (C
 <u>Talent Development</u><br>
 We identified and stretched our P3s to P6s students through our Core-Curriculum Activities (CCAs) Robotics and Infocomm Club to develop students’ potential in exposing them to presentations and competitions.
 
-![](/images/Our%20Curriculum/ICT.jpg)
+<img src="/images/Our%20Curriculum/ICT.jpg"  
+     style="width:75%">
