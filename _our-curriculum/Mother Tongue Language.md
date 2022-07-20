@@ -7,10 +7,14 @@ description: ""
 
 **<font size=6>Mother Tongue Language</font>**
 
+
 Subject Overview
 ----------------
 
 The purpose of learning MTL at primary school is to equip our students with literacy skills that will enable them to harness opportunities in the future as bilingual individuals. MTL teachers adopt differentiated teaching approaches to cater to the needs of students from different home language backgrounds. To ignite students’ joy of learning MTL, PGPS provides a broad range of MTL learning experiences to help students discover their talents and interests.
+
+<img src="/images/principal.jpg"  
+     style="width:75%">
 
 ![](/images/Our%20Curriculum/MTL%201.jpg)
 
