@@ -36,8 +36,11 @@ To ignite the joy and enthuse the students in the learning of Mathematics, we in
 
 Each student is unique in his/her learning capabilities. In ensuring that no child is left out in the learning of Mathematics, we have a series of programmes catered to suit the learning needs of the different groups of students. The Learning Support Programmes (LSM and ICAN) aim to provide more focused help to support the identified students to strengthen their foundation in the early years. To further stretch the students’ potentials, we have Excellence 2000 (E2K) Math in place which allows our students to explore Mathematical concepts in greater depth.
 
-![](/images/Our%20Curriculum/Math%201.jpg)
+<img src="/images/Our%20Curriculum/Math%201.jpg"  
+     style="width:65%">
 
-![](/images/Our%20Curriculum/Math%202.jpg)
-
-![](/images/Our%20Curriculum/Math%203.jpg)
+<img src="/images/Our%20Curriculum/Math%202.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Our%20Curriculum/Math%203.jpg"  
+     style="width:65%">
