@@ -69,3 +69,33 @@ Primary 1 & 2 lessons focus on the exploration and mastery of fundamental motor 
   
 
 Primary 3 & 4 lessons focus on the acquisition of broad-based skills and concepts (across and within physical activities and sports). Students will explore and learn more complex combinations and sequences of movements, and apply skills in more recognizable forms of sporting activities and games.
+
+![](/images/Our%20Curriculum/PE%204.jpg)
+
+**Image: Games Carnival**  
+
+  
+
+Primary 5 & 6 lessons focus on the development of physical-activity and/or sport-specific skills and tactics for sustained involvement based on interest and competencies. Moreover, students will develop games-related concepts for application through modified games under the following categories:
+
+  
+
+*   Target Games
+    
+*   Net-barrier Games
+    
+*   Striking-fielding Games
+    
+*   Territorial-invasion Games
+    
+
+  
+
+**<font size=5><u>Aesthetics (Art and Music) at PGPS</u></font>**<br>
+  
+
+The Aesthetics department in PGPS aims to nurture expressive and passionate life-long practitioners of the arts. 
+
+  
+
+The PGPS Art curriculum enables every PGPS student to enjoy, appreciate art, develop and communicate visual literacy through creation. Through the integrated domains of See, Express and Appreciate, PGPS students are engaged through art discussions using inquiry approaches which promote a lifelong enjoyment for and an appreciation of artistic works whilst developing visual literacy.
