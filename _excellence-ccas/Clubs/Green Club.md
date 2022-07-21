@@ -41,8 +41,8 @@ Our 3 environmental champions!
 <br>
 
 ------
-Making Compost
---------------
+
+**<font size=5>Making Compost</font>**
 
 We involved our school canteen vendors in our effort to reduce food waste too. Green Club members collected uncooked food scraps such as vegetables parts and egg shells from the vendors and these were composted together with garden soil. The compost will be used to fertilise the edible garden and vegetable planters in the school. Through this activity, the members learn about waste minimisation and how to maximise resources.
 
@@ -53,8 +53,8 @@ We involved our school canteen vendors in our effort to reduce food waste too. G
 
 -----------
 
-Candle Making Workshop cum Parent-Child Bonding Session
-=======================================================
+**<font size=5>Candle Making Workshop cum Parent-Child Bonding Session</font>**
+
 
 Parents and students learnt how to reuse commonly thrown away products such as mini glass jars, which can be converted into candle holders.
 
@@ -72,9 +72,8 @@ Our students beaming for the camera after a morning well spent.
 
 -----------
 
+**<font size=5>Eco-School Workshop</font>**
 
-Eco-School Workshop
-===================
 
 ![](/images/Our%20CCA/Green%20Club%209.jpg)
 
@@ -82,9 +81,7 @@ Eco-School Workshop
 
 -----
 
-
-Earth Week
-==========
+**<font size=5>Earth Week</font>**
 
 Green Club pupils bring the message of a sustainable and waste-free living to life. They constructed games from recycled materials. In this 3-day carnival of fun and games, our Green Ambassadors, were at the various game stations to explain to the pupils and teachers how the games were made and how to play the games.
 
@@ -100,8 +97,7 @@ It was very popular among the students. Look at the crowd!
 
 -------
 
-Other Activities
-================
+**<font size=5>Other Activities</font>**
 
 Our home can be a fantastic trove of recyclable materials for artworks! Our students learned the art of recycling through various activities using used materials from home.
 
