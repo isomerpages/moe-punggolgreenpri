@@ -12,7 +12,7 @@ Innovation is an important skill that will better prepare our students to thrive
 
   
 
-**Platforms and Opportunities for Our Prospective Members**
+**<u>Platforms and Opportunities for Our Prospective Members</u>**
 
 \-    Sony Creative Toys Competition
 
@@ -24,7 +24,7 @@ Innovation is an important skill that will better prepare our students to thrive
 
   
 
-**Structure of Weekly Activities**
+**<u>Structure of Weekly Activities</u>**
 
 \-    Idea generation through various creative thinking models.
 
