@@ -36,7 +36,7 @@ Green Club members also participate in competitions such as “Waste to Craft”
 <img src="/images/Our%20CCA/Green%20Club%208.jpg"  
      style="width:35%">
 
-Our 3 environmental champions!
+<center>Our 3 environmental champions!</center>
 
 <br>
 
