@@ -27,13 +27,12 @@ The Green Club also seeks to develop advocates who can lead Environmental Educat
 
 As a means of raising Environmental Awareness and constant student engagement, the Club conducts activities all year round.
 
-Competitions
-------------
+**<font size=5>Competitions</font>**
 
 Green Club members also participate in competitions such as “Waste to Craft” to understand the environmental global challenges and how they can encourage environmental sustainability through innovative use of waste materials to create useful craftwork.
 
-Environment Champions
-=====================
+**<font size=5>Environment Champions</font>**
+
 
 ![](/images/Our%20CCA/Green%20Club%208.jpg)
 
