@@ -78,8 +78,9 @@ Our students beaming for the camera after a morning well spent.
 
 **<font size=5>Eco-School Workshop</font>**
 
+<img src="/images/Our%20CCA/Green%20Club%209.jpg"  
+     style="width:75%">
 
-![](/images/Our%20CCA/Green%20Club%209.jpg)
 
 <br>
 
@@ -91,7 +92,9 @@ Green Club pupils bring the message of a sustainable and waste-free living to li
 
 ![](/images/Our%20CCA/Green%20Club%2010.png)
 
-![](/images/Our%20CCA/Green%20Club%2011.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2011.jpg"  
+     style="width:65%">
+
 
 It was very popular among the students. Look at the crowd!
 
