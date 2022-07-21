@@ -29,7 +29,16 @@ Competitions
 
 Green Club members also participate in competitions such as “Waste to Craft” to understand the environmental global challenges and how they can encourage environmental sustainability through innovative use of waste materials to create useful craftwork.
 
+Environment Champions
+=====================
 
+![](/images/Our%20CCA/Green%20Club%208.jpg)
+
+Our 3 environmental champions!
+
+<br>
+
+------
 Making Compost
 --------------
 
@@ -61,16 +70,6 @@ Our students beaming for the camera after a morning well spent.
 
 -----------
 
-Environment Champions
-=====================
-
-![](/images/Our%20CCA/Green%20Club%208.jpg)
-
-Our 3 environmental champions!
-
-<br>
-
-------
 
 Eco-School Workshop
 ===================
