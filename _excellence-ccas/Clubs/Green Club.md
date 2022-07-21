@@ -151,6 +151,3 @@ Check out our harvest! We packed them and distributed them to the club members.
 The Green Club students acted in a skit to promote and reinforce environmental messages to the whole school.
 
 ![](/images/Our%20CCA/Green%20Club%2019.jpg)
-
-
-
