@@ -8,9 +8,12 @@ third_nav_title: Clubs
 
 **<font size=6>Green Club</font>**
 
-![](/images/Our%20CCA/Green%20Club%201.png)
+<img src="/images/Our%20CCA/Green%20Club%201.png"  
+     style="width:45%"
+		 align = "left">
 
-![](/images/Our%20CCA/Green%20Club%202.png)
+<img src="/images/Our%20CCA/Green%20Club%202.png"  
+     style="width:25%">
 
 The “Green Club” in Punggol Green Primary School does not only make our students cognizant of environmental issues: we go beyond and into the heart of our motivation behind each of our every action from an environmental standpoint.
 
