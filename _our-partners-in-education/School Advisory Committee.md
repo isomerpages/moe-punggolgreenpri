@@ -7,8 +7,11 @@ description: ""
 
 **<font size=6>School Advisory Committee</font>**
 
-![](/images/Our%20Partners%20in%20Education/Advisory%20Committee%201.png)
+<img src="/images/Our%20Partners%20in%20Education/Advisory%20Committee%201.png"  
+     style="width:75%">
 
-![](/images/Our%20Partners%20in%20Education/Advisory%20Committee%202.png)
+<img src="/images/Our%20Partners%20in%20Education/Advisory%20Committee%202.png"  
+     style="width:75%">
 
-![](/images/Our%20Partners%20in%20Education/Advisory%20Committee%203.png)
+<img src="/images/Our%20Partners%20in%20Education/Advisory%20Committee%203.png"  
+     style="width:75%">
