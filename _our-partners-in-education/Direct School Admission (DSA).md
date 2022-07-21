@@ -24,6 +24,6 @@ Students successfully allocated to their DSA-Sec schools will NOT be allowed to 
 
 P6 students and parents are advised to: 
 
-1.  Visit the MOE DSA website from May 2022 for information on the 2022 DSA-Sec application process and timeline (https://www.moe.gov.sg/secondary/dsa). 
+1.  Visit the MOE DSA website from May 2022 for information on the 2022 DSA-Sec application process and timeline ([https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)). 
 2.  Visit secondary schools’ websites from May 2022 for information on their DSA talent areas, selection timeline and criteria. 
 3.  Look out for the press release regarding the commencement of the DSA-Sec application in May 2022.
