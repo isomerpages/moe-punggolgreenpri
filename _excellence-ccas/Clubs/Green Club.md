@@ -48,6 +48,9 @@ We involved our school canteen vendors in our effort to reduce food waste too. G
   
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">DAY</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">TIME OF PRACTICE</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">VENUE</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">TEACHER-IN-CHARGE</span><br><span style="color:#666;background-color:#DDD">(*OIC)</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Monday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2.20 pm - 4.20 pm</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Science Lab 1</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Ms Mabel Heng<br>Ms Sherry Leow</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Thursday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2.20 pm - 4.20 pm</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Science Lab 1</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">*Ms Eugenia Ong<br>Mdm Thong Wei Wei<br>Mr Bala Chandran</td></tr></tbody></table>
 
+<br>
+------
+
 Candle Making Workshop cum Parent-Child Bonding Session
 =======================================================
 
@@ -62,3 +65,56 @@ All workshop participants got to bring home their hand-made candles and a specia
 ![](/images/Our%20CCA/Green%20Club%207.jpg)
 
 Our students beaming for the camera after a morning well spent.
+
+<br>
+
+-----------
+
+Environment Champions
+=====================
+
+![](/images/Our%20CCA/Green%20Club%208.jpg)
+
+Our 3 environmental champions!
+
+<br>
+
+------
+
+Eco-School Workshop
+===================
+
+![](/images/Our%20CCA/Green%20Club%209.jpg)
+
+<br>
+
+-----
+
+
+Earth Week
+==========
+
+Green Club pupils bring the message of a sustainable and waste-free living to life. They constructed games from recycled materials. In this 3-day carnival of fun and games, our Green Ambassadors, were at the various game stations to explain to the pupils and teachers how the games were made and how to play the games.
+
+![](/images/Our%20CCA/Green%20Club%2010.png)
+
+![](/images/Our%20CCA/Green%20Club%2011.jpg)
+
+It was very popular among the students. Look at the crowd!
+
+![](/images/Our%20CCA/Green%20Club%2012.jpg)
+
+<br>
+
+-------
+
+Other Activities
+================
+
+Our home can be a fantastic trove of recyclable materials for artworks! Our students learned the art of recycling through various activities using used materials from home.
+
+  
+
+Students created their version of “Box TV” from recyclable materials such as empty tissue box and toilet rolls to present their reflection at the end of the year.
+
+![](/images/Our%20CCA/Green%20Club%2013.jpg)
