@@ -98,7 +98,8 @@ Green Club pupils bring the message of a sustainable and waste-free living to li
 
 It was very popular among the students. Look at the crowd!
 
-![](/images/Our%20CCA/Green%20Club%2012.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2012.jpg"  
+     style="width:75%">
 
 <br>
 
