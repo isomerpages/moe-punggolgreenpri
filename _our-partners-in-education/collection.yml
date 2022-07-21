@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - Newsletter Semester 2 (2021).md
       - Homework Policy.md
       - Parent Resource Kit on Student Vaccination.md
       - P6 Parents Briefing Webinar 2022.md
