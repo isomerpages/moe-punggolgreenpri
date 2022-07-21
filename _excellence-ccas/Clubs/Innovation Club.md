@@ -12,8 +12,7 @@ Innovation is an important skill that will better prepare our students to thrive
 
   
 
-**<u>Platforms and Opportunities for Our Prospective Members</u>**
-
+**<u>Platforms and Opportunities for Our Prospective Members</u>**<br>
 \-    Sony Creative Toys Competition<br>
 \-    Science Buskers Festivals<br>
 \-    Toy-making Workshops<br>
@@ -21,8 +20,7 @@ Innovation is an important skill that will better prepare our students to thrive
 
   
 
-**<u>Structure of Weekly Activities</u>**
-
+**<u>Structure of Weekly Activities</u>**<br>
 \-    Idea generation through various creative thinking models.<br>
 \-    Working on ideas and prototypes.<br>
 \-    Preparation for school-based events and national-based competitions.
