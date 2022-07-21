@@ -113,7 +113,9 @@ Our home can be a fantastic trove of recyclable materials for artworks! Our stud
 
 Students created their version of “Box TV” from recyclable materials such as empty tissue box and toilet rolls to present their reflection at the end of the year.
 
-![](/images/Our%20CCA/Green%20Club%2013.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2013.jpg"  
+     style="width:55%">
+
 
 Click on the [link](https://punggolgreenpri.moe.edu.sg/qql/slot/u679/2021/Our%20Curriculum/CCA/Excellence%20CCAs/Clubs/Green%20Club/Other%20Activities/VID-20151204-WA0004.mp4) to view a video of how the “Box TV” works.  
 **<font size=5>VIDEO NEEDS TO BE UPLOADED TO YOUTUBE</font>**
@@ -121,16 +123,20 @@ Click on the [link](https://punggolgreenpri.moe.edu.sg/qql/slot/u679/2021/Our%2
 
 **Making toys: Balloon powered cars**
 
-![](/images/Our%20CCA/Green%20Club%2014.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2014.jpg"  
+     style="width:55%">
+
 
 **Planting of Lady Finger Plants**
 
-![](/images/Our%20CCA/Green%20Club%2015.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2015.jpg"  
+     style="width:55%">
 
 
 Look how tall the plants grew!
 
-![](/images/Our%20CCA/Green%20Club%2016.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2016.jpg"  
+     style="width:55%">
 
 Check out our harvest! We packed them and distributed them to the club members.
 
@@ -138,20 +144,27 @@ Check out our harvest! We packed them and distributed them to the club members.
 
 **SG50 Tree planting in Punggol Promenade**
 
-![](/images/Our%20CCA/Green%20Club%2017.png)
+<img src="/images/Our%20CCA/Green%20Club%2017.png"  
+     style="width:75%">
 
-![](/images/Our%20CCA/Green%20Club%2018.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2018.jpg"  
+     style="width:65%">
+
 
 **Assembly skit to Reinforce Environmental Messages**
 
 The Green Club students acted in a skit to promote and reinforce environmental messages to the whole school.
 
-![](/images/Our%20CCA/Green%20Club%2019.jpg)
+<img src="/images/Our%20CCA/Green%20Club%2019.jpg"  
+     style="width:75%">
 
 Making self-watering can from recycled bottles and planting.
 
-![](/images/Our%20CCA/Green%20Club%203.png)
+<img src="/images/Our%20CCA/Green%20Club%203.png"  
+     style="width:75%">
+
 
 Making bookmarks using dried flowers (Flower Press)
 
-![](/images/Our%20CCA/Green%20Club%204.png)
+<img src="/images/Our%20CCA/Green%20Club%204.png"  
+     style="width:75%">
