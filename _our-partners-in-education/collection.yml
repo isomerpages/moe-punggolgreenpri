@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - Parent Teacher Meeting 2022.md
       - Direct School Admission (DSA).md
       - Waitlist Form.md
       - Financial Assistance.md
