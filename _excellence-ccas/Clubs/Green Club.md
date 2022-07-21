@@ -117,7 +117,7 @@ Our home can be a fantastic trove of recyclable materials for artworks! Our stud
 Students created their version of “Box TV” from recyclable materials such as empty tissue box and toilet rolls to present their reflection at the end of the year.
 
 <img src="/images/Our%20CCA/Green%20Club%2013.jpg"  
-     style="width:55%">
+     style="width:50%">
 
 <center>
 
@@ -129,7 +129,7 @@ Click on the [link](https://punggolgreenpri.moe.edu.sg/qql/slot/u679/2021/Our%2
 **Making toys: Balloon powered cars**
 
 <img src="/images/Our%20CCA/Green%20Club%2014.jpg"  
-     style="width:55%">
+     style="width:50%">
 
 
 **Planting of Lady Finger Plants**
@@ -141,7 +141,7 @@ Click on the [link](https://punggolgreenpri.moe.edu.sg/qql/slot/u679/2021/Our%2
 Look how tall the plants grew!
 
 <img src="/images/Our%20CCA/Green%20Club%2016.jpg"  
-     style="width:55%">
+     style="width:50%">
 
 Check out our harvest! We packed them and distributed them to the club members.
 
@@ -153,7 +153,7 @@ Check out our harvest! We packed them and distributed them to the club members.
      style="width:75%">
 
 <img src="/images/Our%20CCA/Green%20Club%2018.jpg"  
-     style="width:65%">
+     style="width:55%">
 
 
 **Assembly skit to Reinforce Environmental Messages**
