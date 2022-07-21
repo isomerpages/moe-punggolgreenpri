@@ -58,7 +58,9 @@ We involved our school canteen vendors in our effort to reduce food waste too. G
 
 Parents and students learnt how to reuse commonly thrown away products such as mini glass jars, which can be converted into candle holders.
 
-![](/images/Our%20CCA/Green%20Club%205.png)
+<img src="/images/Our%20CCA/Green%20Club%205.png"  
+     style="width:85%">
+
 
 <img src="/images/Our%20CCA/Green%20Club%206.jpg"  
      style="width:35%">
