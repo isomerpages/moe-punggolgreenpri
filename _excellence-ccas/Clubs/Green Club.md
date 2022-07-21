@@ -61,7 +61,7 @@ Parents and students learnt how to reuse commonly thrown away products such as m
 ![](/images/Our%20CCA/Green%20Club%205.png)
 
 <img src="/images/Our%20CCA/Green%20Club%206.jpg"  
-     style="width:55%">
+     style="width:35%">
 
 
 All workshop participants got to bring home their hand-made candles and a special flower pot cake made by our very own Green Club teacher, Ms Eugenia Ong.
