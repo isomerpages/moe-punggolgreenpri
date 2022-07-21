@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - Annual Awards 2021.md
       - Book List 2022.md
       - Newsletter Semester 2 (2021).md
       - Homework Policy.md
