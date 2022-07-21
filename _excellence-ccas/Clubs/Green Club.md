@@ -153,7 +153,7 @@ Check out our harvest! We packed them and distributed them to the club members.
      style="width:75%">
 
 <img src="/images/Our%20CCA/Green%20Club%2018.jpg"  
-     style="width:55%">
+     style="width:50%">
 
 
 **Assembly skit to Reinforce Environmental Messages**
@@ -166,10 +166,10 @@ The Green Club students acted in a skit to promote and reinforce environmental m
 Making self-watering can from recycled bottles and planting.
 
 <img src="/images/Our%20CCA/Green%20Club%203.png"  
-     style="width:75%">
+     style="width:65%">
 
 
 Making bookmarks using dried flowers (Flower Press)
 
 <img src="/images/Our%20CCA/Green%20Club%204.png"  
-     style="width:75%">
+     style="width:65%">
