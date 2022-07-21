@@ -163,13 +163,13 @@ The Green Club students acted in a skit to promote and reinforce environmental m
 <img src="/images/Our%20CCA/Green%20Club%2019.jpg"  
      style="width:75%">
 
-Making self-watering can from recycled bottles and planting.
+**Making self-watering can from recycled bottles and planting.**
 
 <img src="/images/Our%20CCA/Green%20Club%203.png"  
      style="width:65%">
 
 
-Making bookmarks using dried flowers (Flower Press)
+**Making bookmarks using dried flowers (Flower Press)**
 
 <img src="/images/Our%20CCA/Green%20Club%204.png"  
      style="width:65%">
