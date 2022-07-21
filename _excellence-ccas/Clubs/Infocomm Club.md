@@ -32,7 +32,7 @@ The Objectives of the Infocomm Clubs Programme are to:
 
 **Year 2017**
 
-1) [National PhotoFest 2017](https://edgefieldpri.moe.edu.sg/distinctive-programmes/photography/national-photography-festival-for-primary-schools), Group Special Mention Award
+1) [National PhotoFest 2017](https://edgefieldpri.moe.edu.sg/distinctive-programmes/photography/national-photography-festival-for-primary-schools), Group Special Mention Award **(BROKEN LINK)**
 
   
 
@@ -40,4 +40,4 @@ The Objectives of the Infocomm Clubs Programme are to:
 
 1) National Primary Games Creation Competition - [2nd Runner-Up](http://npgcc.org/wordpress/wp-content/uploads/2014/08/MOTD-Champion_2-.jpg) (Scratch Category)
 
-2) Voice Up! Challenge - 2nd Runner-Up (Primary Category) '[A Good Deed Deserves a Like](https://innovajc.moe.edu.sg/current-students/co-curriculum/digital-literacies-programme/youthchange-3-0/voice-up/voice-up-challenge-2016-results-announcement)'
+2) Voice Up! Challenge - 2nd Runner-Up (Primary Category) '[A Good Deed Deserves a Like](https://innovajc.moe.edu.sg/current-students/co-curriculum/digital-literacies-programme/youthchange-3-0/voice-up/voice-up-challenge-2016-results-announcement)' **(BROKEN LINK)**
