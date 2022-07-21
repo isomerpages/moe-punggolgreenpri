@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - P6 Parents Briefing Webinar 2022.md
       - P5 Parents DSA Webinar 2022.md
       - P4 Parents Briefing Webinar 2022.md
       - Parent Teacher Meeting 2022.md
