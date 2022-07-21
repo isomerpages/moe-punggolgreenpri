@@ -29,16 +29,6 @@ Competitions
 
 Green Club members also participate in competitions such as “Waste to Craft” to understand the environmental global challenges and how they can encourage environmental sustainability through innovative use of waste materials to create useful craftwork.
 
-Other activities
-----------------
-
-Making self-watering can from recycled bottles and planting.
-
-![](/images/Our%20CCA/Green%20Club%203.png)
-
-Making bookmarks using dried flowers (Flower Press)
-
-![](/images/Our%20CCA/Green%20Club%204.png)
 
 Making Compost
 --------------
@@ -152,3 +142,11 @@ Check out our harvest! We packed them and distributed them to the club members.
 The Green Club students acted in a skit to promote and reinforce environmental messages to the whole school.
 
 ![](/images/Our%20CCA/Green%20Club%2019.jpg)
+
+Making self-watering can from recycled bottles and planting.
+
+![](/images/Our%20CCA/Green%20Club%203.png)
+
+Making bookmarks using dried flowers (Flower Press)
+
+![](/images/Our%20CCA/Green%20Club%204.png)
