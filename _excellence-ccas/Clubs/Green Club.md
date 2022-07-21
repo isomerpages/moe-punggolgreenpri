@@ -83,6 +83,7 @@ Our students beaming for the camera after a morning well spent.
 <img src="/images/Our%20CCA/Green%20Club%209.jpg"  
      style="width:75%">
 
+<center>Group Photo at Eco-School Workshop</center>
 
 <br>
 
