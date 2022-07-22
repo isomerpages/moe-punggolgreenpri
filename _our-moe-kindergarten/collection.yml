@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - K1 Orientation 2022/PM Session.md
       - K1 Orientation 2022/AM Session.md
       - K1 Orientation 2022/K1 Orientation 2022.md
       - K1 Orientation 2022/.keep
