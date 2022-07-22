@@ -10,12 +10,20 @@ third_nav_title: MK Curriculum
 
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%201.png)
 
+------
+
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%202.png)
+
+------
 
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%203.png)
 
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%204.png)
 
+-----
+
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%205.png)
+
+-----
 
 ![](/images/Our%20MOE%20Kindergarten/MK%20Centre%20LVL%20Prog%206.png)
