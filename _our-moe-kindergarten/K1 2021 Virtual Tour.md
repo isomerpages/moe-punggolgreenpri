@@ -7,3 +7,4 @@ description: ""
 
 **<font size=6>K1 2021 Virtual Tour</font>**
 
+[MOE Kindergarten Virtual Tour](https://www.thinglink.com/video/1369835508363952129)
