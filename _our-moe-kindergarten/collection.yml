@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - K2 Celebrates! 2021/EL Videos.md
       - K2 Celebrates! 2021/K2 Celebrates! 2021.md
       - K2 Celebrates! 2021/.keep
       - K2 LIFE @MK.md
