@@ -7,4 +7,4 @@ description: ""
 
 **<font size=6>MK Open House 2021</font>**
 
-[MK_Uniforms.pdf](/files/Our%20MOE%20Kindergarten/MK_Uniforms.pdf)
+[MKPG_Openhouse 2021_Briefing Slides_compressed.pdf](/files/Our%20MOE%20Kindergarten/MKPG_Openhouse%202021_Briefing%20Slides_compressed.pdf)
