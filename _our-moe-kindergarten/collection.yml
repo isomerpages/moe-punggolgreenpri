@@ -2,25 +2,25 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - MK Uniform Matters.md
-      - Mother Tongue Languages Symposium 2021.md
-      - K2 Celebrates! 2021/MTL Videos.md
-      - K2 Celebrates! 2021/EL Videos.md
-      - K2 Celebrates! 2021/K2 Celebrates! 2021.md
-      - K2 Celebrates! 2021/.keep
-      - K2 LIFE @MK.md
-      - K1 LIFE @MK 2022.md
-      - K1 2021 Virtual Tour.md
-      - MK Open House 2021.md
-      - K1 Orientation 2022/.keep
-      - K1 Orientation 2022/K1 Orientation 2022.md
-      - K1 Orientation 2022/AM Session.md
-      - K1 Orientation 2022/PM Session.md
-      - Parents' Briefing.md
+      - MK 2023 Virtual Open House and Online Registration.md
+      - MK Forms.md
+      - Staff.md
       - MK Curriculum/.keep
       - MK Curriculum/MK Curriculum.md
       - MK Curriculum/MK Centre Level Programmes.md
       - MK Curriculum/Partnerships.md
-      - Staff.md
-      - MK Forms.md
-      - MK 2023 Virtual Open House and Online Registration.md
+      - Parents' Briefing.md
+      - K1 Orientation 2022/.keep
+      - K1 Orientation 2022/K1 Orientation 2022.md
+      - K1 Orientation 2022/AM Session.md
+      - K1 Orientation 2022/PM Session.md
+      - MK Open House 2021.md
+      - K1 2021 Virtual Tour.md
+      - K1 LIFE @MK 2022.md
+      - K2 LIFE @MK.md
+      - K2 Celebrates! 2021/.keep
+      - K2 Celebrates! 2021/MTL Videos.md
+      - K2 Celebrates! 2021/EL Videos.md
+      - K2 Celebrates! 2021/K2 Celebrates! 2021.md
+      - Mother Tongue Languages Symposium 2021.md
+      - MK Uniform Matters.md
