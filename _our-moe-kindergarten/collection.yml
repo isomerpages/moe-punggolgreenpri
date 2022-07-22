@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MK Curriculum/.keep
-      - MK Curriculum.md
       - Staff.md
       - MK Forms.md
       - MK 2023 Virtual Open House and Online Registration.md
