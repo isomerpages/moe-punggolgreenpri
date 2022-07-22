@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - Parents' Briefing.md
       - MK Curriculum/.keep
       - MK Curriculum/MK Curriculum.md
       - MK Curriculum/MK Centre Level Programmes.md
