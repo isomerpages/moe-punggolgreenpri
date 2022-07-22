@@ -20,7 +20,10 @@ Sign up today at [www.moe.gov.sg/mk](http://www.moe.gov.sg/mk)
 
 #moekindergarten #ontoastrongstart
 
-![](/images/Our%20MOE%20Kindergarten/2020%20MK%20OH%20FB%20IG.png)
+
+<img src="/images/Our%20MOE%20Kindergarten/2020%20MK%20OH%20FB%20IG.png"  
+     style="width:75%">
+
 
 <br>
 
