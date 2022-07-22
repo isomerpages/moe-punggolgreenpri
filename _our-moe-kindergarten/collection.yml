@@ -2,10 +2,10 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - MK Curriculum/Partnerships.md
-      - MK Curriculum/MK Centre Level Programmes.md
-      - MK Curriculum/MK Curriculum.md
       - MK Curriculum/.keep
+      - MK Curriculum/MK Curriculum.md
+      - MK Curriculum/MK Centre Level Programmes.md
+      - MK Curriculum/Partnerships.md
       - Staff.md
       - MK Forms.md
       - MK 2023 Virtual Open House and Online Registration.md
