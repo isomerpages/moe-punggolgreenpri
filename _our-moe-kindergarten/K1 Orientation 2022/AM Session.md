@@ -10,8 +10,6 @@ third_nav_title: K1 Orientation 2022
 
 [One time onboarding to Parents Gateway.pdf](/files/Our%20MOE%20Kindergarten/One%20time%20onboarding%20to%20Parents%20Gateway.pdf)
 
-<br>
-
 ------
 
 
