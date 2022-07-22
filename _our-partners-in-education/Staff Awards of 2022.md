@@ -24,7 +24,7 @@ _Closing date of nomination: 30 April 2022_
 The Most Inspiring Tamil Teacher Award (MITT) is an annual award which seeks to recognise Tamil language teachers who have made significant contributions to the teaching and learning of Tamil language in schools.  Tamil Murasu ™ with the partnership of the Tamil Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil Teachers’ Union (STTU) is organizing the event this year.
 
 Click [MITT_Nomination form in TL_ 2022.pdf](/files/Partners%20in%20Education/MITT_Nomination%20form%20in%20TL_%202022.pdf) for nomination form (pdf) in Tamil<br>
-Click [MITT_Nomination form in TL_ 2022.pdf](/files/Partners%20in%20Education/MITT_Nomination%20form%20in%20EL_%202022.pdf) for nomination form (pdf) in English
+Click [MITT_Nomination form in EL_ 2022.pdf](/files/Partners%20in%20Education/MITT_Nomination%20form%20in%20EL_%202022.pdf) for nomination form (pdf) in English
 
 _Nomination period: 7 February-29 April 2022_
 
