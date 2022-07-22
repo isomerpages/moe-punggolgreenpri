@@ -1,4 +1,5 @@
 collections:
   our-moe-kindergarten:
     output: true
-    order: []
+    order:
+      - MK 2023 Virtual Open House and Online Registration.md
