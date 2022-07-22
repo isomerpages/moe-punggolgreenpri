@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - K1 Orientation 2022/.keep
-      - K1 Orientation 2022.md
       - Parents' Briefing.md
       - MK Curriculum/.keep
       - MK Curriculum/MK Curriculum.md
