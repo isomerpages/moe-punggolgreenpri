@@ -16,4 +16,7 @@ sections:
         - title: P5 Parents DSA Webinar 2022
           description: ""
           url: https://moe-punggolgreenpri-staging.netlify.app/our-partners-in-education/p5-parents-dsa-webinar-2022
+        - title: e-Open House 2022
+          description: ""
+          url: https://youtu.be/JzIBV-QtjC8
 ---
