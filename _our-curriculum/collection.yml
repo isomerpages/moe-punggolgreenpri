@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/Journalism Club.md
       - CCA/Innovation Club.md
       - CCA/Infocomm Club.md
       - CCA/Green Club.md
