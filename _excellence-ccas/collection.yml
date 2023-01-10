@@ -2,6 +2,5 @@ collections:
   excellence-ccas:
     output: true
     order:
-      - Game and Sports/.keep
       - Uniform Groups/Cubs (Scouts).md
       - Uniform Groups/.keep
