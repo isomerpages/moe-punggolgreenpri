@@ -2,7 +2,6 @@ collections:
   excellence-ccas:
     output: true
     order:
-      - Excellence CCAs.md
       - Clubs/.keep
       - Clubs/Green Club.md
       - Clubs/Infocomm Club.md
