@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities/Co Curricular Programmes.md
-      - Co Curricular Activities/Excellence CCAs.md
-      - Co Curricular Activities/.keep
+      - Co Curricular Programme/Co Curricular Programmes.md
+      - Co Curricular Programme/Excellence CCAs.md
+      - Co Curricular Programme/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
