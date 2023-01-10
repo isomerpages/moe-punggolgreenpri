@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/Green Club.md
       - CCA/Co Curricular Programmes.md
       - CCA/Excellence CCAs.md
       - CCA/.keep
