@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - E2K Science.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -19,8 +18,8 @@ collections:
       - Student Management.md
       - Applied Learning Programme (STEM).md
       - Learning for Life Programme (Student Leadership).md
-      - CCA/CCAs.md
       - CCA/.keep
+      - CCA/CCAs.md
       - CCA/Co Curricular Programmes.md
       - CCA/Excellence CCAs.md
       - CCA/Green Club.md
@@ -38,3 +37,4 @@ collections:
       - CCA/Innovation Club.md
       - CCA/Infocomm Club.md
       - CCA/Cubs (Scouts).md
+      - E2K Science.md
