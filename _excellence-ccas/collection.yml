@@ -2,7 +2,6 @@ collections:
   excellence-ccas:
     output: true
     order:
-      - Aesthetics/.keep
       - Game and Sports/.keep
       - Game and Sports/Badminton.md
       - Game and Sports/Basketball.md
