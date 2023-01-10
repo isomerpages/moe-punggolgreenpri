@@ -1,0 +1,23 @@
+---
+title: Excellence CCAs
+permalink: /our-curriculum/cca/excellence-ccas/
+description: ""
+third_nav_title: CCA
+---
+
+
+
+
+![](/images/sub-banner.jpg)
+
+**<font size=6>CCA</font>**
+
+CCAs are an integral part of our students’ holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
+
+**<font size=6>Excellence CCAs</font>**
+
+Excellence CCAs are available to the P3 to P6 students. The various CCAs will conduct recruitment and hold selection and audition trials for the students. Selected students will then be invited to attend the CCA training sessions.
+
+  
+
+<table width="100%;" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170);"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Clubs</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Aesthetics</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Green Club<br style="margin: 0px; outline: 0px; padding: 0px;">Robotics Club<br style="margin: 0px; outline: 0px; padding: 0px;">InfoComm Club<br style="margin: 0px; outline: 0px; padding: 0px;">Innovation Club<br style="margin: 0px; outline: 0px; padding: 0px;">Journalism Club<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Art Club<br style="margin: 0px; outline: 0px; padding: 0px;">Drama<br style="margin: 0px; outline: 0px; padding: 0px;">Dancetopia<br style="margin: 0px; outline: 0px; padding: 0px;">Strings Ensemble<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Games and Sports</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Uniform Groups</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Wushu<br style="margin: 0px; outline: 0px; padding: 0px;">Basketball<br style="margin: 0px; outline: 0px; padding: 0px;">Badminton<br style="margin: 0px; outline: 0px; padding: 0px;">Table Tennis<br style="margin: 0px; outline: 0px; padding: 0px;">Softball<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Cubs (Scouts)</td></tr></tbody></table>
