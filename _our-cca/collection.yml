@@ -1,5 +1,4 @@
 collections:
   our-cca:
     output: true
-    order:
-      - Co Curricular Programmes.md
+    order: []
