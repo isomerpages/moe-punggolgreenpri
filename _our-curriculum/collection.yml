@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Excellence CCAs.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -20,3 +19,4 @@ collections:
       - Applied Learning Programme (STEM).md
       - Learning for Life Programme (Student Leadership).md
       - Co Curricular Programmes.md
+      - Excellence CCAs.md
