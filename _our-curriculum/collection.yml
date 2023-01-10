@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/Basketball.md
       - CCA/Badminton.md
       - CCA/String Ensemble.md
       - CCA/Dancetopia.md
