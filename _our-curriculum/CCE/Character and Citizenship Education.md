@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-curriculum/character-and-citizenship-education
+permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
@@ -100,7 +100,6 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 **<u>National Education (NE)</u>** 
 
-As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities and develop them to be concerned and active citizens through customised lessons and programmes.
+As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens.
+![](/images/CCE%20Update.jpg)
 
-<img src="/images/Our%20Curriculum/CCE%205.png"  
-     style="width:65%">
