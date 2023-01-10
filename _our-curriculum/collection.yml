@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/Softball.md
       - CCA/Wushu.md
       - CCA/Table Tennis.md
       - CCA/Basketball.md
