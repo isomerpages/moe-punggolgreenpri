@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Game and Sports/.keep
-      - Game and Sports/Softball.md
       - Uniform Groups/Cubs (Scouts).md
       - Uniform Groups/.keep
