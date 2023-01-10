@@ -3,10 +3,9 @@ title: Co Curricular Programmes
 permalink: /our-curriculum/cca/co-curricular-programmes/
 description: ""
 ---
-
 ![](/images/sub-banner.jpg)
 
-**<font size=6>Co-Curricular Programmes</font>**
+**<font size=6>CCA</font>**
 
 **<font size=5>Ukulele (P3)</font>**
 
