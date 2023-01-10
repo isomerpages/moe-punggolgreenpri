@@ -7,16 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Punggol Green Primary
       background: /images/Punggol Green Homepage GIF.gif
       key_highlights:
-        - title: Parent-Teacher Meeting 2022
+        - title: P1 Orientation 2023
           description: ""
-          url: https://moe-punggolgreenpri-staging.netlify.app/our-partners-in-education/parent-teacher-meeting-2022
-        - title: P5 Parents DSA Webinar 2022
-          description: ""
-          url: https://moe-punggolgreenpri-staging.netlify.app/our-partners-in-education/p5-parents-dsa-webinar-2022
-        - title: e-Open House 2022
-          description: ""
-          url: https://youtu.be/JzIBV-QtjC8
+          url: https://moe-punggolgreenpri-staging.netlify.app/P1Orientation2023/
+      subtitle: Future-Ready Leaders With The Heart For Others
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
