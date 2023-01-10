@@ -15,7 +15,7 @@ Punggol Green Primary School (PGPS) started her maiden E2K Science journey in 20
 	<tr>
 		<td>
 			
- ![](/images/E2K_01.jpg)
+![](/images/E2K_01.jpg)
 		</td>
 		<td>
  ![](/images/E2K_02.jpg)
