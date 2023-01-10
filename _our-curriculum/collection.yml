@@ -2,6 +2,23 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Language.md
+      - Social Studies.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education.md
+      - ICT.md
+      - PE, Art and Music/.keep
+      - PE, Art and Music/PE, Art and Music.md
+      - PE, Art and Music/Swimsafer 2.md
+      - PE, Art and Music/Art Competitions.md
+      - Student Management.md
+      - Applied Learning Programme (STEM).md
+      - Learning for Life Programme (Student Leadership).md
+      - CCA/.keep
       - CCA/Cubs (Scouts).md
       - CCA/Softball.md
       - CCA/Wushu.md
@@ -19,20 +36,3 @@ collections:
       - CCA/Green Club.md
       - CCA/Co Curricular Programmes.md
       - CCA/Excellence CCAs.md
-      - CCA/.keep
-      - English Language.md
-      - Mathematics.md
-      - Science.md
-      - Mother Tongue Language.md
-      - Social Studies.md
-      - CCE/.keep
-      - CCE/Character and Citizenship Education.md
-      - CCE/MOE Sexuality Education.md
-      - ICT.md
-      - PE, Art and Music/.keep
-      - PE, Art and Music/PE, Art and Music.md
-      - PE, Art and Music/Swimsafer 2.md
-      - PE, Art and Music/Art Competitions.md
-      - Student Management.md
-      - Applied Learning Programme (STEM).md
-      - Learning for Life Programme (Student Leadership).md
