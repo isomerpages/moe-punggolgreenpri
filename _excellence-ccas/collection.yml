@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs/.keep
-      - Clubs/Journalism Club.md
       - Clubs/Robotics Club.md
       - Aesthetics/.keep
       - Aesthetics/Art Club.md
