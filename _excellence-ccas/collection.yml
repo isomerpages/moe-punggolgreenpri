@@ -2,7 +2,6 @@ collections:
   excellence-ccas:
     output: true
     order:
-      - Clubs/.keep
       - Aesthetics/.keep
       - Aesthetics/Art Club.md
       - Aesthetics/Drama.md
