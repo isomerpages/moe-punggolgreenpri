@@ -50,4 +50,3 @@ This year, we had a bumper crop of students from our E2K Science programme takin
  ![](/images/Our%20Curriculum/E2K%20Photo/E2K_09.jpg)
 	<br>
  ![](/images/Our%20Curriculum/E2K%20Photo/E2K_10.jpg)
-	
