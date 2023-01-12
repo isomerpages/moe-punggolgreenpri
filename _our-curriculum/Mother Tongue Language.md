@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language
-permalink: /our-curriculum/mother-tongue-language
+permalink: /our-curriculum/mother-tongue-language/
 description: ""
 ---
 ![](/images/sub-banner.jpg)
@@ -72,7 +72,7 @@ The key considerations for designing the programmes are:
 *   Interdisciplinary – to integrate MTL with other disciplines, so that students see MTL as relevant; and
 *   Partnership – to partner with parents and leverage on community resources to support students’ MTL journey.
 
-**<font size=5>2020 Programme Highlights</font>**
+**<font size=5>Programme Highlights</font>**
 
 
 *   Self-Directed Learners
@@ -111,6 +111,3 @@ The key considerations for designing the programmes are:
 
  ![](/images/Our%20Curriculum/MTL%2013.png)
 
-**<font size=5>2021 Programme Highlights</font>**
-
-Coming Soon
