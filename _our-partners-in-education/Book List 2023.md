@@ -40,8 +40,8 @@ description: ""
 ---
 
 **Primary 5 Higher Mother Tongue**<br>
-[Booklist 2022 Punggol Green P5 Higher MT_Booklist.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P5%20Higher%20MT_Booklist.pdf)<br>
-[Booklist 2022 Punggol Green P5 Higher MT_Stationery.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P5%20Higher%20MT_Stationery.pdf)
+[Booklist 2023 Punggol Green P5_Booklist (HMT)](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P5_Booklist%20(HMT).pdf)
+
 
 ---
 
