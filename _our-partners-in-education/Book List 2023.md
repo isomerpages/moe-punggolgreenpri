@@ -52,8 +52,7 @@ description: ""
 ---
 
 **Primary 6 Foundation**<br>
-[Booklist 2022 Punggol Green P6 Foundation_Booklist.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P6%20Foundation_Booklist.pdf)<br>
-[Booklist 2022 Punggol Green P6 Foundation_Stationery.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P6%20Foundation_Stationery.pdf)
+[Booklist 2023 Punggol Green P6_Booklist (Foundation)](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P6_Booklist%20(FOUNDATION).pdf)
 
 ---
 
