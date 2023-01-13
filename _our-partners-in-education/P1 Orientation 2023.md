@@ -6,6 +6,8 @@ description: ""
 ![](/images/sub-banner.jpg)
 
 **<font size=6>P1 Orientation 2023</font>**
+![P1 Orientation 2023](/images/P1%20Orientation%20AY2023.png)
+
 
 
 
