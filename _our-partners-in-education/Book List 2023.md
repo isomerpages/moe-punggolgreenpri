@@ -3,14 +3,13 @@ title: Book List 2023
 permalink: /our-partners-in-education/book-list-2023/
 description: ""
 ---
-
 ![](/images/sub-banner.jpg)
 
-**<font size=6>Book List 2022</font>**
+**<font size=6>Book List 2023</font>**
 
 **Primary 1**<br>
-[Booklist 2022 Punggol Green P1_Booklist.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P1_Booklist.pdf)<br>
-[Booklist 2022 Punggol Green P1_Stationery.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P1_Stationery.pdf)
+[Booklist 2023 Punggol Green P1_Booklist](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P1_Booklist.pdf)
+
 
 ---
 
