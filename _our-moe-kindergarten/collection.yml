@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - LIFE@MK/.keep
-      - LIFE@MK.md
       - MK 2023 Virtual Open House and Online Registration.md
       - MK Forms.md
       - Staff.md
