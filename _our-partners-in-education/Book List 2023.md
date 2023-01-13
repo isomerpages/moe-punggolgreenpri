@@ -22,8 +22,8 @@ description: ""
 **Primary 3**<br>
 [Booklist 2023 Punggol Green P3_Booklist ](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P3_Booklist%20(STANDARD).pdf)
 <br>
+[Booklist 2023 Punggol Green P3_Booklist (HMT)](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P3_Booklist%20(HMT).pdf)
 
-[Booklist 2022 Punggol Green P3_Stationery.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P3_Stationery.pdf)
 
 ---
 
