@@ -46,8 +46,8 @@ description: ""
 ---
 
 **Primary 5 Standard**<br>
-[Booklist 2022 Punggol Green P5 Standard_Booklist.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P5%20Standard_Booklist.pdf)<br>
-[Booklist 2022 Punggol Green P5 Standard_Stationery.pdf](/files/Partners%20in%20Education/Booklist%202022%20Punggol%20Green%20P5%20Standard_Stationery.pdf)
+[Booklist 2023 Punggol Green P5_Booklist (Standard)](/files/Partners%20in%20Education/Booklist%202023%20Punggol%20Green%20P5_Booklist%20(STANDARD).pdf)
+
 
 ---
 
