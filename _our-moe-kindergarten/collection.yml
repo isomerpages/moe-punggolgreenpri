@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - LIFE@MK/LIFE@MK.md
       - LIFE@MK/.keep
       - MK 2023 Virtual Open House and Online Registration.md
       - MK Forms.md
