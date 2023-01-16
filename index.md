@@ -14,7 +14,7 @@ sections:
           url: https://moe-punggolgreenpri-staging.netlify.app/P1Orientation2023/
         - title: P1 AY2023 Briefing for Parents
           description: Key Highlight description
-          url: ""
+          url: https://punggolgreenpri.moe.edu.sg/p1AY2023briefing/
       subtitle: Future-Ready Leaders With The Heart For Others
   - infobar:
       title: Infobar Title
