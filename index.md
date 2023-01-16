@@ -16,9 +16,4 @@ sections:
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
       subtitle: Future-Ready Leaders With The Heart For Others
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
