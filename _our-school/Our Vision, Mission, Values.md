@@ -7,22 +7,21 @@ description: ""
 
 
 **<font size=3>School Vision</font>**<br>
-Future-Ready Leaders With The Heart For Others
+<font size=2>Future-Ready Leaders With The Heart For Others</font>
 
 **<font size=3>School Desired Outcomes</font>**
 
 ![](/images/Our%20School/vision%20mission%20values%201.png)
 
 **<font size=3>School Mission</font>**<br>
-To engage, nurture and empower learners by igniting the joy of learning
+<font size=2>To engage, nurture and empower learners by igniting the joy of learning</font>
 
 **<font size=3>School Philosophy</font>**<br>
-Every child can succeed
+<font size=2>Every child can succeed</font>
 
 **<font size=3>School Motto</font>**<br>
-Be the best that we can be
+<font size=2>Be the best that we can be</font>
 
-  
 **<font size=3>School Core Values: S.T.R.I.V.E.</font>**<br>
 <img src="/images/Our%20School/vision%20mission%20values%202.png"  
      style="width:65%">
