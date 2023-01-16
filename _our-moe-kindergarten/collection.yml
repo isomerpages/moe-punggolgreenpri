@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - Staff/.keep
       - MK Forms/.keep
       - MK 2023 Open House/.keep
       - LIFE@MK/LIFE@MK.md
