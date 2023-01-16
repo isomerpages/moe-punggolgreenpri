@@ -2,19 +2,19 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - Parents' Briefing/.keep
-      - Staff/.keep
-      - MK Forms/.keep
-      - MK 2023 Open House/.keep
-      - LIFE@MK/LIFE@MK.md
       - LIFE@MK/.keep
-      - MK 2023 Virtual Open House and Online Registration.md
-      - MK Forms.md
-      - Staff.md
+      - LIFE@MK/LIFE@MK.md
+      - MK 2023 Open House/.keep
+      - MK Forms/.keep
+      - Staff/.keep
       - MK Curriculum/.keep
       - MK Curriculum/MK Curriculum.md
       - MK Curriculum/MK Centre Level Programmes.md
       - MK Curriculum/Partnerships.md
+      - Parents' Briefing/.keep
+      - MK 2023 Virtual Open House and Online Registration.md
+      - MK Forms.md
+      - Staff.md
       - Parents' Briefing.md
       - K1 Orientation 2022/.keep
       - K1 Orientation 2022/K1 Orientation 2022.md
