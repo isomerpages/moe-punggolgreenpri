@@ -5,8 +5,7 @@ description: ""
 ---
 **<font size=3>Background</font>**
 
-<td style="background-color:#FFF;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Punggol Green Primary School is a newly built school that serves the Punggol West community in 2013. It is located at 98 Punggol Walk, next to Punggol Sapphire and Punggol Ripples. The school is built under the new norms to support the Primary Education Review & Implementation (PERI) Committee’s recommendations to enhance primary school education.</td><br><br>
-
+<td style="background-color:#FFF;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Punggol Green Primary School is a newly built school that serves the Punggol West community in 2013. It is located at 98 Punggol Walk, next to Punggol Sapphire and Punggol Ripples. The school is built under the new norms to support the Primary Education Review & Implementation (PERI) Committee’s recommendations to enhance primary school education.</td>
 <td style="background-color:#FFF;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Punggol Green Primary School began its operations in 2013 under the leadership of Mrs. Seah Lay Tin, former principal of Ang Mo Kio Primary School. In 2019, Mr Hanafi B Asmore, former Principal of Punggol Primary School, took over Mrs Seah to become the second Principal of Punggol Green Primary School. As an educator, Mr Hanafi firmly believes that every child can learn and excel and has interests and talents. He also takes a broader definition of success. With this strong belief, he is committed to maximising the potential of each and every pupil.</td>
 
 **<font size=5>Basic Information</font>**
