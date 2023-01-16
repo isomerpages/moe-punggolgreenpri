@@ -3,8 +3,7 @@ title: Our Vision, Mission, Values
 permalink: /our-school/our-vision-mission-values/
 description: ""
 ---
-**<font size=3>Our Vision, Mission, Values</font>**
-
+**<font size=4>Our Vision, Mission, Values</font>**
 
 **<font size=3>School Vision</font>**<br>
 <font size=2>Future-Ready Leaders With The Heart For Others</font>
