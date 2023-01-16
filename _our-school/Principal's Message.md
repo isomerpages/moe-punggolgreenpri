@@ -3,8 +3,6 @@ title: Principal's Message
 permalink: /our-school/principal-s-message/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
 **<font size=5>Principal's Message</font>**
 
 <img src="/images/Our%20School/Mr%20Hanafi%20B%20Asmore.jpg"  
