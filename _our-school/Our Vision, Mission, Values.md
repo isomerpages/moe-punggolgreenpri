@@ -5,7 +5,7 @@ description: ""
 ---
 **Our Vision, Mission, Values**
 
-**<font size=3>School Vision</font>**<br>
+**<font size=3>School Vision</font>**
 <font size=2>Future-Ready Leaders With The Heart For Others</font>
 
 **<font size=3>School Desired Outcomes</font>**
