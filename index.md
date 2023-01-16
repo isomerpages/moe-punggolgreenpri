@@ -11,9 +11,9 @@ sections:
       key_highlights:
         - title: P1 Orientation 2023
           description: Off to a Great Start!
-          url: https://moe-punggolgreenpri-staging.netlify.app/P1Orientation2023/
+          url: /P1Orientation2023/
         - title: P1 AY2023 Briefing for Parents
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
-      subtitle: Future-Ready Leaders With The Heart For Others
+      title: Future-Ready Leaders With The Heart For Others
 ---
