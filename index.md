@@ -14,7 +14,7 @@ sections:
           url: https://moe-punggolgreenpri-staging.netlify.app/P1Orientation2023/
         - title: P1 AY2023 Briefing for Parents
           description: Ready, Steady, Go!
-          url: https://punggolgreenpri.moe.edu.sg/p1AY2023briefing/
+          url: https://moe-punggolgreenpri-staging.netlify.app/p1AY2023briefing/
       subtitle: Future-Ready Leaders With The Heart For Others
   - infobar:
       title: Infobar Title
