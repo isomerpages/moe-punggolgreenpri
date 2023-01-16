@@ -10,10 +10,10 @@ sections:
       background: /images/Punggol Green Homepage GIF.gif
       key_highlights:
         - title: P1 Orientation 2023
-          description: ""
+          description: Off to a Great Start!
           url: https://moe-punggolgreenpri-staging.netlify.app/P1Orientation2023/
         - title: P1 AY2023 Briefing for Parents
-          description: Key Highlight description
+          description: Ready, Steady, Go!
           url: https://punggolgreenpri.moe.edu.sg/p1AY2023briefing/
       subtitle: Future-Ready Leaders With The Heart For Others
   - infobar:
