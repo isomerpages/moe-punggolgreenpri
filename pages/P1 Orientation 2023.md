@@ -5,4 +5,4 @@ description: ""
 ---
 # P1 Orientation 2023
 ![](/images/Our%20Partners%20in%20Education/P1%20Orientation%20AY2023.png)
-[](/files/P1%20Orientation%20AY2023%20Slides_updated17%20Nov.pdf)
+[P1 Orientation AY2023](/files/P1%20Orientation%20AY2023%20Slides_updated17%20Nov.pdf)
