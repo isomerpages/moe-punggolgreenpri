@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=1>Principal's Message**
+**<font size=2>Principal's Message**
 
 <img src="/images/Our%20School/Mr%20Hanafi%20B%20Asmore.jpg"  
      style="width:40%">
