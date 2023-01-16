@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /our-school/school-rules
+permalink: /our-school/school-rules/
 description: ""
 ---
 ![](/images/sub-banner.jpg)
@@ -37,8 +37,3 @@ Students who are not Singapore Citizens must stand at attention.
   
 
 8\. All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-
-<img src="/images/Our%20School/whale.jpg"  
-     style="width:40%">
-
-<center>Attire</center>
