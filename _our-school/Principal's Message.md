@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=4>Principal's Message</font>**
+**<font size=1>Principal's Message**
 
 <img src="/images/Our%20School/Mr%20Hanafi%20B%20Asmore.jpg"  
      style="width:40%">
 
-<font size=2>Welcome to Punggol Green Primary School!
+Welcome to Punggol Green Primary School!
 
 Punggol Green Primary School (PGPS) is a choice school in the neighbourhood. At PGPS, we aspire our students to be future-ready leaders with the heart for others. Essentially, we hope that every student in our school will be able to lead himself/herself to success. To achieve this, we have a team of caring and dedicated staff who will engage the learners by igniting the joy of learning through their daily lessons and offering interesting programmes. To make the most out of the rich experiences we provide, we promote a growth mindset in our students and instil in them the attitude of giving of their best in everything that they do.
 
