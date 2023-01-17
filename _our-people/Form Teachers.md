@@ -5,8 +5,8 @@ description: ""
 ---
 <font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></font>
 
-<table style="border-collapse:collapse;border-spacing:0; width: 770px">
-	<colgroup><col style="width: 160px"><col style="width: 305px"><col style="width: 305px"></colgroup>
+<table style="border-collapse:collapse;border-spacing:0; width: 780px">
+	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
 	<tr>
 		<th style="border-color:black;border-style:solid;border-width:1px; padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="border-color:black;border-style:solid;border-width:1px; padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
