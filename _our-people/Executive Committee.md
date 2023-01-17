@@ -26,7 +26,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 </tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></font>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></p>
 
 <table>
 <tr>
@@ -67,10 +67,9 @@ description: ""
 </tr>
 <tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td>
-	</tr></table>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td></tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></font>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></p>
 
 <table>
 <th>
@@ -88,7 +87,7 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Wei Li</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td></tr></table>
 
-<font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></font>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></p>
 
 <table>
 <tr>
