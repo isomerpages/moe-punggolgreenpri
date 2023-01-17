@@ -4,7 +4,7 @@ permalink: /our-school/principal-s-message/
 description: ""
 ---
 <style>
-	p {line-height: 0.9;}
+	p {line-height: 0.8; font size: 14px;}
 	</style>
 	
 <img src="/images/Our%20School/Mr%20Hanafi%20B%20Asmore.jpg"  
@@ -20,4 +20,4 @@ description: ""
 
 <p>Mr Hanafi B Asmore</p>
 <p>Principal</p>
-Punggol Green Primary School
+<p> Punggol Green Primary School</p>
