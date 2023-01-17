@@ -1,13 +1,11 @@
 ---
 title: School Core Values STRIVE
-permalink: /our-school/school-core-values-strive
+permalink: /our-school/school-core-values-strive/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
 **<font size=6>School Core Values STRIVE</font>**
 
-![](/images/Our%20School/School%20Core%20Values%201.jpg)
+<img src="/images/Our%20School/School%20Core%20Values%201.jpg" style="width:80%">
 
 ![](/images/Our%20School/School%20Core%20Values%202.jpg)
 
