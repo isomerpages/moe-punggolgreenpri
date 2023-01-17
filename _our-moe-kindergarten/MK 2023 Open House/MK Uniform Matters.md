@@ -7,4 +7,5 @@ third_nav_title: MK 2023 Open House
 ![](/images/sub-banner.jpg)
 
 **<font size=6>MK Uniform Matters</font>**
+[MK_Uniforms.pdf]
 [](/files/MK%20Uniform%20Matters.pdf)
