@@ -18,6 +18,5 @@ description: ""
 
 <li style="line-height:1.2; font-size:16px; font-family:Arial; text-align:justify;">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
 <img src="/images/Our%20School/Student%20Attire%201%20updated.jpg">
-	
-![Students' Exemplary Attire 2](/images/Our%20School/Student%20Attire%202%20updated.jpg)
-![Students' Exemplary Attire 3](/images/Our%20School/Student%20Attire%203.jpg)
+	<img src="/images/Our%20School/Student%20Attire%202%20updated.jpg">
+<img src="/images/Our%20School/Student%20Attire%203.jpg">
