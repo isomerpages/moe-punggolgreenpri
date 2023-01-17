@@ -39,12 +39,24 @@ description: ""
 </tr>
 <tr>
 	<td>Mrs Hema Kumari Welkers</td>
-	<td>HOD English<td>
+	<td>HOD English</td>
 </tr>
-| Ms Wong Wai Yu Stella | HOD Mother Tongue |
-| Mr Rajendran s/o Nagappan | HOD Mathematics  |
-| Mrs Jasmine Lim | HOD Science |
-| Mr Desmond Tay Boon Peng  | HOD ICT |
+<tr>
+	<td>Ms Wong Wai Yu Stella</td>
+	<td>HOD Mother Tongue</td>
+</tr>
+<tr>
+	<td>Mr Rajendran s/o Nagappan</td>
+	<td>HOD Mathematics</td>
+</tr>
+<tr>
+	<td>Mrs Jasmine Lim</td>
+	<td>HOD Science</td>
+</tr>
+<tr>
+	<td>Mr Desmond Tay Boon Peng</td>
+	<td>HOD ICT</td>
+</tr>
 | Mr Satiish Sathasilvam | HOD CCE |
 | Mr Ong Shu Chieh, Jack | HOD Student Management  |
 | Mr Ng Yeow Huei | HOD PAM & CCA |
