@@ -34,32 +34,41 @@ description: ""
 	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
 </tr>
 <tr>
-	<td>Mdm Raihana Bte Mohd Nor</td>
-	<td>School Staff Developer</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Raihana Bte Mohd Nor</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">School Staff Developer</td>
 </tr>
 <tr>
-	<td>Mrs Hema Kumari Welkers</td>
-	<td>HOD English</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Hema Kumari Welkers</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD English</td>
 </tr>
 <tr>
-	<td>Ms Wong Wai Yu Stella</td>
-	<td>HOD Mother Tongue</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Wong Wai Yu Stella</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue</td>
 </tr>
 <tr>
-	<td>Mr Rajendran s/o Nagappan</td>
-	<td>HOD Mathematics</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Rajendran s/o Nagappan</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mathematics</td>
 </tr>
 <tr>
-	<td>Mrs Jasmine Lim</td>
-	<td>HOD Science</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Jasmine Lim</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Science</td>
 </tr>
 <tr>
-	<td>Mr Desmond Tay Boon Peng</td>
-	<td>HOD ICT</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Desmond Tay Boon Peng</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD ICT</td>
 </tr>
-| Mr Satiish Sathasilvam | HOD CCE |
-| Mr Ong Shu Chieh, Jack | HOD Student Management  |
-| Mr Ng Yeow Huei | HOD PAM & CCA |
+<tr>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Satiish Sathasilvam</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD CCE</td>
+</tr>
+<tr>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ong Shu Chieh, Jack</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Student Management</td>
+</tr>
+<tr>
+	<td>Mr Ng Yeow Huei</td>
+	<td>HOD PAM & CCA</td>
+	</tr></table>
 
 <b>Year Heads and Assistant Year Heads</b>
 
