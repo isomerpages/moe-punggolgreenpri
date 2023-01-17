@@ -66,8 +66,8 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Student Management</td>
 </tr>
 <tr>
-	<td>Mr Ng Yeow Huei</td>
-	<td>HOD PAM & CCA</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td>
 	</tr></table>
 
 <b>Year Heads and Assistant Year Heads</b>
