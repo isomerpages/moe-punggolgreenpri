@@ -1,20 +1,13 @@
 ---
 title: School Leaders
-permalink: /our-people/school-leaders
+permalink: /our-people/school-leaders/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>School Leaders</font>**
-
-**Mr Hanafi B Asmore**<br>
-**Principal**<br>
-Mr Hanafi Asmore started his teaching career at East View Primary School in 1994 where he was a teacher, Level Head/Maths and then HOD/Pupil Development before pursuing his master’s degree at the University of Sydney. Upon his return, he was posted to Guangyang Primary School as a Vice-Principal. Prior to heading PGPS in 2020, he was the Principal of Punggol Primary School. As an educator, he firmly believes that every child can learn and excel and has interests and talents. He also takes a broader definition of success. With this strong belief, he is committed to maximising the potential of each and every pupil.
-
-  
-
-**Mrs Betty See**<br>
-**Vice-Principal**<br>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Mr Hanafi B Asmore</b><br>
+	<b>Principal</b><br>
+Mr Hanafi Asmore started his teaching career at East View Primary School in 1994 where he was a teacher, Level Head/Maths and then HOD/Pupil Development before pursuing his master’s degree at the University of Sydney. Upon his return, he was posted to Guangyang Primary School as a Vice-Principal. Prior to heading PGPS in 2020, he was the Principal of Punggol Primary School. As an educator, he firmly believes that every child can learn and excel and has interests and talents. He also takes a broader definition of success. With this strong belief, he is committed to maximising the potential of each and every pupil.<br><br>
+	<b>Mrs Betty See</b><br>
+	<b>Vice-Principal</b><br>
 Mrs Betty See has had the privilege of working in Infrastructure Development in both the private and public sector. She joined MOE as a VP (Administrative) armed with the experience from her field of work. She believes strongly in providing a conducive and nurturing environment for the holistic development of the children in Punggol Green Primary. She is excited to enhance the school’s practices in the area of environmental education and sustainability. She is positive that with the dedicated and passionate teachers, helpful and service-oriented executive and administrative staff, Punggol Green Primary will be a joyful, fun and nurturing environment to grow our future-ready leaders.
 
   
