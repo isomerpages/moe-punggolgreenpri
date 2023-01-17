@@ -130,7 +130,7 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH/Data Management</td>
 </tr></table>
 
-<b>Senior Teacher Council</b>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
 
 
 | Name | Designation |
