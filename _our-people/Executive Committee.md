@@ -73,12 +73,12 @@ description: ""
 
 <table>
 <th>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</td>
 </th>
 <tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Pri</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Pri</td>
 </tr>
 <tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
