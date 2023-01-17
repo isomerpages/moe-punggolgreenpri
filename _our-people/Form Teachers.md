@@ -7,49 +7,49 @@ description: ""
 
 <table>
 	<tr>
-		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD">Class</th>
-		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD">Form Teacher 1</th>
-		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD">Form Teacher 2</th>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center; background-color:#DDD">Class</th>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center; background-color:#DDD">Form Teacher 1</th>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center; background-color:#DDD">Form Teacher 2</th>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Self-Discipline</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu<br><a href="mailto:liew_min_yu@moe.edu.sg">liew_min_yu@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Zaimah Binte Mohd Ali<br><a href="mailto:zaimah_mohd_ali@moe.edu.sg">zaimah_mohd_ali@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial;text-align:center;">1 Self-Discipline</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mdm Liew Min Yu<br><a href="mailto:liew_min_yu@moe.edu.sg">liew_min_yu@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mdm Zaimah Binte Mohd Ali<br><a href="mailto:zaimah_mohd_ali@moe.edu.sg">zaimah_mohd_ali@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Teamwork</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Abel Kok<br><a href="mailto:abel_kok_kum_weng@moe.edu.sg">abel_kok_kum_weng@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ita Nursyahirah Binte Mohamad Amin<br><a href="mailto:ita_nursyahirah_mohamad_amin@moe.edu.sg">ita_nursyahirah_mohamad_amin@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Teamwork</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mr Abel Kok<br><a href="mailto:abel_kok_kum_weng@moe.edu.sg">abel_kok_kum_weng@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Ms Ita Nursyahirah Binte Mohamad Amin<br><a href="mailto:ita_nursyahirah_mohamad_amin@moe.edu.sg">ita_nursyahirah_mohamad_amin@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Responsibility</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Siak Cheng Mun, Lionel<br><a href="mailto:siak_cheng_mun_lionel@moe.edu.sg">siak_cheng_mun_lionel@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Marie-Elena Louisa Soliano<br><a href="mailto:marie_elena_louisa_soliano@moe.edu.sg">marie_elena_louisa_soliano@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Responsibility</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mr Siak Cheng Mun, Lionel<br><a href="mailto:siak_cheng_mun_lionel@moe.edu.sg">siak_cheng_mun_lionel@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Ms Marie-Elena Louisa Soliano<br><a href="mailto:marie_elena_louisa_soliano@moe.edu.sg">marie_elena_louisa_soliano@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Integrity</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Mohamed Ezran S/o Abdul Kassim<br><a href="mailto:mohamed_ezran_abdul_kassim@moe.edu.sg">mohamed_ezran_abdul_kassim@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aishwarya<br><a href="mailto:p_aishwarya@moe.edu.sg">p_aishwarya@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Integrity</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mr Mohamed Ezran S/o Abdul Kassim<br><a href="mailto:mohamed_ezran_abdul_kassim@moe.edu.sg">mohamed_ezran_abdul_kassim@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Ms Aishwarya<br><a href="mailto:p_aishwarya@moe.edu.sg">p_aishwarya@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Valour</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Sharmilah Sheikh<br><a href="mailto:siti_sharmilah_ismail@moe.edu.sg">siti_sharmilah_ismail@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">* Ms Tan Wei Li<br><a href="mailto:tan_wei_li@moe.edu.sg">tan_wei_li@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Valour</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mrs Sharmilah Sheikh<br><a href="mailto:siti_sharmilah_ismail@moe.edu.sg">siti_sharmilah_ismail@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">* Ms Tan Wei Li<br><a href="mailto:tan_wei_li@moe.edu.sg">tan_wei_li@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Empathy</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kuan Sherrielyn<br><a href="mailto:kuan_sherrielyn@moe.edu.sg">kuan_sherrielyn@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Empathy</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mdm Kuan Sherrielyn<br><a href="mailto:kuan_sherrielyn@moe.edu.sg">kuan_sherrielyn@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Confidence</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Gao Ting Ting<br><a href="mailto:gao_ting_ting@moe.edu.sg">gao_ting_ting@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Qin Xiaolin<br><a href="mailto:qin_xiaolin@moe.edu.sg">qin_xiaolin@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Confidence</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Ms Gao Ting Ting<br><a href="mailto:gao_ting_ting@moe.edu.sg">gao_ting_ting@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mdm Qin Xiaolin<br><a href="mailto:qin_xiaolin@moe.edu.sg">qin_xiaolin@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Innovation</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Parames<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">1 Innovation</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Ms Parames<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td></td>
