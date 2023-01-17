@@ -7,9 +7,9 @@ description: ""
 
 <table>
 	<tr>
-		<th>Class</th>
-		<th>Form Teacher 1</th>
-		<th>Form Teacher 2</th>
+		<th style="background-color:#DDD">Class</th>
+		<th style="background-color:#DDD">Form Teacher 1</th>
+		<th style="background-color:#DDD">Form Teacher 2</th>
 	</tr>
 	<tr>
 		<td>1 Self-Discipline</td>
