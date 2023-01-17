@@ -1,14 +1,9 @@
 ---
 title: Executive Committee
-permalink: /our-people/executive-committee
+permalink: /our-people/executive-committee/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>Executive Committee</font>**
-
-**<font size=5>Principal & Vice-Principals</font>**
-
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b>
 
 | Name | Designation |
 | --- | --- |
@@ -17,46 +12,41 @@ description: ""
 | Mrs Teo-Tay Chai Hong  |  Vice-Principal - Academic |
 | Mrs Betty See  | Vice-Principal - Administration |
 
-**<font size=5>Heads of Department</font>**
+<b>Heads of Department</b>
 
 | Name | Designation |
 | --- | --- |
+| Mdm Raihana Bte Mohd Nor |  School Staff Developer |
 | Mrs Hema Kumari Welkers | HOD English |
 | Ms Wong Wai Yu Stella | HOD Mother Tongue |
-| Mdm Loke Ai Guat Audrey | HOD Mathematics  |
-| Mdm Toh Irene | HOD Mathematics (Covering)  |
+| Mr Rajendran s/o Nagappan | HOD Mathematics  |
 | Mrs Jasmine Lim | HOD Science |
 | Mr Desmond Tay Boon Peng  | HOD ICT |
 | Mr Satiish Sathasilvam | HOD CCE |
-| Mr Rajendran s/o Nagappan |  HOD Special Projects |
 | Mr Ong Shu Chieh, Jack | HOD Student Management  |
-| Mdm Raihana Bte Mohd Nor |  School Staff Developer |
+| Mr Ng Yeow Huei | HOD PAM & CCA |
 
-**<font size=5>Year Heads and Assistant Year Heads</font>**
-
+<b>Year Heads and Assistant Year Heads</b>
 
 | Name | Designation |
 | --- | --- |
 | Mdm Lee Peiyan  | Year Head / Upper Pri  |
-| Mdm Yogeshwari Kannadasan  |  Assistant Year Head / Upper Pri (Int) |
 | Mr Adrian Yeo | Year Head / Middle Pri  |
-| Mrs Shannon Loh  | Assistant Year Head / Middle Pri  |
-| Ms Tan Wei Li  | Year Head / Lower Pri (Covering)  |
-| Mdm Nur Azimah Binte Syed Hussain | Assistant Year Head / Lower Pri (Int) |
+| Ms Tan Wei Li  | Year Head / Lower Pri (Covering) |
 
-**<font size=5>Level Heads and Subject Heads</font>**
+<b> Level Heads and Subject Heads </b>
 
 
 | Name | Designation |
 | --- | --- |
-| Miss Nadira Bte Noordin  | LH / Science |
-| Mr Neo Qing Hao | LH / PE & CCA |
-| Ms Sharmilah Sheikh | LH / English (Int)  |
-|Mdm Munirah Bte Mohamed | SH / MTL (ML)  |
-| Ms Koh Wei Ning | SH / Citizenship Education |
-|Ms Ruhernie Abu Yamin | SH / Aesthetics |
-| Mr Kenny Teo   | SH / Student Well-Being  |
-| Mr Tan Yong Siong Lite | SH / ICT (Int)  |
+| Mdm Toh Irene | LH / Mathematics |
+| Mr Neo Qing Hao	| LH / CCA & PAL |
+| Mdm Munirah Bte Mohamed	| SH / MTL (ML) |
+| Mrs Seah-Koh Wei Ning	| SH / Citizenship Education |
+| Ms Ruhernie Abu Yamin	| SH / Aesthetics |
+| Mr Kenny Teo | SH / Student Well-Being (SWB) |
+| Mdm Nadira Bte Noordin | SH/Student Leadership (SL) |
+| Mr Tan Ee Cheng |	SH/Data Management |
 
 **<font size=5>Senior Teacher Council</font>**
 
