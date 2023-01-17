@@ -8,4 +8,4 @@ third_nav_title: MK 2023 Open House
 
 **<font size=6>MK Uniform Matters</font>**
 
-[MK_Uniforms.pdf](/files/Our%20MOE%20Kindergarten/MK_Uniforms.pdf)
+[]()
