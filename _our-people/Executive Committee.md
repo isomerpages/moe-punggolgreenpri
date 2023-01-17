@@ -48,7 +48,7 @@ description: ""
 | Mdm Nadira Bte Noordin | SH/Student Leadership (SL) |
 | Mr Tan Ee Cheng |	SH/Data Management |
 
-**<font size=5>Senior Teacher Council</font>**
+<b>Senior Teacher Council</b>
 
 
 | Name | Designation |
