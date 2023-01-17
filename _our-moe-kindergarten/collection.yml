@@ -2,7 +2,6 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - MK Curriculum.md
       - LIFE@MK/.keep
       - LIFE@MK/K1.md
       - LIFE@MK/K2.md
@@ -16,9 +15,7 @@ collections:
       - MK 2023 Open House/KCare.md
       - MK Forms.md
       - Staff.md
-      - MK Curriculum/.keep
-      - MK Curriculum/MK Centre Level Programmes.md
-      - MK Curriculum/Partnerships.md
+      - MK Curriculum.md
       - Parents' Briefing.md
       - MK 2023 Virtual Open House and Online Registration.md
       - K1 Orientation 2022/.keep
@@ -39,3 +36,6 @@ collections:
       - Staff/Staff.md
       - Parents' Briefing/.keep
       - Parents' Briefing/Parents' Briefing.md
+      - MK Curriculum/.keep
+      - MK Curriculum/MK Centre Level Programmes.md
+      - MK Curriculum/Partnerships.md
