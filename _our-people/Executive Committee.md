@@ -10,20 +10,20 @@ description: ""
 	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
 </tr>
 <tr>
-	<td>Mr Hanafi Asmore</td> 
-	<td>Principal</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Hanafi Asmore</td> 
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Principal</td>
 </tr>
 <tr>
-	<td>Dr Lee Kok Sonk</td>
-	<td>Vice-Principal - Academic</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Dr Lee Kok Sonk</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
 </tr>
 <tr>
-	<td>Mrs Teo-Tay Chai Hong</td>
-	<td>Vice-Principal - Academic</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Teo-Tay Chai Hong</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
 </tr>
 <tr>
-	<td>Mrs Betty See</td>
-	<td>Vice-Principal - Administration</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Betty See</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 </tr></table>
 
 <b>Heads of Department</b>
