@@ -3,14 +3,28 @@ title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
 ---
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></p>
-
-| Name | Designation |
-| --- | --- |
-| Mr Hanafi Asmore | Principal |
-| Dr Lee Kok Sonk | Vice-Principal - Academic |
-| Mrs Teo-Tay Chai Hong  |  Vice-Principal - Academic |
-| Mrs Betty See  | Vice-Principal - Administration |
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b>
+<table>
+<tr>
+	<th>Name</th>
+	<th>Designation</th>
+</tr>
+<tr>
+	<td>Mr Hanafi Asmore</td> 
+	<td>Principal</td>
+</tr>
+<tr>
+	<td>Dr Lee Kok Sonk</td>
+	<td>Vice-Principal - Academic</td>
+</tr>
+<tr>
+	<td>Mrs Teo-Tay Chai Hong</td>
+	<td>Vice-Principal - Academic</td>
+</tr>
+<tr>
+	<td>Mrs Betty See</td>
+	<td>Vice-Principal - Administration</td>
+</tr></table>
 
 <b>Heads of Department</b>
 
