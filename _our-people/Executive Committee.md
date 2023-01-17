@@ -72,10 +72,10 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></p>
 
 <table>
-<th>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</td>
-</th>
+<tr>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</td>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</td>
+</tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Pri</td>
