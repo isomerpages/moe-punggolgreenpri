@@ -6,8 +6,8 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b>
 <table>
 <tr>
-	<th>Name</th>
-	<th>Designation</th>
+	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
+	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
 </tr>
 <tr>
 	<td>Mr Hanafi Asmore</td> 
