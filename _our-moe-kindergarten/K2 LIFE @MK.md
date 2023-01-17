@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=6>K2 LIFE @MK (Removed)</font>**
+**<font size=6>K2 LIFE @MK (To Remove)</font>**
 
 [First Flight 12.pdf](/files/Our%20MOE%20Kindergarten/First%20Flight%2012.pdf)
 
