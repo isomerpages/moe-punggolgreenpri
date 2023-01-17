@@ -26,7 +26,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 </tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></font><br>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></font>
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td>
 	</tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></font><br>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></font>
 
 <table>
 <th>
