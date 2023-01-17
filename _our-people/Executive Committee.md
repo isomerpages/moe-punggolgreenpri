@@ -81,11 +81,14 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Pri</td>
 </tr>
 <tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Pri</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Pri</td>
 </tr>
+<tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Wei Li</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td></tr></table>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td>
+</tr>
+</table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></p>
 
