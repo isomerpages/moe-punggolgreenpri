@@ -1,11 +1,11 @@
 ---
 title: K2 LIFE @MK
-permalink: /our-moe-kindergarten/k2-life-at-mk
+permalink: /our-moe-kindergarten/k2-life-at-mk/
 description: ""
 ---
 ![](/images/sub-banner.jpg)
 
-**<font size=6>K2 LIFE @MK</font>**
+**<font size=6>K2 LIFE @MK (Removed)</font>**
 
 [First Flight 12.pdf](/files/Our%20MOE%20Kindergarten/First%20Flight%2012.pdf)
 
