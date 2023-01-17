@@ -3,7 +3,7 @@ title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
 ---
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></font>
 <table>
 <tr>
 	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
