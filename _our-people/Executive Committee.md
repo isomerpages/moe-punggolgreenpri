@@ -26,7 +26,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 </tr></table>
 
-<b>Heads of Department</b>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b>
 
 | Name | Designation |
 | --- | --- |
