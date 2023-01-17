@@ -3,7 +3,7 @@ title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
 ---
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></font>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></font><br>
 <table>
 <tr>
 	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
@@ -26,7 +26,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 </tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></font>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></font><br>
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td>
 	</tr></table>
 
-<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></font>
+<font style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></font><br>
 
 <table>
 <th>
