@@ -4,7 +4,7 @@ permalink: /our-people/form-teachers/
 description: ""
 ---
 <font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></font>
-<table>
+<table style="width:100%">
 	<tr>
 		<th style="line-height:1.3; font-size:14px; font-family:Arial; text-align:justify;background-color:#DDD">Class</th>
 		<th style="line-height:1.3; font-size:14px; font-family:Arial; text-align:justify;background-color:#DDD">Form Teacher 1</th>
