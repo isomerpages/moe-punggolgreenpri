@@ -214,6 +214,5 @@ description: ""
 <tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yap-Eng Shuen Yin</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
-</table>
+</tr></table>
 </table>
