@@ -29,7 +29,7 @@ description: ""
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Integrity</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Mohamed Ezran S/o Abdul Kassim<br><a href="mailto:mohamed_ezran_abdul_kassim@moe.edu.sg">mohamed_ezran_abdul_kassim@moe.edu.sg</a></td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aishwarya<br><a href="mailto:"></a></td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aishwarya<br><a href="mailto:p_aishwarya@moe.edu.sg">p_aishwarya@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Valour</td>
@@ -52,7 +52,7 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td>&nbsp</td>
+		<td></td>
 		<td>*Ms Tan Wei Li</td>
 		<td>Year Head/Lower Primary (Covering)</td>
 	</tr>
