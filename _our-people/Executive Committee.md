@@ -169,3 +169,50 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH/Special Project (SP) </td>
 </tr>
 </table>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
+<table>
+<tr>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Tan Wai Mun Dolly</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Science</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Norhidayana Binte Jabar</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Malay Language</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Wilson Kwa Kok Beng</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/ Music</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Abel Kok Kum Weng</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vijayalakshmi</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+</tr>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yap-Eng Shuen Yin</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+</tr>
+</table>
