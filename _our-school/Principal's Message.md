@@ -4,7 +4,7 @@ permalink: /our-school/principal-s-message/
 description: ""
 ---
 <style>
-	p {line-height: 0.8; font size: 12px;}
+	p {line-height: 0.7; font size: 10px;}
 	</style>
 	
 <img src="/images/Our%20School/Mr%20Hanafi%20B%20Asmore.jpg"  
