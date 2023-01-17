@@ -3,7 +3,7 @@ title: Our Vision, Mission, Values
 permalink: /our-school/our-vision-mission-values/
 description: ""
 ---
-<p style="line-height:1.1; font-size:16px; font-family:Arial; text-align:justify;">
+<p style="line-height:1.1; font-size:14px; font-family:Arial; text-align:justify;">
 	<b>School Vision</b><br>
 	Future-Ready Leaders With The Heart For Others<br><br>
 	<b>School Desired Outcomes</b>
