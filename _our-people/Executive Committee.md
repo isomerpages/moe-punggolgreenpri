@@ -73,8 +73,8 @@ description: ""
 
 <table>
 <tr>
-<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</td>
-<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</td>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
 </tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
