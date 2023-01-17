@@ -88,19 +88,45 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Wei Li</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td></tr></table>
 
-<b> Level Heads and Subject Heads </b>
+<font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></font>
 
-
-| Name | Designation |
-| --- | --- |
-| Mdm Toh Irene | LH / Mathematics |
-| Mr Neo Qing Hao	| LH / CCA & PAL |
-| Mdm Munirah Bte Mohamed	| SH / MTL (ML) |
-| Mrs Seah-Koh Wei Ning	| SH / Citizenship Education |
-| Ms Ruhernie Abu Yamin	| SH / Aesthetics |
-| Mr Kenny Teo | SH / Student Well-Being (SWB) |
-| Mdm Nadira Bte Noordin | SH/Student Leadership (SL) |
-| Mr Tan Ee Cheng |	SH/Data Management |
+<table>
+<tr>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
+<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Toh Irene</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Mathematics</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Neo Qing Hao</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / CCA & PAL</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Munirah Bte Mohamed</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / MTL (ML)</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Citizenship Education</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ruhernie Abu Yamin</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Aesthetics</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kenny Teo</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being (SWB)</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH/Student Leadership (SL)</td>
+</tr>
+<tr>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH/Data Management</td>
+</tr></table>
 
 <b>Senior Teacher Council</b>
 
