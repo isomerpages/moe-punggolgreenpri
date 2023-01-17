@@ -28,10 +28,19 @@ description: ""
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b>
 
-| Name | Designation |
-| --- | --- |
-| Mdm Raihana Bte Mohd Nor |  School Staff Developer |
-| Mrs Hema Kumari Welkers | HOD English |
+<table>
+<tr>
+	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Name</th>
+	<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Designation</th>
+</tr>
+<tr>
+	<td>Mdm Raihana Bte Mohd Nor</td>
+	<td>School Staff Developer</td>
+</tr>
+<tr>
+	<td>Mrs Hema Kumari Welkers</td>
+	<td>HOD English<td>
+</tr>
 | Ms Wong Wai Yu Stella | HOD Mother Tongue |
 | Mr Rajendran s/o Nagappan | HOD Mathematics  |
 | Mrs Jasmine Lim | HOD Science |
