@@ -3,6 +3,16 @@ title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
 ---
+<html>  
+<head>  
+<style>  
+selector {  
+CSS property: value;  
+}
+tr:hover {background-color: #D6EEEE;}
+	</style>
+	</head>
+
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></p>
 
 <table>
