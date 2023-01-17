@@ -53,7 +53,7 @@ description: ""
 		<td style="border-color:black;border-style:solid;border-width:1px; padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="border-color:black;border-style:solid;border-width:1px; padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li&nbsp&nbsp&nbsp&nbsp&nbsp&nbspYear Head/Lower Primary (Covering)</td>
+		<td style="border-color:black;border-style:solid;border-width:1px; padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li - Year Head/Lower Primary (Covering)</td>
 	</tr>
 </table>
 
