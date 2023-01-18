@@ -148,7 +148,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sharmilah Sheikh</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH/ English</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH/English</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yogeshwari Manikandan</td>
@@ -156,11 +156,11 @@ description: ""
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nur Azimah Binte Syed Hussain</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH/ Lower Primary</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH/Lower Primary</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH/ Middle Primary </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH/Middle Primary </td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan</td>
@@ -181,49 +181,42 @@ description: ""
 </table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
+
 <table>
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
-
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Tan Wai Mun Dolly</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Science</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/Science</td>
 	</tr>
-
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Norhidayana Binte Jabar</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Malay Language</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/Malay Language</td>
 	</tr>
-
-<tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Wilson Kwa Kok Beng</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/ Music</td>
-</tr>
-
-<tr>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/Music</td>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Abel Kok Kum Weng</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
-
-<tr>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
-
-<tr>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vijayalakshmi</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
-
-<tr>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
-
-<tr>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yap-Eng Shuen Yin</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
 </tr>
