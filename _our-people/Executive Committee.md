@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></p>
 
-<table>
+<table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
