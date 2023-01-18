@@ -6,6 +6,7 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></p>
 
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
@@ -31,6 +32,7 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></p>
 
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
@@ -76,6 +78,7 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></p>
 
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
@@ -97,6 +100,7 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></p>
 
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
@@ -137,6 +141,7 @@ description: ""
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
 
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
@@ -177,6 +182,7 @@ description: ""
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
 <table>
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
