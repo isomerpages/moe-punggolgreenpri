@@ -53,7 +53,7 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li - Year Head/Lower Primary (Covering)</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li &emsp; Year Head/Lower Primary (Covering)</td>
 	</tr>
 </table>
 
@@ -152,7 +152,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Confidence</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nurul Hafizah<br>nurul_hafizah_yusop@moe.edu.sg<a href="mailto:">nurul_hafizah_yusop@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nurul Hafizah<br><a href="mailto:nurul_hafizah_yusop@moe.edu.sg">nurul_hafizah_yusop@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Bavani D/O Rengasamy<br><a href="mailto:bavani_rengasamy@moe.edu.sg">bavani_rengasamy@moe.edu.sg</a></td>
 	</tr>
 	<tr>
