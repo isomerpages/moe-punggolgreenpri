@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Pride and Joy.md
       - School Leaders.md
       - Executive Committee.md
       - Form Teachers.md
