@@ -15,5 +15,4 @@ sections:
         - title: P1 AY2023 Briefing for Parents
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
-      title: Future-Ready Leaders With The Heart For Others
 ---
