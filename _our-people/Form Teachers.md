@@ -164,3 +164,52 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
 	</tr>
 </table>
+
+<font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 4</b></font>
+
+<table style="width: 780px">
+	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
+	<tr>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
+	</tr>
+	<tr>
+    <td>4 Self-Discipline</td>
+    <td>Mrs Lynn Kirk-Quek Si Yi<br><a href="mailto:lynn_kirk-quek_si_yi@moe.edu.sg">lynn_kirk-quek_si_yi@moe.edu.sg</a></td>
+    <td>Mr Muhammad Fadzli<br><a href="mailto:muhammad_fadzli_sahat@moe.edu.sg">muhammad_fadzli_sahat@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Teamwork</td>
+    <td>Ms Kristin Hamton<br><a href="mailto:kristin_hamton@moe.edu.sg">kristin_hamton@moe.edu.sg</a></td>
+    <td>Mdm Koh Xiao Woon<br><a href="mailto:koh_xiao_woon@moe.edu.sg">koh_xiao_woon@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Responsibility</td>
+    <td>Mdm Tan Wai Mun Dolly<br><a href="mailto:dolly_tan_wai_mun@moe.edu.sg">dolly_tan_wai_mun@moe.edu.sg</a></td>
+    <td>Mr Fariq<br><a href="mailto:muhammad_fariq_abdul_latif@moe.edu.sg">muhammad_fariq_abdul_latif@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Integrity</td>
+    <td>Ms Leong Wen Hsi Andrea<br><a href="mailto:leong_wen_hsi@moe.edu.sg">leong_wen_hsi@moe.edu.sg</a></td>
+    <td>* Mr Adrian Yeo<br><a href="mailto:yeo_han_wi_adrian@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_han_wi_adrian@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Valour</td>
+    <td>Mdm Haslinda Bte Arifin<br><a href="mailto:haslinda_awang@moe.edu.sg">haslinda_awang@moe.edu.sg</a></td>
+    <td>Mrs Yap-Eng Shuen Yin<br><a href="mailto:eng_shuen_yin@moe.edu.sg">eng_shuen_yin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Empathy</td>
+    <td>Ms Leong Shiao Shyan Emily<br><a href="mailto:leong_shiao_shyan_emily@moe.edu.sg">leong_shiao_shyan_emily@moe.edu.sg</a></td>
+    <td>Mr Tan Ee Cheng<br><a href="mailto:tan_ee_cheng@moe.edu.sg">tan_ee_cheng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4 Confidence</td>
+    <td>Mdm Nazurah Bte Rahmat<br><a href="mailto:nazurah_rahmat@moe.edu.sg">nazurah_rahmat@moe.edu.sg</a></td>
+    <td>Mdm Nadira Bte Noordin<br><a href="mailto:nadira_noordin@moe.edu.sg">nadira_noordin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
+  </tr>
+</table>
