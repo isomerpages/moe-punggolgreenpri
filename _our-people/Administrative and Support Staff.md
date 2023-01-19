@@ -1,12 +1,57 @@
 ---
 title: Administrative and Support Staff
-permalink: /our-people/administrative-and-support-staff
+permalink: /our-people/administrative-and-support-staff/
 description: ""
 ---
-
-
-![](/images/sub-banner.jpg)
-
-**<font size=6>Administrative and Support Staff</font>**
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Mdm Meredith Chiow</span><br><span style="color:#666;background-color:#DDD">Administration Manager</span><br><span style="color:#666;background-color:#DDD">Email:</span><br><span style="color:#666;background-color:#DDD"><a href="mailto:Admin_punggolgreen_ps@moe.edu.sg">Admin_punggolgreen_ps@moe.edu.sg</a></span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Mr Dixon Peh</span><br><span style="color:#666;background-color:#DDD">Operation Manager</span><br><span style="color:#666;background-color:#DDD">Email: </span><br><span style="color:#666;background-color:#DDD"><a href="mailto:Admin_punggolgreen_ps@moe.edu.sg">Admin_punggolgreen_ps@moe.edu.sg</a></span><br></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Ms Aloysia Ang<br><span style="font-weight:bold">Admin Executive</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mdm Han Li Chin<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Mohammad<br><span style="font-weight:bold">ICT Associate</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Ms Sherina Jaffar<br><span style="font-weight:bold">Corporate Support Officer</span><br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Loh Nghee Boon<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Afiq<br><span style="font-weight:bold">Desktop Engineer</span><br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Ms Tan Hui Geok<br><span style="font-weight:bold">Corporate Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Koo Soo Yong<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Ms Nancy<br><span style="font-weight:bold">Desktop Engineer</span><br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Adam Bin Bachok<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mr Loh Soon Yip<br><span style="font-weight:bold">ICT Trainer</span><br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mdm Liew Lian Choo<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mdm Goh Cheng Wah<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mdm Saaraswathy<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mdm Sek Lay Tin<br><span style="font-weight:bold">Operations Support Officer</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<table style="width: 780px">
+	<colgroup><col style="width:33%"><col style="width:33%"><col style="width:33%"></colgroup>
+<thead>
+  <tr>
+    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Mdm Meredith Chiow<br>Administration Manager<br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
+    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Mr Dixon Peh<br>Operation Manager<br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
+    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aloysia Ang<br>Admin Executive</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Florence Han <br>Operations Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Loh Soon Yip<br>ICT Manager</td>
+  </tr>
+  <tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sherina Jaffar<br>Corporate Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Loh Nghee Boon<br>Operations Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Fateh<br>Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Dwie Indah<br>Corporate Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Koo Soo Yong<br>Operations Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Khair<br>Desktop Engineer<br></td>
+  </tr>
+  <tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Melissa Ong Li Ping<br>Corporate Support Officer<br></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adam Bin Bachok<br>Operations Support Officer</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Akmal<br>ICT Trainer</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Lian Choo <br>Operations Support Officer</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Ee Ling Fong<br>Operations Support Officer</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Saaraswathy<br>MK Operations Support Officer</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sek Lay Tin<br>MK Operations Support Officer</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
