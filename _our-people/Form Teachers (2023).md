@@ -3,9 +3,7 @@ title: Form Teachers (2023)
 permalink: /our-people/form-teachers-2023/
 description: ""
 ---
-
-
-<font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></font>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
@@ -59,7 +57,7 @@ description: ""
 	</tr>
 </table>
 
-<font  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 2</b></font>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 2</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
