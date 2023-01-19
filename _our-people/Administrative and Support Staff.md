@@ -7,8 +7,8 @@ description: ""
 	<colgroup><col style="width:33%"><col style="width:33%"><col style="width:33%"></colgroup>
 <thead>
   <tr>
-    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Mdm Meredith Chiow<br>Administration Manager<br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
-    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Mr Dixon Peh<br>Operation Manager<br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
+    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; font-weight:normal">Mdm Meredith Chiow<br><b>Administration Manager</b><br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
+    <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; font-weight:normal">Mr Dixon Peh<br><b>Operation Manager<b><br><a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a></th>
     <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666"></th>
   </tr>
 </thead>
