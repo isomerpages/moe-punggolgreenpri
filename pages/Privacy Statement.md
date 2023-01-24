@@ -19,14 +19,13 @@ Generally, you control the amount and type of information you provide to us when
 As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.<br><br>
 
 <b>Computer Information Collected</b><br>
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
-   <ul>
-      <li style="padding-left:10em"><b>Cookies</b><br>
-         Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.</li>
-      <li style="padding-left:10em">Third Party Tracking Tools</b><br>
-         We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.</li>
-      <li style="padding-left:10em"><b>Automatic Information</b><br>
-         We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.</li>
+When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:<br>
+   <font style="margin-left:30px"><b>• Cookies</b><br></font>
+   <font style="margin-left:30px">Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.<br></font>
+      <font style="margin-left:30px"><b>• Third Party Tracking Tools</b><br></font>
+      <font style="margin-left:30px">We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.<br></font>
+      <font style="margin-left:30px"><b>• Automatic Information</b><br></font>
+      <font style="margin-left:30px">We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.<br><br></font>
 
 <b>How We Use Your Information</b><br>
 We use the information we receive from you as follows:<br><br>
