@@ -93,7 +93,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
           <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">9.40 a.m. to 10.10 a.m.</td>
       </tr>
       <tr>
-         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Thursday.</td>
+         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Thursday.</td>
       </tr>
    </tbody>
 </table>
