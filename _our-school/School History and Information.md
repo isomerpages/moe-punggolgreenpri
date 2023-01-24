@@ -138,8 +138,8 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Bookshop Opening Hours</b><br>
 	Bookshop Opening Hours for Parents:</p>
 
-<table style="width:400px">
-   <colgroup><col style="width:250px"><col style="width:150px"></colgroup> 
+<table style="width:350px">
+   <colgroup><col style="width:225px"><col style="width:125px"></colgroup> 
    <tr>
      <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Monday - Thursday</th>
     <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 - 3 pm</th>
