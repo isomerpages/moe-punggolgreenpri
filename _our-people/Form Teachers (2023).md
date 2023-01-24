@@ -282,48 +282,46 @@ description: ""
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
 	</tr>
-<tbody style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Self-Discipline</td>
     <td>Mdm Na Kim Gek<br><a href="mailto:na_kim_gek@moe.edu.sg">na_kim_gek@moe.edu.sg</a></td>
     <td>Mr He Guo Yuan Desmond<br><a href="mailto:he_guoyuan_desmond@moe.edu.sg">he_guoyuan_desmond@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Teamwork</td>
     <td>Ms Carmela Neo<br><a href="mailto:carmela_neo@moe.edu.sg">carmela_neo@moe.edu.sg</a></td>
     <td>Mr Neo Qing Hao<br><a href="mailto:neo_qing_hao@moe.edu.sg">neo_qing_hao@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Responsibility</td>
     <td>Mdm Low Ai Choo<br><a href="mailto:low_ai_choo@moe.edu.sg">low_ai_choo@moe.edu.sg</a></td>
     <td> Mdm Munirah Bte Mohamed<br><a href="mailto:munirah_mohamed@moe.edu.sg">munirah_mohamed@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Integrity</td>
     <td>Mdm Vijayalakshmi<br><a href="mailto:vijayalakshmi_a@moe.edu.sg">vijayalakshmi_a@moe.edu.sg</a></td>
     <td>Mdm Yee Sook Kwan<br><a href="mailto:yee_sook_kwan@moe.edu.sg">yee_sook_kwan@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Valour</td>
     <td>Mdm Marlina Binte Abdul Shaharum<br><a href="mailto:marlina_abdul_shaharum@moe.edu.sg">marlina_abdul_shaharum@moe.edu.sg</a></td>
     <td>Mdm Norhidayana Binte Jabar<br><a href="mailto:norhidayana_jabar@moe.edu.sg">norhidayana_jabar@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Empathy</td>
     <td>Mdm Yogeshwari Manikandan<br><a href="mailto:kannadasan_yogeshwari@moe.edu.sg">kannadasan_yogeshwari@moe.edu.sg</a></td>
     <td>Mr Desmond Tay Boon Peng<br><a href="mailto:tay_boon_peng@moe.edu.sg">tay_boon_peng@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Confidence</td>
     <td>Mdm Maisara Binte Mohd Mahadi<br><a href="mailto:maisara_mohd_mahadi@moe.edu.sg">maisara_mohd_mahadi@moe.edu.sg</a></td>
     <td>Mr Rajendran s/o Nagappan<br><a href="mailto:rajendran_nagappan@moe.edu.sg">rajendran_nagappan@moe.edu.sg</a></td>
   </tr>
-  <tr>
+  <tr style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
     <td>6 Innovation</td>
     <td>Ms Anisa Binte Anan<br><a href="mailto:anisa_anan@moe.edu.sg">anisa_anan@moe.edu.sg</a></td>
     <td>Ms Cerelia Chng<br><a href="mailto:cerelia_chng_kai_xin@moe.edu.sg">cerelia_chng_kai_xin@moe.edu.sg</a></td>
   </tr>
-</tbody>
 <tr>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan &emsp; Year Head / Upper Pri</td>
 	</tr>
