@@ -19,28 +19,28 @@ Generally, you control the amount and type of information you provide to us when
 As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.<br><br>
 
 <b>Computer Information Collected</b><br>
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:<br>
+When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
    <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;margin-left:30px"><b>• Cookies</b><br>
-Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.<br>
+Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.<br><br>
      <b>• Third Party Tracking Tools</b><br>
-We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.<br>
+We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.<br><br>
      <b>• Automatic Information</b><br>
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.</p>
 
 <b>How We Use Your Information</b><br>
-We use the information we receive from you as follows:<br><br>
+We use the information we receive from you as follows:
 
-<b>• Customizing Our Website</b><br>
+   <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;margin-left:30px"><b>• Customizing Our Website</b><br>
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.<br><br>
 
-<b>• Sharing Information with Affiliates and Other Third Parties</b><br>
+   <b>• Sharing Information with Affiliates and Other Third Parties</b><br>
 We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes.<br><br>
 
-<b>• Data Aggregation</b><br>
+   <b>• Data Aggregation</b><br>
 We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.<br><br>
 
-<b>• Legally Required Releases of Information</b><br>
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of TermsFeed, our Users, employees, and affiliates.<br><br>
+   <b>• Legally Required Releases of Information</b><br>
+We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of TermsFeed, our Users, employees, and affiliates.</p>
 
 <b>Do Not Track ("DNT")</b><br>
 We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.<br><br>
