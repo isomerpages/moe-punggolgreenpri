@@ -3,11 +3,11 @@ title: Form Teachers (2023)
 permalink: /our-people/form-teachers-2023/
 description: ""
 ---
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b>Primary 1</b></p>
+<p  style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b>Primary 1</b></p>
 
 <table style="width:780px;padding:10px 5px;vertical-align:middle;line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<colgroup><col style="width:170px"><col style="width:305px"><col style="width:305px"></colgroup>
-	<tbody><tr>
+	<tr>
 		<th style="background-color:#DDD; color:#666">Class</th>
 		<th style="background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="background-color:#DDD; color:#666">Form Teacher 2</th>
@@ -53,69 +53,69 @@ description: ""
 		<td>Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="text-align:center;colspan=">*Ms Tan Wei Li   Year Head/Lower Primary (Covering)</td>
+		<td style="text-align:center;" colspan="3">*Ms Tan Wei Li &emsp; Year Head/Lower Primary (Covering)</td>
 	</tr>
-</tbody></table>
+</table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 2</b></p>
 
-<table style="width: 780px">
-	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
+<table style="width:780px;padding:10px 5px;vertical-align:middle;line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
+	<colgroup><col style="width:170px"><col style="width:305px"><col style="width:305px"></colgroup>
+	<tr>
+		<th style="background-color:#DDD;color:#666">Class</th>
+		<th style="background-color:#DDD;color:#666">Form Teacher 1</th>
+		<th style="background-color:#DDD;color:#666">Form Teacher 2</th>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Self-Discipline</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sharifah Wahidah Binte Syed<br><a href="mailto:sharifah_wahidah_syed_ab@moe.edu.sg">sharifah_wahidah_syed_ab@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan<br><a href="mailto:chua_yinghan@moe.edu.sg">chua_yinghan@moe.edu.sg</a></td>
+		<td>2 Self-Discipline</td>
+		<td>Mdm Sharifah Wahidah Binte Syed<br><a href="mailto:sharifah_wahidah_syed_ab@moe.edu.sg">sharifah_wahidah_syed_ab@moe.edu.sg</a></td>
+		<td>Mdm Chua Yinghan<br><a href="mailto:chua_yinghan@moe.edu.sg">chua_yinghan@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Teamwork</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nor Aisha Binte Mohamed Ismail<br><a href="mailto:nor_aisha_mohamed_ismail@moe.edu.sg">nor_aisha_mohamed_ismail@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Xu Jingwen<br><a href="mailto:xu_jingwen@moe.edu.sg">xu_jingwen@moe.edu.sg</a></td>
+		<td>2 Teamwork</td>
+		<td>Ms Nor Aisha Binte Mohamed Ismail<br><a href="mailto:nor_aisha_mohamed_ismail@moe.edu.sg">nor_aisha_mohamed_ismail@moe.edu.sg</a></td>
+		<td>Ms Xu Jingwen<br><a href="mailto:xu_jingwen@moe.edu.sg">xu_jingwen@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Responsibility</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Asrina<br><a href="mailto:nur_asrina_alias@moe.edu.sg">nur_asrina_alias@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Jia Qi<br><a href="mailto:tan_jiaqi_a@moe.edu.sg">tan_jiaqi_a@moe.edu.sg</a></td>
+		<td>2 Responsibility</td>
+		<td>Mdm Nur Asrina<br><a href="mailto:nur_asrina_alias@moe.edu.sg">nur_asrina_alias@moe.edu.sg</a></td>
+		<td>Ms Tan Jia Qi<br><a href="mailto:tan_jiaqi_a@moe.edu.sg">tan_jiaqi_a@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Integrity</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafizah Binte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
+		<td>2 Integrity</td>
+		<td>Mdm Hafizah Binte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Valour</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Jumiati Bte Johari<br><a href="mailto:jumiati_johari@moe.edu.sg">jumiati_johari@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kwang Yong<br><a href="mailto:kwang_yong@moe.edu.sg">kwang_yong@moe.edu.sg</a></td>
+		<td>2 Valour</td>
+		<td>Mdm Jumiati Bte Johari<br><a href="mailto:jumiati_johari@moe.edu.sg">jumiati_johari@moe.edu.sg</a></td>
+		<td>Mr Kwang Yong<br><a href="mailto:kwang_yong@moe.edu.sg">kwang_yong@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Empathy</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Zahidah<br><a href="mailto:zahidah_abdul_rahman@moe.edu.sg">zahidah_abdul_rahman@moe.edu.sg</a></td>
+		<td>2 Empathy</td>
+		<td>Mdm Nur Azimah Binte Syed Hussain<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a></td>
+		<td>Mdm Zahidah<br><a href="mailto:zahidah_abdul_rahman@moe.edu.sg">zahidah_abdul_rahman@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Confidence</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Yeo Zhi Lin<br><a href="mailto:yeo_zhi_lin@moe.edu.sg">yeo_zhi_lin@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sri Rahayu<br><a href="mailto:sri_rahayu_mohamed_hamim@moe.edu.sg">sri_rahayu_mohamed_hamim@moe.edu.sg</a></td>
+		<td>2 Confidence</td>
+		<td>Ms Yeo Zhi Lin<br><a href="mailto:yeo_zhi_lin@moe.edu.sg">yeo_zhi_lin@moe.edu.sg</a></td>
+		<td>Mdm Sri Rahayu<br><a href="mailto:sri_rahayu_mohamed_hamim@moe.edu.sg">sri_rahayu_mohamed_hamim@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Innovation</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Koh Wei Ning<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati<br><a href="mailto:haryani_ngaingati@moe.edu.sg">haryani_ngaingati@moe.edu.sg</a></td>
+		<td>2 Innovation</td>
+		<td>Ms Koh Wei Ning<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
+		<td>Mdm Haryani Bte Ngaingati<br><a href="mailto:haryani_ngaingati@moe.edu.sg">haryani_ngaingati@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td colspan="3" style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center">*Ms Tan Wei Li   Year Head/Lower Primary (Covering)</td>
+		<td style="text-align:center;" colspan="3">*Ms Tan Wei Li &emsp; Year Head/Lower Primary (Covering)</td>
 	</tr>
-</tbody></table>
+</table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 3</b></p>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 3</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tbody><tr>
+	<tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
@@ -161,15 +161,15 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadzerah Binte Mohamed Jufri<br><a href="mailto:nadzerah_mohamed_jufri@moe.edu.sg">nadzerah_mohamed_jufri@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td colspan="3" style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center">*Mr Adrian Yeo   Year Head / Middle Pri</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
 	</tr>
-</tbody></table>
+</table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 4</b></p>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 4</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tbody><tr>
+	<tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
@@ -192,7 +192,7 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Integrity</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Leong Wen Hsi Andrea<br><a href="mailto:leong_wen_hsi@moe.edu.sg">leong_wen_hsi@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">* Mr Adrian Yeo<br><a rel="noopener noreferrer" target="_blank" href="mailto:yeo_han_wi_adrian@moe.edu.sg">yeo_han_wi_adrian@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">* Mr Adrian Yeo<br><a href="mailto:yeo_han_wi_adrian@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_han_wi_adrian@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Valour</td>
@@ -210,15 +210,15 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin<br><a href="mailto:nadira_noordin@moe.edu.sg">nadira_noordin@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td colspan="3" style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center">*Mr Adrian Yeo   Year Head / Middle Pri</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
   </tr>
-</tbody></table>
+</table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 5</b></p>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 5</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tbody><tr>
+	<tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
@@ -231,7 +231,7 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Teamwork</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Heng Lee Peng Mabel<br><a href="mailto:heng_lee_peng@moe.edu.sg">heng_lee_peng@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a rel="noopener noreferrer" target="_blank" href="mailto:kamaladevi_chellayya@moe.edu.sg">kamaladevi_chellayya@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a href="mailto:kamaladevi_chellayya@moe.edu.sg" target="_blank" rel="noopener noreferrer">kamaladevi_chellayya@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Responsibility</td>
@@ -269,15 +269,15 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> Mdm Noor Nadiya Bte Abdul Salim<br><a href="mailto:noor_nadiya_abdul_salim@moe.edu.sg">noor_nadiya_abdul_salim@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td colspan="3" style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center">*Mdm Lee Peiyan   Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan &emsp; Year Head / Upper Pri</td>
 	</tr>
-</tbody></table>
+</table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 6</b></p>
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 6</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tbody><tr>
+	<tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 1</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher 2</th>
@@ -290,7 +290,7 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Teamwork</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Heng Lee Peng Mabel<br><a href="mailto:heng_lee_peng@moe.edu.sg">heng_lee_peng@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a rel="noopener noreferrer" target="_blank" href="mailto:kamaladevi_chellayya@moe.edu.sg">kamaladevi_chellayya@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a href="mailto:kamaladevi_chellayya@moe.edu.sg" target="_blank" rel="noopener noreferrer">kamaladevi_chellayya@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Responsibility</td>
@@ -328,6 +328,6 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> Mdm Noor Nadiya Bte Abdul Salim<br><a href="mailto:noor_nadiya_abdul_salim@moe.edu.sg">noor_nadiya_abdul_salim@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td colspan="3" style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center">*Mdm Lee Peiyan   Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan &emsp; Year Head / Upper Pri</td>
 	</tr>
-</tbody></table>
+</table>
