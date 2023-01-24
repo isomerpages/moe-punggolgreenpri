@@ -5,7 +5,7 @@ description: ""
 ---
 <p  style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b>Primary 1</b></p>
 
-<table style="width:805px; padding:10px 5px; vertical-align: middle;line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;overflow:hidden"><colgroup><col style="width:205px"><col style="width:300px"><col style="width:300px"></colgroup>
+<table style="width:810px; padding:10px 5px; vertical-align: middle;line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;overflow-x:visible;"><colgroup><col style="width:210px"><col style="width:300px"><col style="width:300px"></colgroup>
 	<tr>
 		<th style="background-color:#DDD; color:#666">Class</th>
 		<th style="background-color:#DDD; color:#666">Form Teacher 1</th>
