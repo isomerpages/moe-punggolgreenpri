@@ -63,8 +63,8 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
 
 <p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Recess Timings for 2023</b></p>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 458px" class="tg"><colgroup><col style="width: 176px">
-   <col style="width: 282px"></colgroup>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
+   <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
    <thead>
       <tr>
          <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal;"><span style="color:#666;background-color:#DDD">Primary 1:</span></th>
@@ -93,7 +93,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
           <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">9.40 a.m. to 10.10 a.m.</td>
       </tr>
       <tr>
-         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Thursday.</td>
+         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Thursday.</td>
       </tr>
    </tbody>
 </table>
