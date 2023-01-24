@@ -138,14 +138,14 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Bookshop Opening Hours</b><br>
 	Bookshop Opening Hours for Parents:</p>
 
-<table style="width:300px;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center">
-   <colgroup><col style="width: 150px"><col style="width: 150px"></colgroup> 
+<table style="width:500px">
+   <colgroup><col style="width:300px"><col style="width:200px"></colgroup> 
    <tr>
-     <th style="font-weight:normal;border-color:black;border-style:solid;border-width:1px;text-align:center">Monday - Thursday</th>
-    <th style="font-weight:normal;border-color:black;border-style:solid;border-width:1px;text-align:center">2 - 3 pm</th>
+     <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Monday - Thursday</th>
+    <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 - 3 pm</th>
    </tr>
    <tr>
-     <td style="border-color:black;border-style:solid;border-width:1px;text-align:center">Friday</td>
-     <td style="border-color:black;border-style:solid;border-width:1px;text-align:center">1 - 3 pm</td>
+     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Friday</td>
+     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 - 3 pm</td>
   </tr>
 </table>
