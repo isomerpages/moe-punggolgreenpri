@@ -5,30 +5,28 @@ description: ""
 ---
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Our Privacy Policy was posted on 1st December 2017. It governs the privacy terms of our Website, located at punggolgreenpri.moe.edu.sg.<br><br>
 
-<b>Your Privacy</b>
+<b>Your Privacy</b><br>
 Punggol Green Primary School follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.<br><br>
 
-<b>Definitions</b>
+<b>Definitions</b><br>
 "Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.<br>
 
 "Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.<br><br>
 
-<b>Information We Collect</b>
+<b>Information We Collect</b><br>
 Generally, you control the amount and type of information you provide to us when using our Website.<br>
 
 As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.<br><br>
 
-<b>Computer Information Collected</b>
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:<br><br>
-
-<b>• Cookies</b><br>
-Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.<br><br>
-
-<b>• Third Party Tracking Tools</b><br>
-We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.<br><br>
-
-<b>• Automatic Information</b><br>
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.<br><br>
+<b>Computer Information Collected</b><br>
+When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
+   <ul>
+      <li style="padding-left:10em"><b>Cookies</b><br>
+         Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.</li>
+      <li style="padding-left:10em">Third Party Tracking Tools</b><br>
+         We do not use any third party tracking tools on our website. At no time is your Personally Identifiable Information tracked.</li>
+      <li style="padding-left:10em"><b>Automatic Information</b><br>
+         We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.</li>
 
 <b>How We Use Your Information</b><br>
 We use the information we receive from you as follows:<br><br>
