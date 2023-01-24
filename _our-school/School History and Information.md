@@ -51,8 +51,8 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Curriculum Time 2023 (P1 - P6)</b></p>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 458px" class="tg">
-   <colgroup><col style="width: 176px"><col style="width: 282px"></colgroup>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
+   <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
    <thead>
       <tr>
          <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#666;background-color:#DDD">Curriculum Time</span></td>
@@ -92,12 +92,14 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
           <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Primary 6:</span></td>
           <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">9.40 a.m. to 10.10 a.m.</td>
       </tr>
+      <tr>
+         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Thursday.</td>
+      </tr>
    </tbody>
 </table>
 
-<td style="background-color:#FFF;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">There will be a 10-minute snack break from Monday to Thursday.</td>
 
-<p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2023</b></p>
+<p style="line-height: 1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2023</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
    <thead>
@@ -114,26 +116,26 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
    <tbody>
       <tr>
          <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1.30 p.m.<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
          <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12.30 p.m.<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1, P2<br>Dismissal<br></td>
       </tr>
       <tr>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1.40 p.m.<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
-          <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1.40 p.m.<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
+          <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
          <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12.40 p.m.<br></td>
-         <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
+         <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3, P4, P5, P6<br>Dismissal<br></td>
       </tr>
    </tbody>
 </table>
 
-<p style="line-height:1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>School Bookshop Opening Hours</b><br>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Bookshop Opening Hours</b><br>
 	Bookshop Opening Hours for Parents:</p>
 
 <table style="width:300px;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center">
