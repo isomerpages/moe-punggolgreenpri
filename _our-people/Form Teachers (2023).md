@@ -187,12 +187,12 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Responsibility</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Tan Wai Mun Dolly<br><a href="mailto:dolly_tan_wai_mun@moe.edu.sg">dolly_tan_wai_mun@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Fariq<br><a href="mailto:muhammad_fariq_abdul_latif@moe.edu.sg">muhammad_fariq_abdul_latif@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Muhammad Fariq<br><a href="mailto:muhammad_fariq_abdul_latif@moe.edu.sg">muhammad_fariq_abdul_latif@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Integrity</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Leong Wen Hsi Andrea<br><a href="mailto:leong_wen_hsi@moe.edu.sg">leong_wen_hsi@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">* Mr Adrian Yeo<br><a href="mailto:yeo_han_wi_adrian@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_han_wi_adrian@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">* Mr Adrian Yeo<br><a href="mailto:yeo_han_wi_adrian@moe.edu.sg">yeo_han_wi_adrian@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Valour</td>
@@ -231,7 +231,7 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Teamwork</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Heng Lee Peng Mabel<br><a href="mailto:heng_lee_peng@moe.edu.sg">heng_lee_peng@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a href="mailto:kamaladevi_chellayya@moe.edu.sg" target="_blank" rel="noopener noreferrer">kamaladevi_chellayya@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Kamaladevi Chellaya <br><a href="mailto:kamaladevi_chellayya@moe.edu.sg">kamaladevi_chellayya@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Responsibility</td>
