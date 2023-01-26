@@ -3,11 +3,7 @@ title: E2K Science
 permalink: /our-curriculum/permalink/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>E2K Science</font>**
-
-![](/images/Our%20Curriculum/E2K%20Photo/E2K_Logo.jpg)
+<img src="/images/Our%20Curriculum/E2K%20Photo/E2K_Logo.jpg" style="width:60%">
 
 Punggol Green Primary School (PGPS) started her maiden E2K Science journey in 2021.
 
