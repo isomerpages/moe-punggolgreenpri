@@ -128,7 +128,7 @@ description: ""
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Teamwork</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat<br><a href="mailto:khadijah_ab_samat@moe.edu.sg">khadijah_ab_samat@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Vijayseelan<br><a href="mailto:vijayaseelan_narayanasamy@moe.edu.sg">vijayaseelan_narayanasamy@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Vijayaseelan<br><a href="mailto:vijayaseelan_narayanasamy@moe.edu.sg">vijayaseelan_narayanasamy@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Responsibility</td>
