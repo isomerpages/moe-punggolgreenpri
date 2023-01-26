@@ -3,9 +3,7 @@ title: Mother Tongue Language
 permalink: /our-curriculum/mother-tongue-language/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Mother Tongue Language</font>**
 
 **<font size=5>Subject Overview</font>**
 
@@ -110,4 +108,3 @@ The key considerations for designing the programmes are:
      *   Citizenry-Driven MTL Tasks
 
  ![](/images/Our%20Curriculum/MTL%2013.png)
-
