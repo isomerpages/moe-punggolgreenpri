@@ -4,13 +4,8 @@ permalink: /our-curriculum/pe-art-and-music/swimsafer-2-0/
 description: ""
 third_nav_title: PE, Art and Music
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>Swimsafer 2.0</font>**
-
 **Accessing E-certificate**
 
- 
 Dear parents,
 
 You can now access your child’s SwimSafer 2.0 certificate via the web-based ActiveSG portal at
