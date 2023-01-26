@@ -70,7 +70,7 @@ KidsRead Programme (P1 & P2) <br>
 Reading Remediation Programme (P3 & P4)<br>
 School-based Dyslexia Programme (P3 & P4)<br><br>
  
-<b>Engaging Our Students<b><br>
+<b>Engaging Our Students</b><br>
 STELLAR (Strategies for English Language Learning and Reading)<br>
 Process-Genre Approach to Writing <br>
 School-Wide Reading Programme (SWRP)<br>
