@@ -1,11 +1,9 @@
 ---
 title: Student Management
-permalink: /our-curriculum/student-management
+permalink: /our-curriculum/student-management/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Student Management</font>**
 
 Vision : **Self-disciplined leaders** with a strong sense of integrity and respect for others
 
