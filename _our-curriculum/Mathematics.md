@@ -1,11 +1,9 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/mathematics
+permalink: /our-curriculum/mathematics/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Mathematics</font>**
 
 **<font size=5>Department Vision:</font>**
 
