@@ -1,11 +1,8 @@
 ---
 title: Applied Learning Programme (STEM)
-permalink: /our-curriculum/applied-learning-programme-stem
+permalink: /our-curriculum/applied-learning-programme-stem/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>Applied Learning Programme (STEM)</font>**
 
 <img src="/images/Our%20Curriculum/ALP1.png"  
      style="width:55%">
