@@ -19,7 +19,6 @@ We look forward to work closely with you to make PGPS a more
 vibrant and exciting school for your child!
 
                                                           Scan here to join!
-
 <img src="/images/PSG%20QR%20(1).png" style="width:120px">
 
 
