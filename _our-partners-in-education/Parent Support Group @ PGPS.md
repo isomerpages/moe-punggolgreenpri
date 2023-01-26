@@ -17,7 +17,6 @@ If you would like to volunteer your services as a Parent Volunteer, please scan 
 
 We look forward to work closely with you to make PGPS a more vibrant and exciting school for your child!
 
-<img src="/images/Our%20Partners%20in%20Education/PSG%20QR.jpg"  
-     style="width:15%">
+![](/images/PSG%20QR.png)
 
 ![](/images/PSG%20photo.jpg)
