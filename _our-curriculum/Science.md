@@ -1,12 +1,8 @@
 ---
 title: Science
-permalink: /our-curriculum/science
+permalink: /our-curriculum/science/
 description: ""
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>Science</font>**
-
 **<font size=5>Department Vision</font>**<br>
 Students as future-ready science inquirers in advocating positive change.
 
