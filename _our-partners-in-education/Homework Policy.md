@@ -1,11 +1,9 @@
 ---
 title: Homework Policy
-permalink: /our-partners-in-education/homework-policy
+permalink: /our-partners-in-education/homework-policy/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Homework Policy</font>**
 
 Updated on May 2021
 
