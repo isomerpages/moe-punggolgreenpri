@@ -17,6 +17,13 @@ description: ""
 <li style="line-height:1.2; font-size:16px; font-family:Arial; text-align:justify;">A medical certificate or a letter from a parent is required when a student is absent from any school activities including tests and examinations. Students absent from school for medical reasons should stay at home for the duration indicated in the medical certificate.</li>
 
 <li style="line-height:1.2; font-size:16px; font-family:Arial; text-align:justify;">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+	
+<p style="">Attire<br>
+
+Boys: Male students must be neat in appearance, clean-shaven and no facial hair is allowed. Hair should be neatly cropped and not touch the eyes, shirt collar or ears. Thickly gelled and spiky hairstyles are not allowed. Colouring of hair is not allowed.<br><br>
+
+Girls: Hair should be at shoulder-length. Long hair should be neatly tied or plaited. Hair accessories, if used, should be black or dark blue. Colouring of hair is not allowed. Girls with fringe below the eyebrows should have it neatly and securely pinned up.	
+	
 <img src="/images/Our%20School/Student%20Attire%201%20updated.jpg">
 	<img src="/images/Our%20School/Student%20Attire%202%20updated.jpg">
 <img src="/images/Our%20School/Student%20Attire%203.jpg">
