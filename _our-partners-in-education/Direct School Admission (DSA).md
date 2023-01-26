@@ -3,7 +3,6 @@ title: Direct School Admission (DSA)
 permalink: /our-partners-in-education/direct-school-admission-dsa/
 description: ""
 ---
-
 **<font size=5>Information on Direct School Admission for secondary schools (DSA-Sec)</font>**
   
 
