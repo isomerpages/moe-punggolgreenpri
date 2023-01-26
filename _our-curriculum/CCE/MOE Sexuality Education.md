@@ -1,12 +1,10 @@
 ---
 title: MOE Sexuality Education
-permalink: /our-curriculum/character-and-citizenship-education/moe-sexuality-education
+permalink: /our-curriculum/character-and-citizenship-education/moe-sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>MOE Sexuality Education</font>**
 
 **<font size=5>MOE Sexuality Education in Schools</font>**
 
