@@ -141,8 +141,8 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
 <table style="width:350px">
    <colgroup><col style="width:225px"><col style="width:125px"></colgroup> 
    <tr>
-     <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Monday - Thursday</th>
-    <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 - 3 pm</th>
+     <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:normal;">Monday - Thursday</th>
+    <th style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:normal;">2 - 3 pm</th>
    </tr>
    <tr>
      <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Friday</td>
