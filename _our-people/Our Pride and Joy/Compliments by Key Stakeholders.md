@@ -16,30 +16,30 @@ Thank you for your support for the ministry’s cross-level deployment efforts, 
 Have a great week ahead!<br><br>
   
 Vivian Li (Ms)<br>
-<i>Senior Manager, Career Management Unit, HR Management Centre, HR Solutions and Capabilities Division </i><br>
-Ministry of Education<br><br>
+<i>Senior Manager, Career Management Unit, HR Management Centre, HR Solutions and Capabilities Division >/i><br>
+Ministry of Education<br><br><br>
 
 <b>To Ms Fang Siying</b><br>
 I would like to thank Ms Fang Siying for being a tenacious, committed and hardworking teacher who positively steers students to the best of their abilities, in their studies and leadership development.<br><br>
 
-Hao Xuan’s Mummy<br><br>
+Hao Xuan’s Mummy<br><br><br>
 
 <b>To Mr Lite Tan</b><br>
 I would like to thank Mr Tan for his reliable and assuring presence since the beginning of the year amidst the uncertainties brought by Covid-19. Thank you for anchoring the class, being strict yet fun, and motivating and inspiring my son to want to do well.<br><br>
 
-Hao Xuan’s Mummy<br><br>
+Hao Xuan’s Mummy<br><br><br>
 
 <b>To Ms Eugenia Ong</b>
 Thank you for teaching me (and abusing my table) and being sort of patient with me. You helped me to learn many methods and things. However, can you please return me my autograph book?<br><br>
   
-Veng Haw<br><br>
+Veng Haw<br><br><br>
 
 <b>Dixon</b>
 Mr Dixon has been very generous to share his knowledge and experience with me. He is a straight shooter and points me to the right direction and pertinent resources.<br><br>
 
 I dare say the learning rope is steep with our first case of Covid positive student and the start of the National Examinations. Nonetheless the challenges are manageable and interesting.<br><br>
 
-SAT Mentoring Programme- E1 OM<br><br>
+SAT Mentoring Programme- E1 OM<br><br><br>
 
 <b>To Ms Carmela Neo</b><br>
 Dear Mr Hanafi,<br><br>
@@ -54,7 +54,7 @@ Lastly, Ms Neo has the ability to handle parents well. We remembered the last PT
 
 This is the first time we have written in to commend a teacher. We understand being a teacher is never easy and the heart is important for a teacher to keep going. There are times where the going gets tough but we hope Ms Neo keeps on going as she has the right heart for education kids.<br><br>
 
-Parents of Kiron Ng Chun Fung (2021 P4 Valour)<br><br>
+Parents of Kiron Ng Chun Fung (2021 P4 Valour)<br><br><br>
 
 <b>To Mdm Nadira & Ms Cerelia Chng</b><br>
 I am the parent of Nicole Koh in Class 6 Integrity, and would like to compliment Mdm Nadira and Ms Cerelia Chng for their passion in teaching and dedication to students.<br><br>
@@ -69,12 +69,12 @@ I would like to express my appreciation to Mdm Nadira and Ms Chng who have share
 
 Your team members have put their hands together to provide a conducive & comfortable learning environment for our children. Once again, thank you to Punggol Green Primary School.<br><br>
 
-Mdm Ling, Mother of Nicole Koh<br><br>
+Mdm Ling, Mother of Nicole Koh<br><br><br>
 
 <b>To Mr Desmond Tay</b><br>
 Dear Mr Tay,<br><br>
 
-Thank you for a great year! I want to express my sincere gratitude for all the efforts you have taken during this academic year. Alya enjoyed each and every class of yours and always look forward to go to school everyday. I really appreciate the way in which you helped her learn English and Science by making the lesson innovative. You not only helped her in getting good scores in English but also in developing a keen liking for both subject. I also thank you for encouraging her to participate in class activities she thoroughly enjoyed. I thank you again for all the wonderful work you have done and wish you all the best for your future endeavours.<br><br>
+Thank you for a great year! I want to express my sincere gratitude for all the efforts you have taken during this academic year. Alya enjoyed each and every class of yours and always look forward to go to school everyday. I really appreciate the way in which you helped her learn English and Science by making the lesson innovative. You not only helped her in getting good scores in English but also in developing a keen liking for both subject. I also thank you for encouraging her to participate in class activities she thoroughly enjoyed. I thank you again for all the wonderful work you have done and wish you all the best for your future endeavours.<br><br><br>
 
 <b>To Mdm Siti Ramzah and Mrs Yap</b><br>
 I am Samuel Li Jian Fu, Evelin Li Yi Yin’s father from Primary 6 Responsibility. Evelin really enjoys the learning experiences she received this year. Her form teacher Mdm Siti Ramzah and co-form teacher Mrs Yap Shuen Yin are very responsible, caring and experienced teachers. Students from P6R calls Mdm Siti, “Mom Siti”. My child really likes her form teacher and co-form teacher.<br><br>
