@@ -1,11 +1,9 @@
 ---
 title: Waitlist Form
-permalink: /our-partners-in-education/waitlist-form
+permalink: /our-partners-in-education/waitlist-form/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Waitlist Form</font>**
 
 Please click on the link below to apply for Waiting List  
   
