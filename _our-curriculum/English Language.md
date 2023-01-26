@@ -18,24 +18,23 @@ To provide a rich curriculum that is enabling, engaging and enriching<br><br>
 <img src="/images/Our%20Curriculum/English%202.jpg"  
      style="width:75%">
 
-<center>MLEA for Lower primary students</center>
+<span style="text-align:center">MLEA for Lower primary students</span>
 
 <img src="/images/Our%20Curriculum/English%203.jpg"  
      style="width:75%">
 
-<center>Story-telling session conducted by Teachers during EL Fest</center>
+<span style="text-align:center">Story-telling session conducted by Teachers during EL Fest</span>
 
 <img src="/images/Our%20Curriculum/English%204.png"  
      style="width:75%">
 
-<center>Poetry Recitation during EL Fest</center>
+<span style="text-align:center">Poetry Recitation during EL Fest</span>
 
-<img src="/images/Our%20Curriculum/English%205.png"  
-     style="width:75%">
+<img src="/images/Our%20Curriculum/English%205.png" style="width:60%">
 
 <center>Experiential Learning during EL Lessons</center>
 
-<span style="colour:green"><b>Department Key Stage Outcomes</b></span><br>
+<span style="colour:#84C53D"><b>Department Key Stage Outcomes</b></span><br>
 
 <b>Primary 1 & 2 (Orientation Stage)</b><br>
 <b>By the end of their lower primary years, students will be able to:</b><br>
@@ -61,7 +60,7 @@ To provide a rich curriculum that is enabling, engaging and enriching<br><br>
    <li>Read critically and with discernment according to PACC in order to distinguish fact from falsehood and to stay well-informed of global issues</li>
    <li>Evaluate real-world issues and multiple perspectives as well as synthesise information to co-create knowledge and solutions in new contexts</li></ul>
 
-<span style="colour:green"><b>Department Key Programmes</b></span><br>
+<span style="colour:#84C53D"><b>Department Key Programmes</b></span><br>
 To achieve the department’s key stage outcomes as well as the PGPS Student Outcomes, the department implements the following key approaches and programmes:<br><br>
 
 <b>Enabling Our Students</b><br>
