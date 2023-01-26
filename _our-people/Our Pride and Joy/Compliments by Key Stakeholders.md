@@ -16,7 +16,7 @@ Thank you for your support for the ministry’s cross-level deployment efforts, 
 Have a great week ahead!<br><br>
   
 Vivian Li (Ms)<br>
-<i>Senior Manager, Career Management Unit, HR Management Centre, HR Solutions and Capabilities Division >/i><br>
+<i>Senior Manager, Career Management Unit, HR Management Centre, HR Solutions and Capabilities Division </i><br>
 Ministry of Education<br><br><br>
 
 <b>To Ms Fang Siying</b><br>
