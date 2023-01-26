@@ -3,7 +3,7 @@ title: English Language
 permalink: /our-curriculum/english-language/
 description: ""
 ---
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:left;">
 It has been said that the English Language can only be understood “<b>thr<u>ough</u> t<u>ough</u></b>, <b>thor<u>ough</u> th<u>ough</u>t</b>”. <b>Th<u>ough</u></b> some may hence see the learning of the language as difficult (there are 5 ways just to pronounce ‘<b>-ough</b>’! Ouch!), we appreciate it as a fun challenge and this is the spirit that we hope to inculcate in our students!<br><br>
 
 <b>Vision</b><br>
