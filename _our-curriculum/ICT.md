@@ -1,11 +1,9 @@
 ---
 title: ICT
-permalink: /our-curriculum/ict
+permalink: /our-curriculum/ict/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>ICT</font>**
 
 **<font size=5>Department Vision</font>**<br>
 Future-ready and Responsible Digital Learner.
