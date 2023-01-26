@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Punggol Green Homepage GIF.gif
       key_highlights:
         - title: P1 Orientation 2023
           description: Off to a Great Start!
