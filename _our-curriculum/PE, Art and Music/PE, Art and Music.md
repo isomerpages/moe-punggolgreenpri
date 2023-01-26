@@ -4,11 +4,6 @@ permalink: /our-curriculum/pe-art-and-music/
 description: ""
 third_nav_title: PE, Art and Music
 ---
-![](/images/sub-banner.jpg)
-
-**<font size=6>PE, Art and Music</font>**
-
-
 
 **<font size=5>Department Vision</font>**<br>
 A caring community of self-directed leaders with an awareness and appreciation of the arts; and in pursuit of an active and healthy lifestyle.
