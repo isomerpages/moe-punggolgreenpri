@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - P1 Orientation 2023.md
       - School Advisory Committee.md
       - Parent Support Group @ PGPS.md
       - School Safety Information.md
