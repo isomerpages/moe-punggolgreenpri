@@ -1,11 +1,9 @@
 ---
 title: Social Studies
-permalink: /our-curriculum/social-studies
+permalink: /our-curriculum/social-studies/
 description: ""
 ---
-![](/images/sub-banner.jpg)
 
-**<font size=6>Social Studies</font>**
 
 **<font size=5>Department Vision</font>**<br>
 Leaders of Character, Citizens of Compassion
