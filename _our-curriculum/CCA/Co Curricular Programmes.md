@@ -5,12 +5,6 @@ description: ""
 third_nav_title: CCA
 ---
 
-
-
-![](/images/sub-banner.jpg)
-
-**<font size=6>Co Curricular Programmes</font>**
-
 **<font size=5>Ukulele (P3)</font>**
 
 Ukulele only has 4 stings making it a simple instrument that is easy for the students to learn. One of the benefits of ukulele is it teachers the students hand eye coordination and it helps to improve their fine motor skills. The students will learn how to independently move their fingers, coordinate rhythm and read the ukulele tab. They will also learn how to play some songs with simpler chords from start to finish. The students will also get to play for their peers during the CCA time.
