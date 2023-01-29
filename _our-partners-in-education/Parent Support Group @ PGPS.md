@@ -7,38 +7,38 @@ description: ""
    <colgroup><col style="width: 201px"><col style="width: 201px"></colgroup>
       <thead>
          <tr>
-            <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:700;color:#666;background-color:transparent">Name</span></th>
-            <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:700;color:#666;background-color:transparent">Designation</span></th>
+            <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Name</th>
+            <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Designation</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Stephanie Chow</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Advisor</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Stephanie Chow</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Advisor</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Alice Tan</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Chairperson</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Alice Tan</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chairperson</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Delphine Kiong</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Vice-Chairperson</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Delphine Kiong</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vice-Chairperson</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Elsie Minus</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Secretary</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Elsie Minus</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Secretary</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Woon Li Wen</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">P1 & P2 Level Rep</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Woon Li Wen</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 & P2 Level Rep</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Claire Zhang</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">P3 & P4 Level Rep</span></td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Claire Zhang</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 & P4 Level Rep</td>
          </tr>
          <tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">Ms Navamani</span></td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:transparent">P5 & P6 Level Rep</span></td></tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Navamani</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 & P6 Level Rep</td></tr>
          </tbody>
       </table>
 
@@ -48,7 +48,7 @@ Over the years, we have developed a very supportive group of parent volunteers w
 
 If you would like to volunteer your services as a Parent Volunteer, please scan the following QR Code or via the following link.<br>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:center;">
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:center;">
 <img src="/images/PSG%20QR%20(1).png" style="width:120px">
 <a href="https://form.gov.sg/61c95e8db3479f0012411eae">Click here to join!</a></p>
 
