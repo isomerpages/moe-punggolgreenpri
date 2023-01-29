@@ -22,11 +22,11 @@ description: ""
    <li  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PGPS.</li>
 </p></ol>
 
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><ol>
+<ol><p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
  <b>Security</b>
    <li  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.</li>
    <li  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.</li>
-</ol></p>
+</p></ol>
 
 <ol><p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
  <b>Hyperlinks</b>
