@@ -1,0 +1,20 @@
+collections:
+  our-moe-kindergarten:
+    output: true
+    order:
+      - LIFE@MK/Overview.md
+      - LIFE@MK/.keep
+      - LIFE@MK/K1.md
+      - LIFE@MK/K2.md
+      - LIFE@MK/MTL.md
+      - MK 2023 Open House/Open House MK 2023.md
+      - MK 2023 Open House/.keep
+      - MK 2023 Open House/Environment.md
+      - MK 2023 Open House/A Day in MK.md
+      - MK 2023 Open House/Children's Testimonial.md
+      - MK 2023 Open House/MK Uniform Matters.md
+      - MK 2023 Open House/Parent's Testimonial.md
+      - MK 2023 Open House/KCare.md
+      - MK Forms.md
+      - Staff.md
+      - MK Curriculum.md

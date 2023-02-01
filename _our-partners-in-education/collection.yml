@@ -1,0 +1,14 @@
+collections:
+  our-partners-in-education:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parent Support Group @ PGPS.md
+      - School Safety Information.md
+      - Financial Assistance.md
+      - Waitlist Form.md
+      - Direct School Admission (DSA).md
+      - Parent Resource Kit on Student Vaccination.md
+      - Homework Policy.md
+      - Book List 2023.md
+      - P1 Orientation 2023.md

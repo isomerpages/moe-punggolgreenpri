@@ -1,32 +1,18 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Punggol Green Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: P1 Orientation 2023
+          description: Off to a Great Start!
+          url: /our-partners-in-education/P1Orientation2023/
+        - title: P1 AY2023 Briefing for Parents
+          description: Ready, Steady, Go!
+          url: /p1AY2023briefing/
+      background: /images/WebsiteBanner.gif
 ---
-
