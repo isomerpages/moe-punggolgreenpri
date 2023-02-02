@@ -54,78 +54,40 @@ b.       Character and Citizenship Education (CCE)
 
 **Primary 5**
 
-| 
-**CCE(FTGP) THEME**
-
- | 
-
-**LESSON TITLE / DURATION**
-
- | 
-
-**Lesson OVERVIEW**
-
- | 
-
-**TIME PERIOD**
-
- |
-| --- | --- | --- | --- |
-| 
-
-Growing Years
-
- | 
-
-The Changes in Me
-
-(60 min)
-
- | 
-
-This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.
-
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
- | 
-
-Term 2 Week 9
-
- |
-| 
-
- Did You Know?
-
-(60 min)
-
- | 
-
-This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.**
-
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
- | 
-
-Term 2 Week 9
-
- |
-| 
-
-Keeping Myself Safe
-
-(60 min)
-
- | 
-
-In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
-
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
- | 
-
-Term 2 Week 9
-
- |
+<table style="undefined;table-layout: fixed; width: 805px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 220px">
+<col style="width: 300px">
+<col style="width: 120px">
+</colgroup>
+<thead>
+  <tr>
+    <th>CCE(FTGP) THEME</th>
+    <th>LESSON TITLE / DURATION</th>
+    <th>LESSON OVERVIEW</th>
+    <th>TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Growing Years</td>
+    <td>The Changes in Me<br>(60 min)</td>
+    <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td>Did You Know? <br>(60 min)</td>
+    <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td>Keeping Myself Safe<br>(60 min)<br></td>
+    <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
+    <td>Term 2 Week 9</td>
+  </tr>
+</tbody>
+</table>
 
 **2023 Sexuality Education Lessons in CCE 2021**
 
