@@ -91,10 +91,10 @@ b.       Character and Citizenship Education (CCE)
 
 <table style="undefined;table-layout: fixed; width: 805px">
 <colgroup>
-<col style="width: 161.333333px">
-<col style="width: 221.333333px">
-<col style="width: 301.333333px">
-<col style="width: 121.333333px">
+<col style="width: 160px">
+<col style="width: 220px">
+<col style="width: 300px">
+<col style="width: 120px">
 </colgroup>
 <thead>
   <tr>
@@ -132,6 +132,6 @@ b.       Character and Citizenship Education (CCE)
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed opt-out form is to be submitted by 10/02/2023.
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Our%20Curriculum/SexualityEducation_AnnexA.pdf). The completed opt-out form is to be submitted by 10/02/2023.
 
-10.      Parents can contact the school at [Satiish\_sathasilvam@schools.gov.sg](mailto:Satiish_sathasilvam@schools.gov.sg) (Mr Satiish Sathasilvam / HOD CCE) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.      Parents can contact the school at [satiish\_sathasilvam@schools.gov.sg](mailto:Satiish_sathasilvam@schools.gov.sg) (Mr Satiish Sathasilvam / HOD CCE) for discussion or to seek clarification about the school’s Sexuality Education programme.
