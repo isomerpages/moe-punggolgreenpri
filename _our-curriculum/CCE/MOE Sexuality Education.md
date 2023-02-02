@@ -38,6 +38,8 @@ third_nav_title: CCE
   
 <p style="font-family:arial;font-size:16px;text-align:center;"><b>At Punggol Green Primary School, the following Sexuality Education lessons will be taught in 2023:<br><br>
 
+<img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
+
 2023 Sexuality Education Lessons in CCE 2021<br><br>
 
 Primary 5</b></p>
