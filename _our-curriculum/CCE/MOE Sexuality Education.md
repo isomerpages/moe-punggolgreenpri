@@ -81,7 +81,6 @@ Primary 5</b></p>
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;">
 
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
-2023 Sexuality Education Lessons in CCE 2021<br><br>
 
 <b>2023 Sexuality Education Lessons in CCE 2021<br><br>
 
