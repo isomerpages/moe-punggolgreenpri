@@ -15,7 +15,7 @@ third_nav_title: CCE
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The <b>Key Messages</b> of Sexuality Education are:
       <ul>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Love and respect yourself as you love and respect others;</li>
-         <li style="font-family:arial;font-size:16px;text-align:justify;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Make responsible decisions for yourself, your family and society; and</li>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
       </ul>
