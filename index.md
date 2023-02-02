@@ -14,5 +14,5 @@ sections:
         - title: P1 AY2023 Briefing for Parents
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
-      background: /images/WebsiteBannerv2.gif
+      background: /images/WebsiteBannerv3.gif
 ---
