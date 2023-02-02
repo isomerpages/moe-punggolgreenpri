@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - MOE Sexuality Education.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -21,3 +20,4 @@ collections:
       - CCA/Co Curricular Programmes.md
       - CCA/Excellence CCAs.md
       - E2K Science.md
+      - MOE Sexuality Education.md
