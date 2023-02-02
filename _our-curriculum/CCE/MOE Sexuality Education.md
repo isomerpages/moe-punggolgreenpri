@@ -42,12 +42,12 @@ third_nav_title: CCE
 
 Primary 5</b></p>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:805px">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
-<col style="width: 160px">
-<col style="width: 220px">
-<col style="width: 300px">
-<col style="width: 120px">
+<col style="width: 155px">
+<col style="width: 215px">
+<col style="width: 295px">
+<col style="width: 115px">
 </colgroup>
 <thead>
   <tr>
