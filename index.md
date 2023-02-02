@@ -15,4 +15,7 @@ sections:
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
       background: /images/WebsiteBannerv3.gif
+  - resources:
+      title: Our Partners in Education
+      button: Assess resources here
 ---
