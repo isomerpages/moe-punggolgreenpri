@@ -15,5 +15,6 @@ sections:
           description: Ready, Steady, Go!
           url: /p1AY2023briefing/
       background: /images/WebsiteBanner_SmallLabel.gif
-  - resources: {}
+  - resources:
+      subtitle: Key highlights
 ---
