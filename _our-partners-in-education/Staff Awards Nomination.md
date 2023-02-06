@@ -7,7 +7,7 @@ description: ""
 
 The Inspiring Teacher of English Award is a national award for English teachers in Singapore schools that acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.
 
-The form can be downloaded from this link [_http://goodenglish.org.sg/inspiring-teacher-of-english-_](http://goodenglish.org.sg/inspiring-teacher-of-english-)[_award/nomination-information._](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information) 
+The form can be downloaded from this link [_http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information._](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information)
 
 Nomination period: **6 p.m.** on **27 March 2023.**
 
