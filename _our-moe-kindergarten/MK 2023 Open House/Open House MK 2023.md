@@ -7,3 +7,6 @@ third_nav_title: MK 2023 Open House
 Is your child turning 5 years old in 2024? To find out more about the pre-school experience at MK, you may visit [www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
 
 #moekindergarten #ontoastrongstart
+![](/images/Slide1.jpg)
+
+![](/images/Slide2.jpg)
