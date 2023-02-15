@@ -4,8 +4,6 @@ permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-
-
 <img src="/images/Our%20Curriculum/CCE%201.png"  
      style="width:65%">
 
@@ -13,7 +11,7 @@ third_nav_title: CCE
 Leaders of Character, Citizens of Compassion
 
 **<font size=5>Department Mission</font>**<br>
-Nurture future-ready leaders of exemplary characters who are empowered in making a difference for the society.
+Nurture future-ready leaders of exemplary character who are empowered in making a difference for the society
 
 
 **<font size=5>Overview of CCE@PGPS</font>**<br>  
@@ -22,11 +20,11 @@ CCE@PGPS is aligned to the school’s vision of ‘Future-Ready Leaders With The
 
   
 
-Anchored on the school’s core values (STRIVE) , and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
+Anchored on the school’s core values (STRIVE), and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
 
   
 
-**1.** Good Character: Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
+**1.** Good Character:  Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
 
   
 
@@ -55,7 +53,7 @@ Anchored on the school’s core values (STRIVE) , and guided by the MOE’s Fram
   
 
 <u>Form Teacher Guidance Period (FTGP):</u><br>
-FTGP lessons emphasise on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the Secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
+FTGP lessons emphasize on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
 
   
 
@@ -64,20 +62,20 @@ Through case scenarios and dialogues, students are encouraged to think through a
   
 
 <u>Education & Career Guidance (ECG): Our Aspirations</u><br>
-It is never too young to have an aspiration on what we want to be when we grow up. You will be surprised by how varied our students’ aspirations could be, from becoming a Master Chef, a YouTuber to a LEGO designer! 
+It is never too young to have an aspiration on what we want to be when we grow up. You will be surprised by how varied our students’ aspirations could be, from becoming a Master Chef, a YouTuber to a LEGO designer! 
 
   
 
-ECG@PGPS: For Students, By Students was conceptualised in 2021 where Primary 5 and 6 students share their aspirations to their juniors and motivate them to start thinking of their own aspirations. With the SkillsFuture Portal to guide them, the programme serves as a stepping stone to greater awareness and knowledge of the different educational pathways and career possibilities for our students.  
+ECG@PGPS: For Students, By Students was conceptualised to enable Primary 5 and 6 students to share their aspirations with their juniors and motivate them to start thinking of their own aspirations. With the MySkillsFuture Portal to guide them, the programme serves as a stepping stone to greater awareness and knowledge of the different educational pathways and career possibilities for our students.  
 
   
 
 <u>Values-in-Action (VIA)</u><br>
-Our VIA programmes aim to create meaningful learning experiences to support students’ development as caring and socially responsible citizens who contribute actively to the community, through the learning and application of values, knowledge and skills. 
+Our VIA programmes aim to create meaningful learning experiences to support students’ development as caring and socially responsible citizens who contribute actively to the community, through the learning and application of values, knowledge and skills. 
 
   
 
-As young as Primary 1 & 2, our students develop social awareness by playing a part in providing a conducive school environment for themselves and their peers. As they proceed to Primary 3 & 4, our students explore the importance of taking care of the environment. With the mastery of the skills and attributes throughout their early years, the Primary 5 & 6 students then open their hearts and reach out to connect with those in the community. 
+As young as Primary 1 & 2, our students develop social awareness by playing a part in providing a conducive school environment for themselves and their peers. As they proceed to Primary 3 & 4, our students explore the importance of taking care of the environment. With the mastery of the skills and attributes throughout their early years, the Primary 5 & 6 students then open their hearts and reach out to connect with those in the community. 
 
   
 
@@ -98,5 +96,6 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 **<u>National Education (NE)</u>** 
 
-As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens.
+As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens. 
+
 ![](/images/CCE%20Update.jpg)
