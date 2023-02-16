@@ -44,7 +44,7 @@ Anchored on the school’s core values (STRIVE), and guided by the MOE’s Frame
 **<font size=5>CCE@PGPS Programmes</font>**<br>  
 
 <img src="/images/Our%20Curriculum/CCE%202.png"  
-     style="width:65%">
+     style="width:100%">
 
 
 **<font size=5>Snapshot of PGPS CCE Programmes</font>**<br>  
@@ -98,4 +98,5 @@ As young as Primary 1 & 2, our students develop social awareness by playing a pa
 
 As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens. 
 
-![](/images/CCE%20Update.jpg)
+<img src="/images/Our%20Curriculum/CCE%205.jpg"  
+     style="width:65%">
