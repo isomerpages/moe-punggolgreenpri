@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Mascot.md
       - Principal's Message.md
       - Our Vision, Mission, Values.md
       - School History and Information.md
@@ -10,5 +9,6 @@ collections:
       - School Rules.md
       - School Core Values STRIVE.md
       - School Calendar.md
-      - School Mascot/School Mascot.md
+      - School Mascot.md
       - School Mascot/.keep
+      - School Mascot/School Mascot.md
