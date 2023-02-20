@@ -16,4 +16,3 @@ We hope that TREVIS will play an integral role in enriching our students’ scho
 <b>
 	<img src="/images/Picture2.png" style="width:80%">
 	
-![](/images/Picture2.png)
