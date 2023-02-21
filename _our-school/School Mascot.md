@@ -3,7 +3,7 @@ title: School Mascot
 permalink: /our-school/permalink/
 description: ""
 ---
-<p style="line-height:1.1; font-size:16px; font-family:Arial; text-align:justify;">
+<p style="line-height:1.1; font-size:16px; font-family:Arial; text-align:center;">
 	<b>TREVIS the Wolf</b><br>
 	
 <img src="/images/Picture1.jpg"  
@@ -15,4 +15,3 @@ TREVIS the Wolf was launched as the school mascot in 2022 as part of the schoolâ
 We hope that TREVIS will play an integral role in enriching our studentsâ€™ school lives, as he serves to unite our students, enhance their learning experiences, and strengthen their sense of identity and belonging to the school. To evoke school pride and spirit, TREVIS will be a familiar figure at our school events and an avid supporter for our school teams at competitions.<br><br>
 <b>
 	<img src="/images/Picture2.png" style="width:80%">
-	
