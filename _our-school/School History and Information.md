@@ -1,8 +1,9 @@
 ---
 title: School History and Information
-permalink: /our-school/permalink/
+permalink: /our-school/school-history-and-information/
 description: ""
 ---
+
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
 	<b>Background</b><br><br>
 	Punggol Green Primary School is a newly built school that serves the Punggol West community in 2013. It is located at 98 Punggol Walk, next to Punggol Sapphire and Punggol Ripples. The school is built under the new norms to support the Primary Education Review & Implementation (PERI) Committee’s recommendations to enhance primary school education.<br><br>

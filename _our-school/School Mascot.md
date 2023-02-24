@@ -1,8 +1,9 @@
 ---
 title: School Mascot
-permalink: /our-school/permalink/
+permalink: /our-school/school-mascot/
 description: ""
 ---
+
 <p style="line-height:1.1; font-size:16px; font-family:Arial; text-align:center;">
 	<b>TREVIS the Wolf</b><br>
 	
