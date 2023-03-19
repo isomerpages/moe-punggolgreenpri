@@ -31,4 +31,3 @@ We identify our Primary 3 to 6 students predominantly through our ICT-based Co-C
 <img src="/images/Our%20Curriculum/ICT05.jpg"></p>
 
 <img src="/images/Our%20Curriculum/ICT.jpg" style="width:75%">
-</p>
