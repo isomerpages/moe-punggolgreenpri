@@ -3,8 +3,6 @@ title: ICT
 permalink: /our-curriculum/ict/
 description: ""
 ---
-
-
 **<font size=5>Department Vision</font>**<br>
 Future-ready and Responsible Digital Learner.
 
