@@ -8,4 +8,4 @@ image: ""
 ---
 <img src="/images/Our%20Partners%20in%20Education/p4%20parents%20briefing%20ay2023.jpg" style="width:100%">
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><a href="https://files/Partners%20in%20Education/primary%204%20parents%20briefing%20ay2023.pdf">Download the P4 Parents Briefing slides.</a></p>
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><a href="https://files/Partners%20in%20Education/Primary%204%20Parents%20Briefing%20AY2023.pdf">Download the P4 Parents Briefing slides.</a></p>
