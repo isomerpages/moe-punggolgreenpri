@@ -3,11 +3,11 @@ title: Form Teachers (2023)
 permalink: /our-people/form-teachers-2023/
 description: ""
 ---
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 1</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -53,15 +53,15 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Chin Kiang<br><a href="mailto:tan_chin_kiang@moe.edu.sg">tan_chin_kiang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li &emsp; Year Head/Lower Primary (Covering)</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li   Year Head/Lower Primary (Covering)</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 2</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -107,15 +107,15 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati<br><a href="mailto:haryani_ngaingati@moe.edu.sg">haryani_ngaingati@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li &emsp; Year Head/Lower Primary (Covering)</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Ms Tan Wei Li   Year Head/Lower Primary (Covering)</td>
 	</tr>
-</table>
+</tbody></table>
 
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 3</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 3</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -161,15 +161,15 @@ description: ""
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadzerah Binte Mohamed Jufri<br><a href="mailto:nadzerah_mohamed_jufri@moe.edu.sg">nadzerah_mohamed_jufri@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo   Year Head / Middle Pri</td>
 	</tr>
-</table>
+</tbody></table>
 
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 4</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 4</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -210,15 +210,15 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Miss Chanel Chan Jia Lun<br><a href="mailto:Chanel_chan_jia_lun@moe.edu.sg">Chanel_chan_jia_lun@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo &emsp; Year Head / Middle Pri</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo   Year Head / Middle Pri</td>
   </tr>
-</table>
+</tbody></table>
 
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 5</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 5</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -226,7 +226,7 @@ description: ""
 <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Self-Discipline</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Hajar<br><a href="mailto:siti_hajar_mohamed_aljuh@moe.edu.sg">siti_hajar_mohamed_aljuh@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Irene Toh<br><a href="mailto:toh_irene@moe.edu.sg">toh_irene@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Irene Toh<br><a href="mailto:toh_irene_a@moe.edu.sg">toh_irene_a@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Teamwork</td>
@@ -269,15 +269,15 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> Mdm Noor Nadiya Bte Abdul Salim<br><a href="mailto:noor_nadiya_abdul_salim@moe.edu.sg">noor_nadiya_abdul_salim@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan &emsp; Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan   Year Head / Upper Pri</td>
 	</tr>
-</table>
+</tbody></table>
 
-<p  style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 6</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 6</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 170px"><col style="width: 305px"><col style="width: 305px"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666">Class</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Form Teacher</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Co-Form Teacher</th>
@@ -323,6 +323,6 @@ description: ""
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Cerelia Chng<br><a href="mailto:cerelia_chng_kai_xin@moe.edu.sg">cerelia_chng_kai_xin@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan &emsp; Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Lee Peiyan   Year Head / Upper Pri</td>
 	</tr>
-</table>
+</tbody></table>
