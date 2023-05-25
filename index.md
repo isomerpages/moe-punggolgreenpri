@@ -14,6 +14,7 @@ sections:
       button: Click here to register
       url: https://form.gov.sg/646ee02d9bccef0012cc9f02
       alt: Image alt text
+      image: /images/open house 2023.jpg
   - resources:
       subtitle: Key highlights
 ---
