@@ -13,7 +13,7 @@ description: ""
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"> <b>Overview</b><br>
           Our two-tier segmented approach allows us to provide broad-based programs for all levels and talent-development to stretch students through core-curriculum activities.
-<img src="/images/Our%20Curriculum/ICT/ict_01.JPG" style="width:35%"></p>
+<img src="/images/Our%20Curriculum/ICT/ict_01.JPG" style="width:40%"></p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Tier 1: Broad-based Programmes</b><br><img src="/images/Our%20Curriculum/ICT/ict_02.JPG"><u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Orientation stage (Primary 1s and 2s)</u><br>
 Our lower primary students learn the basic ICT baseline skills including familiarization with learning platforms like Student Learning Space (SLS). They are exposed to basic coding skills to curate digital storyboards and gaming in a collaborative learning environment.<br>
