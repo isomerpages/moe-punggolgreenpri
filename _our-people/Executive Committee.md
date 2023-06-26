@@ -3,11 +3,11 @@ title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
 ---
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal & Vice-Principals</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal &amp; Vice-Principals</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -27,13 +27,13 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Betty See</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Heads of Department</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -71,15 +71,15 @@ description: ""
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM & CCA</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM &amp; CCA</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Year Heads and Assistant Year Heads</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -95,13 +95,13 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Wei Li</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -111,7 +111,7 @@ description: ""
 	</tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Neo Qing Hao</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / CCA & PAL</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / CCA &amp; PAL</td>
 </tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Munirah Bte Mohamed</td>
@@ -136,13 +136,13 @@ description: ""
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Data Management</td>
-</tr></table>
+</tr></tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -150,11 +150,7 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sharmilah Sheikh</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English</td>
 	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yogeshwari Manikandan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH / Upper Primary</td>
-	</tr>
-	<tr>
+		<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nur Azimah Binte Syed Hussain</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH / Lower Primary</td>
 	</tr>
@@ -178,13 +174,13 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi </td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Special Project (SP) </td>
 	</tr>
-</table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tr>
+	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
@@ -220,4 +216,4 @@ description: ""
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yap-Eng Shuen Yin</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
 </tr>
-</table>
+</tbody></table>
