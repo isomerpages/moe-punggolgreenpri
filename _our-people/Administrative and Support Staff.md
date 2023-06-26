@@ -12,7 +12,7 @@ description: ""
       </tr>
       <tr>
          <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aloysia Ang<br>Admin Executive</td>
-         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Sakthivel Seran <br>Opertions Manager</td>
+         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Sakthivel Seran <br>Operations Manager</td>
          <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Loh Soon Yip<br>ICT Manager</td>
       </tr>
       <tr>
