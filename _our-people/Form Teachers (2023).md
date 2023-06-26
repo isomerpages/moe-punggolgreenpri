@@ -83,8 +83,8 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Integrity</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajewari d/o Raja Rajan<br><a href="mailto:rajeswari_ayahu@moe.edu.sg">rajeswari_ayahu@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafizah Binte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Valour</td>
@@ -103,7 +103,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Innovation</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajeswari<br><a href="mailto:rajeswari_ayahu@moe.edu.sg">rajeswari_ayahu@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati<br><a href="mailto:haryani_ngaingati@moe.edu.sg">haryani_ngaingati@moe.edu.sg</a></td>
 	</tr>
 	<tr>
@@ -207,7 +207,7 @@ description: ""
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Confidence</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nazurah Bte Rahmat<br><a href="mailto:nazurah_rahmat@moe.edu.sg">nazurah_rahmat@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Miss Chanel Chan Jia Lun<br><a href="mailto:Chanel_chan_jia_lun@moe.edu.sg">Chanel_chan_jia_lun@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin<br><a href="mailto:nadira_noordin@moe.edu.sg">nadira_noordin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mr Adrian Yeo   Year Head / Middle Pri</td>
