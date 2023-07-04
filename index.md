@@ -17,4 +17,8 @@ sections:
       image: /images/open house 2023.jpg
   - resources:
       subtitle: Key highlights
+  - infobar:
+      title: School Canteen Advertisement
+      button: Click here for more
+      url: /our-partners-in-education/school-canteen-advertisement/
 ---
