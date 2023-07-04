@@ -15,10 +15,10 @@ sections:
       url: https://form.gov.sg/646ee02d9bccef0012cc9f02
       alt: Open House 2023
       image: /images/open house 2023.jpg
-  - resources:
-      subtitle: Key highlights
   - infobar:
       title: School Canteen Advertisement
       button: Click here for more
       url: /our-partners-in-education/school-canteen-advertisement/
+  - resources:
+      subtitle: Key highlights
 ---
