@@ -21,6 +21,8 @@ description: ""
 
 [School Canteen Application Form](/files/Partners%20in%20Education/school%20canteen%20application%20form.pdf)
 
+[School Canteen Application Form](/files/school%20canteen%20application%20form.pdf)
+
 2. Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
