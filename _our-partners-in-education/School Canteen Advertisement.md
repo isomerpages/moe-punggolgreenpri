@@ -3,8 +3,6 @@ title: School Canteen Advertisement
 permalink: /our-partners-in-education/school-canteen-advertisement/
 description: ""
 ---
-
-
 #### School Canteen Advertisement
 
 
@@ -21,7 +19,7 @@ description: ""
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-
+[School Canteen Application Form](/files/Partners%20in%20Education/school%20canteen%20application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 
