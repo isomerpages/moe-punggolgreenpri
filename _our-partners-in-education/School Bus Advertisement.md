@@ -22,4 +22,3 @@ description: ""
 **How to get there?**
 * Nearest MRT: Punggol MRT - 10 minutes walking distance
 * Bus number: 117, 119, 381, 666 - 3 minutes walking distance
-
