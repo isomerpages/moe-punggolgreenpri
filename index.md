@@ -14,4 +14,8 @@ sections:
       url: /our-partners-in-education/school-canteen-advertisement/
   - resources:
       subtitle: Key highlights
+  - infobar:
+      title: School Bus Advertisement
+      button: More Information
+      url: /our-partners-in-education/school-bus-advertisement/
 ---
