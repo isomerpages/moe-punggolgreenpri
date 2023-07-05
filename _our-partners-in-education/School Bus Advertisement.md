@@ -8,11 +8,11 @@ description: ""
 *Call for Proposal for Appointment of School Bus Operator to Provide School Bus Services*
 
 **Service Requirements**
-1. attachment 1
-2. attachment 2
+1. [Call for Proposals by School]()
+2. [Agreement for Appointment of School Bus Operator]()
 
 **Application Procedure**
-1.  Complete the [Call for Proposal - Annex A] - Attachment 2
+1.  Complete the [Call for Proposal - Annex A]() 
 2.  Submit the completed Call for Proposal - Annex A by closing date, 14 July 2023, to the School's General Office.
 
 * Address: Punggol Green Primary School, 98 Punggole Walk Singapore 828772
