@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infobar:
+      title: School Bus Advertisement
+      button: More Information
+      url: /our-partners-in-education/school-bus-advertisement/
+  - infobar:
       title: School Canteen Advertisement
       button: more information
       url: /our-partners-in-education/school-canteen-advertisement/
   - resources:
       subtitle: Key highlights
-  - infobar:
-      title: School Bus Advertisement
-      button: More Information
-      url: /our-partners-in-education/school-bus-advertisement/
 ---
