@@ -18,4 +18,7 @@ sections:
       url: /our-partners-in-education/school-canteen-advertisement/
   - resources:
       subtitle: Key highlights
+  - infopic:
+      title: Workshops for Parents on Mental Well-being
+      image: /images/mental well-being workshops.png
 ---
