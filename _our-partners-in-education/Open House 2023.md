@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/open%20house%202023%20principal's%20address.png)
 
-[Principal's Address @PGPS Open House on 8 July 2023](/files/principal's%20address%20@pgps%20open%20house%20on%208%20july%202023%20(compressed).pdf)
+<a href="/files/principal's%20address%20@pgps%20open%20house%20on%208%20july%202023%20(compressed).pdf"> Principal's Address @PGPS Open House on 8 July 2023</a>
