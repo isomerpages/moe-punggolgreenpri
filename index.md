@@ -22,4 +22,11 @@ sections:
       alt: Refer for more details
   - resources:
       subtitle: Key highlights
+  - infopic:
+      title: Open House 2023
+      subtitle: 8 July 2023
+      button: Click for Information
+      url: /our-partners-in-education/open-house-2023/
+      image: /images/open house 2023 principal's address.png
+      alt: Image alt text
 ---
