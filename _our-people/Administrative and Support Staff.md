@@ -16,17 +16,17 @@ description: ""
          <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Loh Soon Yip<br>ICT Manager</td>
       </tr>
       <tr>
-         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sherina Jaffar<br>Corporate Support Officer</td>
+         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rachel Low<br>Admin Executive</td>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Florence Han <br>Operations Support Officer</td>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Fateh<br>Desktop Engineer</td>
       </tr>
       <tr>
-         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Dwie Indah<br>Corporate Support Officer</td>
+         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sherina Jaffar<br>Corporate Support Officer</td>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Loh Nghee Boon<br>Operations Support Officer</td>
          <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Khair<br>Desktop Engineer<br></td>
       </tr>
       <tr>
-         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Melissa Ong Li Ping<br>Corporate Support Officer<br></td>
+         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Dwie Indah<br>Corporate Support Officer<br></td>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Koo Soo Yong<br>Operations Support Officer</td>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Akmal<br>ICT Trainer</td>
       </tr>
