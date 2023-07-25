@@ -42,10 +42,6 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">School Staff Developer</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Hema Kumari Welkers</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD English</td>
-	</tr>
-	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Wong Wai Yu Stella</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue</td>
 	</tr>
@@ -195,10 +191,6 @@ description: ""
 	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Wilson Kwa Kok Beng</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Music</td>
-	</tr>
-	<tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Abel Kok Kum Weng</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
 	</tr>
 	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati</td>
