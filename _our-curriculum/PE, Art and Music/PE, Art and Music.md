@@ -119,7 +119,11 @@ As part of our Arts Fiesta celebrations, we curated a showcase of selected artwo
 Click the link to view our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
 https://tinyurl.com/artcoustic2023
 
+![](/images/artcoustic%201.png)
 
+![](/images/artcoustic%202.png)
+
+![](/images/artcoustic%203.png)
 
 ![](/images/Our%20Curriculum/PE%208.jpg)
 
