@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Open House 2023.md
       - Staff Awards Nomination.md
       - School Advisory Committee.md
       - Parent Support Group @ PGPS.md
