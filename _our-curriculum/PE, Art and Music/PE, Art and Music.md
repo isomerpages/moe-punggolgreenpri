@@ -4,28 +4,24 @@ permalink: /our-curriculum/pe-art-and-music/
 description: ""
 third_nav_title: PE, Art and Music
 ---
-
-**<font size=5>Department Vision</font>**<br>
+**<font size="5">Department Vision</font>**<br>
 A caring community of self-directed leaders with an awareness and appreciation of the arts; and in pursuit of an active and healthy lifestyle.
 
   
-**<font size=5>Department Mission</font>**<br>
+**<font size="5">Department Mission</font>**<br>
 
-<img src="/images/Our%20Curriculum/PE%201.png"  
-     style="width:75%">
+<img src="/images/Our%20Curriculum/PE%201.png" style="width:75%">
 
 
-**<font size=5>Department Student Outcomes</font>**<br>
+**<font size="5">Department Student Outcomes</font>**<br>
 
-<img src="/images/Our%20Curriculum/PE%202.png"  
-     style="width:75%">
+<img src="/images/Our%20Curriculum/PE%202.png" style="width:75%">
 		 
-<img src="/images/Our%20Curriculum/PE%203.png"  
-     style="width:75%">
+<img src="/images/Our%20Curriculum/PE%203.png" style="width:75%">
 
 
 
-**<font size=5><u>Physical Education & CCA at PGPS</u></font>**<br>
+**<font size="5"><u>Physical Education &amp; CCA at PGPS</u></font>**<br>
 
   
 
@@ -33,33 +29,33 @@ The Physical Education (PE) and Co-curricular Activities (CCA) department in PGP
 
   
 
-The PE programme in PGPS aims to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation. Anchored on our school values, our programme emphasizes on learning and enjoyment through developmentally appropriate movement experiences. 
+The PE programme in PGPS aims to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation. Anchored on our school values, our programme emphasizes on learning and enjoyment through developmentally appropriate movement experiences.&nbsp;
 
   
 
-Building upon the PE programme, the sports CCA programme provides opportunities for specialisation in a sport, as well as broad-based development within the specialised sport and across other sports. Together with other school programmes, physical education and sports CCA contribute to holistic education and the development of 21st Century Competencies to better prepare each individual to thrive in a VUCA (i.e., volatile, uncertain, complex, and ambiguous) and highly-connected world.
+Building upon the PE programme, the sports CCA programme provides opportunities for specialisation in a sport, as well as broad-based development within the specialised sport and across other sports. Together with other school programmes, physical education and sports CCA contribute to holistic education and the development of 21st Century Competencies to better prepare each individual to thrive in a VUCA (i.e., volatile, uncertain, complex, and&nbsp;ambiguous) and highly-connected world.
 
   
 
 
-**<font size=5><u>7 Key Learning Areas in Physical Education</u></font>**<br>
+**<font size="5"><u>7 Key Learning Areas in Physical Education</u></font>**<br>
 
-*   Athletics (From Primary 3) 
+*   Athletics (From Primary 3)&nbsp;
     
-*   Dance 
+*   Dance&nbsp;
     
-*   Games and Sports 
+*   Games and Sports&nbsp;
     
-*   Gymnastics 
+*   Gymnastics&nbsp;
     
-*   Outdoor Education 
+*   Outdoor Education&nbsp;
     
-*   Physical Health and Fitness 
+*   Physical Health and Fitness&nbsp;
     
 *   Swimming (Primary 3)
     
 
-Primary 1 & 2 lessons focus on the exploration and mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop a strong foundation in movement. This provides the foundation for continual skill acquisition and facilitates future successful participation in physical activity.
+Primary 1 &amp; 2 lessons focus on the exploration and mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop a strong foundation in movement. This provides the foundation for continual skill acquisition and facilitates future successful participation in physical activity.
 
   
 
@@ -67,7 +63,7 @@ Primary 1 & 2 lessons focus on the exploration and mastery of fundamental motor 
 
   
 
-Primary 3 & 4 lessons focus on the acquisition of broad-based skills and concepts (across and within physical activities and sports). Students will explore and learn more complex combinations and sequences of movements, and apply skills in more recognizable forms of sporting activities and games.
+Primary 3 &amp; 4 lessons focus on the acquisition of broad-based skills and concepts (across and within physical activities and sports). Students will explore and learn more complex combinations and sequences of movements, and apply skills in more recognizable forms of sporting activities and games.
 
 ![](/images/Our%20Curriculum/PE%204.jpg)
 
@@ -75,7 +71,7 @@ Primary 3 & 4 lessons focus on the acquisition of broad-based skills and concept
 
   
 
-Primary 5 & 6 lessons focus on the development of physical-activity and/or sport-specific skills and tactics for sustained involvement based on interest and competencies. Moreover, students will develop games-related concepts for application through modified games under the following categories:
+Primary 5 &amp; 6 lessons focus on the development of physical-activity and/or sport-specific skills and tactics for sustained involvement based on interest and competencies. Moreover, students will develop games-related concepts for application through modified games under the following categories:
 
   
 
@@ -90,10 +86,10 @@ Primary 5 & 6 lessons focus on the development of physical-activity and/or sport
 
   
 
-**<font size=5><u>Aesthetics (Art and Music) at PGPS</u></font>**<br>
+**<font size="5"><u>Aesthetics (Art and Music) at PGPS</u></font>**<br>
   
 
-The Aesthetics department in PGPS aims to nurture expressive and passionate life-long practitioners of the arts. 
+The Aesthetics department in PGPS aims to nurture expressive and passionate life-long practitioners of the arts.&nbsp;
 
   
 
@@ -119,6 +115,11 @@ The Aesthetics department helm various key programmes such as the Arts Fiesta, P
 
 **Image: Arts Fiesta celebrations**
 
+As part of our Arts Fiesta celebrations, we curated a showcase of selected artworks created by our very own student artists during Art lessons and Art competitions. 
+Click the link to view our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
+https://tinyurl.com/artcoustic2023
+
+
 
 ![](/images/Our%20Curriculum/PE%208.jpg)
 
@@ -136,7 +137,7 @@ The Aesthetics department helm various key programmes such as the Arts Fiesta, P
 
 In PGPS, we are committed to create a vibrant culture of the arts in which students not only learn and appreciate but are also given various platforms to shine and showcase their talents. Hence, we believe that the arts is integral to the holistic development of our students and contributes to their development of the 21st Century Competencies that would better prepare them to face future challenges.
 
-**<font size=5><u>Programme for Active Learning (PAL) at PGPS</u></font>**
+**<font size="5"><u>Programme for Active Learning (PAL) at PGPS</u></font>**
 
 To encourage learning beyond the classroom, the Primary 1 and 2 students experience Programme for Active Learning (PAL) during curriculum time. PAL lessons are a series of purposefully planned activities to provide the students with broad exposure and experiences in the four domains; Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The activities facilitate the holistic development of the students in the five broad learning areas of physical, cognitive, social, aesthetics and moral. By equipping our students with the social and emotional competencies, it will better prepare every PGPS student to be a future-ready leader with the heart for others.
 
