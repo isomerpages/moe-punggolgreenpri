@@ -116,8 +116,8 @@ The Aesthetics department helm various key programmes such as the Arts Fiesta, P
 **Image: Arts Fiesta celebrations**
 
 As part of our Arts Fiesta celebrations, we curated a showcase of selected artworks created by our very own student artists during Art lessons and Art competitions. 
-Click the link to view our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
-https://tinyurl.com/artcoustic2023
+<a href="https://tinyurl.com/artcoustic2023">Click to view</a> our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
+
 
 ![](/images/artcoustic%201.png)
 
