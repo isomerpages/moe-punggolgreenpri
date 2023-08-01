@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Open House 2023.md
       - Staff Awards Nomination.md
       - School Advisory Committee.md
       - Parent Support Group @ PGPS.md
@@ -15,4 +14,4 @@ collections:
       - Book List 2023.md
       - P1 Orientation 2023.md
       - School Canteen Advertisement.md
-      - School Bus Advertisement.md
+      - School Bus Service.md
