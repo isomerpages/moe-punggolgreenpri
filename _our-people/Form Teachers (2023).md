@@ -137,7 +137,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Integrity</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Wilson Kwa<br><a href="mailto:wilson_kwa_kok_beng@moe.edu.sg">wilson_kwa_kok_beng@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> <br> </td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Fang Siying<br><a href="mailto:fang_siying@moe.edu.sg">fang_siying@moe.edu.sg</a></td>
 	</tr>
 	<tr>
