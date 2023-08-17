@@ -189,10 +189,6 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Malay Language</td>
 	</tr>
 	<tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Wilson Kwa Kok Beng</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Music</td>
-	</tr>
-	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati</td>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
 	</tr>
