@@ -11,6 +11,11 @@ sections:
   - resources:
       subtitle: Key highlights
   - infobar:
+      title: Message to Ex-students
+      subtitle: 30 August 2023
+      button: Click for DETAILS
+      url: /message-to-exstudents
+  - infobar:
       title: School Canteen Advertisement
       button: more information
       url: /our-partners-in-education/school-canteen-advertisement/
