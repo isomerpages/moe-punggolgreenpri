@@ -3,13 +3,19 @@ title: Staff Awards Nomination
 permalink: /our-partners-in-education/staff-awards-nomination/
 description: ""
 ---
-**Distinguished Chinese Language Teachers Award 2023**
+**Caring Teachers Award 2024**
 
-The Distinguished Chinese Language Teachers Award 2023 is organised by Lianhe Zaobao and ZBSchools and co-organised by Singapore Centre for Chinese Language, The Society of Chinese Education Singapore, Singapore Chinese Teachers’ Union and Singapore Middle School Chinese Teachers’ Association, with support from the Ministry of Education.&nbsp; The award aims to give due recognition to deserving Chinese language teachers who have shown exemplary efforts towards the teaching of Chinese language and culture in the past year and the efforts of teachers who have successfully inculcated in their students an appreciation for Chinese language and culture.
+Dear parents,
 
-It is now opened for your nomination online at [https://bit.ly/dclta2023](https://bit.ly/dclta2023).
+In conjunction with Teachers’ Day celebration for 2023, NIE has launched the Caring Teacher Awards (CTA) 2024. 
 
-Closing date:&nbsp; **30 April 2023 (Sunday)**
+The CTA aims to acknowledge teachers in our school who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation. Please refer to the attachments for details of the nomination criteria.
+
+All students, parents, teachers and principals can now visit the CTA website at [www.cta.nie.edu.sg](https://www.cta.nie.edu.sg/) to nominate teachers who exemplify the values of caring for the academic, moral, social, emotional and mental welfare of their students. Alternatively, hard copy nomination form is made available to you at the school’s General Office counter.
+
+You may also go to the school website for the above information on all staff nomination awards under the heading ‘Our Partners in Education’.
+
+Closing date for nominations is **12 January 2024**
 
 
 <br>
