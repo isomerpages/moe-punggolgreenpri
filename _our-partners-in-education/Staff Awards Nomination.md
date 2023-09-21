@@ -5,8 +5,6 @@ description: ""
 ---
 **Caring Teachers Award 2024**
 
-Dear parents,
-
 In conjunction with Teachers’ Day celebration for 2023, NIE has launched the Caring Teacher Awards (CTA) 2024. 
 
 The CTA aims to acknowledge teachers in our school who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation. Please refer to the attachments for details of the nomination criteria.
