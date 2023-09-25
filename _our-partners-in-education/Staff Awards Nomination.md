@@ -11,10 +11,7 @@ The CTA aims to acknowledge teachers in our school who go beyond the call of dut
 
 All students, parents, teachers and principals can now visit the CTA website at [www.cta.nie.edu.sg](https://www.cta.nie.edu.sg/) to nominate teachers who exemplify the values of caring for the academic, moral, social, emotional and mental welfare of their students. Alternatively, hard copy nomination form is made available to you at the school’s General Office counter.
 
-You may also go to the school website for the above information on all staff nomination awards under the heading ‘Our Partners in Education’.
-
 Closing date for nominations is **12 January 2024**
-
 
 <br>
 <hr>
