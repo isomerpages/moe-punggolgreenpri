@@ -289,7 +289,8 @@ description: ""
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">6 Teamwork</td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Carmela Neo<br><a href="mailto:carmela_neo@moe.edu.sg">carmela_neo@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+		</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Neo Qing Hao<br><a href="mailto:neo_qing_hao@moe.edu.sg">neo_qing_hao@moe.edu.sg</a></td>
   </tr>
   <tr>
