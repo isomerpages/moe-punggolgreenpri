@@ -22,7 +22,7 @@ image: ""
 
 | PAT 2024         | OYEA 2024        |
 |:-----------------|:-----------------|
-| ![PAT 2024](PAT2024.png) | ![OYEA 2024](OYEA2024.png) |
+| ![PAT 2024](/images/pat2024.png) | ![OYEA 2024](/images/oyea2024.png) |
 |[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024) | [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
 
 
