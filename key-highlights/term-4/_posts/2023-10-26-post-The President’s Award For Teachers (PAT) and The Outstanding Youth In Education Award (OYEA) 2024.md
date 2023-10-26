@@ -25,7 +25,4 @@ image: ""
 | ![PAT 2024](/images/pat2024.png) | ![OYEA 2024](/images/oyea2024.png) |
 |[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024) | [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
 
-
-
-
 6. For queries and/or feedback about the awards, please send them to **MOE_AST_PAT@moe.gov.sg (PAT 2024)** or **MOE_AST_OYEA@moe.gov.sg (OYEA 2024)**.
