@@ -7,3 +7,25 @@ layout: post
 description: ""
 image: ""
 ---
+# THE PRESIDENT'S AWARD FOR TEACHERS (PAT) AND THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2024
+
+1. Every year, **President’s Award for Teachers (PAT)** and the **Outstanding Youth in Education Award (OYEA)** are given out to teachers in Singapore to recognise their professional excellence. Both PAT and OYEA are national awards.
+
+2. **PAT** pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they demonstrate a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
+
+3. **OYEA** recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers personify youthful idealism, energy, and enthusiasm, and inspire both their students and peers through their words and deeds. Educators born on or after 30 June 1989 are eligible for the award.
+
+4. Nominations for **PAT 2024** and **OYEA 2024** are now open and will close on **Wednesday, 10 January 2024**.
+
+5. Do submit your nomination(s) for one or more deserving teacher(s) by clicking on the URLs or scanning the QR codes below. Your nomination(s) will be a source of encouragement for the teacher(s).
+
+
+| PAT 2024         | OYEA 2024        |
+|:-----------------|:-----------------|
+| ![PAT 2024](PAT2024.png) | ![OYEA 2024](OYEA2024.png) |
+|[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024) | [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
+
+
+
+
+6. For queries and/or feedback about the awards, please send them to **MOE_AST_PAT@moe.gov.sg (PAT 2024)** or **MOE_AST_OYEA@moe.gov.sg (OYEA 2024)**.
