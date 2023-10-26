@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - Workshop for Parents MoneySense for Your Child.md
       - Staff Awards Nomination.md
       - School Advisory Committee.md
       - Parent Support Group @ PGPS.md
