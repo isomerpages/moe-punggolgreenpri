@@ -18,10 +18,20 @@ image: ""
 <li>Do submit your nomination(s) for one or more deserving teacher(s) by clicking on the URLs or scanning the QR codes below. Your nomination(s) will be a source of encouragement for the teacher(s). </li>
 
 
-| PAT 2024         | OYEA 2024        |
-|:-----------------|:-----------------|
-| ![PAT 2024](/images/pat2024.png) | ![OYEA 2024](/images/oyea2024.png) |
-|[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024) | [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
-
+<table>
+	<tbody><tr>
+		<td><b>PAT 2024</b></td>
+		<td><b>OYEA 2024</b></td>
+	</tr>
+	<tr>
+		<td><img src="/images/pat2024.png"></td>
+		<td><img src="/images/oyea2024.png"></td>
+	</tr>
+	<tr>
+		<td><a href="https://go.gov.sg/pat2024">https://go.gov.sg/pat2024</a></td>
+		<td><a href="https://go.gov.sg/oyea2024">https://go.gov.sg/oyea2024</a></td>
+	</tr>
+	</tbody></table>
+	
 <li>For queries and/or feedback about the awards, please send them to <b>MOE_AST_PAT@moe.gov.sg (PAT 2024)</b> or <b>MOE_AST_OYEA@moe.gov.sg (OYEA 2024)</b>.</li>
 	</ol>
