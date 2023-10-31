@@ -83,7 +83,7 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Integrity</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajewari d/o Raja Rajan<br><a href="mailto:rajeswari_ayahu@moe.edu.sg">rajeswari_ayahu@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajewari d/o Raja Rajan<br><a href="mailto:rajeswari_raja_rajan@moe.edu.sg">rajeswari_raja_rajan@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafizah Binte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
 	</tr>
 	<tr>
