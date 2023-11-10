@@ -41,8 +41,8 @@ We identify our Primary 3 to 6 students predominantly through our ICT-based Co-C
 <img src="/images/Our%20Curriculum/ICT/ict_05.JPG"><br>
 <img src="/images/Our%20Curriculum/ICT/cyberwellness01.jpg" style="width:75%">
 <img src="/images/Our%20Curriculum/ICT/cyberwellness02.jpg" style="width:75%"></p>
-<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__1.jpg" style="width:75%"><p></p>
-<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__2.jpg" style="width:75%"><p></p>
+<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__1.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__2.jpg" style="width:75%">
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Enhancing Staff Capacity in ePedagogy</b>
 <img src="/images/Our%20Curriculum/ICT/epedagogy.JPG" style="width:75%">
