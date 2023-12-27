@@ -64,7 +64,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Ai Mei </td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Character &amp; Citizenship Education</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD CCE</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ong Shu Chieh, Jack</td>
