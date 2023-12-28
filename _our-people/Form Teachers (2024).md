@@ -90,7 +90,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Valour</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Sharmilah Sheikh<br><a href="mailto:siti_sharmilah_ismail@moe.edu.sg">siti_sharmilah_ismail@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm. Siti Raihanni Bte Selamat</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm. Siti Raihanni Bte Selamat<br><a href="mailto:siti_raihanni_selamat@moe.edu.sg">siti_raihanni_selamat@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Empathy</td>
