@@ -136,7 +136,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kenny Teo</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being (SWB)</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being</td>
 </tr>
 </tbody></table>
 
@@ -193,7 +193,7 @@ variant: markdown
 	</tr>
 	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Raihanni Bte Selamat</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST/Character &amp; Citizenship Education (CCE)</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / CCE</td>
 	</tr>
 </tbody></table>
 
