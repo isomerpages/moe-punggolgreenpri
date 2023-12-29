@@ -2,6 +2,7 @@
 title: Executive Committee
 permalink: /our-people/executive-committee/
 description: ""
+variant: markdown
 ---
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Principal &amp; Vice-Principals</b></p>
 
@@ -24,7 +25,7 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Betty See</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Christina Tan</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 	</tr>
 </tbody></table>
@@ -42,8 +43,12 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">School Staff Developer</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Wong Wai Yu Stella</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Satiish Sathasilvam</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Ed Tech</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Priyadakshini D/O Surendiran S</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD English Language</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Rajendran s/o Nagappan</td>
@@ -54,11 +59,11 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Science</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Desmond Tay Boon Peng</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD ICT</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Wong Wai Yu Stella</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Satiish Sathasilvam</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Ai Mei </td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD CCE</td>
 	</tr>
 	<tr>
@@ -68,6 +73,14 @@ description: ""
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD PAM &amp; CCA</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Brindha Sankar</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Special Education Needs</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Special Programmes</td>
 	</tr>
 </tbody></table>
 
@@ -88,8 +101,12 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Pri</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Wei Li</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Covering)</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Internal)</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nur Azimah Binte Syed Hussain</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Lower Primary</td>
 	</tr>
 </tbody></table>
 
@@ -110,12 +127,8 @@ description: ""
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / CCA &amp; PAL</td>
 </tr>
 <tr>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Munirah Bte Mohamed</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / MTL (ML)</td>
-</tr>
-<tr>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Citizenship Education</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Data Management</td>
 </tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ruhernie Abu Yamin</td>
@@ -123,16 +136,9 @@ description: ""
 </tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kenny Teo</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being (SWB)</td>
+<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being</td>
 </tr>
-<tr>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Leadership (SL)</td>
-</tr>
-<tr>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Data Management</td>
-</tr></tbody></table>
+</tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
 
@@ -144,35 +150,32 @@ description: ""
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sharmilah Sheikh</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English</td>
-	</tr>
-		<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nur Azimah Binte Syed Hussain</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH / Lower Primary</td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">AYH / Middle Primary </td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / CL</td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Anisa Binte Anan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / SC</td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / ICT</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi </td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Special Project (SP) </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
 	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Middle Primary </td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Chinese Language</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Anisa Binte Anan</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Science</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Ed Tech</td>
+	</tr>
+	
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Teacher Leaders Council</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
@@ -189,19 +192,37 @@ description: ""
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / Malay Language</td>
 	</tr>
 	<tr>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Raihanni Bte Selamat</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ST / CCE</td>
+	</tr>
+</tbody></table>
+
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Teacher Mentors</b></p>
+
+<table style="width: 580px">
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
+	<tbody><tr>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Name</th>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Specialisation</th>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Chinese Language </td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Jumat B Baba</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">English Language</td>
+	</tr>
+	<tr>
 	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haryani Bte Ngaingati</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Special Educational Needs</td>
 	</tr>
 	<tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vijayalakshmi</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Low Ai Choo</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Classroom Management</td>
 	</tr>
 	<tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Ramzah </td>
+	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mathematics</td>
 	</tr>
-	<tr>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Yap-Eng Shuen Yin</td>
-	<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Teacher</td>
-</tr>
 </tbody></table>
