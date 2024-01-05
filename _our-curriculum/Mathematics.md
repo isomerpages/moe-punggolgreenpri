@@ -2,43 +2,71 @@
 title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 
 
-**<font size=5>Department Vision:</font>**
+**<font size="5">Department Mission:</font>**
+
+To inculcate in students positive attitudes and the joy of learning Mathematics with the necessary skills and knowledge to be ready for the future.
+
+**<font size="5">The Mathematics Framework</font>**
+
+![](/images/MA_Problem_Solving.png)
 
 
-Every PGPS student, a self-directed problem solver with a positive learning attitude, grounded in mathematical concepts and skills.
-
-**<font size=5>Department Mission:</font>**
 
 
-*   To ignite joy of learning Mathematics
-*   To empower learners with strong Mathematical concepts, reasoning and communication skills
-*   To nurture confident problem solvers with effective 21st century competencies
 
-**<font size=5>Key Programmes</font>**
 
-1.  Integrated Math Trails
-2.  Termly Weekly Math Week
-3.  Math Galore
-4.  Learning Support for Mathematics (LSM)
-5.  Improving Confidence and Achievement in Numeracy (ICAN)
-6.  Excellence 2000 (E2K) Math
 
+Singapore Mathematics Curriculum Framework guides the design of Math curriculum in our school. The central focus of this framework is the development of mathematical problem-solving competency. The framework sets the direction for the teaching, learning and assessment of Mathematics at all level in our school. The framework stresses upon 5 components which are closely inter-related – attitudes, skills, concepts, processes and metacognition. In a nutshell, this framework emphasizes the importance of conceptual understanding (rather than rote learning); the development of various Mathematical skills and processes; metacognition (which essentially is thinking about one’s thinking), as well as fostering positive attitudes such as confidence and perseverance in our learners.
+
+There are 3 main aims that our national curriculum seeks to achieve.  
+First, it aims to enable all students to acquire mathematical concepts and skills through everyday use and continuous learning in Math. Next, it aims to develop various skills such as thinking, reasoning, communication and metacognitive skills through a mathematical approach to problem solving. Lastly, it aims to build confidence and foster interest in Math.
+
+
+**<font size="5">**Approach**</font>**
+
+**<font size="5">**Concrete – Pictorial – Abstract (CPA) Approach**</font>**
+
+The CPA Approach provides a sound pedagogical model in the development of concepts and skills. Under the CPA approach, students develop mathematical concepts and skills progressively from the concrete and pictorial levels to the abstract level. Learning will be made meaningful and fun through careful selection of contexts and age-appropriate activities.
+
+![](/images/CPA1.jpg) 
+![](/images/CPA2.jpg)
+
+**<font size="5">**Learning Support for Math (LSM)**</font>**
   
+Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Math curriculum. Students are identified for the intervention through a screening process carried out at the beginning of Primary 1. They are supported by a LSM Teacher for 8 periods a week. The programme is extended to students at P2, P3 and P4 who require the extra support.
 
-To ignite the joy and enthuse the students in the learning of Mathematics, we introduce a series of games and hands-on activities, through our Termly Weekly Math Week and Math Galore, to our students to help them master and apply their Mathematical concepts and knowledge without even realising it as they are immersed in the enjoyment of the games. We also provide concrete manipulatives in their daily lessons and create real-life experiences through Integrated Math Trails where they learn by experimentation and hands-on activities (sometimes recreating the environment with the aid of technology). Through these learning experiences, we empower learners with strong Mathematical concepts, reasoning and communication skills and nurture them to become confident problem solvers with effective 21st century competencies with the goal to attain excellence.
+![](/images/LSM1.jpg)
 
-  
+**<font size="5">**Improving Confidence and Achievement in Numeracy (ICAN)**</font>**
 
-Each student is unique in his/her learning capabilities. In ensuring that no child is left out in the learning of Mathematics, we have a series of programmes catered to suit the learning needs of the different groups of students. The Learning Support Programmes (LSM and ICAN) aim to provide more focused help to support the identified students to strengthen their foundation in the early years. To further stretch the students’ potentials, we have Excellence 2000 (E2K) Math in place which allows our students to explore Mathematical concepts in greater depth.
+The main objective of the project is to raise the confidence and achievement of low progress learners. It is also aimed at building teachers’ capacity to support low progress learners. Teachers will implement ICAN strategies in class by:
 
-<img src="/images/Our%20Curriculum/Math%201.jpg"  
-     style="width:65%">
+*   Fostering a positive class climate and building routines
+*   Understanding the learning needs and matching pedagogical strategies
+*   Using available resources to diagnose and intervene appropriately
+ 
+**<font size="5">**Programmes**</font>**
 
-<img src="/images/Our%20Curriculum/Math%202.jpg"  
-     style="width:65%">
-		 
-<img src="/images/Our%20Curriculum/Math%203.jpg"  
-     style="width:65%">
+**<font size="5">**Project Booster**</font>**
+
+The aim of the project is to build confidence of low ability students in solving basic mathematical questions. Students are provided with small group coaching and targeted worksheets to experience success. Students are exposed to a variety of questions across the curriculum to further challenge them.
+
+**<font size="5">**Math Around Us**</font>**
+
+Math rich activities that are authentic learning task designed to provide students with rich and diverse learning experiences.
+Key features of activities include a focus on inquiring learning and the application of mathematics knowledge to real-world contexts. Students to work collaboratively and responsibly with peers to complete the activities.
+
+![](/images/MA_Around_Us.png)
+
+**<font size="5">**Excellence 2000 (E2K) Mathematics Programme**</font>**
+
+The E2K Mathematics Programme Singapore is a Mathematics enrichment programme developed by the Israel Centre for Excellence through Education (ICEE). The programme, which is rolled out for selected P4, P5 and P6 students, uses game-based learning to expand students’ horizons and reinforces their confidence in their ability to cope with scholastic changes.
+
+**<font size="5">**Project Victory**</font>**
+
+The key objective of the programme is to stretch higher ability students via a curriculum that moves at a faster pace, goes deeper into important thought processes and covers a broader set of ideas than that in the textbook, level worksheets and problem-solving worksheets.
+Through case scenarios and dialogues, students are encouraged to think through and clarify their thoughts through examining self and others’ personal feelings. With the growing awareness and empathy, our students make decisions through identifying and evaluating choices based on their values and beliefs.
