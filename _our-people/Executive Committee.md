@@ -105,7 +105,7 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Internal)</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nur Azimah Binte Syed Hussain</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Lower Primary</td>
 	</tr>
 </tbody></table>
@@ -175,7 +175,7 @@ variant: markdown
 	
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Teacher Leaders Council</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Senior Teacher Council</b></p>
 
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
