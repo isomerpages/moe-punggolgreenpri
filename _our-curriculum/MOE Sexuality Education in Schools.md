@@ -8,16 +8,16 @@ variant: markdown
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The <b>Goals</b> of Sexuality Education are:</li>
       <ul>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. </li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Guide students to make wise, informed and responsible decisions on sexuality matters. </li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li>
       </ul>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The <b>Key Messages</b> of Sexuality Education are:
       <ul>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Love and respect yourself as you love and respect others;</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Make responsible decisions for yourself, your family and society; and</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Love and respect yourself as you love and respect others;</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Make responsible decisions for yourself, your family and society; and</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
       </ul>
 
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.<br><br>
@@ -27,19 +27,19 @@ variant: markdown
    </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The subjects that incorporate topics on sexuality include:
       <ul>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Science</li>
-         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Character and Citizenship Education (CCE)</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Science</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Character and Citizenship Education (CCE)</li>
       </ul>
 
-<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;"><b>Sexuality Education Lessons</b></p>
+<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;"><b><u>Sexuality Education Lessons:</u></b></p>
 
-   </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
+   </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. </li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. </li>
   
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;"><b>At Punggol Green Primary School, the following Sexuality Education lessons will be taught in 2023:<br><br>
 
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
-2023 Sexuality Education Lessons in CCE 2021<br><br>
+2024 Sexuality Education Lessons in CCE 2021<br><br>
 
 Primary 5</b></p>
 
@@ -62,18 +62,19 @@ Primary 5</b></p>
   <tr>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;" rowspan="3">Growing Years</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
+		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
   <tr>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Did You Know?<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>.  <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
   <tr>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Keeping Myself Safe<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br></td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
 </tbody>
 </table>
@@ -82,7 +83,7 @@ Primary 5</b></p>
 
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
 
-<b>2023 Sexuality Education Lessons in CCE 2021<br><br>
+<b>2024 Sexuality Education Lessons in CCE 2021<br><br>
 
 Primary 6</b></p>
 
@@ -103,31 +104,24 @@ Primary 6</b></p>
 </thead>
 <tbody>
   <tr>
-    <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;" rowspan="3">Growing Years</td>
+    <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;" rowspan="2">Growing Years</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
   <tr>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
-  </tr>
-  <tr>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Did You Know?*<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 9</td>
-  </tr>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
+  </tr> 
 </tbody>
 </table>
 
-<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">*<b>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.<br><br>
-
-Information for Parents</b></p>
+<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;"><b>Information for Parents</b></p>
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/SexualityEducation_AnnexA.pdf">here</a>. The completed opt-out form is to be submitted by 10/02/2023.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/Annex%20A%20-%20Parent%20Opt-Out%20Form.pdf">here</a>. The completed opt-out form is to be submitted by 12/01/2024.</li>
 
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:satiish_sathasilvam@schools.gov.sg">satiish_sathasilvam@schools.gov.sg</a> (Mr Satiish Sathasilvam / HOD CCE) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:satiish_sathasilvam@schools.gov.sg">satiish_sathasilvam@schools.gov.sg</a> (Mr Satiish Sathasilvam / HOD Educational Technology) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
