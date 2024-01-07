@@ -23,7 +23,7 @@ For lower primary students and students who need more support in MTL, the learni
 **<font size="5"><u>Mission and Stage Outcomes</u></font>**
 
 
-In alignment with the school’s direction, the mission of the PGPS MTL Department is to <font color="#538135" size="4">curate MTL experiences that are relevant, fun and integrated</font>. 
+In alignment with the school’s direction, the mission of the PGPS MTL Department is to <font color="#538135" size="5">curate MTL experiences that are relevant, fun and integrated</font>. 
 
 MTL teachers make intentional efforts to ignite the Joy of Learning (JOL), leverage on EdTech to enhance the effectiveness and efficiency of MTL learning, and integrate MTL with the Emerging 21st Century Competencies (E21CC).
 
