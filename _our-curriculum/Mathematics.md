@@ -10,8 +10,8 @@ To inculcate in students positive attitudes and the joy of learning Mathematics 
 
 **<font size="5">The Mathematics Framework</font>**
 
-![](/images/MA_Problem_Solving.png)
 
+<img src="/images/MA_Problem_Solving.png" style="width:75%">
 
 
 
@@ -30,14 +30,15 @@ First, it aims to enable all students to acquire mathematical concepts and skill
 
 The CPA Approach provides a sound pedagogical model in the development of concepts and skills. Under the CPA approach, students develop mathematical concepts and skills progressively from the concrete and pictorial levels to the abstract level. Learning will be made meaningful and fun through careful selection of contexts and age-appropriate activities.
 
-![](/images/CPA3.jpg)
+<img src="/images/CPA3.jpg" style="width:75%">
 
 
 **<font size="5">Learning Support for Math (LSM)</font>**
   
 Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Math curriculum. Students are identified for the intervention through a screening process carried out at the beginning of Primary 1. They are supported by a LSM Teacher for 8 periods a week. The programme is extended to students at P2, P3 and P4 who require the extra support.
 
-![](/images/LSM1.jpg)
+
+<img src="/images/LSM1.jpg" style="width:75%">
 
 **<font size="5">Improving Confidence and Achievement in Numeracy (ICAN)</font>**
 
@@ -58,7 +59,8 @@ The aim of the project is to build confidence of low ability students in solving
 Math rich activities that are authentic learning task designed to provide students with rich and diverse learning experiences.
 Key features of activities include a focus on inquiring learning and the application of mathematics knowledge to real-world contexts. Students to work collaboratively and responsibly with peers to complete the activities.
 
-![](/images/MA_Around_Us.png)
+
+<img src="/images/MA_Around_Us.png" style="width:75%">
 
 **<font size="5">Excellence 2000 (E2K) Mathematics Programme</font>**
 
