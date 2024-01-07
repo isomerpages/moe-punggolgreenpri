@@ -48,9 +48,15 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
 *   Self-Directed Learners
     * PGPS MTL Voice 21 Enrichment Programme
-![](/images/Our%20Curriculum/MTL%208.png)
+    ![](/images/Our%20Curriculum/MTL2024/MTLVoice2101.jpg)<br>
+		![](/images/Our%20Curriculum/MTL2024/MTLVoice2102.jpg)<br>
+		![](/images/Our%20Curriculum/MTL2024/MTLVoice2103.jpg)
+
+
     * MTL Assessment for Learning Tasks	
-![](/images/Our%20Curriculum/MTL%207.png)
+    ![](/images/Our%20Curriculum/MTL2024/MTLAFL01.jpg)<br>
+		![](/images/Our%20Curriculum/MTL2024/MTLAFL02.jpg)<br>
+		![](/images/Our%20Curriculum/MTL2024/MTLAFL03.jpg)
 
 
 <br>
@@ -58,24 +64,27 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 *   Confident Leaders
 
     *   MTL Competitions
-![](/images/Our%20Curriculum/MTL%209.png)
+    ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions01.jpg)<br>
+		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
+
+<br>
 
 *   Innovative Collaborators
 
-    *   Read and Share
+    *    Reading Programme
     
- ![](/images/Our%20Curriculum/MTL%2010.png)
+    ![](/images/Our%20Curriculum/MTL2024/MTLReadingProgramme01.jpg)<br>
+		![](/images/Our%20Curriculum/MTL2024/MTLReadingProgramme02.jpg)
+    *    Language Week
+    ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek01.jpg)<br>
+		 ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek02.jpg)
+<br>
+       
+  *   Caring Citizens
+      *    Experiential Learning
+   ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning01.jpg)<br>
+ ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
 
-  *    Learn It, Use It, Share It
 
-
- ![](/images/Our%20Curriculum/MTL%2011.png)
-
- ![](/images/Our%20Curriculum/MTL%2012.png)
-
-
-*   Caring Citizens
-
-     *   Citizenry-Driven MTL Tasks
-
- ![](/images/Our%20Curriculum/MTL%2013.png)
+ 
+ 
