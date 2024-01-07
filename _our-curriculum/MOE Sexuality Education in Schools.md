@@ -121,7 +121,6 @@ Primary 6</b></p>
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/Annex%20A%20-%20Parent%20Opt-Out%20Form.pdf">here</a>. The completed opt-out form is to be submitted by 12/01/2024.</li>
-
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/Annex_A___Parent_Opt_Out_Form.pdf">here</a>. The completed opt-out form is to be submitted by 12/01/2024.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:satiish_sathasilvam@schools.gov.sg">satiish_sathasilvam@schools.gov.sg</a> (Mr Satiish Sathasilvam / HOD Educational Technology) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
