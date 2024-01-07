@@ -4,8 +4,6 @@ permalink: /our-curriculum/mathematics/
 description: ""
 variant: markdown
 ---
-
-
 **<font size="5">Department Mission:</font>**
 
 To inculcate in students positive attitudes and the joy of learning Mathematics with the necessary skills and knowledge to be ready for the future.
@@ -32,8 +30,8 @@ First, it aims to enable all students to acquire mathematical concepts and skill
 
 The CPA Approach provides a sound pedagogical model in the development of concepts and skills. Under the CPA approach, students develop mathematical concepts and skills progressively from the concrete and pictorial levels to the abstract level. Learning will be made meaningful and fun through careful selection of contexts and age-appropriate activities.
 
-![](/images/CPA1.jpg) 
-![](/images/CPA2.jpg)
+![](/images/CPA3.jpg)
+
 
 **<font size="5">Learning Support for Math (LSM)</font>**
   
