@@ -2,55 +2,74 @@
 title: Science
 permalink: /our-curriculum/science/
 description: ""
+variant: markdown
 ---
-**<font size=5>Department Vision</font>**<br>
-Students as future-ready science inquirers in advocating positive change.
+**<font size="5"><u>Department Mission</u></font>**<br>
+To develop the competencies in the practices of Science and the spirit of scientific inquiry anchored on values.
 
-**<font size=5>Department Mission</font>**<br>
-Develop the competencies in the practices of Science and the spirit of scientific inquiry anchored on values.
-
-**<font size=5>Vision</font>**<br>
-Our vision is to develop our students into future-ready science inquirers who advocate positive change. Based on the framework of the 5 Minds, we emphasize a balance between the acquisition of science knowledge, skills and attitudes. We engage students in authentic experiences that promote co-construction of knowledge, making the pursuit of science meaningful. Grounded in science knowledge and skills, the students consciously relate their learning and actions to their role in the betterment of self, society and environment.
-
-<img src="/images/Our%20Curriculum/Science%201.png"  
-     style="width:75%">
+**<font size="5"><u>Our Approach</u></font>**<br>
+Based on the framework of the 5 Minds, we emphasize a balance between the acquisition of science knowledge, skills and attitudes. We engage students in authentic experiences that promote co-construction of knowledge, making the pursuit of science meaningful. Grounded in science knowledge and skills, we hope that our students can consciously relate their learning and actions to their role in the betterment of self, society and environment through these key programmes. 
 
 
 
-**<font size=5>Key Dept initiatives:</font>**
 
 
-<u>Project-Based Learning</u>  <br>
-The Project-based Learning (PjBL) curriculum is designed around constructivist principles of learning that empower students to learn and explore through the co-construction of knowledge through argumentation as students justify and defend their ideas through scientific methods of representation.
+<u>P3 Planting</u>  <br>
+Our planting programme is conceptualized for our P3 students to learn a variety of urban farming techniques, such as vertical planting, hydroponic and aquaponics. Behind this collaboration between Science and Social Studies, students cultivate social awareness on the problem of food scarcity in Singapore and how these urban farming techniques help mitigate it. In addition, the vegetables harvested were shared with the community as part of the students’ efforts to share and contribute actively. This aligns to our school’s total curriculum framework where students learn to be caring citizens. 
 
-  
-
-Learning science in PjBL gives students autonomy in charting the direction of their learning as they find that this allows them to exercise their creativity. Through these various modalities and representation of learning, students have opportunities to apply their scientific knowledge, inquire into their own understanding and in the process deepen it.
-
-<img src="/images/Our%20Curriculum/Science%202.png"  
-     style="width:75%">
+![](/images/ScienceP3Planting.jpg)
 
 
-<u>Environmental Education</u>
+<u>P3 Toy Boat Making </u><br>
+Our toy boat making programme aims to instill inventive thinking in our P3 students, where they explore possibilities and generate novel ideas to create their own toy boat. Equipped with their science knowledge, students work together to create one that can sail the furthest or the fastest. With teamwork, our students enhance their communication and collaboration skills. 
 
-  
+![](/images/ScienceP3ToyBoatMaking.jpg)
 
-**P3 iCare**<br>
-Our P3 students embarked on an Environmental Education VIA i-CARE Project at the end of Term 3 this year. The Science and CCE departments have been collaborating on this project. They planted Kang Kong and Leaf Bayam (spinach) through different farming techniques such as special planters along one wall of our vegetable garden, aquaponics and hydroponics. These vegetables were grown using compost recycled from waste food. After a long but fruitful journey for the students, the vegetables thrived and were ready for harvest. The students then packed the vegetables into plastic containers ready to be ‘shipped’ to the community. Their labour of love was distributed to residents of HCA Hospice Care. Through this project, our students have taken the responsibility in doing their part as caring citizens for the community.
+<u>P5 DIY Electric Circuits </u><br>
+As part of the students’ Science curriculum, our students get to experience building electric circuits in their groups. From creating cards that light up to using solar panel to power up a toy car, our students are imbued with inventive and adaptive thinking. With endless possibilities tinkering with the different components of the electric circuit, this programme aims to develop them to become self-directed learners and innovative collaborators. 
 
-<img src="/images/Our%20Curriculum/Science%203.png"  
-     style="width:75%">
+![](/images/ScienceP5DIYElectricCircuits.jpg)
 
-
-**P6 Advocacy**<br>
-Our students are the future stewards of our environment. In PGPS, we aim to develop them to become environmentally literate citizens. Armed with knowledge about the environment, our graduating students organised outreach programmes to advocate environmental conservation in our daily lives. They engaged the K2 students through interactive activities that educated them on the importance of reducing food waste and cultivating saving water habits. This helped to positively shape the attitudes of our young ones towards the environment. A small group of our students worked with the community by promoting the use of recycled shopping bags printed with messages about ‘going green’. With support from Sheng Shiong Supermarket, they encouraged shoppers to reduce the use of plastic bags and distributed the recycled bags as environmentally friendly alternatives. The students were proud to be able to play their part in being an advocate for the environment.
-
-<img src="/images/Our%20Curriculum/Science%204.png"  
-     style="width:75%">
+<u>P6 Advocacy  </u><br>
+P6 Advocacy is a platform for our graduating students to share their knowledge about the environment and champion conservation in our daily lives to the community. Students as young as K2 were taught on the importance of reducing food waste and water consumption. In addition, shoppers of all ages were inculcated with the benefits of using recycled shopping bags. With the mastery of science knowledge and civic literacy, our P6 students blossom to socially responsible citizens who contribute energetically. 
+![](/images/ScienceP6Advocacy.jpg)
 
 
-**Recycling of Food Waste**<br>
-We encourage every student to take action in conserving the environment by reducing their carbon footprints. We aimed to build in them the appreciation for the value of food and that food can also be recycled to support the ‘going green’ cause. Students will play their part in recycling unconsumed food into compost which will be used to grow edible plants. These plants will then be presented to our VIA partners, the elderly homes and staff.
 
-<img src="/images/Our%20Curriculum/Science%205.png"  
-     style="width:75%">
+
+<u>E2K Science </u><br>
+Initiated by the Science department, PGPS’s E2K Science Programme aims to provide opportunities for our P4 and P5 young scientists to engage in scientific investigations to discover and deepen their understanding of advanced Science concepts through Inquiry approach. 
+
+With collaborative-learning and guidance provided by our E2K Science teachers, our students are able to gain rich learning experiences which enable them to:
+
+● Develop the habits, attitudes and dispositions scientists possess.<br>
+● Gain important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+
+![](/images/ScienceE2K.jpg)
+
+Furthermore, our students took charge of the Science events and imparted their knowledge that they have learnt in E2K Science to the greater masses at school. In 2022, PGPS E2K Science YouTube channel was launched.
+
+[PGPSE2KSC](https://www.youtube.com/channel/UCd5MBo0wkVcbB6Mn-ewtlDg/videos)
+
+<img src="/images/Our%20Curriculum/E2K%20Photo/E2K_07.jpg" style="width:75%">
+	<br>
+<img src="/images/Our%20Curriculum/E2K%20Photo/E2K_08.jpg" style="width:75%">
+
+In addition, we had a bumper crop of students taking part in the Science Buskers Competition in 2023. Organised by the A*STAR and Singapore Science Centre, the competition aims to promote learning of Science in an engaging way as well as generating greater interest in creative Science and communications and expressions. Out of more than 200 teams from various schools which participated, 2 teams from PGPS were among the 25 teams shortlisted! 
+
+We are proud to announce that our teams clinched Champion (Primary Category) and the People’s Choice award (Best Science Communication).
+
+
+Following up their stellar performance at the competition, our teams were invited to perform at a community event for Punggol West CC and the World Robotics Competition. With multiple invitations to perform in public, our students showcased their craft with poise and charm, sharing their science mastery and skills to the community. Aligned to the 21st Enhanced CC framework, our students are developing into confident individuals.
+
+![](/images/ScienceE2K05.jpg)
+
+![](/images/ScienceE2K06.jpg)
+
+![](/images/ScienceE2K07.jpg)
+
+
+
+
+
+
