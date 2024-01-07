@@ -1,5 +1,5 @@
 ---
-title: AY2024 P1 Parents' Briefing Final
+title: AY2024 P1 Parents' Briefing
 date: 2024-01-05
 layout: file
 description: ""
