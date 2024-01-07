@@ -47,19 +47,17 @@ At the Orientation Stage (Primary 1 and 2), MTL teachers focus on arousing stude
 PGPS students are exposed to a wide variety of MTL programmes that are aligned with the PGPS Desired Outcomes. These programmes are customised, segmentised and progressive, so as to cater to different students’ interests, needs and abilities.
 
 *   Self-Directed Learners
-
-*   MTL Assessment for Learning Tasks
-
+    * PGPS MTL Voice 21 Enrichment Programme
+![](/images/Our%20Curriculum/MTL%208.png)
+    * MTL Assessment for Learning Tasks	
 ![](/images/Our%20Curriculum/MTL%207.png)
 
-*   PGPS MTL Voice 21 Enrichment Programme
 
-![](/images/Our%20Curriculum/MTL%208.png)
+<br>
 
 *   Confident Leaders
 
     *   MTL Competitions
-
 ![](/images/Our%20Curriculum/MTL%209.png)
 
 *   Innovative Collaborators
