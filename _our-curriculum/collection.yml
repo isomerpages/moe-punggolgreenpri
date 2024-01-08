@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - SEN Department.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -16,6 +15,7 @@ collections:
       - PE, Art and Music/PE, Art and Music.md
       - PE, Art and Music/Swimsafer 2.md
       - Student Management.md
+      - SEN Department.md
       - Applied Learning Programme (STEM).md
       - Learning for Life Programme (Student Leadership).md
       - CCA/.keep
