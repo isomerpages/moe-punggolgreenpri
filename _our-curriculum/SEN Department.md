@@ -37,4 +37,5 @@ At PGPS, we have specialized personnel and programmes catering to different leve
 </ul>
       
 
-To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: https://www.moe.gov.sg/special-educational-needs/<br><br>
+To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: [https://www.moe.gov.sg/special-educational-needs/](https://www.moe.gov.sg/special-educational-needs/)<br><br>
+
