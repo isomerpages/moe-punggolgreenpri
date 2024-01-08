@@ -29,8 +29,12 @@ Every student is unique. Even if two students share the same diagnosis, their le
 	
 <span style="colour:#84C53D"><b>What do we do? </b></span><br>
 At PGPS, we have specialized personnel and programmes catering to different levels and learning needs<br>
-	
-<li><b>Learning and behaviour support</b> provided by Special Educational Needs Officer (SEN-O).</li>
-   <li><b>School-based dyslexia remediation programme</b> (SDR) for students with dyslexia in Primary 3 and Primary 4. </li>
 
-To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: https://www.moe.gov.sg/special-educational-needs/ <br><br>
+<ul>
+   <li><b>Learning and behaviour support</b> provided by Special Educational Needs Officer (SEN-O).</li>
+   <li><b>School-based dyslexia remediation programme</b> (SDR) for students with dyslexia in Primary 3 and Primary 4. </li>
+   
+</ul>
+      
+
+To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: https://www.moe.gov.sg/special-educational-needs/<br><br>
