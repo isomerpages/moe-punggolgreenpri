@@ -21,7 +21,8 @@ The student might face challenges in various areas, including:
    <li>Communicating with peers and others</li>
 	 <li>Establishing and maintaining friendships</li>
  <li>Exhibiting appropriate behavior in social settings</li>
-<li>Engaging in learning at school due to limitations in sight, hearing, or physical mobility</li>
+<li>Engaging in learning at school due to limitations in sight, hearing, or physical mobility<br></li></ul>
+
 
 Every student is unique. Even if two students share the same diagnosis, their learning and support needs can vary significantly, and they may progress at different rates.<br><br>
 	
@@ -32,4 +33,4 @@ At PGPS, we have specialized personnel and programmes catering to different leve
 <li><b>Learning and behaviour support</b> provided by Special Educational Needs Officer (SEN-O).</li>
    <li><b>School-based dyslexia remediation programme</b> (SDR) for students with dyslexia in Primary 3 and Primary 4. </li>
 
-To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: https://www.moe.gov.sg/special-educational-needs/ <br><br></ul>
+To find out more about Special Educational Needs and how parents could support their children with SEN together with schools, please visit: https://www.moe.gov.sg/special-educational-needs/ <br><br>
