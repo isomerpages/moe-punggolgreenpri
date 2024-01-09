@@ -2,12 +2,8 @@
 title: School Bus Service
 permalink: /our-partners-in-education/school-bus-service/
 description: ""
+variant: markdown
 ---
-#### School Bus Service
-
-
-**School Bus Services**
-
 BT&amp;Tan Transport Pte Ltd <br>
 Contact Number: 6483 7260
 
