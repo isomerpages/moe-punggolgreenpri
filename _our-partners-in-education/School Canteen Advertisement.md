@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /our-partners-in-education/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
@@ -9,8 +10,8 @@ description: ""
 
 | Type of Stall  | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall    | 30 November 2023    | Any genre ie Japanese, Western etc is acceptable.      |
-| Chinese Mixed Rice Stall    | 30 November 2023    | NIL      |
+| Malay Food Stall    | 31 December 2024    | Any genre ie Japanese, Western etc is acceptable.      |
+| Chinese Mixed Rice Stall    | 31 December 2024    | NIL      |
 
 
 
