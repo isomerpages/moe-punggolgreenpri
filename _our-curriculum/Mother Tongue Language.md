@@ -85,7 +85,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
    ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning01.jpg)<br>
  ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
  
- 
+
  <br><i></i><br><br><br><i>.</i><br><br><table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
 <col style="width: 295px">
