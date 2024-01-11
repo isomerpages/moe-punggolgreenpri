@@ -86,11 +86,11 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
  ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
  
  
- <br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br><br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
+ <br><i></i><br><br><br><i>.</i><br><br><table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
 <col style="width: 295px">
 <col style="width: 130px">
-<col style="width: 350px">
+<col style="width: 550px">
 <col style="width: 170px">
 </colgroup>
 <thead>
@@ -123,27 +123,13 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;"><br>6 EMPATHY<br>6 TEAMWORK<br><br><br>6 TEAMWORK<br>6 EMPATHY</td>
   </tr>
   <tr>
-		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
-		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
+		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">PENTERJEMAH PINTAR 2023</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">3RD PLACE</td>
+      <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">MUHAMMAD ARFAN SHAH BIN MUHAMMAD ISKANDAR SHAH<br>SOFIA BINTE RADIN MUHAMMAD JAMALUNNASIR</td>  
+		<td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">5 CONFIDENCE<br>5 INNOVATION</td>
   </tr>
-  <tr>
-		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
-		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
-  </tr>
-  <tr>
-   
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
-<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;">
-
  
  
-</p>
