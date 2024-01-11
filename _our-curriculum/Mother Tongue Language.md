@@ -95,10 +95,10 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 </colgroup>
 <thead>
   <tr>
-    <th style="line-height:1.3;background-color:#FF8C00;border-color:black;border-style:solid;border-width:1px;color:#FFFFFF;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">COMPETITION</th>
-    <th style="line-height:1.3;background-color:#FF8C00;border-color:black;border-style:solid;border-width:1px;color:#FFFFFF;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">ACHIEVEMENT</th>
-    <th style="line-height:1.3;background-color:#FF8C00;border-color:black;border-style:solid;border-width:1px;color:#FFFFFF;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">NAME</th>
-    <th style="line-height:1.3;background-color:#FF8C00;border-color:black;border-style:solid;border-width:1px;color:#FFFFFF;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">CLASS</th>
+    <th style="line-height:1.3;background-color:#FFD966;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">COMPETITION</th>
+    <th style="line-height:1.3;background-color:#FFD966;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">ACHIEVEMENT</th>
+    <th style="line-height:1.3;background-color:#FFD966;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">NAME</th>
+    <th style="line-height:1.3;background-color:#FFD966;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">CLASS</th>
   </tr>
 </thead>
 <tbody>
@@ -110,14 +110,35 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
   <tr>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Did You Know?<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>.  <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
+		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
+		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
   </tr>
   <tr>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Keeping Myself Safe<br>(60 min)</td>
-    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br></td>
+		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
+		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
+  </tr>
+  <tr>
+		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
+		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
+  </tr>
+  <tr>
+		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Growing Years</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">The Changes in Me<br>(60 min)</td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:justify;">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br> 
+		<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></td>
+    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">Term 2<br>Week 5</td>
+  </tr>
+  <tr>
+   
   </tr>
 </tbody>
 </table>
