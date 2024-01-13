@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pride and Joy
 variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px" class="tg">
 <colgroup>
 <col style="width: 295px">
 <col style="width: 130px">
@@ -48,7 +48,6 @@ variant: markdown
 		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">PENTERJEMAH PINTAR 2023</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">3RD PLACE</td>
       <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">MUHAMMAD ARFAN SHAH BIN MUHAMMAD ISKANDAR SHAH<br>SOFIA BINTE RADIN MUHAMMAD JAMALUNNASIR</td>  
-		<td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">5 CONFIDENCE<br>5 INNOVATION</td>
-  </tr>
-  </tbody>
+		<td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">5 CONFIDENCE<br>5 INNOVATION</td></tr>
+</tbody>
 </table>
