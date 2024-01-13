@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pride and Joy
 variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px" class="tg">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:402px" class="tg">
 <colgroup>
 <col style="width: 295px">
 <col style="width: 130px">
