@@ -38,7 +38,7 @@ variant: markdown
 		    <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">NATIONAL CHINESE TEXT RECITAL COMPETITION</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">BRONZE</td>
     <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;"><u>TEAM 1:</u><br>TEO BIN YUXIN<br>ZERLINDA LEE XIN NING<br><br><u>TEAM 2:</u><br>LOCHAANAA GOBINATH<br>ETHAN ONG YEE TNG</td>   
-		 <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;">6 RESPONSIBILITY<br>3 VALOUR</td>
+		 <td style="line-height:1.3;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;"><br>6 EMPATHY<br>6 TEAMWORK<br><br><br>6 TEAMWORK<br>6 EMPATHY</td>
 		
 		
 		
