@@ -66,4 +66,4 @@ If you would like to volunteer your services as a Parent Volunteer, please scan 
 <a href="https://form.gov.sg/61c95e8db3479f0012411eae">Click here to join!</a></p>
 
 We look forward to work closely with you to make PGPS a more vibrant and exciting school for your child!
-<img src="/images/PSG%20photo.jpg"><p></p>
+<img src="/images/PSG%20photo.jpg">
