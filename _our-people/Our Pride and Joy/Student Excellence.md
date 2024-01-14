@@ -9,8 +9,8 @@ variant: markdown
 <colgroup>
 <col style="width: 295px">
 <col style="width: 130px">
-<col style="width: 550px">
-<col style="width: 170px">
+<col style="width: 300px">
+<col style="width: 120px">
 </colgroup>
 <thead>
   <tr>
@@ -56,8 +56,8 @@ variant: markdown
 <colgroup>
 <col style="width: 295px">
 <col style="width: 130px">
-<col style="width: 550px">
-<col style="width: 170px">
+<col style="width: 300px">
+<col style="width: 120px">
 </colgroup>
 <thead>
   <tr>
