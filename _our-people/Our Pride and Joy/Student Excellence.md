@@ -8,9 +8,9 @@ variant: markdown
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:1145px" class="tg">
 <colgroup>
 <col style="width: 295px">
-<col style="width: 130px">
-<col style="width: 300px">
-<col style="width: 120px">
+<col style="width: 110px">
+<col style="width: 200px">
+<col style="width: 100px">
 </colgroup>
 <thead>
   <tr>
@@ -55,9 +55,9 @@ variant: markdown
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:1145px" class="tg">
 <colgroup>
 <col style="width: 295px">
-<col style="width: 130px">
-<col style="width: 300px">
-<col style="width: 120px">
+<col style="width: 110px">
+<col style="width: 200px">
+<col style="width: 100px">
 </colgroup>
 <thead>
   <tr>
