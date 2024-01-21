@@ -11,7 +11,9 @@ It has been said that the English Language can only be understood “<b>thr<u>ou
 <b>Mission</b><br>
 To provide a rich curriculum that is enabling, engaging and enriching<br><br>
 
-<img src="/images/Our%20Curriculum/English%201.png" style="width:75%">
+
+<img src="/images/EL_Mission.png" style="width:75%">
+
 
 <img src="/images/Our%20Curriculum/English%202.jpg" style="width:75%">
 
