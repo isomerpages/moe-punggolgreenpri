@@ -4,7 +4,7 @@ permalink: /our-moe-kindergarten/staff/
 description: ""
 variant: markdown
 ---
-<table style="width: 580px">
+<table style="width: 780px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tbody><tr>
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
@@ -125,5 +125,3 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Meng Laoshi</td>
 	</tr>
 </tbody></table>
-
-
