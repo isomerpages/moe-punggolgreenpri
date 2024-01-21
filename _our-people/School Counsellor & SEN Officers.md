@@ -2,14 +2,32 @@
 title: School Counsellor & SEN Officers
 permalink: /our-people/school-counsellor-n-sen-officers/
 description: ""
+variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0">
-		<tbody><tr>
-			<th style="border-color:black; border-style:solid; border-width:1px; font-family:Arial; font-size:16px; padding:10px 5px; text-align:center; vertical-align:middle; font-weight:normal;" colspan="3">Ms Lau Ying<br><b>School Counsellor</b></th>
-		</tr>
-		<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;padding:10px 5px;text-align:center;vertical-align:middle" colspan="3">Ms Muhaini Binte M.Noor<br><b>Senior SEN Officer</b></td></tr>
-			<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;padding:10px 5px;text-align:center;vertical-align:middle;width:33%">Mdm Lydia Natasya<br><b>SEN Officer</b></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;padding:10px 5px;text-align:center;vertical-align:middle;width:33%">Mr Mohammad Sophian Bin Zainal<br><b>SEN Officer</b></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;padding:10px 5px;text-align:center;vertical-align:middle;width:33%">Ms Nurul Fazirah<br><b>SEN Officer</b></td>
-			</tr>
+<table style="width: 580px">
+	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
+	<tbody><tr>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
+		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Lau Ying</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">School Counsellor</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Muhaini Binte M.Noor</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Senior SEN Officer</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lydia Natasya</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SEN Officer</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Mohammad Sophian Bin Zainal</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SEN Officer</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nurul Fazirah</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SEN Officer</td>
+	</tr>
 </tbody></table>
