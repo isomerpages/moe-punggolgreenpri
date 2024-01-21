@@ -4,46 +4,50 @@ permalink: /our-curriculum/educational-technology/
 description: ""
 variant: markdown
 ---
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
-     <b>Department Vision</b><br>
-          Future-ready and Responsible Digital Learner.</p>
+
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
-     <b>Department Mission</b><br>
-          Igniting the joy of learning through technology and nurturing our students to be proficient in digital literacy and grounded in values.</p>
+     <b>Department Mission</b><br><br>
+          Transforming Education through Technology for All @ PGPS</p>
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"> <b>Overview</b><br>
-          Our two-tier segmented approach allows us to provide broad-based programs for all levels and talent-development to stretch students through core-curriculum activities.
-<img src="/images/Our%20Curriculum/ICT/ict_01.JPG" style="width:40%"></p>
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"> <b>Overview of EdTech@PGPS</b><br><br>
+          EdTech@PGPS is aligned to the school’s vision of ‘Future-Ready Leaders With The Heart For Others’ by preparing students for a Technology-transformed World via Technology-transformed Learning. The goal is to enable every PGPS student to be digitally-empowered, future-ready learners and innovators.
+	<br><br>
+	Other than the students, EdTech@PGPS also serves to enable all teachers to be technologically-adept, collaborative learning designers; and the school as a whole to be an intelligent, responsive, digitally-equipped learning environment.
+	
+</p><p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"> <b>Guiding Principles of EdTech@PGPS</b><br><br>
+	The Educational Technology Department is guided by the school-designed <b> <span style="color:#7030A0;">C</span><span style="color:#FF0000;">O</span><span style="color:#70AD47;">D</span><span style="color:#0070C0;">E </span></b> principle as it transforms education through technology for all.
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Tier 1: Broad-based Programmes</b><br><img src="/images/Our%20Curriculum/ICT/ict_02.JPG" style="width:90%"><u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Orientation stage (Primary 1s and 2s)</u><br>
-Our lower primary students learn the basic ICT baseline skills including familiarization with learning platforms like Student Learning Space (SLS). They are exposed to basic coding skills to curate digital storyboards and gaming in a collaborative learning environment.<br>
-	<img src="/images/Our%20Curriculum/ICT/p1baseline01.jpeg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/p1baseline02.jpeg" style="width:75%"><br><u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Exploration stage (Primary 3s and 4s)</u><br>
-Our middle primary students learn enhanced ICT applications such as MS Publisher, Google Classroom and Coding through integration of subjects to develop their critical thinking skills.<br><img src="/images/Our%20Curriculum/ICT/iftgp01.jpeg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/iftgp02.jpeg" style="width:75%"><br><u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Mastery stage (Primary 5s and 6s)</u><br>
-Our upper primary students learn block-based coding through IMDA Code-For-Fun (CFF) experiences. They are exposed to concepts in Artificial Intelligence, Google Draw to develop their computational thinking and problem solving skills.<br>
-<img src="/images/Our%20Curriculum/ICT/codeforfun01.jpeg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/codeforfun02.jpeg" style="width:75%"></p>
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Tier 2: Talent Development</b>
-<img src="/images/Our%20Curriculum/ICT/ict_03.JPG" style="width:30%">
-We identify our Primary 3 to 6 students predominantly through our ICT-based Co-Curriculum Activities (CCAs), Robotics and Multimedia Club. We help to stretch and develop students’ potential through opportunities in competitions and certification.<br>
-<img src="/images/Our%20Curriculum/ICT/sumobot.jpeg" style="width:75%"></p>
+![](/images/EdTechCODE.jpg)
+</p>
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">ICT Integration in Subjects</b>
-<img src="/images/Our%20Curriculum/ICT/ict_04.JPG" style="width:80%"><br>
-<img src="/images/Our%20Curriculum/ICT/joychallenge01.JPG" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/joychallenge02.jpeg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/joychallenge03.jpeg" style="width:75%"></p>
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">EdTech@PGPS Student Outcomes</b><br>
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b>Cyber Wellness at Punggol Green Primary</b>
-<img src="/images/Our%20Curriculum/ICT/ict_05.JPG"><br>
-<img src="/images/Our%20Curriculum/ICT/cyberwellness01.jpg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/cyberwellness02.jpg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__1.jpg" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/Cyber_Wellness_Heartbeat__Semester_2__2023__2.jpg" style="width:75%"></p>
+![](/images/EdTechStudentOutcome.jpg)	
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Enhancing Staff Capacity in ePedagogy</b>
-<img src="/images/Our%20Curriculum/ICT/epedagogy.JPG" style="width:75%">
-<img src="/images/Our%20Curriculum/ICT/openclassroom.JPG" style="width:75%"></p>
+
+</p><p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Snapshot of EdTech@PGPS Programmes</b><br><br>
+<u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Examples of Integration of EdTech in the Curriculum:</u><br>
+
+
+	
+<img src="/images/Our%20Curriculum/ICT/ict_04.JPG" style="width:100%"><br>
+
+<u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Cyber Wellness:</u><br>
+The school is aligned to the MOE Cyber Wellness Framework and taps on a multitude of platforms to enable everyone at PGPS to deepen their knowledge &amp; application of Cyber Wellness. This includes putting in place the necessary education to enable every student to be a Cyber Wellness Ambassador and for those who are keen on leading others, to take on the role of a Cyber Wellness Leader &amp; Mentor.<br><br>
+![](/images/EdTechCyberWellness.jpg)
+
+
+<i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Leadership in Cyber Wellness:</i><br>
+![](/images/EdTechLeadershipCyberWellness.jpg)
+</p>
+
+<i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Anti-Cyber Bullying Pledge:</i><br>
+![](/images/EdTechAntiCyberBullyingPledge.jpg)
+<p></p>
+
+
+
+
+
