@@ -81,36 +81,7 @@ Caring Teacher Award nominees 2024
 <br>
 
 
-<table>
-<thead>
-  <tr>
-    <th>Award</th>
-    <th>Name</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Caring Teacher Award 2022</td>
-    <td>Ms Ong Pei Ling Eugenia</td>
-  </tr>
-  <tr>
-    <td>MOE Service Excellence Award (Silver) 2022</td>
-    <td>Ms Bathmavathi Kupusamy</td>
-  </tr>
-  <tr>
-    <td>MOE Excellence Service Award (Gold) 2022</td>
-    <td>Ms Nurul Sharbana Binte Rennie<br>Ms Ong Pei Ling Eugenia<br>Mr Peh Kian Hong</td>
-  </tr>
-  <tr>
-    <td>MOE Excellence Award (Platinum) 2022</td>
-    <td>Ms Ong Pei Ling Eugenia</td>
-  </tr>
-  <tr>
-    <td>Promising Early Childhood Leader Award 2022</td>
-    <td>Ms Siti Nurrafidah Samat</td>
-  </tr>
-</tbody>
-</table>
+
 
 **<font size="5">Organization Excellence</font>**
 
