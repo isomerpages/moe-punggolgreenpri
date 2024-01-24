@@ -18,11 +18,11 @@ Caring Teacher Award nominees 2024
       <tbody>
          <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Kenny Teo</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Kenny Teo</td>
          </tr>
          <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Stella Wong</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Stella Wong</td>
          </tr>
          <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</td>
