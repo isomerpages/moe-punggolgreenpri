@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Our Pride and Joy
 variant: markdown
 ---
-CTA nominees 2024
+Caring Teacher Award nominees 2024
+
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 402px" class="tg">
    <colgroup><col style="width: 50px"><col style="width: 180px"></colgroup>
       <thead>
@@ -73,11 +74,11 @@ CTA nominees 2024
 	    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">15</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Carmela Neo</td></tr>
 						   
-         <tr>
-         </tr></tbody>
-      </table> <br>
+  
+</tbody>
+</table>
 
-
+<br>
 
 
 <table>
