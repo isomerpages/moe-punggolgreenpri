@@ -5,9 +5,6 @@ description: ""
 third_nav_title: 2024 MK Open House
 variant: markdown
 ---
-Is your child turning 5 years old in 2024? To find out more about the pre-school experience at MK, you may visit [www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
+![](/images/Our%20MOE%20Kindergarten/2024MKOpenHouse01.png)
 
-#moekindergarten #ontoastrongstart
-![](/images/Slide1.jpg)
-
-![](/images/Slide2.jpg)
+![](/images/Our%20MOE%20Kindergarten/2024MKOpenHouse02.png)
