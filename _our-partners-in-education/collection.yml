@@ -1,0 +1,14 @@
+collections:
+  our-partners-in-education:
+    output: true
+    order:
+      - Staff Awards Nomination.md
+      - School Advisory Committee.md
+      - Parent Support Group @ PGPS.md
+      - School Safety Information.md
+      - Financial Assistance.md
+      - Waitlist Form.md
+      - Homework Policy.md
+      - Book List 2024.md
+      - School Canteen Advertisement.md
+      - School Bus Service.md

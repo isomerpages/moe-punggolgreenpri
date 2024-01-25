@@ -1,0 +1,21 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Language.md
+      - Social Studies.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - MOE Sexuality Education in Schools.md
+      - Educational Technology.md
+      - PE, Art and Music/.keep
+      - PE, Art and Music/PE, Art and Music.md
+      - PE, Art and Music/Swimsafer 2.md
+      - Student Management.md
+      - Special Education Needs.md
+      - Applied Learning Programme (STEM).md
+      - Learning for Life Programme (Student Leadership).md
+      - CCAs.md
