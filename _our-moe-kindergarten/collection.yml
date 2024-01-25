@@ -2,7 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - 2024 MK Open House/Open House MK 2023.md
+      - 2024 MK Open House/2024 MK Open House.md
       - 2024 MK Open House/.keep
       - 2024 MK Open House/Environment.md
       - 2024 MK Open House/A Day in MK.md
