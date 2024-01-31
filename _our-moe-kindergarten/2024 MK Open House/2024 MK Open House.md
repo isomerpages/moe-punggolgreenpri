@@ -16,7 +16,7 @@ Online registration for 2025 K1 admissions will be from <b>9am on Friday, 16 Feb
 <br><br>
 <b>Scan the QR Code or click on the link below to start the registration process:</b>
 
-<img src="/images/Our%20MOE%20Kindergarten/mkHowtoRegister2024.png" style="width:50%">
+<img src="/images/Our%20MOE%20Kindergarten/mkHowtoRegister2024.png" style="width:25%">
 
 
 
