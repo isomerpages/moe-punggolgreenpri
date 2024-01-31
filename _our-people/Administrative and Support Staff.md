@@ -30,6 +30,10 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Aloysia Ang </td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Admin Executive</td>
 	</tr>
+		<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rachel Low </td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Admin Executive (MK)</td>
+	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sherina Jaffar </td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Corporate Support Officer</td>
