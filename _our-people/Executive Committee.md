@@ -44,7 +44,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Satiish Sathasilvam</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Ed Tech</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Educational Technology</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Priyadakshini D/O Surendiran S</td>
