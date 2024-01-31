@@ -18,4 +18,10 @@ Online registration for 2025 K1 admissions will be from <b>9am on Friday, 16 Feb
 
 <img src="/images/Our%20MOE%20Kindergarten/mkHowtoRegister2024.png" style="width:50%">
 
-[www.moe.gov.sg/mk-howtoregister](www.moe.gov.sg/mk-howtoregister)
+
+<div class="center">
+	<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register">www.moe.gov.sg/mk-howtoregister </a> 
+</div>
+
+
+
