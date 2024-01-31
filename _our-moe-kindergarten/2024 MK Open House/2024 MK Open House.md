@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 2024 MK Open House
 variant: markdown
 ---
+
 ![](/images/Our%20MOE%20Kindergarten/2024MKOpenHouse01.png)
 
 ![](/images/Our%20MOE%20Kindergarten/2024MKOpenHouse02.png)
@@ -17,7 +18,7 @@ Online registration for 2025 K1 admissions will be from <b>9am on Friday, 16 Feb
 <b>Scan the QR Code or click on the link below to start the registration process:</b>
 <img width="40%" src="/images/Our%20MOE%20Kindergarten/mkHowtoRegister2024.png">
 
-
+[www.moe.gov.sg/mk-howtoregister](www.moe.gov.sg/mk-howtoregister)
 
 
 
