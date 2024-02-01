@@ -5,9 +5,6 @@ description: ""
 third_nav_title: PE, Art and Music
 variant: markdown
 ---
-
-
-  
 **<font size="5">Department Mission</font>**<br>
 
 <img src="/images/Our%20Curriculum/PE%201.png" style="width:75%">
@@ -75,10 +72,10 @@ Primary 5 &amp; 6 lessons focus on the development of physical-activity and/or s
 *   Territorial-invasion Games
 
 <img src="/images/PAM_Image_PE_Lessons.png" style="width:75%">
-<u><i><b>Image: Physical Education Lessons @ PGPS</b></i></u><br><br>
+<u><i><b>Image: Physical Education Lessons @ PGPS</b></i></u><br>
 
 <img src="/images/PAM_Image_PE_Programmes.png" style="width:75%">
-<u><i><b>Image: Physical Education Lessons @ PGPS</b></i></u><br><br>
+<u><i><b>Image: Physical Education Lessons @ PGPS</b></i></u><br>
 
 **<font size="5">Aesthetics (Art and Music) at PGPS</font>**<br>
   
@@ -100,12 +97,12 @@ The PGPS Music curriculum empowers every PGPS student with musical knowledge, sk
 <img src="/images/PAM_Image_Music_Lessons.png" style="width:75%">
 <u><i><b>Image: Music lessons @ PGPS </b></i></u><br>
 
-The Aesthetics department helm various key programmes such as the Arts Fiesta, P4 Museum-Based Learning, PGPS’ Got Talent, P1 and P2 Music Appreciation Day, P3 Music Immersions and the Art &amp; Music Clinics. These programmes present ample opportunities for creative and innovative self-expression in varied modes. It also contributes to developing a fuller range of our students’ interests and talents.
+The Aesthetics department helm various key programmes such as the Arts Fiesta, P4 Museum-Based Learning, PGPS’ Got Talent, P1 and P2 Music Appreciation Day, P3 Music Immersions and the Art &amp; Music Clinics. These programmes present ample opportunities for creative and innovative self-expression in varied modes. It also contributes to developing a fuller range of our students’ interests and talents. <br>
 <img src="/images/PAM_Image_P4_Museum_Based_Learning.png" style="width:75%">
 <u><i><b>Image: P4 Museum-Based Learning @ National Gallery Singapore </b></i></u><br>
 
 <img src="/images/PAM_Image_Art_Clinic02.png" style="width:75%">
-<u><i><b>Image: Art Clinics </b></i></u><br><br>
+<u><i><b>Image: Art Clinics </b></i></u><br>
 
 <img src="/images/PAM_Image_Music_Clinics.png" style="width:75%">
 <u><i><b>Image: Music Clinics </b></i></u><br>
@@ -114,7 +111,7 @@ As part of our Arts Fiesta celebrations, we curated a showcase of selected artwo
 <a href="https://tinyurl.com/artcoustic2023">Click to view</a> our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
 
 <img src="/images/PAM_Image_Arts_Fiesta_ARTcoustic_Online_Gallery.png" style="width:75%">
-<u><i><b>Image: ARTcoustic Online Gallery </b></i></u><br><br>
+<u><i><b>Image: ARTcoustic Online Gallery </b></i></u><br>
 
 <img src="/images/PAM_Image_Music_Busking.png" style="width:75%">
 <u><i><b>Image: Music busking during Arts Fiesta</b></i></u><br>
@@ -128,8 +125,4 @@ In PGPS, we are committed to create a vibrant culture of the arts in which stude
 To encourage learning beyond the classroom, the Primary 1 and 2 students experience Programme for Active Learning (PAL) during curriculum time. PAL lessons are a series of purposefully planned activities to provide the students with broad exposure and experiences in the four domains; Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The activities facilitate the holistic development of the students in the five broad learning areas of physical, cognitive, social, aesthetics and moral. By equipping our students with the social and emotional competencies, it will better prepare every PGPS student to be a future-ready leader with the heart for others.
 
 ![](/images/Our%20Curriculum/PE%2011.jpg)
-<u><i><b>Image: PAL lessons during curriculum time for P1-2s</b></i></u><br> 
-
-
-
-
+<u><i><b>Image: PAL lessons during curriculum time for P1-2s</b></i></u><br>
