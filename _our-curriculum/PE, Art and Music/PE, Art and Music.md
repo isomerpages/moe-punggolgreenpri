@@ -120,22 +120,16 @@ As part of our Arts Fiesta celebrations, we curated a showcase of selected artwo
 <u><i><b>Image: Music busking during Arts Fiesta</b></i></u><br>
 <br>
 <img src="/images/PAM_Image_PGPS_Got_Talent.png" style="width:75%">
-<u><i><b>Image: PGPS’ Got Talent!</b></i></u><br>
-
-
-
-![](/images/Our%20Curriculum/PE%2010.jpg)
-
-**Image: P1 Instrument Making Competition** 
-
-  
+<u><i><b>Image: PGPS’ Got Talent!</b></i></u><br> 
 
 In PGPS, we are committed to create a vibrant culture of the arts in which students not only learn and appreciate but are also given various platforms to shine and showcase their talents. Hence, we believe that the arts is integral to the holistic development of our students and contributes to their development of the 21st Century Competencies that would better prepare them to face future challenges.
 
-**<font size="5"><u>Programme for Active Learning (PAL) at PGPS</u></font>**
-
+**<font size="5">Programme for Active Learning (PAL) at PGPS</font>** <br>
 To encourage learning beyond the classroom, the Primary 1 and 2 students experience Programme for Active Learning (PAL) during curriculum time. PAL lessons are a series of purposefully planned activities to provide the students with broad exposure and experiences in the four domains; Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The activities facilitate the holistic development of the students in the five broad learning areas of physical, cognitive, social, aesthetics and moral. By equipping our students with the social and emotional competencies, it will better prepare every PGPS student to be a future-ready leader with the heart for others.
 
 ![](/images/Our%20Curriculum/PE%2011.jpg)
+<u><i><b>Image: PAL lessons during curriculum time for P1-2s</b></i></u><br> 
 
-**Image: PAL lessons during curriculum time for P1-2s**
+
+
+
