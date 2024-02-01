@@ -105,26 +105,24 @@ The Aesthetics department helm various key programmes such as the Arts Fiesta, P
 <u><i><b>Image: P4 Museum-Based Learning @ National Gallery Singapore </b></i></u><br>
 
 <img src="/images/PAM_Image_Art_Clinic02.png" style="width:75%">
-<u><i><b>Image: Art Clinics </b></i></u><br>
+<u><i><b>Image: Art Clinics </b></i></u><br><br>
 
+<img src="/images/PAM_Image_Music_Clinics.png" style="width:75%">
+<u><i><b>Image: Music Clinics </b></i></u><br>
 
 As part of our Arts Fiesta celebrations, we curated a showcase of selected artworks created by our very own student artists during Art lessons and Art competitions. 
 <a href="https://tinyurl.com/artcoustic2023">Click to view</a> our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
 
+<img src="/images/PAM_Image_Arts_Fiesta_ARTcoustic_Online_Gallery.png" style="width:75%">
+<u><i><b>Image: ARTcoustic Online Gallery </b></i></u><br><br>
 
-![](/images/artcoustic%201.png)
+<img src="/images/PAM_Image_Music_Busking.png" style="width:75%">
+<u><i><b>Image: Music busking during Arts Fiesta</b></i></u><br>
+<br>
+<img src="/images/PAM_Image_PGPS_Got_Talent.png" style="width:75%">
+<u><i><b>Image: PGPS’ Got Talent!</b></i></u><br>
 
-![](/images/artcoustic%202.png)
 
-![](/images/artcoustic%203.png)
-
-![](/images/Our%20Curriculum/PE%208.jpg)
-
-**Image: Music busking during Arts Fiesta**
-
-![](/images/Our%20Curriculum/PE%209.jpg)
-
-**Image: PGPS’ Got Talent!**
 
 ![](/images/Our%20Curriculum/PE%2010.jpg)
 
