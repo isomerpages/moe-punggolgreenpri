@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Parent Teacher Meeting 1.md
       - Staff Awards Nomination.md
       - School Advisory Committee.md
       - Parent Support Group @ PGPS.md
@@ -13,3 +12,4 @@ collections:
       - Book List 2024.md
       - School Canteen Advertisement.md
       - School Bus Service.md
+      - Parent Teacher Meeting 1.md
