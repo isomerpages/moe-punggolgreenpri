@@ -16,7 +16,7 @@ description: ""
 
 [Primary 6 Parent-Teacher Meeting 2024](/files/Partners%20in%20Education/P6_PTM_2024.pdf)
 
-[Primary 4 Parent Briefing ](/files/Partners%20in%20Education/Primary_4_Parents_Briefing.pdf)
+[Primary 4 Parents Briefing ](/files/Partners%20in%20Education/Primary_4_Parents_Briefing.pdf)
 
 [Primary 5 Parents Briefing](/files/Partners%20in%20Education/Primary_5_Parents_Briefing.pdf)
 
