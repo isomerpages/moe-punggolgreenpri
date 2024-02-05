@@ -8,7 +8,7 @@ description: ""
 
 [Primary 2 Parent-Teacher Meeting 2024](/files/Partners%20in%20Education/P2_PTM_2024.pdf)
 
-[Pimary 3 Parent-Teacher Meeting 2024](/files/Partners%20in%20Education/P3_PTM_2024.pdf)
+[Primary 3 Parent-Teacher Meeting 2024](/files/Partners%20in%20Education/P3_PTM_2024.pdf)
 
 [Primary 4 Parent-Teacher Meeting 2024](/files/Partners%20in%20Education/P4_PTM_2024.pdf)
 
