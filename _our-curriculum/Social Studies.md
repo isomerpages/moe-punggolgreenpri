@@ -2,13 +2,11 @@
 title: Social Studies
 permalink: /our-curriculum/social-studies/
 description: ""
+variant: markdown
 ---
 
 
-**<font size=5>Department Vision</font>**<br>
-Leaders of Character, Citizens of Compassion
-
-**<font size=5>Department Mission</font>**<br>
+**<font size="5">Department Mission</font>**<br>
 Nurture future-ready leaders of exemplary characters who are empowered in making a difference for the society.  
 
   
