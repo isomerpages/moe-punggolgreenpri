@@ -15,7 +15,7 @@ President's Award for Teachers 2024
             <th style="background-color:##FFFFFF;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Name</th>
          </tr>
       </thead>
-      <tbody>
+<tbody>
          <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Abel Kok Kum Weng
@@ -93,7 +93,7 @@ President's Award for Teachers 2024
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Leong Shiao Shyan Emily</td></tr>
 <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">15</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mrs Leong Wen Hsi Andrea
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Leong Wen Hsi Andrea
 </td></tr>
 <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">16</td>
@@ -168,7 +168,7 @@ President's Award for Teachers 2024
 </td></tr>
 	<tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">34</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Tan Jiaqi
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Tan Jia Qi
 </td></tr>
 	<tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">35</td>
@@ -207,7 +207,7 @@ President's Award for Teachers 2024
 
 </td></tr>
 	
-	</tbody>
+</tbody>
 </table>
 
 <br>
