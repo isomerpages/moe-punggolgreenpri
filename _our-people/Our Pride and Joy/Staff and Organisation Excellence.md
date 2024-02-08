@@ -44,41 +44,37 @@ Caring Teacher Award nominees 2024
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mrs Dolly Chan</td></tr>
 				   
-         <tr>
+ <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Aishwarya</td></tr>
-						   
-         <tr>
+				    <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">9</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Chua Yinghan</td></tr>
-						   
-         <tr>
+				  <tr>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Siti Ramzah</td></tr>
-						    <tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">	Mdm Siti Ramzah</td></tr>
+			<tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Abel Kok</td></tr>
-						   
-         <tr>
-	    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12</td>
+  		<tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Emily Leong</td></tr>
-						   
-         <tr>
-	    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">13</td>
+			<tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">13</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Nurul Hafizah</td></tr>
-						   
-         <tr>
-	    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">14</td>
+<tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">14</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Na Kim Gek</td></tr>
-						   
-         <tr>
-	    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">15</td>
+	<tr>
+            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">15</td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Carmela Neo</td></tr>
-						   
-  
+	
+	
 </tbody>
 </table>
 
 <br>
+
 
 
 
