@@ -11,7 +11,7 @@ Basketball is known to be an exciting yet demanding team sport. With that in min
 
 
 **<font size="4">Training Schedule:</font>** <br>
-Mondays Session 1:&nbsp;&nbsp; &nbsp;2.15pm – 3.45pm<br>
+Mondays Session 1:&nbsp;&nbsp; &nbsp;2.15pm – 4.15pm<br>
 Mondays Session 2:&nbsp;&nbsp; &nbsp;3.45pm – 5.45pm <br>
 Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
 <br>
