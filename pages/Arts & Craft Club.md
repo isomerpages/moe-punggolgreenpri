@@ -4,24 +4,29 @@ permalink: /artscraftclub/
 variant: markdown
 description: ""
 ---
-<img src="/images/Badminton_1.png" style="width:75%">
+<img src="/images/Art_n_Craft_1.png" style="width:75%">
+
+
+Arts &amp; Craft Club gathers passionate young artists to come together to learn more about Art. <br>
+We aim to:-
+<ul>
+   <li>nurture creativity and self-expression</li>
+   <li>foster a deeper love and appreciation for the Arts</li>
+   <li>encourage the holistic development of the students anchored in the vision and mission of the school</li></ul>
+
+Throughout the year, students hone their skills and techniques through various art forms and mediums beyond the formal art curriculum. Drawing, painting, pottery and craftwork are just some examples of what students will learn. <p>
+Apart from mastering their artistic inclinations, they will also build strong characters as they learn to work together, share ideas and help one another whilst forging new friendships. Arts &amp; Craft Club members will also cultivate values such as respect and resilience through their art-making journey
 
 
 
 
-
-
-Badminton is a demanding racquet sport which requires strength, agility, power, speed and high mental endurance.  In PGPS, we strive to not only equip our players with proper badminton skills and techniques; we also aim to inculcate the school’s STRIVE values in our players to cultivate good sportsmanship and enjoy the sport for life.
-Our Badminton CCA consists of both boys’ and girls’ teams.  Our players train on a regular basis under the guidance of experienced coaches and teachers-in-charge.  The regular training sessions are meant to level up our players’ badminton skills and techniques such that they will be ever ready for the annual National Sports Games.
-Besides training hard and participating in competitions, our players are given leadership positions to promote character development and instill discipline.  
 
 
 **<font size="4">Training Schedule:</font>** <br>
-Mondays Session 1:&nbsp;&nbsp; &nbsp;2.15pm – 3.45pm<br>
-Mondays Session 2:&nbsp;&nbsp; &nbsp;3.45pm – 5.45pm <br>
-Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
+Mondays Session (P4): &nbsp;&nbsp; &nbsp;2.15pm – 3.45pm<br>
+Mondays Session (P5): &nbsp;&nbsp; &nbsp;3.45pm – 5.45pm <br>
+Mondays Session (P6): &nbsp;&nbsp; &nbsp;2.15pm – 4.15pm
 <br>
 <br>
 **<font size="4">Teachers-in-Charge:</font>** <br>
-Badminton Boys:&nbsp;&nbsp; &nbsp;Mr Kwang Yong (IC), Mr Lim Cheng Feng, Miss Aishwarya<br>
-Badminton Girls: &nbsp;&nbsp; &nbsp;Mrs Shannon Loh (IC), Mdm Hafidzoh Sirri Bte Sajani, Mdm Qin Xiaolin <br>
+Ms Ita (IC), Mdm Nazurah (2IC), Miss Chanel Chan, Ms Marie-Elena Louisa Soliano</p>
