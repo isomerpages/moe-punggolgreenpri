@@ -52,10 +52,15 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 </tbody></table>
 click on the CCA to find out more!
 
-<b>Other Useful Resources<b>
-	<table style="width: 800px; border-collapse: collapse;">
-	<colgroup><col style="width: 200px"><col style="width: 200px"><col style="width: 200px"><col style="width: 200px"></colgroup>
-	<tbody><tr>
+<b>Other Useful Resources<b><table style="width: 800px; border-collapse: collapse;">
+	<colgroup>
+		<col style="width: 200px">
+		<col style="width: 200px">
+		<col style="width: 200px">
+		<col style="width: 200px">
+	</colgroup>
+	<tbody>
+		<tr>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-top: 2px solid #0d0d0d;">Physical Sports CCA</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-top: 2px solid #0d0d0d;">Visual &amp; Performing Arts CCA</th>
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-top: 2px solid #0d0d0d;">Uniformed Groups</th>
@@ -79,7 +84,8 @@ click on the CCA to find out more!
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;border-bottom: 2px solid #0d0d0d;"></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: none;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"></td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 	
 	
 	
