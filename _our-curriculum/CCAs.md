@@ -52,7 +52,7 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 </tbody></table>
 <i>*click on the CCA to find out more!</i>
 
-<br>
+
 
 <b>Other Useful Resources<b>
 	<table style="width: 800px; border-collapse: collapse;">
