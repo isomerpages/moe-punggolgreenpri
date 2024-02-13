@@ -20,38 +20,39 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#DDD; color:#666; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-top: 2px solid #0d0d0d;">Uniformed Groups</th>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-bottom: none;">Badminton</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Arts &amp; Craft Club</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">I-STEM</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Cub Scouts</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/badminton/">Badminton</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/artscraftclub/">Arts &amp; Craft Club</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/istem/">I-STEM</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/cub-scouts/">Cub Scouts</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Basketball</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Choir</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Multimedia Club</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/basketball/">Basketball</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/choir/">Choir</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/multimedia-club/">Multimedia Club</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: none; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;"></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Football (boys only)</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Dancetopia</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">Robotics</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/football/">Football (boys only)</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/dancetopia/">Dancetopia</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/robotics/">Robotics</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: none;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;"></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;">English Drama</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/english-drama/">English Drama</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: none;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;"></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-bottom: 2px solid #0d0d0d;"></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;">Strings Ensemble</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"><a href="https://punggolgreenpri.moe.edu.sg/strings-ensemble/">Strings Ensemble</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"></td>	
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"></td>
 	</tr>
 </tbody></table>
-
 <i>*click on the CCA to find out more!</i>
+
+<br>
 
 <b>Other Useful Resources<b>
 	<table style="width: 800px; border-collapse: collapse;">
