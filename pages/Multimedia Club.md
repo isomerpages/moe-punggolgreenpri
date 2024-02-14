@@ -4,6 +4,15 @@ permalink: /multimediaclub/
 variant: markdown
 description: ""
 ---
+<table style="width: 780px">
+	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
+	<tbody><tr>
+		<th><img src="/images/multimedia01.jpg"></th>
+		<th><img src="/images/multimedia02.jpg"></th>
+		<th><img src="/images/multimedia03.jpg"></th>
+	</tr>
+</tbody></table>
+
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">At the heart of Multimedia CCA is communication - communicating confidently and effectively which is an important skill to have at any stage in life. The Multimedia CCA introduces students to different ways of communicating through the digital world of multimedia.</p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">In this CCA, students will be producing their own original creations. Students are encouraged to enhance their creativity using different digital tools and platforms. For example, students will learn to take and edit digital photos and videos, create their own avatars and also to make posters for display. Students will also learn how to create simple mobile games using apps such as Thunkable and Google App Sheet.</p>
