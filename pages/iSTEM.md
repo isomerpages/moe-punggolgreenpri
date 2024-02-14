@@ -4,7 +4,13 @@ permalink: /istem/
 variant: markdown
 description: ""
 ---
-<img style="width:260px" src="/images/istem01.jpg"><img style="width:260px" src="/images/istem02.jpg"><img style="width:260px" src="/images/istem03.jpg">
+<table style="width: 780px">
+	<colgroup><col style="width: 170px"><col style="width: 360px"><col style="width: 260px"></colgroup>
+	<tbody><tr>
+		<th><img src="/images/istem01.jpg"></th>
+		<th><img src="/images/istem02.jpg"></th>
+		<th><img src="/images/istem03.jpg"></th>
+		</tr></tbody></table>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">I-STEM Club is a CCA that engages students in the four specific disciplines - science, technology, engineering and mathematics, in an interdisciplinary approach. Through this I-STEM CCA, we hope students would be inspired to be innovative and critical thinkers with a heart for others and care for the environment.</p>
 
