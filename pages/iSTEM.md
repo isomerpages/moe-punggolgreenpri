@@ -4,7 +4,7 @@ permalink: /istem/
 variant: markdown
 description: ""
 ---
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">I-STEM Club is a CCA that engages students in the four specific disciplines - science, technology, engineering and mathematics, in an interdisciplinary approach. Through this I-STEM CCA, we hope students would be inspired to be innovative and critical thinkers with a heart for others and care for the environment.</p>
+<img style="width:40%" src="/images/istem01.jpg"><img style="width:40%" src="/images/istem02.jpg"><img style="width:40%" src="/images/istem03.jpg"> <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">I-STEM Club is a CCA that engages students in the four specific disciplines - science, technology, engineering and mathematics, in an interdisciplinary approach. Through this I-STEM CCA, we hope students would be inspired to be innovative and critical thinkers with a heart for others and care for the environment.</p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">STEM education aims to prepare students for careers in fields related to science, technology, engineering and mathematics by integrating these subjects into a cohesive learning paradigm. The goal is to develop critical thinking, problem-solving skills and creativity among students.</p>
 
@@ -26,4 +26,3 @@ Mondays Session: 2.15pm – 4.15pm</p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Teachers-In-Charge:</b><br>
 Ms Mabel Heng (IC), Ms Eugenia Ong (2IC), Mr Sebastian Goh, Mdm Siti Nur Hajar</p>
- 
