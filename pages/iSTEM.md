@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <table style="width: 780px">
-	<colgroup><col style="width: 170px"><col style="width: 360px"><col style="width: 260px"></colgroup>
+	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
 		<th><img src="/images/istem01.jpg"></th>
 		<th><img src="/images/istem02.jpg"></th>
