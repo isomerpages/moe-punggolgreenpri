@@ -22,5 +22,5 @@ description: ""
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Training Schedule:</b><br>
 Mondays Session: 2.15pm – 4.15pm</p>
 
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Teachers-In-Charge:</b>
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Teachers-In-Charge:</b><br>
 Mdm. Zaimah Bte Mohd Ali (IC), Ms. Nurul Hafizah (2IC), Ms. Naseem Fathima</p>
