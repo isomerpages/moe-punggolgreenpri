@@ -4,8 +4,7 @@ permalink: /football/
 variant: markdown
 description: ""
 ---
-<img src="/images/Football_1_s.png" style="width:75%">
-
+<img src="/images/Football_2024.jpg">
 
 Football, Soccer, Fútbol - or by any other name around the world – is also known as “The People's Game”. A sport accessible to everyone and enjoyed by millions worldwide. <p>
 Similarly, here in PGPS, we aim to make football a sport enjoyed by as many people as possible. In addition to footballing skills, concepts and knowledge, our students will also experience opportunities to practice our PGPS STRIVE Values in real-life settings: both on, and off, the pitch.
