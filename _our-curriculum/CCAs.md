@@ -23,12 +23,12 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d; border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/badminton/">Badminton</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/artscraftclub/">Arts &amp; Craft Club</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/istem/">I-STEM</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/cub-scouts/">Cub Scouts</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/marlincubscouts/">Cub Scouts</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/basketball/">Basketball</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/choir/">Choir</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/multimedia-club/">Multimedia Club</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: none;"><a href="https://punggolgreenpri.moe.edu.sg/multimediaclub/">Multimedia Club</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: none; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;"></td>
 	</tr>
 	<tr>
@@ -87,9 +87,3 @@ click on the CCA to find out more!
 	</tr>
 </tbody>
 </table>
-	
-	
-	
-	
-	
-
