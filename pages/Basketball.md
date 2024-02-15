@@ -4,8 +4,8 @@ permalink: /basketball/
 variant: markdown
 description: ""
 ---
-<img src="/images/Basketball_1_s.png" style="width:75%">
 
+<img src="/images/Basketball_2024.jpg">
 
 Basketball is known to be an exciting yet demanding team sport. With that in mind, our teachers work closely with a professional coach to teach our students fundamental basketball skills, helping them improve their confidence and resilience. Students are given opportunities to build their character as well as cultivate their leadership skills. With the right attitude, students will be able to achieve excellence both in and out of the court.
 
