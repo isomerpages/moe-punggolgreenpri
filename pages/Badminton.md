@@ -4,7 +4,8 @@ permalink: /badminton/
 variant: markdown
 description: ""
 ---
-<img src="/images/Badminton_1.png" style="width:75%">
+
+<img src="/images/Badminton_2024.jpg">
 
 Badminton is a demanding racquet sport which requires strength, agility, power, speed and high mental endurance.  In PGPS, we strive to not only equip our players with proper badminton skills and techniques; we also aim to inculcate the school’s STRIVE values in our players to cultivate good sportsmanship and enjoy the sport for life.
 Our Badminton CCA consists of both boys’ and girls’ teams.  Our players train on a regular basis under the guidance of experienced coaches and teachers-in-charge.  The regular training sessions are meant to level up our players’ badminton skills and techniques such that they will be ever ready for the annual National Sports Games.
