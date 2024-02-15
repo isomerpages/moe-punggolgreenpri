@@ -4,8 +4,7 @@ permalink: /artscraftclub/
 variant: markdown
 description: ""
 ---
-<img src="/images/Art_n_Craft_1.png" style="width:75%">
-
+<img src="/images/Art_and_Craft_2024.jpg">
 
 Arts &amp; Craft Club gathers passionate young artists to come together to learn more about Art. <br>
 We aim to:-
