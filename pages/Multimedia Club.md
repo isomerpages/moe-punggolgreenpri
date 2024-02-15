@@ -4,14 +4,7 @@ permalink: /multimediaclub/
 variant: markdown
 description: ""
 ---
-<table style="width: 780px">
-	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
-	<tbody><tr>
-		<th><img src="/images/multimedia01.jpg"></th>
-		<th><img src="/images/multimedia02.jpg"></th>
-		<th><img src="/images/multimedia03.jpg"></th>
-	</tr>
-</tbody></table>
+<img src="/images/multimedia01.jpg">
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">At the heart of Multimedia CCA is communication - communicating confidently and effectively which is an important skill to have at any stage in life. The Multimedia CCA introduces students to different ways of communicating through the digital world of multimedia.</p>
 
