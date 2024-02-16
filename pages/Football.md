@@ -16,4 +16,3 @@ Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
 <br>
 **<font size="4">Teachers-in-Charge:</font>** <br>
 Mr Fadzli (IC), Mdm. Sherrielyn Kuan (2IC), Mdm. Zahidah, Ms. Vishalini<br>
-<p></p>
