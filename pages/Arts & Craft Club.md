@@ -28,4 +28,8 @@ Mondays Session (P6): &nbsp;&nbsp; &nbsp;2.15pm – 4.15pm
 <br>
 <br>
 **<font size="4">Teachers-in-Charge:</font>** <br>
-Ms Ita (IC), Mdm Nazurah (2IC), Miss Chanel Chan, Ms Marie-Elena Louisa Soliano</p>
+Ms Ita (IC), Mdm Nazurah (2IC), Miss Chanel Chan, Ms Marie-Elena Louisa Soliano
+
+
+
+</p>
