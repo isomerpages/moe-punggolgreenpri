@@ -4,6 +4,8 @@ permalink: /robotics/
 variant: markdown
 description: ""
 ---
+<img src="/images/robotics01.jpg">
+
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Welcome to the PGPS Robotics Club, where students engage in the exploration of robotics programming and other facets of technology. Our club is dedicated to fostering an enriching learning environment while maintaining a focus on character development and skill development.</p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Within the club, our trainers and teachers provide comprehensive training to students, imparting essential knowledge in various technological domains. Noteworthy is our commendable representation of the school in national-level competitions, reflecting the dedication and competency of our members. Additionally, we place a strong emphasis on mentorship, encouraging senior members to guide and coach their junior counterparts within the CCA.</p>
