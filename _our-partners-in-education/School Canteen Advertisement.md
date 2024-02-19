@@ -10,8 +10,8 @@ variant: markdown
 
 | Type of Stall  | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall    | 31 December 2024    | Any genre ie Japanese, Western etc is acceptable.      |
-| Chinese Mixed Rice Stall    | 31 December 2024    | NIL      |
+| Malay Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.      |
+| Chinese Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.      |
 
 
 
