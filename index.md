@@ -10,16 +10,16 @@ sections:
       background: /images/WebsiteBanner_LargeLabels.gif
   - resources:
       subtitle: Key highlights
-  - infobar:
-      title: School Canteen Advertisement
-      button: more information
-      url: /our-partners-in-education/school-canteen-advertisement/
   - infopic:
       title: Open House 2024
       id: infopic
-      description: "6 July 2024, Saturday  "
+      description: 6 July 2024, Saturday
       button: More details
       url: https://punggolgreenpri.moe.edu.sg/open-house-2024/
       image: /images/PGPS_Open_House_2024_e_banner.png
       alt: Image alt text
+  - infobar:
+      title: School Canteen Advertisement
+      button: more information
+      url: /our-partners-in-education/school-canteen-advertisement/
 ---
