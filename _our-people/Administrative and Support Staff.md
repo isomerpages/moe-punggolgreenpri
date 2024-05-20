@@ -75,11 +75,15 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Operations Support Officer</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Khair</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Muhammad Khair Bin Zulkifli</td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Desktop Engineer</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sumi</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sushma Kunchaparthi</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Desktop Engineer</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sumirah Arip</td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ICT Trainer</td>
 	</tr>
 </tbody></table>
