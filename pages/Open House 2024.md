@@ -4,7 +4,6 @@ permalink: /open-house-2024/
 variant: markdown
 description: ""
 ---
-
 ![](/images/PGPS_Open_House_2024_e_banner.png)
 
 Punggol Green Primary School cordially invites parents of K2 children to join us at our Open House 2024. Our Open House aims to provide parents with an overview of the Punggol Green experience. The programme will consist of Principal’s Address and a guided school tour.  <br>
