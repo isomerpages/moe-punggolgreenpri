@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
-  - resources:
-      subtitle: Key highlights
   - infopic:
       title: Open House 2024
       id: infopic
@@ -18,6 +16,8 @@ sections:
       url: https://punggolgreenpri.moe.edu.sg/open-house-2024/
       image: /images/PGPS_Open_House_2024_e_banner.png
       alt: Image alt text
+  - resources:
+      subtitle: Key highlights
   - infobar:
       title: School Canteen Advertisement
       button: more information
