@@ -36,4 +36,4 @@ variant: markdown
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">4. Makerspace @ IGNITE Room</b><br>
 	Students participate in hands on activities during recess to showcase their LEGO building skills and innovative solutions in our IGNITE room.<br>
 <img src="/images/Our%20Curriculum/ALP/ALP05.jpg"></p>
-<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">These programmes allow students to embark on a journey of discovery and innovation, preparing them to meet the challenges of the future with confidence and creativity. Together, we can spark a lifelong passion for STEM and develop innovative thinkers and explorers of tomorrow , igniting the potential within every student!</p>
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">These programmes allow students to embark on a journey of discovery and innovation, preparing them to meet the challenges of the future with confidence and creativity. Together, we can spark a lifelong passion for STEM and develop innovative thinkers and explorers of tomorrow, igniting the potential within every student!</p>
