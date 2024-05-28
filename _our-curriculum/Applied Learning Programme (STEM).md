@@ -24,18 +24,23 @@ variant: markdown
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Key Programmes</b><br>
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">1. STEM Playground</b><br>
-	Students engage in termly challenges that encourage experimentation and innovation. These projects are designed to challenge their understanding and push the boundaries of traditional learning.</p>
+	Students engage in termly challenges that encourage experimentation and innovation. These projects are designed to challenge their understanding and push the boundaries of traditional learning.<br>
+<img src="/images/Our%20Curriculum/ALP/ALP01.png"></p>
 	
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">2. STRIVE to Thrive (S2T) Week</b><br>
-	Designed with intentional efforts to create a coherent and positive learning experience, the S2T week provided students with insights into current trends and future opportunities in science and technology.</p>
+	Designed with intentional efforts to create a coherent and positive learning experience, the S2T week provided students with insights into current trends and future opportunities in science and technology.<br>
+<img src="/images/Our%20Curriculum/ALP/ALP02.png"><br>
+<img src="/images/Our%20Curriculum/ALP/ALP03.png"></p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">3. Maker Faire</b><br>
-	Students celebrate the spirit of innovation and creativity through a showcase of inspiring inventions by their peers at our inaugural PGPS Maker Faire.</p>
+	Students celebrate the spirit of innovation and creativity through a showcase of inspiring inventions by their peers at our inaugural PGPS Maker Faire.<br>
+<img src="/images/Our%20Curriculum/ALP/ALP04.png"></p>
  
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">4. Makerspace @ IGNITE Room</b><br>
-	Students participate in hands on activities during recess to showcase their LEGO building skills and innovative solutions in our IGNITE room.</p>
+	Students participate in hands on activities during recess to showcase their LEGO building skills and innovative solutions in our IGNITE room.<br>
+<img src="/images/Our%20Curriculum/ALP/ALP05.png"></p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">These programmes allow students to embark on a journey of discovery and innovation, preparing them to meet the challenges of the future with confidence and creativity. Together, we can spark a lifelong passion for STEM and develop innovative thinkers and explorers of tomorrow , igniting the potential within every student!</p>
