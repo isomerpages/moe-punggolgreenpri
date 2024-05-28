@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
-	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">IGNITE: Igniting Generations of Novel and Innovative Thinkers and Explorers</b><br>
+	<b style="line-height:1.3;font-size:22px;font-family:Arial;text-align:justify;">IGNITE: Igniting Generations of Novel and Innovative Thinkers and Explorers</b><br>
 	To empower our students to become Innovative Collaborators, which is one of the four PGPS Desired Student Outcomes, we have developed our Applied Learning Programme dedicated to fostering a passion for STEM (Science, Technology, Engineering, and Mathematics) in students. Our mission is to equip students with the skills and mindset necessary to thrive in a rapidly evolving world.</p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
