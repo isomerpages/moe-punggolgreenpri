@@ -9,7 +9,7 @@ variant: markdown
 	To empower our students to become Innovative Collaborators, which is one of the four PGPS Desired Student Outcomes, we have developed our Applied Learning Programme dedicated to fostering a passion for STEM (Science, Technology, Engineering, and Mathematics) in students. Our mission is to equip students with the skills and mindset necessary to thrive in a rapidly evolving world.</p>
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">About IGNITE</b><br>
-	IGNITE stands for Igniting Generations of Novel and Innovative Thinkers and Explorers. This comprehensive STEM programme aims to develop students' 21st Century Competencies (21 CC) with a focus on Inventive Thinking. Through a variety of hands-on design challenges, design thinking,  collaborative activities, and real-world problem-solving exercises, IGNITE nurtures creativity, critical thinking, and a love for exploration and discovery.</p>
+	IGNITE stands for <b>Igniting Generations of Novel and Innovative Thinkers and Explorers</b>. This comprehensive STEM programme aims to develop students' 21st Century Competencies (21 CC) with a focus on <b>Inventive Thinking</b>. Through a variety of hands-on design challenges, design thinking,  collaborative activities, and real-world problem-solving exercises, IGNITE nurtures creativity, critical thinking, and a love for exploration and discovery.</p>
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">
 	<b style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Programme Objectives</b><br>
 	</p><ol>
