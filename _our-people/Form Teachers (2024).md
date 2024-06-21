@@ -105,7 +105,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Innovation</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Parames<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan<br><a href="mailto:chua_yinghan@moe.edu.sg">chua_yinghan@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Neo Qing Hao<br><a href="mailto:neo_qing_hao@moe.edu.sg">neo_qing_hao@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mrs Seah-Koh Wei Ning    Year Head / Lower Primary (Int)</td>
@@ -183,7 +183,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Responsibility</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Sebastian Goh<br><a href="mailto:goh_eng_meng_sebastian@moe.edu.sg">goh_eng_meng_sebastian@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ruhernie Abu Yamin<br><a href="mailto:ruhernie_abu_yamin@moe.edu.sg">ruhernie_abu_yamin@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafizah Binte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Integrity</td>
