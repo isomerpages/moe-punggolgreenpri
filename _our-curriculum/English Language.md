@@ -79,4 +79,4 @@ What’s Up Newspaper Publications for our P5 and P6 students&nbsp;&nbsp;<br>
 Theatrical Experience&nbsp;<br>
 Public Speaking &amp; Communication Skills Workshop for selected P3 students&nbsp;<br>
 Introduction to Debates Workshop for selected P5 students<br>
-Debate Workshop for selected P5 students<p></p>
+Debate Workshop for selected P5 students
