@@ -108,6 +108,10 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Lower Primary</td>
 	</tr>
+		<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Middle Primary </td>
+	</tr>
 </tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b> Level Heads and Subject Heads </b></p>
@@ -121,6 +125,10 @@ variant: markdown
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Toh Irene</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Mathematics</td>
+	</tr>
+		<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Anisa Binte Anan</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Science</td>
 	</tr>
 <tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Neo Qing Hao</td>
@@ -138,6 +146,7 @@ variant: markdown
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kenny Teo</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being</td>
 </tr>
+		
 </tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
@@ -149,24 +158,12 @@ variant: markdown
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sharmilah Sheikh</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
-	</tr>
-	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi </td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Middle Primary </td>
-	</tr>
-	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Chinese Language</td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Anisa Binte Anan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Science</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
