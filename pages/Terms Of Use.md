@@ -4,8 +4,7 @@ permalink: /terms-of-use/
 description: ""
 variant: markdown
 ---
-
-   <p></p><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Thank you for visiting Punggol Green Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
+<p></p><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Thank you for visiting Punggol Green Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 	 
 	 
    </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.</li>
