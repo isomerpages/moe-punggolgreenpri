@@ -7,7 +7,7 @@ variant: markdown
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Thank you for visiting Punggol Green Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 	 
 </p><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> <b>General </b>
-
+	
   </p><ol> <p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. </li>
 <p></p></ol>
 
