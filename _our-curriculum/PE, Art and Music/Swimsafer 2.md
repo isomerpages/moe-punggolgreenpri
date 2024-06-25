@@ -3,13 +3,13 @@ title: Swimsafer 2
 permalink: /our-curriculum/pe-art-and-music/swimsafer-2-0/
 description: ""
 third_nav_title: PE, Art and Music
+variant: markdown
 ---
 **Accessing E-certificate**
 
 Dear parents,
 
-You can now access your child’s SwimSafer 2.0 certificate via the web-based ActiveSG portal at
-[http://members.myactivesg.com/auth] http://members.myactivesg.com/auth) once they pass both practical assessment and the corresponding online quiz on [https://members.myactivesg.com/swimsafer](https://members.myactivesg.com/swimsafer). Currently, the access to the E-certificates is only via web-based. The access through the ActiveSG App will be implemented later.
+You can now access your child’s SwimSafer 2.0 certificate via the web-based ActiveSG portal at [http://members.myactivesg.com/auth](http://members.myactivesg.com/auth) once they pass both practical assessment and the corresponding online quiz on [https://members.myactivesg.com/swimsafer](https://members.myactivesg.com/swimsafer). Currently, the access to the E-certificates is only via web-based. The access through the ActiveSG App will be implemented later.
 
   
 
