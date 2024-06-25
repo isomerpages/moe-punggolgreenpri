@@ -4,50 +4,39 @@ permalink: /terms-of-use/
 description: ""
 variant: markdown
 ---
-<p></p><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Thank you for visiting Punggol Green Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Thank you for visiting Punggol Green Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 	 
-	 
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">In these Terms, the words “we,” “our” and “us” refer to PGPS.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">PGPS reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.</li>
-<p></p>
+</p><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> <b>General </b>
 
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
- <b>Access to The Website</b>
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</li>
+  </p><ol> <p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. </li>
 <p></p></ol>
 
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
- <b>Relying on Information</b>
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PGPS.</li>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+ <b>Proprietary Rights </b>
+	
+ </p><ol start="2" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">This Web Site is maintained by Punggol Green Primary School. It is owned by Punggol Green Primary School.</li>
+   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Punggol Green Primary School.</li>
 <p></p></ol>
 
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
- <b>Security</b>
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.</li>
-<p></p></ol>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+ <b>Privacy Policy </b>
+	
+  </p><ol start="4" type="1"> <p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Click here to review this Web Site Privacy Statement.</li><p></p></ol>
+   
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+ <b>Restrictions on Use of Materials  </b>
+	
+   </p><ol start="5" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Punggol Green Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. </li>
+   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Punggol Green Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Punggol Green Primary School.</li><p></p></ol>
 
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
- <b>Hyperlinks</b>
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">If you create a link or frame to The Website you do so at your own risk.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at admin_punggolgreen_ps@moe.edu.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">We reserve the right to object to, or disable any link or frame to or from The Website.</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">We reserve the right to change the URL of The Website.</li>
-<p></p></ol>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+ <b>Right of Access </b>
+    </p><ol start="7" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Punggol Green Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever. </li><p></p></ol>
 
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
- <b>Intellectual Property</b>
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Punggol Green Primary School)</li>
-   <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.</li>
-<p></p></ol>
-
-<ol><p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
  <b>Disclaimer of Warranties and Liability</b><br>
-We will not be liable for any loss or damage:
-   </p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;</li>
+
+   </p><ol start="8" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Punggol Green Primary School does not warrant and hereby disclaims any warranty: </li></ol>
    <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or</li>
    <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">the conduct or the views of any person who accesses or uses The Website.</li>
-<p></p></ol>
+<p></p>
