@@ -13,4 +13,4 @@ The details of the Open House are as follows:  <br>
 <b>Date</b>: 6 July 2024, Saturday  
 <b>Time</b>: 9 a.m. – 11 a.m.  
 <b>Venue</b>: Punggol Green Primary School  
-To register your interest to attend, click [here](https://go.gov.sg/pgpsopenhouse2024) to complete the registration form. Successful registrants will be notified via a confirmation email by Friday, 21 June 2024.
+To register your interest to attend, click [here](https://go.gov.sg/pgpsopenhouse2024) to complete the registration form. Successful registrants will be notified via a confirmation email nearer to event date.
