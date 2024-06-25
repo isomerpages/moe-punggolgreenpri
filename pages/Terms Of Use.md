@@ -39,8 +39,7 @@ variant: markdown
    </p><ol start="8" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Punggol Green Primary School does not warrant and hereby disclaims any warranty: </li></ol>
    <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"> resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or</p>  
 	 
-	 
-	 
+
 	 
 	 
 
