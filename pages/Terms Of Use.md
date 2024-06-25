@@ -57,6 +57,10 @@ variant: markdown
 	<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Punggol Green Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.  </li>
 <p></p></ol>
 
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
+ <b>Governing Law  </b><br>
+	 </p><ol start="18" type="1"><p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. </li>
 
 
-<p></p><p></p>
+
+<p></p><p></p></ol>
