@@ -21,7 +21,7 @@ variant: markdown
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
  <b>Privacy Policy </b>
 	
-  </p><ol start="4" type="1"> <p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Click here to review this Web Site Privacy Statement.</li><p></p></ol>
+  </p><ol start="4" type="1"> <p></p><li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Click <a href="https://punggolgreenpri.moe.edu.sg/privacy/"> here </a>  to review this Web Site Privacy Statement.</li><p></p></ol>
    
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
  <b>Restrictions on Use of Materials  </b>
