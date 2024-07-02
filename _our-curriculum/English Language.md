@@ -16,11 +16,11 @@ To provide a rich curriculum that is enabling, engaging and enriching<br><br>
 <center>Story-telling session conducted by Teachers during EL Fest</center>
 <br>
 <img src="/images/Our%20Curriculum/English%204.png" style="width:75%">
-<br>
 <center>Poetry Recitation during EL Fest</center>
+<br>
 <img src="/images/Our%20Curriculum/English%205.png" style="width:60%">
 <center>Experiential Learning during EL Lessons</center>
-
+<br>
 <span style="colour:#84C53D"><b>Department Key Stage Outcomes</b></span><br>
 
 <b>Primary 1 &amp; 2 (Orientation Stage)</b><br>
