@@ -17,7 +17,7 @@ To provide a rich curriculum that is enabling, engaging and enriching<br><br>
 
 <img src="/images/Our%20Curriculum/English%202.jpg" style="width:75%">
 
-<span style="text-align:center">MLEA for Lower primary students</span>
+<span style="text-align:center">Integrating reading with writing through shared experiences </span>
 
 <img src="/images/Our%20Curriculum/English%203.jpg" style="width:75%">
 
@@ -62,21 +62,20 @@ To achieve the department’s key stage outcomes as well as the PGPS Student Out
 
 <b>Enabling Our Students</b><br>
 Learning Support Programme (P1 &amp; P2)&nbsp;<br>
-KidsRead Programme (P1 &amp; P2) <br>
+Project R.E.A.D (P1 &amp; P2) <br>
 Reading Remediation Programme (P3 &amp; P4)<br>
 School-based Dyslexia Programme (P3 &amp; P4)<br><br>
  
 <b>Engaging Our Students</b><br>
 STELLAR (Strategies for English Language Learning and Reading)<br>
 Process-Genre Approach to Writing&nbsp;<br>
-School-Wide Reading Programme (SWRP)<br>
+Book Buffs @ PGPS<br>
 Joy of Writing through the Writer’s Notebook<br>
-English Language Fest<br><br>  
+Mini Mic Moments<br><br>  
 
 <b>Enriching Our Students</b><br>
 Interdisciplinary Learning Journeys&nbsp;<br>
-What’s Up Newspaper Publications for our P5 and P6 students&nbsp;&nbsp;<br>
+Little Red Dot Publications for our P4 and P5 students&nbsp;&nbsp;<br>
 Theatrical Experience&nbsp;<br>
-Public Speaking &amp; Communication Skills Workshop for selected P3 students&nbsp;<br>
-Introduction to Debates Workshop for selected P5 students<br>
-Debate Workshop for selected P5 students
+Introduction to Debate Workshop for selected P4 students<br>
+Debate Workshop for selected P5 and P6 students
