@@ -4,33 +4,23 @@ permalink: /our-curriculum/english-language/
 description: ""
 variant: markdown
 ---
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:left;">
 It has been said that the English Language can only be understood “<b>thr<u>ough</u>&nbsp;t<u>ough</u></b>,&nbsp;<b>thor<u>ough</u>&nbsp;th<u>ough</u>t</b>”.&nbsp;<b>Th<u>ough</u></b>&nbsp;some may hence see the learning of the language as difficult (there are 5 ways just to pronounce ‘<b>-ough</b>’! Ouch!), we appreciate it as a fun challenge and this is the spirit that we hope to inculcate in our students!<br><br>
 
 
 <b>Mission</b><br>
 To provide a rich curriculum that is enabling, engaging and enriching<br><br>
-
-
-
-
-
 <img src="/images/Our%20Curriculum/English%202.jpg" style="width:75%">
-
-<span style="text-align:center">Integrating reading with writing through shared experiences </span>
-
+<center>Integrating reading with writing through shared experiences </center>
+<br>
 <img src="/images/Our%20Curriculum/English%203.jpg" style="width:75%">
-
-<span style="text-align:center">Story-telling session conducted by Teachers during EL Fest</span>
-
+<center>Story-telling session conducted by Teachers during EL Fest</center>
+<br>
 <img src="/images/Our%20Curriculum/English%204.png" style="width:75%">
-
-<span style="text-align:center">Poetry Recitation during EL Fest</span>
-
+<center>Poetry Recitation during EL Fest</center>
+<br>
 <img src="/images/Our%20Curriculum/English%205.png" style="width:60%">
-
-</p><center>Experiential Learning during EL Lessons</center>
-
+<center>Experiential Learning during EL Lessons</center>
+<br>
 <span style="colour:#84C53D"><b>Department Key Stage Outcomes</b></span><br>
 
 <b>Primary 1 &amp; 2 (Orientation Stage)</b><br>
