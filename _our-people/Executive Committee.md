@@ -105,7 +105,7 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Internal)</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:;">Mdm Nur Azimah Binte Syed Hussain</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Assistant Year Head / Lower Primary</td>
 	</tr>
 		<tr>
