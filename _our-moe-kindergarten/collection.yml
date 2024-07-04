@@ -2,14 +2,6 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - 2024 MK Open House/2024 MK Open House.md
-      - 2024 MK Open House/.keep
-      - 2024 MK Open House/Environment.md
-      - 2024 MK Open House/A Day in MK.md
-      - 2024 MK Open House/Children's Testimonial.md
-      - 2024 MK Open House/MK Uniform Matters.md
-      - 2024 MK Open House/Parent's Testimonial.md
-      - 2024 MK Open House/KCare.md
       - MK Forms.md
       - Staff.md
       - MK Curriculum.md
