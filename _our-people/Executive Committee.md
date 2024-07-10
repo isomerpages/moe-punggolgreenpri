@@ -60,7 +60,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Wong Wai Yu Stella</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue Language</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Ai Mei </td>
@@ -94,15 +94,15 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Pri</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Primary</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Pri</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Primary</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Pri (Internal)</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Primary (Internal)</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:;">Mdm Nur Azimah Binte Syed Hussain</td>
@@ -167,7 +167,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Ed Tech</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Educational Technology</td>
 	</tr>
 	
 </tbody></table>

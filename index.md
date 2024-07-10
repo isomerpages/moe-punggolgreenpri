@@ -9,12 +9,11 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infopic:
-      title: Open House 2024
+      title: Staff Appreciation Form
       id: infopic
-      description: 6 July 2024, Saturday
       button: More details
-      url: https://punggolgreenpri.moe.edu.sg/open-house-2024/
-      image: /images/PGPS_Open_House_2024_e_banner.png
+      url: https://punggolgreenpri.moe.edu.sg/staff-appreciation-form/
+      image: /images/Staff_Appreciation_Form_Img.jpg
       alt: Image alt text
   - resources:
       subtitle: Key highlights
