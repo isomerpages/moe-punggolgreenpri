@@ -15,7 +15,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Self-Discipline</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajewari d/o Raja Rajan<br><a href="mailto:rajeswari_raja_rajan@moe.edu.sg">rajeswari_raja_rajan@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Rajeswari D/O Raja Rajan<br><a href="mailto:rajeswari_raja_rajan@moe.edu.sg">rajeswari_raja_rajan@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hong Sze Hui<br><a href="mailto:hong_sze_hui@moe.edu.sg">hong_sze_hui@moe.edu.sg</a></td>
 	</tr>
 	<tr>
