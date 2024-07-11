@@ -63,7 +63,7 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Mother Tongue Language</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Ai Mei </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Aimei </td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD CCE</td>
 	</tr>
 	<tr>
