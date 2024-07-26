@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infopic:
+      title: Teachers' Day 2024
+      id: infopic
+      image: /images/Teachers_Day_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Staff Appreciation Form
       id: infopic
       button: More details

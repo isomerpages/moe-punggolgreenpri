@@ -2,14 +2,15 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Staff Appreciation Form.md
-      - School Advisory Committee.md
-      - Parent Support Group @ PGPS.md
-      - School Safety Information.md
-      - Financial Assistance.md
-      - Waitlist Form.md
-      - Homework Policy.md
       - Book List 2024.md
-      - School Canteen Advertisement.md
-      - School Bus Service.md
+      - Financial Assistance.md
+      - GPA Insurance for Students.md
+      - Homework Policy.md
+      - Parent Support Group @ PGPS.md
       - Parent Teacher Meeting 1.md
+      - School Advisory Committee.md
+      - School Bus Service.md
+      - School Canteen Advertisement.md
+      - School Safety Information.md
+      - Staff Appreciation Form.md
+      - Waitlist Form.md
