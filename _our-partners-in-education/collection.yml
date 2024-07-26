@@ -2,6 +2,7 @@ collections:
   our-partners-in-education:
     output: true
     order:
+      - GPA Insurance for Students.md
       - Book List 2024.md
       - Financial Assistance.md
       - Homework Policy.md
