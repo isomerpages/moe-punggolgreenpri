@@ -4,7 +4,7 @@ permalink: /gpa-insurance-for-students/
 variant: markdown
 description: ""
 ---
-**Group Personal Accident (GPA) Insurance for Students**
+**Group Personal Accident (GPA) Insurance for Students** <br>
 The Ministry of Education (MOE) has established a contract for GPA Insurance for Students. This contract is awarded to NTUC Income Insurance Co-operative Limited. It covers death, permanent and total/partial disability and medical due to an accident. The proximate or triggering causes of injuries must be reasonably attributed to an accident.
 
 **Parents/guardian will have to pay for medical treatments upfront, before submitting claims to Income Insurance Limited (Income Insurance) for reimbursement. Please note the applicable limits and coverage for medical expenses. Ineligible expenses or expenses in excess of the limits will be borne by the students/parents/guardian.**
@@ -52,8 +52,3 @@ a.	Reimbursement letter/ claim settlement letter from other source <br>
 b.	Copy of the Shield Plan's settlement letter if there is any payment by Medisave-approved Integrated Shield Plan. <br>
 4.	School incident report with simple case description of nature of accident for all claims (To be submitted by Schools). <br>
 a.	Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.
-
-
-
-
-
