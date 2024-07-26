@@ -2,9 +2,9 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - GPA Insurance for Students.md
       - Book List 2024.md
       - Financial Assistance.md
+      - GPA Insurance for Students.md
       - Homework Policy.md
       - Parent Support Group @ PGPS.md
       - Parent Teacher Meeting 1.md
