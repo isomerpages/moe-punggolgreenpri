@@ -20,13 +20,10 @@ The GPA Insurance covers each student when that student is:
 		</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">In the KCare Centre associated with his or her MOE Kindergarten located in his or her school; and
 		</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in any activity conducted by the abovementioned KCare Centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the KCare Centre, in Singapore, or elsewhere. <br>
 			
-For more details on the insurance coverage, please click [here](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students). 
-<br><br>
-
-
-<u><b>Claim Procedures</b></u><br>
-
-<u>New Claim Submission </u> <br>
+<p>For more details on the insurance coverage, please click [here](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students). </p>
+<p>
+	<u><b>Claim Procedures</b></u></p>
+	<p><u>New Claim Submission </u> </p>
 1.	Go to Income Insurance’s GPA portal at https://studentgpa.incomegroupins.com.sg <br>
 2.	Click on “New/Follow up Accident Claim” <br>
 3.	Select “New Claim” Under “Claim Type” <br>
