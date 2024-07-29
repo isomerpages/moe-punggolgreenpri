@@ -22,7 +22,7 @@ description: ""
 			</li></ol>
 <p>For more details on the insurance coverage, please click <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">here</a>. </p>
 <p><u><b>Claim Procedures</b></u></p>
-<p><u>New Claim Submission </u> </p>
+<p><u>New Claim Submission </u></p>
 	<ol><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Go to Income Insurance’s GPA portal at <a>https://studentgpa.incomegroupins.com.sg</a> </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Click on “New/Follow up Accident Claim” </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Select “New Claim” Under “Claim Type” </li>
@@ -30,7 +30,7 @@ description: ""
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Upload tax invoice(s), receipts (outpatient/inpatient claims) and required documents </li>
 <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Confirmation email will be sent to parents or students, and school administrator </li></ol>
 
-<p><u>Follow Up Claim Submission </u> </p>
+<p><u>Follow Up Claim Submission </u></p>
 <ol><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Go to Income Insurance’s GPA portal at https://studentgpa.incomegroupins.com.sg</li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Click on “New/Follow Up Accident Claim” </li>
 <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Select “Follow Up Claim” Under “Claim Type” </li>
