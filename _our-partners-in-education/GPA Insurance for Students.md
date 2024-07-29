@@ -12,13 +12,14 @@ The Ministry of Education (MOE) has established a contract for GPA Insurance for
 <u>Coverage</u><br>
 The GPA Insurance covers each student when that student is:
 
-a.	In his or her school; <br>
-b.	Participating in the school’s activities, or any activity related to the school, including Home-Based Learning (HBL), Co-Curricular Activities (“CCAs”) and sports, regardless of the time at which such activities are conducted and whether the activity is conducted in the school, in Singapore, or elsewhere; <br>
-c.	Commuting from (or to) his or her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore; <br>
-d.	In the student care centre located in his or her school; <br>
-e.	Participating in any activity conducted by the abovementioned student care centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the student care centre, in Singapore, or elsewhere; and <br>
-f.	In the KCare Centre associated with his or her MOE Kindergarten located in his or her school; and <br>
-g.	Participating in any activity conducted by the abovementioned KCare Centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the KCare Centre, in Singapore, or elsewhere. <br>
+ <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">In his or her school; 
+	</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in the school’s activities, or any activity related to the school, including Home-Based Learning (HBL), Co-Curricular Activities (“CCAs”) and sports, regardless of the time at which such activities are conducted and whether the activity is conducted in the school, in Singapore, or elsewhere; 
+		</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Commuting from (or to) his or her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore; 
+			</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">In the student care centre located in his or her school; 
+			</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in any activity conducted by the abovementioned student care centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the student care centre, in Singapore, or elsewhere; and 
+		</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">In the KCare Centre associated with his or her MOE Kindergarten located in his or her school; and
+		</li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in any activity conducted by the abovementioned KCare Centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the KCare Centre, in Singapore, or elsewhere. <br>
+			
 For more details on the insurance coverage, please click [here](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students). 
 <br><br>
 
@@ -51,4 +52,4 @@ For more details on the insurance coverage, please click [here](https://www.inco
 a.	Reimbursement letter/ claim settlement letter from other source <br>
 b.	Copy of the Shield Plan's settlement letter if there is any payment by Medisave-approved Integrated Shield Plan. <br>
 4.	School incident report with simple case description of nature of accident for all claims (To be submitted by Schools). <br>
-a.	Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.
+a.	Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.</li>
