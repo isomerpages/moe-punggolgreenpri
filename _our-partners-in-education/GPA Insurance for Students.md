@@ -23,7 +23,7 @@ description: ""
 <p>For more details on the insurance coverage, please click <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">here</a>. </p>
 <p><u><b>Claim Procedures</b></u></p>
 <p><u>New Claim Submission </u></p>
-	<ol><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Go to Income Insurance’s GPA portal at <a>https://studentgpa.incomegroupins.com.sg</a> </li>
+<ol><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Go to Income Insurance’s GPA portal at <a>https://studentgpa.incomegroupins.com.sg</a> </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Click on “New/Follow up Accident Claim” </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Select “New Claim” Under “Claim Type” </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Complete online claim form </li>
