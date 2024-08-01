@@ -107,11 +107,11 @@ The Aesthetics department helm various key programmes such as the Arts Fiesta, P
 <img src="/images/PAM_Image_Music_Clinics.png" style="width:75%">
 <u><i><b>Image: Music Clinics </b></i></u><br>
 
-As part of our Arts Fiesta celebrations, we curated a showcase of selected artworks created by our very own student artists during Art lessons and Art competitions. 
-<a href="https://tinyurl.com/artcoustic2023">Click to view</a> our virtual art gallery for Arts Fiesta 2023: ARTcoustic. 
+In celebration of our Arts Fiesta 2024, we proudly present a curated selection of artworks created by our talented student artists during their Art lessons and enrichment programmes. Click to explore our <a href="https://sites.google.com/moe.edu.sg/pgpsart">Digital Art Gallery</a>.
+ 
 
-<img src="/images/PAM_Image_Arts_Fiesta_ARTcoustic_Online_Gallery.png" style="width:75%">
-<u><i><b>Image: ARTcoustic Online Gallery </b></i></u><br>
+<img src="/images/InnovARTe2024.png" style="width:75%">
+<u><i><b>Image: PGPS Digital Art Gallery </b></i></u><br>
 
 <img src="/images/PAM_Image_Music_Busking.png" style="width:75%">
 <u><i><b>Image: Music busking during Arts Fiesta</b></i></u><br>
