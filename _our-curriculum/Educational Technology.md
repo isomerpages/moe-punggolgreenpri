@@ -42,9 +42,9 @@ The school is aligned to the MOE Cyber Wellness Framework and taps on a multitud
 <img src="/images/EdTechLeadershipCyberWellness.jpg" style="width:75%"><br>
 </p>
 
-<i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Anti-Cyber Bullying Pledge:</i><br>
+<i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Cyber Wellness Pledge:</i><br>
 
-<img src="/images/EdTechAntiCyberBullyingPledge.jpg" style="width:75%"><br>
+<img src="/images/Our%20Curriculum/Cyber_Wellness_Pledge.jpg" style="width:75%"><br>
 
 
 
