@@ -13,7 +13,7 @@ Based on the framework of the 5 Minds, we emphasize a balance between the acquis
 <u>Eco-Responsible lifestyle</u>  <br>
 Our planting programme is conceptualized for our P3 students to learn a variety of urban farming techniques, such as vertical planting, hydroponic and aquaponics. Students cultivate social awareness on the problem of food scarcity in Singapore and how these urban farming techniques help mitigate it. In addition, the vegetables harvested were shared with the community as part of the students’ efforts to share and contribute actively. This aligns to our school’s total curriculum framework where students learn to be caring citizens.
 
-<img src="/images/ScienceP3Planting.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/Picture1.jpg" style="width:75%">
 
 <u>Learning beyond the classroom  </u><br>
 Beyond the classroom, our students had fun learning about environmental issues. They played two engaging games from the Singapore Science Centre, exploring the impact of carbon emissions and the potential of clean energy. These games challenged students to think critically and find innovative solutions to achieve zero emissions​.
@@ -62,4 +62,3 @@ Following up their stellar performance at the competition, our teams were invite
 <img src="/images/ScienceE2K06.jpg" style="width:75%">
 <br>
 <img src="/images/ScienceE2K07.jpg" style="width:75%">
-
