@@ -13,18 +13,17 @@ Based on the framework of the 5 Minds, we emphasize a balance between the acquis
 <u>Eco-Responsible lifestyle</u>  <br>
 Our planting programme is conceptualized for our P3 students to learn a variety of urban farming techniques, such as vertical planting, hydroponic and aquaponics. Students cultivate social awareness on the problem of food scarcity in Singapore and how these urban farming techniques help mitigate it. In addition, the vegetables harvested were shared with the community as part of the students’ efforts to share and contribute actively. This aligns to our school’s total curriculum framework where students learn to be caring citizens.
 
-<img src="/images/Our%20Curriculum/Picture1.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/Picture1.jpg" style="width:100%">
 
 <u>Learning beyond the classroom  </u><br>
 Beyond the classroom, our students had fun learning about environmental issues. They played two engaging games from the Singapore Science Centre, exploring the impact of carbon emissions and the potential of clean energy. These games challenged students to think critically and find innovative solutions to achieve zero emissions​.
 
-<img src="/images/ScienceP3ToyBoatMaking.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/Picturec.png" style="width:100%">
 
 <u>Eco-Warrior Week </u><br>
 Our signature Eco-Warrior Week is an annual programme that aligns with global environmental initiatives such as Earth Day and World Water Day. During this week, students participate in a diverse range of activities, from informative assembly to interactive workshops. These experiences foster a deep understanding of environmental issues and inspire students to become responsible citizens and lifelong learners. 
 
-
-<img src="/images/ScienceP5DIYElectricCircuits.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/Picture4.jpg" style="width:100%">
 
 <u>E2K Science </u><br>
 PGPS’s E2K Science Programme aims to provide opportunities for our P4 and P5 young scientists to engage in scientific investigations to discover and deepen their understanding of advanced Science concepts through Inquiry approach.
