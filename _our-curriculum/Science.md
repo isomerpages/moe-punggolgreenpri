@@ -25,17 +25,9 @@ Our signature Eco-Warrior Week is an annual programme that aligns with global en
 
 <img src="/images/Our%20Curriculum/Picture4.jpg" style="width:100%">
 
+
 <u>E2K Science </u><br>
 PGPS’s E2K Science Programme aims to provide opportunities for our P4 and P5 young scientists to engage in scientific investigations to discover and deepen their understanding of advanced Science concepts through Inquiry approach.
-With collaborative-learning and guidance provided by our E2K Science teachers, our students are able to gain rich learning experiences which enable them to:
-
-
-<img src="/images/ScienceP6Advocacy.jpg" style="width:75%">
-
-
-
-<u>E2K Science </u><br>
-Initiated by the Science department, PGPS’s E2K Science Programme aims to provide opportunities for our P4 and P5 young scientists to engage in scientific investigations to discover and deepen their understanding of advanced Science concepts through Inquiry approach. 
 
 With collaborative-learning and guidance provided by our E2K Science teachers, our students are able to gain rich learning experiences which enable them to:
 
@@ -43,21 +35,20 @@ With collaborative-learning and guidance provided by our E2K Science teachers, o
 ● Gain important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 <img src="/images/ScienceE2K.jpg" style="width:75%">
 
-Furthermore, our students took charge of the Science events and imparted their knowledge that they have learnt in E2K Science to the greater masses at school. In 2022, PGPS E2K Science YouTube channel was launched.
-
-[PGPSE2KSC](https://www.youtube.com/channel/UCd5MBo0wkVcbB6Mn-ewtlDg/videos)
+Furthermore, our students took charge of the Science events and imparted their knowledge that they have learnt in E2K Science to the greater masses at school. In 2022, PGPS E2K Science YouTube channel was launched. - [PGPSE2KSC](https://www.youtube.com/channel/UCd5MBo0wkVcbB6Mn-ewtlDg/videos)
 
 <u>E2K Science achievements</u>  <br>
-In addition, we had a bumper crop of students taking part in the Science Buskers Competition in 2023. Organised by the A*STAR and Singapore Science Centre, the competition aims to promote learning of Science in an engaging way as well as generating greater interest in creative Science and communications and expressions. Out of more than 200 teams from various schools which participated, 2 teams from PGPS were among the 25 teams shortlisted! 
 
-We are proud to announce that our teams clinched Champion (Primary Category) and the People’s Choice award (Best Science Communication).
+<img src="/images/Our%20Curriculum/Picture6.jpg" style="width:100%">
 
+In addition, we had a bumper crop of students taking part in the Science Buskers Competition in 2023. Organised by the A*STAR and Singapore Science Centre, the competition aims to promote learning of Science in an engaging way as well as generating greater interest in creative Science and communications and expressions. Out of more than 200 teams from various schools which participated, 2 teams from PGPS were among the 25 teams shortlisted!
 
-Following up their stellar performance at the competition, our teams were invited to perform at a community event for Punggol West CC and the World Robotics Competition. With multiple invitations to perform in public, our students showcased their craft with poise and charm, sharing their science mastery and skills to the community. Aligned to the 21st Enhanced CC framework, our students are developing into confident individuals.
+We are proud to announce that our teams clinched Champion (Primary Category) and the People’s Choice award (Best Science Communication). Following up their stellar performance at the competition, our teams were invited to perform at a community event for Punggol West CC and the World Robotics Competition. 
 
+<img src="/images/Our%20Curriculum/Picture7.jpg" style="width:100%">
 
-<img src="/images/ScienceE2K05.jpg" style="width:75%">
-<br>
-<img src="/images/ScienceE2K06.jpg" style="width:75%">
-<br>
-<img src="/images/ScienceE2K07.jpg" style="width:75%">
+In 2024, our students demonstrated exceptional initiative by authoring and illustrating "Pearl's Recycling Adventures" for the National Sustainability Movement. This challenge aims to foster a generation of eco-stewards and take actions in promoting a culture of sustainability in the school and community. To promote environmental awareness, they conducted outreach programmes at MOE Kindergarten and NLB at One Punggol, sharing their book with young children and facilitating interactive sustainability-themed activities. We are proud to announce that their outstanding efforts were recognized with a Gold award in the Sustainability Advocacy Challenge.
+
+<img src="/images/Our%20Curriculum/Picture8.jpg" style="width:100%">
+
+With multiple invitations to perform in public, our students showcased their craft with poise and charm, sharing their science mastery and skills to the community. Aligned to the 21st Enhanced CC framework, our students are developing into confident individuals.
