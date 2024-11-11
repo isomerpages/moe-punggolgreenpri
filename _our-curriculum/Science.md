@@ -33,6 +33,7 @@ With collaborative-learning and guidance provided by our E2K Science teachers, o
 
 ● Develop the habits, attitudes and dispositions scientists possess.<br>
 ● Gain important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+
 <img src="/images/ScienceE2K.jpg" style="width:75%">
 
 Furthermore, our students took charge of the Science events and imparted their knowledge that they have learnt in E2K Science to the greater masses at school. In 2022, PGPS E2K Science YouTube channel was launched. - [PGPSE2KSC](https://www.youtube.com/channel/UCd5MBo0wkVcbB6Mn-ewtlDg/videos)
