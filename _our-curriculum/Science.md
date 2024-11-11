@@ -39,7 +39,6 @@ With collaborative-learning and guidance provided by our E2K Science teachers, o
 Furthermore, our students took charge of the Science events and imparted their knowledge that they have learnt in E2K Science to the greater masses at school. In 2022, PGPS E2K Science YouTube channel was launched. - [PGPSE2KSC](https://www.youtube.com/channel/UCd5MBo0wkVcbB6Mn-ewtlDg/videos)
 
 <u>E2K Science achievements</u>  <br>
-
 <img src="/images/Our%20Curriculum/Picture6.jpg" style="width:100%">
 
 In addition, we had a bumper crop of students taking part in the Science Buskers Competition in 2023. Organised by the A*STAR and Singapore Science Centre, the competition aims to promote learning of Science in an engaging way as well as generating greater interest in creative Science and communications and expressions. Out of more than 200 teams from various schools which participated, 2 teams from PGPS were among the 25 teams shortlisted!
