@@ -6,7 +6,9 @@ variant: markdown
 ---
 Goal :&nbsp;**Every PGPS Student a Self-Disciplined Student**
 
-Philosophy : We&nbsp;Discipline&nbsp;because we&nbsp;CARE!&nbsp;_Every_&nbsp;Teacher&nbsp;_Cares_,&nbsp;_Every_&nbsp;Teacher&nbsp;_Disciplines_
+
+<p><strong>Philosophy:</strong> We Discipline because we CARE!</p>
+Every Teacher Cares, Every Teacher Disciplines<p></p>
 
   
 
