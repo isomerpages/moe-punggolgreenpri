@@ -25,6 +25,4 @@ We always Counsel with Compassion and always seek to understand the students’ 
 
 Learn for Life Club Activities <br>
 
-Our Learn for Life Club Activities on Fridays incorporate Fun Activities to inculcate Social-Emotional Competencies and Skills to our members! We also had our first stay in camp at the end of 2023 to mark the end of the year’s programmes and celebrate our students’ Learning and we invited parents to join in some of the games!
-
-
+Our Learn for Life Club Activities on Fridays incorporate Fun Activities to inculcate Social-Emotional Competencies and Skills to our members! We will also have our 2nd camp at the end of 2024 to mark the end of the year’s programmes and celebrate our students’ Learning and we invited parents to join in some of the games!
