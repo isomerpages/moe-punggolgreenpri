@@ -19,7 +19,7 @@ third_nav_title: Our Pride and Joy
 	</tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Green Award 2024</b><br><br><img style="width:305px" src="images/Our%20School/YellowFlameAward.jpg"><br>Our school has been honored with the Yellow Flame Award as part of the School Green Awards 2024. This recognition highlights our school’s dedication to promoting sustainability and environmental stewardship. The Yellow Flame Award is given to schools that demonstrate significant efforts in reducing energy consumption, implementing eco-friendly practices, and fostering environmental awareness among students and staff. This achievement reflects our ongoing commitment to nurturing a green culture within our school community, and we are proud to contribute positively to the environment.</p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Green Award 2024</b><br><br><img style="width:305px" src="/images/Our%20School/YellowFlameAward.jpg"><br>Our school has been honored with the Yellow Flame Award as part of the School Green Awards 2024. This recognition highlights our school’s dedication to promoting sustainability and environmental stewardship. The Yellow Flame Award is given to schools that demonstrate significant efforts in reducing energy consumption, implementing eco-friendly practices, and fostering environmental awareness among students and staff. This achievement reflects our ongoing commitment to nurturing a green culture within our school community, and we are proud to contribute positively to the environment.</p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 390px"><col style="width: 390px"></colgroup>
