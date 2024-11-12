@@ -83,9 +83,9 @@ As young as Primary 1 &amp; 2, our students develop social awareness by playing 
 
 <center><u>Level-Wide VIA:</u></center>
 
-<img src="/images/Our%20Curriculum/CCE%204.jpg" style="width:65%">
-
-
+<img src="/images/Our%20Curriculum/P5_Food_Donation_Drive_2024_compressed.jpg" style="width:65%">
+<br>
+<img src="/images/Our%20Curriculum/P6_Cardboard_Carnival_2024_compressed.jpg" style="width:65%">
 
 <br>
 
@@ -93,4 +93,4 @@ As young as Primary 1 &amp; 2, our students develop social awareness by playing 
 
 As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (<i>Total Defence Day, International Friendship Day, Racial Harmony Day, National Day</i> ) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens. 
 
-<img src="/images/Our%20Curriculum/CCE%205.jpg" style="width:65%">
+<img src="/images/Our%20Curriculum/National_Day_2024.jpg" style="width:65%">
