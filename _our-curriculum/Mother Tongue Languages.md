@@ -1,6 +1,6 @@
 ---
-title: Mother Tongue Language
-permalink: /our-curriculum/mother-tongue-language/
+title: Mother Tongue Languages
+permalink: /our-curriculum/mother-tongue-languages/
 description: ""
 variant: markdown
 ---
@@ -84,5 +84,3 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
       *    Experiential Learning
    ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning01.jpg)<br>
  ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
- 
-
