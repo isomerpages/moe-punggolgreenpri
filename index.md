@@ -21,4 +21,12 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /our-partners-in-education/school-canteen-advertisement/
+  - infopic:
+      title: P1 Orientation AY2025
+      id: infopic
+      description: Download the slides
+      button: here
+      url: https://punggolgreenpri.moe.edu.sg/p1-orientation-ay2025/
+      image: /images/P1OrientationAY2025.jpg
+      alt: Image alt text
 ---
