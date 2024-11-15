@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pride and Joy
 variant: markdown
 ---
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Goodtalk (Global Village) International Children &amp; Youth Bilingual Speech Conference</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Goodtalk (Global Village) International Children &amp; Youth Bilingual Speech Conference 2024</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -31,7 +31,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>17th United Chinese Literary Competition (Singapore)</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>17th United Chinese Literary Competition (Singapore) 2024</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -77,7 +77,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>2024 National Text Recital Competition</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>National Text Recital Competition 2024</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -93,7 +93,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>19th National Primary School Crosstalk Competition</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>19th National Primary School Crosstalk Competition 2024</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -125,7 +125,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Telok Blangah CC IAEC Inter-school Tamil Language Competition Writing Category)</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Telok Blangah CC IAEC Inter-school Tamil Language Competition Writing Category 2024</b></p>
 
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -173,7 +173,7 @@ variant: markdown
     </tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Singapore Primary Science Olympiad</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Singapore Primary Science Olympiad 2024</b></p>
 
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
@@ -224,7 +224,7 @@ variant: markdown
     </tr>
 </tbody></table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Sustainability Advocacy Challenge</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Sustainability Advocacy Challenge 2024</b></p>
 
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
