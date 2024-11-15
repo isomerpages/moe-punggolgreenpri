@@ -16,6 +16,7 @@ sections:
       url: https://punggolgreenpri.moe.edu.sg/p1-orientation-ay2025/
       image: /images/P1OrientationAY2025.jpg
       alt: Image alt text
+      subtitle: For parents
   - infopic:
       title: Staff Appreciation Form
       id: infopic
