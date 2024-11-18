@@ -10,9 +10,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#84c53d; color:#666">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2nd Prize 二等奖</td>
@@ -36,9 +36,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#0f2c66; color:#fff">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1st Prize</td>
@@ -82,9 +82,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#fbb019; color:#666">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Bronze</td>
@@ -98,9 +98,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#84c53d; color:#666">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3rd Prize</td>
@@ -114,9 +114,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#0f2c66; color:#fff">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Gold</td>
@@ -130,9 +130,9 @@ variant: markdown
 <table style="width: 780px">
 	<colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
 	<tbody><tr>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#fbb019; color:#666">Achievement</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Name</th>
-		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1st Prize</td>
@@ -146,9 +146,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#84c53d; color:#666">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1st Prize</td>
@@ -162,9 +162,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#0f2c66; color:#fff">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3rd Prize</td>
@@ -178,9 +178,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#fbb019; color:#666">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Merit</td>
@@ -229,9 +229,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 260px"><col style="width: 260px"><col style="width: 260px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#84c53d; color:#666">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Class</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Name</th>
+		<th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Gold</td>
@@ -265,9 +265,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 180px"><col style="width: 300px"><col style="width: 300px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#0f2c66; color:#fff">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#0f2c66; color:#fff">Class</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Name</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1st</td>
@@ -321,9 +321,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 180px"><col style="width: 300px"><col style="width: 300px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#fbb019; color:#666">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#fbb019; color:#666">Class</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Name</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2nd</td>
@@ -397,9 +397,9 @@ variant: markdown
 <table style="width: 780px">
     <colgroup><col style="width: 180px"><col style="width: 300px"><col style="width: 300px"></colgroup>
     <tbody><tr>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; background-color:#84c53d; color:#666">Achievement</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Name</th>
-        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#84c53d; color:#666">Class</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Achievement</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Name</th>
+        <th style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial">Class</th>
     </tr>
     <tr>
         <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4th</td>
