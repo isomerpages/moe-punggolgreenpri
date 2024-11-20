@@ -14,7 +14,7 @@ sections:
       id: infopic
       description: Download the slides
       button: HERE
-      url: https://punggolgreenpri.moe.edu.sg/files/P1OrientationAY2025.pdf
+      url: https://punggolgreenpri.moe.edu.sg/files/2024PSLEResultsReleaseBriefingSlides.pdf
       image: /images/2024PSLEResultsReleaseBriefingSlides.jpg
       alt: Image alt text
   - infopic:
