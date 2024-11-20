@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infopic:
+      title: 2024 PSLE
+      subtitle: For parents
+      id: infopic
+      description: Download the slides
+      button: HERE
+      url: https://punggolgreenpri.moe.edu.sg/files/P1OrientationAY2025.pdf
+      image: /images/2024PSLEResultsReleaseBriefingSlides.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation AY2025
       id: infopic
       description: Download the slides
