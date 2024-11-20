@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infopic:
-      title: 2024 PSLE
+      title: 2024 PSLE Results Release
       subtitle: For parents
       id: infopic
       description: Download the slides
