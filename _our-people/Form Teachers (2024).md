@@ -51,7 +51,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Innovation</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sharifah Wahidah Binte Syed<br><a href="mailto:sharifah_wahidah_syed_ab@moe.edu.sg">sharifah_wahidah_syed_ab@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Jia Qi<br><a href="mailto:tan_jiaqi_a@moe.edu.sg">tan_jiaqi_a@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Jiaqi<br><a href="mailto:tan_jiaqi_a@moe.edu.sg">tan_jiaqi_a@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Nur Azimah Binte Syed Hussain    Assistant Year Head / Lower Primary</td>
