@@ -17,16 +17,16 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Principal</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Dr Lee Kok Sonk</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Christina Tan</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Teo-Tay Chai Hong</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Christina Tan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Administration</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Jasbir Singh</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Vice-Principal - Academic</td>
 	</tr>
 </tbody></table>
 
@@ -43,8 +43,8 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">School Staff Developer</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Satiish Sathasilvam</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Educational Technology</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Educational Technology (Internal)</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Priyadakshini D/O Surendiran S</td>
@@ -80,7 +80,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin </td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Special Programmes (Internal)</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">HOD Special Programmes</td>
 	</tr>
 </tbody></table>
 
@@ -93,16 +93,16 @@ variant: markdown
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; background-color:#DDD; color:#666">Designation</th>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Upper Primary</td>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Adrian Yeo</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Lee Peiyan</td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Middle Primary</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Seah-Koh Wei Ning</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Primary (Internal)</td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Year Head / Lower Primary</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:;">Mdm Nur Azimah Binte Syed Hussain</td>
@@ -135,10 +135,6 @@ variant: markdown
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / CCA &amp; PAL</td>
 </tr>
 <tr>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Tan Ee Cheng</td>
-<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Data Management</td>
-</tr>
-<tr>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ruhernie Abu Yamin</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Aesthetics</td>
 </tr>
@@ -146,7 +142,14 @@ variant: markdown
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kenny Teo</td>
 <td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Student Well-Being</td>
 </tr>
-		
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
+	</tr>
+	<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / Educational Technology</td>
+	</tr>		
 </tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
@@ -160,10 +163,6 @@ variant: markdown
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi </td>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">LH / English Language</td>
-	</tr>
-	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Yinghan</td>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">SH / Chinese Language</td>
 	</tr>
 	<tr>
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Liew Min Yu </td>
