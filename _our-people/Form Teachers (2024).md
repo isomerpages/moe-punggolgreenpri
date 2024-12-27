@@ -26,21 +26,21 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Responsibility</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Siak Cheng Mun, Lionel<br><a href="mailto:siak_cheng_mun_lionel@moe.edu.sg">siak_cheng_mun_lionel@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Lynn Kirk-Quek Si Yi<br><a href="mailto:lynn_kirk-quek_si_yi@moe.edu.sg">lynn_kirk-quek_si_yi@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan<br><a href="mailto:yee_sook_kwan@moe.edu.sg">yee_sook_kwan@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Integrity</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Nor Aisha Binte Mohamed Ismail<br><a href="mailto:nor_aisha_mohamed_ismail@moe.edu.sg">nor_aisha_mohamed_ismail@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Kay Xiao Yan<br><a href="mailto:kay_xiao_yan@moe.edu.sg">kay_xiao_yan@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Abel Kok<br><a href="mailto:abel_kok_kum_weng@moe.edu.sg">abel_kok_kum_weng@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Marie-Elena Louisa Soliano<br><a href="mailto:marie_elena_louisa_soliano@moe.edu.sg">marie_elena_louisa_soliano@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Valour</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Jumiati Bte Johari<br><a href="mailto:jumiati_johari@moe.edu.sg">jumiati_johari@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Xu Jingwen<br><a href="mailto:xu_jingwen@moe.edu.sg">xu_jingwen@moe.edu.sg</a></td>	
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Ita Nursyahirah Binte Mohamad Amin<br><a href="mailto:ita_nursyahirah_mohamad_amin@moe.edu.sg">ita_nursyahirah_mohamad_amin@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Aimei<br><a href="mailto:cai_Aimei@moe.edu.sg">cai_aimei@moe.edu.sg</a></td>	
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Empathy</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain*<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">	Mdm Liew Min Yu<br><a href="mailto:liew_min_yu@moe.edu.sg">liew_min_yu@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Miss Chanel Chan Jia Lun<br><a href="mailto:chanel_chan_jia_lun@moe.edu.sg">chanel_chan_jia_lun@moe.edu.sg</a></td>
 	</tr>
 	<tr>
