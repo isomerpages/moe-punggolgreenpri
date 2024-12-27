@@ -16,7 +16,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Self-Discipline</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Gao Ting Ting<br><a href="mailto:gao_ting_ting@moe.edu.sg">gao_ting_ting@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm. Siti Raihanni Bte Selamat<br><a href="mailto:siti_raihanni_selamat@moe.edu.sg">siti_raihanni_selamat@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Raihanni Bte Selamat<br><a href="mailto:siti_raihanni_selamat@moe.edu.sg">siti_raihanni_selamat@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">1 Teamwork</td>
