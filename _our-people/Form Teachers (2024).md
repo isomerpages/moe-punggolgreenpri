@@ -306,9 +306,9 @@ variant: markdown
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">6 Confidence</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maisara Binte Mohd Mahadi<br><a href="mailto:maisara_mohd_mahadi@moe.edu.sg">maisara_mohd_mahadi@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Yee Sook Kwan<br><a href="mailto:yee_sook_kwan@moe.edu.sg">yee_sook_kwan@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Rajendran S/O Nagappan<br><a href="mailto:rajendran_nagappan@moe.edu.sg">rajendran_nagappan@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Lee Peiyan   Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr Adrian Yeo    Year Head / Upper Pri</td>
 	</tr>
 </tbody></table>
