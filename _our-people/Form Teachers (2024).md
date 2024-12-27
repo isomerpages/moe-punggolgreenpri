@@ -255,6 +255,11 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
   </tr>
   <tr>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Innovation</td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sri Khairunnisa<br><a href="mailto:sri_khairunnisa_paat_sumanto@moe.edu.sg">sri_khairunnisa_paat_sumanto@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Eunice Tse<br><a href="mailto:kang_gek_noy_eunice@moe.edu.sg">kang_gek_noy_eunice@moe.edu.sg</a></td>
+  </tr>
+  <tr>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Lee Peiyan   Year Head / Upper Pri</td>
   </tr>
 </tbody></table>
