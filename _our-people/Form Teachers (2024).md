@@ -157,7 +157,7 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Vijayaseelan<br><a href="mailto:vijayaseelan_narayanasamy@moe.edu.sg">vijayaseelan_narayanasamy@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr Adrian Yeo   Year Head / Middle Pri</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Khadijah Bte Ab Samat   Assistant Year Head / Middle Pri</td>
 	</tr>
 </tbody></table>
 
@@ -203,10 +203,10 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Confidence</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Naseem Fathima<br><a href="mailto:naseem_fathima@moe.edu.sg">naseem_fathima@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Tan Hwei Ling<br><a href="mailto:tan_hwei_ling@moe.edu.sg">tan_hwei_ling@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadzerah<br><a href="mailto:nadzerah@moe.edu.sg">nadzerah@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Khadijah Bte Ab Samat   Assistant Year Head / Middle Pri (Int)</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Lee Peiyan   Year Head / Middle Pri </td>
 	</tr>
 </tbody></table>
 
