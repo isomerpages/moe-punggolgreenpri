@@ -138,7 +138,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Integrity</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Tan Mei Xi Meryl<br><a href="mailto:tan_meixi_meryl@moe.edu.sg">tan_meixi_meryl@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Tan Meixi Meryl<br><a href="mailto:tan_meixi_meryl@moe.edu.sg">tan_meixi_meryl@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Stella Wong<br><a href="mailto:wong_wai_yu_stella@moe.edu.sg">wong_wai_yu_stella@moe.edu.sg</a></td>
 	</tr>
 	<tr>
