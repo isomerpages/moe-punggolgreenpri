@@ -128,8 +128,8 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Teamwork</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vanisree<br><a href="mailto:vanisree@moe.edu.sg">vanisree@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Hong Meirong<br><a href="mailto:hong_mei_rong@moe.edu.sg">hong_mei_rong@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vanisree<br>
+		</td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Hong Meirong<br><a href="mailto:hong_mei_rong@moe.edu.sg">hong_mei_rong@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Responsibility</td>
@@ -242,8 +242,8 @@ variant: markdown
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Valour</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Aaron Ho Fook Chuen<br><a href="mailto:ho_fook_chuen_aaron@moe.edu.sg">ho_fook_chuen_aaron@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Evelyn<br><a href="mailto:evelyn@moe.edu.sg">evelyn@moe.edu.sg</a></td>
-  </tr>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Evelyn<br>
+  </td></tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Empathy</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ikmal Hisharm Bin Mohamed Noor<br><a href="mailto:ikmal_hisharm_mohamed_noor@moe.edu.sg">ikmal_hisharm_mohamed_noor@moe.edu.sg</a></td>
@@ -251,8 +251,8 @@ variant: markdown
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Confidence</td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">	Mdm Suhaila<br><a href="mailto:suhaila@moe.edu.sg">suhaila@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">	Mdm Suhaila<br>
+    </td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
   </tr>
   <tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Innovation</td>
@@ -260,7 +260,7 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Eunice Tse<br><a href="mailto:kang_gek_noy_eunice@moe.edu.sg">kang_gek_noy_eunice@moe.edu.sg</a></td>
   </tr>
   <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr Adrian Yeo    Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr He Guo Yuan Desmond    Assistant Year Head / Upper Pri  (Int)</td>
   </tr>
 </tbody></table>
 
