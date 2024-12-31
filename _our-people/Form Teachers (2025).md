@@ -251,7 +251,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Confidence</td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">	Mdm Suhaila Taib<br><a href="mailto:suhailah_mohamed_taib@moe.edu.sg">suhailah_mohamed_taib@moe.edu.sg</a>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">	Mdm Suhaila Taib<br><a href="mailto:suhaila_mohd_taib@moe.edu.sg">suhaila_mohd_taib@moe.edu.sg</a>
     </td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Ng Yeow Huei<br><a href="mailto:ng_yeow_huei@moe.edu.sg">ng_yeow_huei@moe.edu.sg</a></td>
   </tr>
   <tr>
