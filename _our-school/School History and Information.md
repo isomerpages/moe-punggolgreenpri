@@ -45,12 +45,12 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
       </tr>
       <tr>
          <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#666;background-color:#DDD">Vice-Principals</span></td>
-         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mrs Christina Tan<br>Dr Lee Kok Sonk<br>Mrs Teo-Tay Chai Hong</td>
+         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mrs Christina Tan<br>Mrs Teo-Tay Chai Hong<br>Mr Jasbir Singh</td>
       </tr>
    </tbody>
 </table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Curriculum Time 2024 (P1 - P6)</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Curriculum Time 2025 (P1 - P6)</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
    <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
@@ -62,7 +62,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
    </thead>
 </table>
 
-<p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Recess Timings for 2024</b></p>
+<p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Recess Timings for 2025</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
    <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
@@ -79,7 +79,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
       </tr>
       <tr>
          <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Primary 3:</span></td>
-         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10.40 a.m. to 11.10 a.m.</td>
+         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10.40 a.m. to 11.10 a.m.*</td>
       </tr>
       <tr>
          <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Primary 4:</span></td>
@@ -87,7 +87,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
       </tr>
       <tr>
          <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Primary 5:</span></td>
-         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10.10 a.m. to 10.40 a.m.</td>
+         <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10.10 a.m. to 10.40 a.m.*</td>
       </tr>
       <tr>
           <td style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Primary 6:</span></td>
@@ -96,11 +96,14 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
       <tr>
          <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Friday.</td>
       </tr>
+      <tr>
+         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal" colspan="2">*P3 and P5 recess timings will be swapped on Fridays for Term 1 due to the the P3 swimsafer programme.</td>
+      </tr>
    </tbody>
 </table>
 
 
-<p style="line-height: 1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2024</b></p>
+<p style="line-height: 1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2025</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
    <thead>
