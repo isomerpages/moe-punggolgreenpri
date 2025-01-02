@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: MK Staff
 permalink: /our-moe-kindergarten/staff/
 description: ""
 variant: markdown
