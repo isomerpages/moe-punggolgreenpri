@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Contact Information/.keep
-      - Other Information.md
       - MK @ Punggol Green.md
       - MK Forms.md
       - MK Curriculum.md
