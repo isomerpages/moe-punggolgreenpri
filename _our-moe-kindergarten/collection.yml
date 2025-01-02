@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - Our Contact Information/Other Information.md
       - Our Contact Information/.keep
       - MK @ Punggol Green.md
       - MK Forms.md
