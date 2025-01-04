@@ -32,7 +32,7 @@ variant: markdown
 <img src="/images/Our%20Curriculum/ICT/ict_04.JPG" style="width:75%"><br>
 
 <u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Cyber Wellness:</u><br>
-The school is aligned to the MOE Cyber Wellness Framework and taps on a multitude of platforms to enable everyone at PGPS to deepen their knowledge &amp; application of Cyber Wellness. This includes putting in place the necessary education to enable every student to be a Cyber Wellness Ambassador and for those who are keen on leading others, to take on the role of a Cyber Wellness Leader &amp; Mentor.<br><br>
+The school is aligned to the MOE Cyber Wellness Framework and taps on a multitude of platforms to enable everyone at PGPS to deepen their knowledge &amp; application of Cyber Wellness. <br><br>
 
 <img src="/images/EdTechCyberWellness.jpg" style="width:75%"><br>
 
