@@ -34,13 +34,10 @@ variant: markdown
 <u style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Cyber Wellness:</u><br>
 The school is aligned to the MOE Cyber Wellness Framework and taps on a multitude of platforms to enable everyone at PGPS to deepen their knowledge &amp; application of Cyber Wellness. <br><br>
 
-<img src="/images/EdTechCyberWellness.jpg" style="width:75%"><br>
+<img src="/images/Our%20Curriculum/CyberWellnessv2.png" style="width:75%"><br>
 
 
-<i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Leadership in Cyber Wellness:</i><br><br>
 
-<img src="/images/EdTechLeadershipCyberWellness.jpg" style="width:75%"><br>
-</p>
 
 <i style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;">Cyber Wellness Pledge:</i><br>
 
@@ -50,4 +47,4 @@ The school is aligned to the MOE Cyber Wellness Framework and taps on a multitud
 
 
 
-<p></p>
+</p><p></p>
