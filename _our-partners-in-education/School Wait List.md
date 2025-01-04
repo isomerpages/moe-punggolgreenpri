@@ -14,14 +14,4 @@ Primary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Our%20Partners%20in%20Education/WAITLIST%20QR%20CODE.png">
 </div>
-<p>Kindly note that:</p>
-<p>1. The Waitlist Form is applicable for Singapore Citizen and Singapore
-Permanent Resident only.</p>
-<p>2. Applications are not considered on a first-come-first-served basis.
-The school will only contact you when a vacancy arises.</p>
-<p>3. Waitlist application is only valid for one year. Please submit a new
-waitlist in November of the current year if you are still interested in
-the school for the following year.</p>
-<p>4. You will be required to attach your child's birth certificate, both
-parents' ICs and your child's recent results slips to complete this application.</p>
 <p></p>
