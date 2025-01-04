@@ -34,9 +34,23 @@ variant: markdown
 	<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Via Hardcopy Form - <a href="https://www.unitypri.moe.edu.sg/files/Info%20Hub/2025/Application_Form.pdf">MOE FAS Application Form</a>
 	</li>
 	
-	
-	
-	
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Application for Financial Assistance for AY 2024<br><br>
+<b>NOTE</b><br>
 
-Please submit the E-FAS submission link <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p></ol></ol></ol>
+<ol>
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">If your child is a ComCare recipient, you need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</li>
+
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For parents with children in different schools, you need to submit only one application form for all your school-going children to one of their schools. The school which receives the application form will inform you of the outcome for all the children.</li>
+	
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Hardcopy form is required for:<br>
+a.families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
+b. family with more than 6 children in GGAS <br>
+c. family with more than 5 unmarried children not in GGAS <br>
+d. family with more than 3 grandparents in the household</li>
+	
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For Primary 6 students going to Secondary 1 in 2025, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.</li>
+	
+
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For more information, please visit <a href="www.moe.gov.sg/financial-matters/financial-assistance/">www.moe.gov.sg/financial-matters/financial-assistance/</a> <br><br>
+Should you have any further queries, please feel free to contact the General Office at 6538 3011.<br>
+
+</p></ol></ol></ol></ol>
