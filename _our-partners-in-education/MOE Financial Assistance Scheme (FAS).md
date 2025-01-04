@@ -29,7 +29,8 @@ variant: markdown
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">To apply for MOE FAS, you are strongly encouraged to submit through the eFAS (eFAS link in PG’s services section &amp; Via <a href="https://go.gov.sg/moe-efas">Online Form</a>) - <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>
 	</li>
 	<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Via Hardcopy Form - <a href="https://www.unitypri.moe.edu.sg/files/Info%20Hub/2025/Application_Form.pdf">MOE FAS Application Form</a>
-</li></ol><br>
+</li></ol>
+
 <b>NOTE</b><br>
 
 <ol>
