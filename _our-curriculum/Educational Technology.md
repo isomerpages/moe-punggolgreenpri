@@ -17,7 +17,7 @@ variant: markdown
 	The Educational Technology Department is guided by the school-designed <b> <span style="color:#000000;">C</span><span style="color:#000000;">O</span><span style="color:#000000;">D</span><span style="color:#000000;">E </span></b> principle as it transforms education through technology for all.
 <br><br>
 	
-<img src="/images/EdTechCODE.jpg" style="width:75%">
+<img src="/images/Our%20Curriculum/CODEv2.png" style="width:75%">
 
 </p>
 
