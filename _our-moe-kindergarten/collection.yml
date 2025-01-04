@@ -2,7 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - MK Staff.md
       - MK @ Punggol Green.md
+      - MK Staff.md
       - MK Forms.md
       - MK Curriculum.md
