@@ -21,7 +21,7 @@ variant: markdown
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:<br>
 	a. Gross household income (GHI) as at the time of application does not exceed $3,000 per month; or <br>
 	b. Household per capita income (PCI) as at the time of application does not exceed $750 per month.<br>
-	PCI = Monthly GHI / No. of members in the same household</li></ol>
+	<i>PCI = Monthly GHI / No. of members in the same household	</i></li></ol>
 	
 <b>SUBMISSION</b><br>
 
