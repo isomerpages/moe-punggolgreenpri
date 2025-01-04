@@ -44,10 +44,8 @@ b. family with more than 6 children in GGAS <br>
 c. family with more than 5 unmarried children not in GGAS <br>
 d. family with more than 3 grandparents in the household</li>
 	
-<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For Primary 6 students going to Secondary 1 in 2025, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.</li>
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For Primary 6 students going to Secondary 1 in 2025, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.</li></ol>
 	
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">For more information, please visit <a href="www.moe.gov.sg/financial-matters/financial-assistance/">www.moe.gov.sg/financial-matters/financial-assistance/</a> <br><br>
-Should you have any further queries, please feel free to contact the General Office at 6538 3011.<br>
-
-</p></ol>
+Should you have any further queries, please feel free to contact the General Office at 6538 3011.<br></p>
