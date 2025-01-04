@@ -14,7 +14,7 @@ variant: markdown
 	Other than the students, EdTech@PGPS also serves to enable all teachers to be technologically-adept, collaborative learning designers; and the school as a whole to be an intelligent, responsive, digitally-equipped learning environment.
 	
 </p><p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"> <b>Guiding Principles of EdTech@PGPS</b><br><br>
-	The Educational Technology Department is guided by the school-designed <b> <span style="color:#7030A0;">C</span><span style="color:#FF0000;">O</span><span style="color:#70AD47;">D</span><span style="color:#0070C0;">E </span></b> principle as it transforms education through technology for all.
+	The Educational Technology Department is guided by the school-designed <b> <span style="color:#000000;">C</span><span style="color:#000000;">O</span><span style="color:#000000;">D</span><span style="color:#000000;">E </span></b> principle as it transforms education through technology for all.
 <br><br>
 	
 <img src="/images/EdTechCODE.jpg" style="width:75%">
