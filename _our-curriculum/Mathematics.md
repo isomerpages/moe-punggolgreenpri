@@ -10,8 +10,7 @@ To inculcate in students positive attitudes and the joy of learning Mathematics 
 
 **<font size="5">The Mathematics Framework</font>**
 
-
-<img src="/images/MA_Problem_Solving.png" style="width:75%">
+<img src="/images/Our%20Curriculum/MA_Problem_Solvingv2.png" style="width:75%">
 
 
 
