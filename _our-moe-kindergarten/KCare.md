@@ -4,8 +4,5 @@ permalink: /kcare/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MOE Kindergarten/KCare_01.png">
-</div>
-<p></p>
+![](/images/Our%20MOE%20Kindergarten/KCare_01.png)
+![](/images/Our%20MOE%20Kindergarten/KCare_02.png)
