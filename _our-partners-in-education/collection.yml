@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Book List 2025.md
-      - Financial Assistance.md
+      - MOE Financial Assistance Scheme (FAS).md
       - GPA Insurance for Students.md
       - Homework Policy.md
       - Parent Support Group @ PGPS.md
@@ -12,4 +12,4 @@ collections:
       - School Canteen Advertisement.md
       - School Safety Information.md
       - Staff Appreciation Form.md
-      - Waitlist Form.md
+      - School Wait List.md

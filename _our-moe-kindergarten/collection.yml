@@ -2,6 +2,9 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - MK @ Punggol Green.md
+      - KCare.md
+      - Other Information.md
+      - Resources for Parents.md
       - MK Forms.md
-      - Staff.md
       - MK Curriculum.md
