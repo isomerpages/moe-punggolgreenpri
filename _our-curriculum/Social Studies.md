@@ -42,8 +42,8 @@ The learning journey to the Gardens by the Bay helps students to be aware of how
 *   <u><b>P3 Learning Journey (Singapore Discovery Centre and Urban Redevelopment Authority)</b></u>
 
 The learning journey to Singapore Discovery Centre and Urban Redevelopment Authority seeks to develop a sense of awareness of the challenges Singapore has to overcome so as to meet the needs of her people, and further enables the students to understand their role in protecting the environment/conservation efforts.
+![](/images/Our%20Curriculum/ssv2.png)
 
-![](/images/Our%20Curriculum/SS2024P3.png)
 <br>
 *   <u><b>P4 Museum-Based Learning Journey to Kreta Ayer</b></u>
 
