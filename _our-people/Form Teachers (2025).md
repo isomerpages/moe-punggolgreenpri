@@ -128,7 +128,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Teamwork</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Vanisree Sajjan<br><a href="mailto:vanisree_sajjan@moe.edu.sg">vanisree_sajjan@moe.edu.sg</a><br>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Vanisree Sajjan<br><a href="mailto:vanisree_sajjan@moe.edu.sg">vanisree_sajjan@moe.edu.sg</a><br>
 		</td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Hong Meirong<br><a href="mailto:hong_mei_rong@moe.edu.sg">hong_mei_rong@moe.edu.sg</a></td>
 	</tr>
 	<tr>
@@ -172,8 +172,8 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Self-Discipline</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haslinda Bte Arifin<br><a href="mailto:haslinda_awang@moe.edu.sg">haslinda_awang@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Kristin Hamton<br><a href="mailto:kristin_hamton@moe.edu.sg">kristin_hamton@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Haslinda Bte Arifin<br><a href="mailto:haslinda_awang@moe.edu.sg">haslinda_awang@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Teamwork</td>

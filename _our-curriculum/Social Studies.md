@@ -39,35 +39,31 @@ Through the neighbourhood walk learning journey, students learn about themselves
 The learning journey to the Gardens by the Bay helps students to be aware of how to develop a sustainable and green garden city in Singapore. In addition, they will learn about Vanda Miss Joaquim, one of the National Symbols of Singapore and how our common experiences help to unite us as a nation.
 ![](/images/Our%20Curriculum/SS2024P2.png)
 <br>
-*   <u><b>P3 Learning Journey (Singapore Zoo)</b></u>
+*   <u><b>P3 Learning Journey (Singapore Discovery Centre and Urban Redevelopment Authority)</b></u>
 
-The learning journey experience seeks to develop a sense of awareness of the inter-dependent relationships between people and the environment, and further enables them to understand their role in protecting the environment/conservation efforts.
+The learning journey to Singapore Discovery Centre and Urban Redevelopment Authority seeks to develop a sense of awareness of the challenges Singapore has to overcome so as to meet the needs of her people, and further enables the students to understand their role in protecting the environment/conservation efforts.
+![](/images/Our%20Curriculum/ssv2.png)
 
-![](/images/Our%20Curriculum/SS2024P3.png)
 <br>
-*   <u><b>P4 Museum-Based Learning Journey to Kreta Ayer</b></u>
+*   <u><b>P4 Cohort Learning Journey to Kreta Ayer Heritage Gallery</b></u>
 
 Students will learn the Intangible Cultural Heritage of five Chinese cultural arts. Through hands-on activities, objects and images, students will be guided to recognise the contributions made by the Chinese community in the development of Singapore and understand the importance of knowing Singapore's history and multicultural heritage.
 
 ![](/images/Our%20Curriculum/SS2024P401.png)
 <br>
-*   <u><b>P4 Museum-Based Learning Journey to Geylang Serai</b></u>
+*   <u><b>P4 Cohort Learning Journey to Geylang Serai Heritage Gallery</b></u>
 
 The museum-based learning journey allows the P4 students to discover the rich history as well as the significance of the area to the Malay Muslim community. They learn about games from the yesteryear, the unique offerings of Geylang Serai Market as well as the special occasions celebrated by the community, through interactive hands-on activities such as observing the artefacts and pictures.
 
 ![](/images/Our%20Curriculum/SS2024P402.png)
 <br>
-*   <u><b>P5 Museum-Based Learning Journey to Indian Heritage Centre</b></u>
+*   <u><b>P5 Cohort Learning Journey to Indian Heritage Centre</b></u>
 
 The museum-based learning journey allows the students to recognise the contributions made by the Indian community in Singapore towards nation building and to understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage.
 
 ![](/images/Our%20Curriculum/SS2024P5.png)
 <br>
-*   <u><b>P6 Museum-Based Learning Journey to Asian Civilisation Museum</b></u>
+*   <u><b>P6 Cohort Learning Journey to Asian Civilisation Museum</b></u>
 
 The museum-based learning experience allows students to understand the cultural and historical ties that have influence on the countries in Southeast Asia and to explore how Singapore’s cultural heritage has evolved over time as it was influenced by the diverse mix of cultures.
 ![](/images/Our%20Curriculum/SS2024P6.png)
-
-
-
-
