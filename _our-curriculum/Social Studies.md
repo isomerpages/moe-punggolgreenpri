@@ -45,7 +45,7 @@ The learning journey to Singapore Discovery Centre and Urban Redevelopment Autho
 ![](/images/Our%20Curriculum/ssv2.png)
 
 <br>
-*   <u><b>P4 Museum-Based Learning Journey to Kreta Ayer</b></u>
+*   <u><b>P4 Cohort Learning Journey to Kreta Ayer Heritage Gallery</b></u>
 
 Students will learn the Intangible Cultural Heritage of five Chinese cultural arts. Through hands-on activities, objects and images, students will be guided to recognise the contributions made by the Chinese community in the development of Singapore and understand the importance of knowing Singapore's history and multicultural heritage.
 
