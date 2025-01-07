@@ -39,9 +39,9 @@ Through the neighbourhood walk learning journey, students learn about themselves
 The learning journey to the Gardens by the Bay helps students to be aware of how to develop a sustainable and green garden city in Singapore. In addition, they will learn about Vanda Miss Joaquim, one of the National Symbols of Singapore and how our common experiences help to unite us as a nation.
 ![](/images/Our%20Curriculum/SS2024P2.png)
 <br>
-*   <u><b>P3 Learning Journey (Singapore Zoo)</b></u>
+*   <u><b>P3 Learning Journey (Singapore Discovery Centre and Urban Redevelopment Authority)</b></u>
 
-The learning journey experience seeks to develop a sense of awareness of the inter-dependent relationships between people and the environment, and further enables them to understand their role in protecting the environment/conservation efforts.
+The learning journey to Singapore Discovery Centre and Urban Redevelopment Authority seeks to develop a sense of awareness of the challenges Singapore has to overcome so as to meet the needs of her people, and further enables the students to understand their role in protecting the environment/conservation efforts.
 
 ![](/images/Our%20Curriculum/SS2024P3.png)
 <br>
@@ -67,7 +67,3 @@ The museum-based learning journey allows the students to recognise the contribut
 
 The museum-based learning experience allows students to understand the cultural and historical ties that have influence on the countries in Southeast Asia and to explore how Singapore’s cultural heritage has evolved over time as it was influenced by the diverse mix of cultures.
 ![](/images/Our%20Curriculum/SS2024P6.png)
-
-
-
-
