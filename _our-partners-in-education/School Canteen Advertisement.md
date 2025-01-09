@@ -32,11 +32,23 @@ variant: markdown
 
 2. Attach the following documents together with the Application Form:
 
-* Photocopy of the NRIC (front and back)
-
-* List of proposed menu and pricing for all items
-
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+<table>
+	<tbody><tr>
+		<td>For Individuals</td>
+		<td>For Business</td>
+	</tr>
+	<tr>
+		<td><li>Photocopy of the NRIC (front and back)</li>
+			<li>List of proposed menu and pricing for all items</li>
+			<li>Photocopy of relevant certificates such as Food Safety Course Level 1, etc </li>
+</td>
+		<td><li>ACRA’s Business Information</li>
+			<li>List of proposed food/drinks items and selling prices for all items</li>
+			<li>Photocopy of relevant certificates such as SFA licence for the existing business, etc </li>
+<li>Food Safety Course Level 1 for employees (To be submitted prior to the date of work commencement at the Stall) </li>
+</td>
+	</tr>
+	</tbody></table>
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
