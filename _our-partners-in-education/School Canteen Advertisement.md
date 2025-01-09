@@ -23,17 +23,14 @@ variant: markdown
 
 
 
-
-
-
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.
 
-[School Canteen Application Form](/files/Partners%20in%20Education/school%20canteen%20application%20form.pdf)
+* [Application Form for individual stallholder ](/files/Application_Form__For_Individual_.pdf)
+* [Application Form for Business ](/files/Application_Form__For_Business_Entity_.pdf)
 
-
-2. Attached the following documents together with the application form:
+2. Attach the following documents together with the Application Form:
 
 * Photocopy of the NRIC (front and back)
 
