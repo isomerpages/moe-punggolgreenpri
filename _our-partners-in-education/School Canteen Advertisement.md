@@ -68,17 +68,35 @@ variant: markdown
 
 **Interest applicants must meet the following criteria:**
 
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+<table>
+	<tbody><tr>
+		<td><b>For Individuals</b></td>
+		<td><b>For Business</b></td>
+	</tr>
+	<tr>
+		<td><li>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder. </li>
+			<li>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work.</li>
+<li>Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.</li>
+<li>Able to provide cooked food/drinks  that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).</li>
+<li>Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines.</li>
+			<li>Healthy and fit to operate the stall.</li>
+			<li>Must be in personal attendance at the stall.</li>
+			<li>Preferably possess catering experience or experience operating in a school environment.</li>
+</td>
+		<td><li>Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.</li>
+<li>Able to provide cooked food/drinks that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).</li>
+			<li>Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines. </li>
+			<li>	Employee(s) operating the stall is healthy and fit.</li>
+			<li>Preferably possess catering experience or experience operating in a school environment.</li>
+</td>
+	</tr>
+	</tbody></table>
+	
 
-* Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
-* Able to maintain high standard of food safety and personal hygiene.
 
-* Healthy and fit to operate the stall.
-
-**Applicants should preferably fulfil the following criteria:**
+**Note to successful applicants:**
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
