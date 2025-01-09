@@ -6,12 +6,12 @@ variant: markdown
 ---
 #### School Canteen Advertisement
 
-
+<b>(Individual stallholders and business entities are invited to apply for the stall below at Punggol Green Primary School) </b>
 
 | Type of Stall  | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.      |
-| Chinese Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.      |
+| Malay Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.&nbsp;     |
+| Chinese Food Stall    | 31 December 2024    | International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal.&nbsp;     |
 
 
 
