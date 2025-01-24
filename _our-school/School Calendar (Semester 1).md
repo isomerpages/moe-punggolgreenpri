@@ -4,11 +4,12 @@ permalink: /school-calendar-semester-1/
 variant: markdown
 description: ""
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 402px" class="tg">
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 100%;" class="tg">
    <colgroup>
-      <col style="width: 180px">
-      <col style="width: 180px">
-      <col style="width: 180px">
+      <col style="width: 50%;">
+      <col style="width: 50%;">
+      <col style="width: 50%;">
    </colgroup>
    <thead>
       <tr>
@@ -118,6 +119,75 @@ description: ""
          <td class="tg">March Holidays</td>
          <td class="tg"></td>
       </tr>
-      
+      <tr>
+         <td class="tg">25 Mar</td>
+         <td class="tg">P5 Cohort Learning Journey (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">28 Mar</td>
+         <td class="tg">P3 Cohort Learning Journey (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">3 – 4 Apr</td>
+         <td class="tg">Hari Raya Puasa (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Apr</td>
+         <td class="tg">P4 Museum Based Learning (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Apr</td>
+         <td class="tg">P4 Camp (2D1N)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Apr</td>
+         <td class="tg">P5 Home-Based Learning (HBL)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Apr</td>
+         <td class="tg">P3 Home-Based Learning (HBL)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">8 &amp; 11 Apr</td>
+         <td class="tg">P4 Museum Based Learning (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">14 – 17 Apr</td>
+         <td class="tg">STRIVE2THRIVE Week</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">18 Apr</td>
+         <td class="tg">Good Friday (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">21 – 25 Apr</td>
+         <td class="tg">Science Week</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">1 May</td>
+         <td class="tg">Labour Day (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">29 May</td>
+         <td class="tg">Parent – Teacher Conference (PM) (F2F)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">30 May</td>
+         <td class="tg">Parent – Teacher Conference (Online)</td>
+         <td class="tg"></td>
+      </tr>
    </tbody>
 </table>
