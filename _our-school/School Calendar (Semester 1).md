@@ -4,7 +4,6 @@ permalink: /school-calendar-semester-1/
 variant: markdown
 description: ""
 ---
-
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 100%;" class="tg">
    <colgroup>
       <col style="width: 50%;">
