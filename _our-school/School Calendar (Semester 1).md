@@ -4,3 +4,120 @@ permalink: /school-calendar-semester-1/
 variant: markdown
 description: ""
 ---
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 402px" class="tg">
+   <colgroup>
+      <col style="width: 180px">
+      <col style="width: 180px">
+      <col style="width: 180px">
+   </colgroup>
+   <thead>
+      <tr>
+         <th class="tg">Dates</th>
+         <th class="tg">Event/Activity</th>
+         <th class="tg">Remarks</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td class="tg">15 Jan</td>
+         <td class="tg">Attendance &amp; Temperature Taking Exercise</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">22 Jan</td>
+         <td class="tg">NSG Opening Ceremony @ Sports Hub</td>
+         <td class="tg">Selected student athletes</td>
+      </tr>
+      <tr>
+         <td class="tg">28 Jan</td>
+         <td class="tg">Chinese New Year Celebrations (CNY Eve)</td>
+         <td class="tg">Early dismissal at 10.30 a.m./10.40 a.m.</td>
+      </tr>
+      <tr>
+         <td class="tg">29 &amp; 30 Jan</td>
+         <td class="tg">Chinese New Year (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">3 Feb</td>
+         <td class="tg">Parent – Teacher Meeting 1 (F2F) (PM)</td>
+         <td class="tg">School as per usual</td>
+      </tr>
+      <tr>
+         <td class="tg">5 – 7 Feb</td>
+         <td class="tg">P5 Camp</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">7 Feb</td>
+         <td class="tg">P4 &amp; P6 Home-Based Learning (HBL)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">10 – 11 Feb</td>
+         <td class="tg">Hosting Overseas School – SDK Penabur Jakarta</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">13 Feb</td>
+         <td class="tg">Fire Evacuation Drill</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">17 Feb</td>
+         <td class="tg">Total Defence Day</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">18 Feb</td>
+         <td class="tg">English WA1 (P3 – P5)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">20 Feb</td>
+         <td class="tg">P5 Cohort LJ (IHC)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">21 Feb</td>
+         <td class="tg">P5 HMTL WA1</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">24 Feb</td>
+         <td class="tg">Mathematics WA1 (P3 – P5)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">25 – 27 Feb</td>
+         <td class="tg">Science WA1 (P3 – P5)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">3 – 7 Mar</td>
+         <td class="tg">English Week</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Mar</td>
+         <td class="tg">MTL/FMTL WA1 (P3 – P5)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">3 – 4, 6 – 7 Mar</td>
+         <td class="tg">P5 (S, T, R, I) Code For Fun (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">10 – 11, 13 – 14 Mar</td>
+         <td class="tg">P5 (V, E, Con, Inno) Code For Fun (PM)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">15 – 23 Mar</td>
+         <td class="tg">March Holidays</td>
+         <td class="tg"></td>
+      </tr>
+      
+   </tbody>
+</table>
