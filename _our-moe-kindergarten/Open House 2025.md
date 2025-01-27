@@ -4,3 +4,11 @@ permalink: /open-house-2025/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MOE Kindergarten/MK_OpenHouse01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MOE Kindergarten/MK_OpenHouse02.png">
+</div>
+<p></p>
