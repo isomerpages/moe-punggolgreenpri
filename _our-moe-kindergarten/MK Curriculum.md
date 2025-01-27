@@ -2,12 +2,6 @@
 title: MK Curriculum
 permalink: /our-moe-kindergarten/mk-curriculum/
 description: ""
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e1OsfXFSoyE" title="A Day in MOE Kindergarten @ Punggol Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evcbAkcEl20" title="Why we love MOE Kindergarten @ Punggol Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ACX8lkYnMvk" title="WoW Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nhVLI-UNss4?si=SxiNjsbLO-ePSN7w" height="315" width="560"></iframe>
