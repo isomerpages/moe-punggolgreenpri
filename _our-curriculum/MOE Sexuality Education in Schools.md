@@ -20,11 +20,11 @@ variant: markdown
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
       </ul>
 
-<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">https://go.gov.sg/moe-sexuality-education</a> for more information on MOE Sexuality Education.<br><br>
+<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> (https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br><br>
 
 <b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</b></p>
 
-   </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">https://go.gov.sg/moe-sexuality-education-scope</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
+   </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> (https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The subjects that incorporate topics on sexuality include:
       <ul>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Science</li>
@@ -121,6 +121,6 @@ Primary 6</b></p>
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/Annex_A___Parent_Opt_Out_Form.pdf">https://go.gov.sg/pgps-parent-opt-out-form</a>. The completed opt-out form is to be submitted by 28/02/2025.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Our%20Curriculum/Annex_A___Parent_Opt_Out_Form.pdf">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 28/02/2025.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@schools.gov.sg</a> (Mdm Cai Aimei  / Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
