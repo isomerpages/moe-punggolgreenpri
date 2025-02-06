@@ -9,15 +9,6 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
   - infopic:
-      title: 2024 PSLE Results Release
-      subtitle: For parents
-      id: infopic
-      description: Download the slides
-      button: HERE
-      url: https://punggolgreenpri.moe.edu.sg/files/2024PSLEResultsReleaseBriefingSlides.pdf
-      image: /images/2024PSLEResultsReleaseBriefingSlides.jpg
-      alt: Image alt text
-  - infopic:
       title: Staff Appreciation Form
       id: infopic
       button: More details
