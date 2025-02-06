@@ -18,15 +18,6 @@ sections:
       image: /images/2024PSLEResultsReleaseBriefingSlides.jpg
       alt: Image alt text
   - infopic:
-      title: P1 Orientation AY2025
-      id: infopic
-      description: Download the slides
-      button: here
-      url: https://punggolgreenpri.moe.edu.sg/files/P1OrientationAY2025.pdf
-      image: /images/P1OrientationAY2025.jpg
-      alt: Image alt text
-      subtitle: For parents
-  - infopic:
       title: Staff Appreciation Form
       id: infopic
       button: More details
