@@ -226,8 +226,33 @@ Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
+						<td class="tg">29 Apr</td>
+         <td class="tg">MTL/FMTL WA2 (P3 – P5)  </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">1 May</td>
          <td class="tg">Labour Day (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">5 May</td>
+         <td class="tg">Mathematics WA2 (P3 – P5) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">6 - 8 May </td>
+         <td class="tg">Science WA2 (P3 – P5) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">12 May </td>
+         <td class="tg">Vesak Day (Public Holiday) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">13 May</td>
+         <td class="tg">P3 Cohort Learning Journey (PM) </td>
          <td class="tg"></td>
       </tr>
       <tr>
@@ -236,8 +261,38 @@ Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
+				<td class="tg">14 May</td>
+         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">P3 Cohort Learning Journey (PM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">P5 Cohort Learning Journey (IHC) )</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
 				<td class="tg">15 May</td>
          <td class="tg">Mother Tongue ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">16 May</td>
+         <td class="tg">P5 HMTL WA2 </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">19 - 23 May</td>
+         <td class="tg">Taiwan Overseas Trip  </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">19 May</td>
+         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
          <td class="tg"></td>
       </tr>
       <tr>
