@@ -151,28 +151,33 @@ Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 – 4 Apr</td>
+         <td class="tg">31 Mar</td>
          <td class="tg">Hari Raya Puasa (Public Holiday)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">1 Apr</td>
          <td class="tg">P4 Museum Based Learning (PM)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">3 - 4 Apr</td>
          <td class="tg">P4 Camp (2D1N)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">3 Apr</td>
          <td class="tg">P5 Home-Based Learning (HBL)</td>
          <td class="tg"></td>
       </tr>
       <tr>
          <td class="tg">4 Apr</td>
          <td class="tg">P3 Home-Based Learning (HBL)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				   <td class="tg">4 Apr</td>
+         <td class="tg">Hosting Overseas School – Sajja Pittaya School </td>
          <td class="tg"></td>
       </tr>
       <tr>
@@ -186,6 +191,11 @@ Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
+				  <td class="tg">15 Apr</td>
+         <td class="tg">P6 Cohort LJ (ACM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">18 Apr</td>
          <td class="tg">Good Friday (Public Holiday)</td>
          <td class="tg"></td>
@@ -193,6 +203,26 @@ Science ACE1 (P6)</td>
       <tr>
          <td class="tg">21 – 25 Apr</td>
          <td class="tg">Science Week</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">21 – 23 Apr</td>
+         <td class="tg">Hosting Overseas School – Santa Laurensia Elementary School </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+					<td class="tg">24 Apr</td>
+         <td class="tg">Hosting Overseas School – Micang Elementary School </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">24 Apr</td>
+         <td class="tg">P3 Cohort Learning Journey (PM)  </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">28 Apr</td>
+         <td class="tg">EL WA2 (P3 – P5) </td>
          <td class="tg"></td>
       </tr>
       <tr>
