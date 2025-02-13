@@ -288,7 +288,7 @@ Science ACE1 (P6)</td>
       <tr>
 				<td class="tg">19 - 23 May</td>
          <td class="tg">Taiwan Overseas Trip  </td>
-         <td class="tg"></td>
+         <td class="tg">Selected students only </td>
       </tr>
       <tr>
 				<td class="tg">19 May</td>
