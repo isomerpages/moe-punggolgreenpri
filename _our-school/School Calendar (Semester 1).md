@@ -6,9 +6,9 @@ description: ""
 ---
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 100%;" class="tg">
    <colgroup>
-      <col style="width: 45%;">
-      <col style="width: 50%;">
-      <col style="width: 50%;">
+      <col style="width: 60%;">
+      <col style="width: 70%;">
+      <col style="width: 60%;">
    </colgroup>
    <thead>
       <tr>
