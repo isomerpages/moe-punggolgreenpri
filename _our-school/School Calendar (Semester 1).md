@@ -89,6 +89,16 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
+				 <td class="tg">25 Feb</td>
+         <td class="tg">English ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				 <td class="tg">27 Feb</td>
+         <td class="tg">Mother Tongue ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">25 – 27 Feb</td>
          <td class="tg">Science WA1 (P3 – P5)</td>
          <td class="tg"></td>
