@@ -114,6 +114,18 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
+				  <td class="tg">4 Mar</td>
+         <td class="tg">Mathematics ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">6 Mar</td>
+         <td class="tg">        
+
+Science ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">3 – 4, 6 – 7 Mar</td>
          <td class="tg">P5 (S, T, R, I) Code For Fun (PM)</td>
          <td class="tg"></td>
@@ -186,6 +198,26 @@ description: ""
       <tr>
          <td class="tg">1 May</td>
          <td class="tg">Labour Day (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">13 May</td>
+         <td class="tg">English ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">Mother Tongue ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">20 May</td>
+         <td class="tg">Mathematics ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">22 May</td>
+         <td class="tg">Science ACE2 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
