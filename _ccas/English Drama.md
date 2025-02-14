@@ -15,4 +15,4 @@ Mondays Session: 		2.15pm – 4.15pm <br>
 Thursdays Session: 	3.45pm – 5.45pm <b>(Only for rehearsals in preparation for performances)</b>
 
 <b>Teachers-In-Charge: </b> <br>
-Mrs Andrea Chan (IC), Mr Aaron Ho Fook Chuen (2IC), Mdm Bavani D/O Rengasamy, Mr Jumat B Baba
+Mrs Andrea Chan (IC), Mr Aaron Ho Fook Chuen (2IC), Mdm Bavani D/O Rengasamy
