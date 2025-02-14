@@ -23,4 +23,3 @@ Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
   <dt>Basketball Girls:</dt>
   <dd>Mdm. Nurul Mardiah (IC), Mdm Siti Raihanni Bte Selamat, Ms. Hong Meirong</dd>
 </dl>
-

@@ -1,0 +1,16 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Arts & Craft Club.md
+      - Badminton.md
+      - Basketball.md
+      - Choir.md
+      - Dancetopia.md
+      - English Drama.md
+      - Football.md
+      - iSTEM.md
+      - Marlin Cub Scouts.md
+      - Multimedia Club.md
+      - Robotics.md
+      - Strings Ensemble.md

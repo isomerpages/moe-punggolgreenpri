@@ -4,7 +4,6 @@ permalink: /badminton/
 variant: markdown
 description: ""
 ---
-
 <img src="/images/Badminton_2024.jpg">
 
 Badminton is a demanding racquet sport which requires strength, agility, power, speed and high mental endurance.  In PGPS, we strive to not only equip our players with proper badminton skills and techniques; we also aim to inculcate the school’s STRIVE values in our players to cultivate good sportsmanship and enjoy the sport for life.

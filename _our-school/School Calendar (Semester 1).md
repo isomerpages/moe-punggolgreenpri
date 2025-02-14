@@ -6,7 +6,7 @@ description: ""
 ---
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 100%;" class="tg">
    <colgroup>
-      <col style="width: 45%;">
+      <col style="width: 40%;">
       <col style="width: 50%;">
       <col style="width: 50%;">
    </colgroup>
@@ -89,6 +89,16 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
+				 <td class="tg">25 Feb</td>
+         <td class="tg">English ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				 <td class="tg">27 Feb</td>
+         <td class="tg">Mother Tongue ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">25 – 27 Feb</td>
          <td class="tg">Science WA1 (P3 – P5)</td>
          <td class="tg"></td>
@@ -101,6 +111,18 @@ description: ""
       <tr>
          <td class="tg">4 Mar</td>
          <td class="tg">MTL/FMTL WA1 (P3 – P5)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				  <td class="tg">4 Mar</td>
+         <td class="tg">Mathematics ACE1 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">6 Mar</td>
+         <td class="tg">        
+
+Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
@@ -129,28 +151,33 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 – 4 Apr</td>
+         <td class="tg">31 Mar</td>
          <td class="tg">Hari Raya Puasa (Public Holiday)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">1 Apr</td>
          <td class="tg">P4 Museum Based Learning (PM)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">3 - 4 Apr</td>
          <td class="tg">P4 Camp (2D1N)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
+         <td class="tg">3 Apr</td>
          <td class="tg">P5 Home-Based Learning (HBL)</td>
          <td class="tg"></td>
       </tr>
       <tr>
          <td class="tg">4 Apr</td>
          <td class="tg">P3 Home-Based Learning (HBL)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				   <td class="tg">4 Apr</td>
+         <td class="tg">Hosting Overseas School – Sajja Pittaya School </td>
          <td class="tg"></td>
       </tr>
       <tr>
@@ -164,6 +191,11 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
+				  <td class="tg">15 Apr</td>
+         <td class="tg">P6 Cohort LJ (ACM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">18 Apr</td>
          <td class="tg">Good Friday (Public Holiday)</td>
          <td class="tg"></td>
@@ -174,8 +206,103 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
+				<td class="tg">21 – 23 Apr</td>
+         <td class="tg">Hosting Overseas School – Santa Laurensia Elementary School </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+					<td class="tg">24 Apr</td>
+         <td class="tg">Hosting Overseas School – Micang Elementary School </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">24 Apr</td>
+         <td class="tg">P3 Cohort Learning Journey (PM)  </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">28 Apr</td>
+         <td class="tg">EL WA2 (P3 – P5) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+						<td class="tg">29 Apr</td>
+         <td class="tg">MTL/FMTL WA2 (P3 – P5)  </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
          <td class="tg">1 May</td>
          <td class="tg">Labour Day (Public Holiday)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">5 May</td>
+         <td class="tg">Mathematics WA2 (P3 – P5) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">6 - 8 May </td>
+         <td class="tg">Science WA2 (P3 – P5) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">12 May </td>
+         <td class="tg">Vesak Day (Public Holiday) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">13 May</td>
+         <td class="tg">P3 Cohort Learning Journey (PM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">13 May</td>
+         <td class="tg">English ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">14 May</td>
+         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">P3 Cohort Learning Journey (PM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">P5 Cohort Learning Journey (IHC) )</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">15 May</td>
+         <td class="tg">Mother Tongue ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">16 May</td>
+         <td class="tg">P5 HMTL WA2 </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">19 - 23 May</td>
+         <td class="tg">Taiwan Overseas Trip  </td>
+         <td class="tg">Selected students only </td>
+      </tr>
+      <tr>
+				<td class="tg">19 May</td>
+         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">20 May</td>
+         <td class="tg">Mathematics ACE2 (P6)</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				<td class="tg">22 May</td>
+         <td class="tg">Science ACE2 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
