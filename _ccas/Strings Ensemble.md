@@ -25,4 +25,4 @@ Mondays Session: 		2.15pm – 4.15pm <br>
 Thursdays Session: 	3.45pm – 5.45pm
 
 <b>Teachers-In-Charge:</b><br>
-Mdm. Na Kim Gek (IC), Mdm. Siti Hajar (2IC), Mdm. Khadijah Binte Ab Samat, Ms. Eunice Kang Tse, Ms. Lee Xin Run
+Mdm. Na Kim Gek (IC), Mdm Hafizah Bte Jumaeh (2IC), Mdm Khairunnisa, Ms Lee Xin Run , Ms Huang Siyue 

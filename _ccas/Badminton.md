@@ -18,5 +18,5 @@ Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
 <br>
 <br>
 **<font size="4">Teachers-in-Charge:</font>** <br>
-Badminton Boys:&nbsp;&nbsp; &nbsp;Mr Kwang Yong (IC), Mr Lim Cheng Feng, Miss Aishwarya<br>
-Badminton Girls: &nbsp;&nbsp; &nbsp;Mrs Shannon Loh (IC), Mdm Hafidzoh Sirri Bte Sajani, Mdm Qin Xiaolin <br>
+Badminton Boys:&nbsp;&nbsp; &nbsp;Mr Kwang Yong (IC), Mdm Zahidah (2IC), Mr Choy Seng Hean<br>
+Badminton Girls: &nbsp;&nbsp; &nbsp;Mr Siak Cheng Mun Lionel  (IC), Mdm Nadiya (2IC), 3.	Mdm Haslinda Bte Arifin <br>
