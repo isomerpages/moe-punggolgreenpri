@@ -2,6 +2,5 @@ collections:
   useful-information:
     output: true
     order:
-      - test page 3.md
       - test page 2.md
       - School Safety Info.md
