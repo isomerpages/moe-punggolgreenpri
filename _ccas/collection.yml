@@ -1,4 +1,5 @@
 collections:
   ccas:
     output: true
-    order: []
+    order:
+      - Arts & Craft Club.md
