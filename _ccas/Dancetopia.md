@@ -24,4 +24,4 @@ Mondays Session 2: 	3.45pm – 5.45pm <br>
 Thursdays Session: 	3.45pm – 5.45pm
 
 <b>Teachers-In-Charge:</b> <br>
-Mrs Lynn Kirk (IC), Mdm Jumiati (2IC), Ms Fang Siying, Ms Xu Jingwen
+Mrs Lynn Kirk (IC), Mdm Jumiati (2IC), Ms Xu Jingwen
