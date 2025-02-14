@@ -2,15 +2,15 @@ collections:
   ccas:
     output: true
     order:
-      - iSTEM.md
-      - Strings Ensemble.md
-      - Robotics.md
-      - Multimedia Club.md
-      - Marlin Cub Scouts.md
-      - Football.md
-      - English Drama.md
-      - Dancetopia.md
-      - Choir.md
-      - Basketball.md
-      - Badminton.md
       - Arts & Craft Club.md
+      - Badminton.md
+      - Basketball.md
+      - Choir.md
+      - Dancetopia.md
+      - English Drama.md
+      - Football.md
+      - iSTEM.md
+      - Marlin Cub Scouts.md
+      - Multimedia Club.md
+      - Robotics.md
+      - Strings Ensemble.md
