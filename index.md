@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Useful Information
           description: for parents
-          url: /useful-information
+          url: /school-safety-info
   - infopic:
       title: Staff Appreciation Form
       id: infopic
