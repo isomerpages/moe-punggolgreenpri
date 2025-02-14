@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
-      key_highlights:
-        - title: Useful Information
-          description: for parents
-          url: https://staging-lite.d39haxu07oanx3.amplifyapp.com/test-page-3/
   - infopic:
       title: Staff Appreciation Form
       id: infopic
