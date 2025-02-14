@@ -4,3 +4,4 @@ permalink: /test-page-2/
 variant: tiptap
 description: ""
 ---
+<p>test</p>
