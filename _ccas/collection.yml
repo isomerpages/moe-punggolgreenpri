@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Strings Ensemble.md
       - Robotics.md
       - Multimedia Club.md
       - Marlin Cub Scouts.md
