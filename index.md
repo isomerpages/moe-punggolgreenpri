@@ -9,15 +9,9 @@ sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
       key_highlights:
-        - title: Singapore Learning Space
-          description: click for more
-          url: ""
-        - title: Student MIMs Portal
-          description: click for more
-          url: ""
-        - title: EdTech Support Form
-          description: click for more
-          url: ""
+        - title: Useful Information
+          description: for parents
+          url: /useful-information
   - infopic:
       title: Staff Appreciation Form
       id: infopic
