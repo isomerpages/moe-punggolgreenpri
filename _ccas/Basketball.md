@@ -18,8 +18,8 @@ Thursdays Session:&nbsp;&nbsp; &nbsp;&nbsp;3.45pm – 5.45pm
 **<font size="4">Teachers-in-Charge:</font>** <br>
 <dl>
   <dt>Basketball Boys:</dt>
-  <dd>Mr. Vijayaseelan s/o Narayanasamy (IC), Mdm Kamaladevi Chellaya  </dd>
-	  <dd>Mdm Nur Asrina Bte Alias, Mr. Siak Cheng Mun, Lionel </dd><br>
+  <dd>Mr. Vijayaseelan s/o Narayanasamy (IC), Ms Hafidzoh Sirri Sajani (2IC),   </dd>
+	  <dd>Mdm Kamaladevi</dd><br>
   <dt>Basketball Girls:</dt>
-  <dd>Mdm. Nurul Mardiah (IC), Mdm Siti Raihanni Bte Selamat, Ms. Hong Meirong</dd>
+  <dd>Mdm. Nurul Mardiah (IC), Ms Hong Mei Rong (2IC), Mdm Siti Raihanni Bte Selamat</dd>
 </dl>

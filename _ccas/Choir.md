@@ -15,4 +15,4 @@ Mondays Session: 		2.15pm – 4.15pm <br>
 Thursdays Session: 	3.45pm – 5.45pm <br>
 
 <b>Teachers-In-Charge:</b> <br>
-Mr. Fariq (IC), Mdm. Hong Sze Hui (2IC), Ms. Kay Xiao Yan, Ms. Exther Tan
+Mr. Fariq (IC), Mdm. Hong Sze Hui (2IC), Ms Eunice Kang Tse, Ms Kay Xiao Yan
