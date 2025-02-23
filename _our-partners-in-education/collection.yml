@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - MOE Financial Assistance Scheme (FAS).md
       - GPA Insurance for Students.md
       - Homework Policy.md
       - Parent Support Group @ PGPS.md
