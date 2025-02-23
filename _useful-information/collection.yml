@@ -2,5 +2,6 @@ collections:
   useful-information:
     output: true
     order:
+      - For Parents/Book List 2025.md
       - For Parents/Communication Guidelines.md
       - For Parents/.keep
