@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - For Parents/School Safety Information.md
       - For Parents/Homework Policy.md
       - For Parents/GPA Insurance for Students.md
       - For Parents/MOE Financial Assistance Scheme (FAS).md
