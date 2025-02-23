@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Book List 2025.md
       - MOE Financial Assistance Scheme (FAS).md
       - GPA Insurance for Students.md
       - Homework Policy.md
