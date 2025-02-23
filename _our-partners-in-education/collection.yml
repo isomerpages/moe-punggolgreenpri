@@ -2,7 +2,6 @@ collections:
   our-partners-in-education:
     output: true
     order:
-      - Homework Policy.md
       - Parent Support Group @ PGPS.md
       - School Advisory Committee.md
       - School Bus Service.md
