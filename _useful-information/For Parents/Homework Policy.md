@@ -1,6 +1,6 @@
 ---
 title: Homework Policy
-permalink: /our-partners-in-education/homework-policy/
+permalink: /homework-policy/
 description: ""
 variant: markdown
 third_nav_title: For Parents

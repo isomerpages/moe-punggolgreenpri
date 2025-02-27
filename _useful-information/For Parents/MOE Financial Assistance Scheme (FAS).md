@@ -1,6 +1,6 @@
 ---
 title: MOE Financial Assistance Scheme (FAS)
-permalink: /our-partners-in-education/moe-financial-assistance-scheme-fas/
+permalink: /moe-financial-assistance-scheme-fas/
 description: ""
 variant: markdown
 third_nav_title: For Parents

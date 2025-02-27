@@ -1,6 +1,6 @@
 ---
 title: Book List 2025
-permalink: /our-partners-in-education/book-list-2025/
+permalink: /book-list-2025/
 description: ""
 variant: markdown
 third_nav_title: For Parents

@@ -1,8 +1,8 @@
 ---
 title: School Wait List
-permalink: /our-partners-in-education/school-wait-list/
+permalink: /school-wait-list/
 description: ""
-variant: tiptap
+variant: markdown
 third_nav_title: For Parents
 ---
 <p>Dear Parents/Guardians,</p>

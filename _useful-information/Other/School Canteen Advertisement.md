@@ -1,6 +1,6 @@
 ---
 title: School Canteen Advertisement
-permalink: /our-partners-in-education/school-canteen-advertisement/
+permalink: /school-canteen-advertisement/
 description: ""
 variant: markdown
 third_nav_title: Other

@@ -1,6 +1,6 @@
 ---
 title: School Bus Service
-permalink: /our-partners-in-education/school-bus-service/
+permalink: /school-bus-service/
 description: ""
 variant: markdown
 third_nav_title: For Parents
