@@ -3,6 +3,7 @@ title: School Wait List
 permalink: /our-partners-in-education/school-wait-list/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <p>Dear Parents/Guardians,</p>
 <p>Thank you for your interest in enrolling your child/ward in Punggol Green

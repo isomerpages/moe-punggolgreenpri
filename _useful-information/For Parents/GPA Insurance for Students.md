@@ -3,6 +3,7 @@ title: GPA Insurance for Students
 permalink: /gpa-insurance-for-students/
 variant: markdown
 description: ""
+third_nav_title: For Parents
 ---
 <p><b>Group Personal Accident (GPA) Insurance for Students</b></p>
 <p>The Ministry of Education (MOE) has established a contract for GPA Insurance for Students. This contract is awarded to NTUC Income Insurance Co-operative Limited. It covers death, permanent and total/partial disability and medical due to an accident. The proximate or triggering causes of injuries must be reasonably attributed to an accident.</p>

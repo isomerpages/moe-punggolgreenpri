@@ -3,6 +3,7 @@ title: Book List 2025
 permalink: /our-partners-in-education/book-list-2025/
 description: ""
 variant: markdown
+third_nav_title: For Parents
 ---
 **Primary 1**<br>
 [2025 Punggol Green Primary P1 Booklist](/files/Partners%20in%20Education/2025_P1_Booklist.pdf)

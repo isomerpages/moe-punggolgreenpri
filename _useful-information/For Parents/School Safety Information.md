@@ -2,8 +2,8 @@
 title: School Safety Information
 permalink: /our-partners-in-education/school-safety-information/
 description: ""
+third_nav_title: For Parents
 ---
-
 **School Safety and Security**<br>
 For security reasons, visitors are not allowed to enter the school premises without the permission pass issued at the security counter. Members of the school staff are instructed to check on visitors without permission pass within the school premises. Please display the permission pass prominently. Please proceed to the General Office after you obtain your permission pass so that our staff can assist you.
 
