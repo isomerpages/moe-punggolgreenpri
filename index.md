@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/WebsiteBanner_LargeLabels.gif
+      key_highlights:
+        - title: Useful Information
+          description: For Parents
+          url: /for-parents
+        - title: Useful Information
+          description: For Students
+          url: /for-students
+        - title: Other
+          description: Useful Information
+          url: /school-canteen-advertisement
   - infopic:
       title: Staff Appreciation Form
       id: infopic
