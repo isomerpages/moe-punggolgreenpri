@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - For Students.md
       - Other/School Canteen Advertisement.md
       - Other/.keep
       - For Students/.keep
