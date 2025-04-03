@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 402px" class="tg">
-   <colgroup><col style="width: 250px"><col style="width: 201px"></colgroup>
+   <colgroup><col style="width: 200px"><col style="width: 250px"></colgroup>
       <thead>
          <tr>
             <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Name</th>
@@ -65,5 +65,5 @@ If you would like to volunteer your services as a Parent Volunteer, please scan 
 <img src="/images/PSG%20QR%20(1).png" style="width:120px">
 <a href="https://form.gov.sg/61c95e8db3479f0012411eae">Click here to join!</a></p>
 
-We look forward to work closely with you to make PGPS a more vibrant and exciting school for your child!
+<p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:center;">We look forward to work closely with you to make PGPS a more vibrant and exciting school for your child!</p>
 <img src="/images/PSG%20photo.jpg">
