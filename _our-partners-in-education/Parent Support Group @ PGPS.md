@@ -4,8 +4,8 @@ permalink: /our-partners-in-education/parent-support-group-at-pgps/
 description: ""
 variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 402px" class="tg">
-   <colgroup><col style="width: 200px"><col style="width: 250px"></colgroup>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
+   <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
       <thead>
          <tr>
             <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Name</th>
