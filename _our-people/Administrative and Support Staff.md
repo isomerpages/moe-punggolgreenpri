@@ -4,6 +4,7 @@ permalink: /our-people/administrative-and-support-staff/
 description: ""
 variant: markdown
 ---
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Administrative and Support Staff</b></p>
 <table style="width: 580px">
 	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
 	<tbody><tr>
