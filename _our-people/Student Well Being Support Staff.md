@@ -4,7 +4,7 @@ permalink: /our-people/student-well-being-support-staff/
 description: ""
 variant: markdown
 ---
-<table style="width: 500px">
+<table style="width: 400px">
 	<colgroup><col style="width:100%"></colgroup>
 	<tbody>
 	<tr>
