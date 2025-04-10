@@ -41,14 +41,13 @@ variant: markdown
         <th style="background-color:#DDD; color:#666;">Name</th>
         <th style="background-color:#DDD; color:#666;">Designation</th>
     </tr>
-    <tr><td>Mr Sakthivel Seran</td><td>Operations Manager</td></tr>
     <tr><td>Mr Dixon Peh</td><td>Operations Manager</td></tr>
+    <tr><td>Mr Sakthivel Seran</td><td>Operations Manager</td></tr>
     <tr><td>Mdm Florence Han</td><td>Operations Support Officer</td></tr>
     <tr><td>Mr Loh Nghee Boon</td><td>Operations Support Officer</td></tr>
     <tr><td>Mr Koo Soo Yong</td><td>Operations Support Officer</td></tr>
     <tr><td>Mr Adam Bin Bachok</td><td>Operations Support Officer</td></tr>
     <tr><td>Ms Liew Lian Choo</td><td>Operations Support Officer</td></tr>
-    <tr><td>Mdm Amy Goh</td><td>Operations Support Officer</td></tr>
-    <tr><td>Mdm Sek Lay Tin</td><td>Operations Support Officer</td></tr>
     <tr><td>Ms Saaraswathy D/O Thangavelu</td><td>Operations Support Officer</td></tr>
+    <tr><td>Mdm Toh Ju Yee</td><td>Operations Support Officer</td></tr>
 </tbody></table>
