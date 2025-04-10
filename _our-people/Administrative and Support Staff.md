@@ -90,4 +90,7 @@ variant: markdown
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Sumirah Arip</td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ICT Trainer</td>
 	</tr>
-</tbody></table>
+		<tr>
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr P Sharwin</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">ICT Associate </td>
+</tr></tbody></table>
