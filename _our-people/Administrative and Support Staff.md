@@ -27,8 +27,8 @@ variant: markdown
         <th style="background-color:#DDD; color:#666;">Designation</th>
     </tr>
     <tr><td>Mr Loh Soon Yip</td><td>ICT Manager</td></tr>
-    <tr><td>Ms Sumirah Arip</td><td>ICT Trainer</td></tr>
     <tr><td>Mr P Sharwin</td><td>ICT Associate</td></tr>
+    <tr><td>Ms Sumirah Arip</td><td>ICT Trainer</td></tr>
     <tr><td>Mr Muhammad Khair Bin Zulkifli</td><td>Desktop Engineer</td></tr>
     <tr><td>Ms Sushma Kunchaparthi</td><td>Desktop Engineer</td></tr>
 </tbody></table>
