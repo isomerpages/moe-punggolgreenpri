@@ -37,4 +37,5 @@ sections:
       url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
       image: /images/e_Banner_for_PGPS_School_Website__AY2026_P1_.png
       alt: Image alt text
+      button: More details
 ---
