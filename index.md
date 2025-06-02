@@ -31,4 +31,10 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /our-partners-in-education/school-canteen-advertisement/
+  - infopic:
+      title: Open House 2025
+      id: infopic
+      url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
+      image: /images/e_Banner_for_PGPS_School_Website__AY2026_P1_.png
+      alt: Image alt text
 ---
