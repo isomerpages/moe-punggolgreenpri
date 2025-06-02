@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/For Parents.md
       - For Parents/Open House 2025.md
+      - For Parents/For Parents.md
       - For Parents/School Safety Information.md
       - For Parents/Staff Appreciation Form.md
       - For Parents/School Wait List.md
