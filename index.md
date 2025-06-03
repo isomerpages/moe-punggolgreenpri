@@ -19,7 +19,7 @@ sections:
           description: Useful Information
           url: /school-canteen-advertisement
   - infopic:
-      title: Open House 2025
+      title: Announcement for AY2026 P1 Parents
       id: infopic
       url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
       image: /images/e_Banner_for_PGPS_School_Website__AY2026_P1_.png
