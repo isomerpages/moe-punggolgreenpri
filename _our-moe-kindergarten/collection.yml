@@ -2,6 +2,7 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
+      - Superstar Spotlight.md
       - Inside Scoops.md
       - MK Curriculum and Timetable.md
       - Open House 2025.md
