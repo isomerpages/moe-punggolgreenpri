@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MK @ Punggol Green.md
+      - MK Curriculum.md
       - MK Curriculum and Timetable.md
       - Inside Scoops.md
       - Superstar Spotlight.md
@@ -11,4 +12,3 @@ collections:
       - Resources for Parents.md
       - MK Forms.md
       - Open House 2025.md
-      - MK Curriculum.md
