@@ -2,13 +2,13 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - Superstar Spotlight.md
-      - Inside Scoops.md
-      - MK Curriculum and Timetable.md
-      - Open House 2025.md
       - MK @ Punggol Green.md
+      - MK Curriculum and Timetable.md
+      - Inside Scoops.md
+      - Superstar Spotlight.md
       - KCare.md
       - Other Information.md
       - Resources for Parents.md
       - MK Forms.md
+      - Open House 2025.md
       - MK Curriculum.md
