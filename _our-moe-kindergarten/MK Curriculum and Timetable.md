@@ -4,7 +4,6 @@ permalink: /our-moe-kindergarten/mk-curriculum/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Our%20MOE%20Kindergarten/1__Curriculum_tab_2nd_tab.png)
 
 ![](/images/Our%20MOE%20Kindergarten/2__School_Term___Calendar_2nd_tab.png)
