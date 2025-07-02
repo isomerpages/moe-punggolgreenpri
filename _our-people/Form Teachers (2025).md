@@ -95,7 +95,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Empathy</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Miss Chanel Chan Jia Lun<br><a href="mailto:chanel_chan_jia_lun@moe.edu.sg">chanel_chan_jia_lun@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain*<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a><br><br>Ms Parameswary<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain*<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a><br><br>Mdm Lee Xin Run<br><a href="mailto:lee_xin_run@moe.edu.sg">lee_xin_run@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Confidence</td>
