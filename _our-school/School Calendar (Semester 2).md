@@ -35,7 +35,7 @@ description: ""
       </tr>
       <tr>
          <td class="tg">7 Jul</td>
-         <td class="tg">Youth Day School Holiday*</td>
+         <td class="tg">Youth Day School Holiday</td>
          <td class="tg"></td>
       </tr>
       <tr>
