@@ -19,180 +19,178 @@ description: ""
    </thead>
    <tbody>
       <tr>
-         <td class="tg">15 Jan</td>
-         <td class="tg">Attendance &amp; Temperature Taking Exercise</td>
+         <td class="tg">3 &amp; 4 Jul</td>
+         <td class="tg">Little Leaders Exploration Programme</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">22 Jan</td>
-         <td class="tg">NSG Opening Ceremony @ Sports Hub</td>
-         <td class="tg">Selected student athletes</td>
-      </tr>
-      <tr>
-         <td class="tg">28 Jan</td>
-         <td class="tg">Chinese New Year Celebrations (CNY Eve)</td>
-         <td class="tg">Early dismissal at 10.30 a.m./10.40 a.m.</td>
-      </tr>
-      <tr>
-         <td class="tg">29 &amp; 30 Jan</td>
-         <td class="tg">Chinese New Year (Public Holiday)</td>
+         <td class="tg">4 Jul</td>
+         <td class="tg">Choir Performance SYF Celebrations @ Esplanade Concourse</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 Feb</td>
-         <td class="tg">Parent – Teacher Meeting 1 (F2F) (PM)</td>
-         <td class="tg">School as per usual</td>
-      </tr>
-      <tr>
-         <td class="tg">5 – 7 Feb</td>
-         <td class="tg">P5 Camp</td>
+         <td class="tg">5 Jul</td>
+         <td class="tg">Dance Performance SYF Celebrations @ SCAPE</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">7 Feb</td>
-         <td class="tg">P4 &amp; P6 Home-Based Learning (HBL)</td>
+         <td class="tg">7 Jul</td>
+         <td class="tg">Youth Day School Holiday*</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">10 – 11 Feb</td>
-         <td class="tg">Hosting Overseas School – SDK Penabur Jakarta</td>
+         <td class="tg">8 Jul</td>
+         <td class="tg">P4 Mother Tongue Language Camp</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">13 Feb</td>
-         <td class="tg">Fire Evacuation Drill</td>
+         <td class="tg">9 Jul</td>
+         <td class="tg">Attendance and Temperature Taking Exercise (ATTEx)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">17 Feb</td>
-         <td class="tg">Total Defence Day</td>
+         <td class="tg">11 Jul</td>
+         <td class="tg">P5 ML &amp; P3/4/5 HCL Cultural Performance ES</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">18 Feb</td>
-         <td class="tg">English WA1 (P3 – P5)</td>
+         <td class="tg">14 - 18 Jul</td>
+         <td class="tg">Mother Tongue Language Week</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">20 Feb</td>
-         <td class="tg">P5 Cohort LJ (IHC)</td>
+         <td class="tg">19 Jul</td>
+         <td class="tg">P5 NE Show</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">21 Feb</td>
-         <td class="tg">P5 HMTL WA1</td>
+         <td class="tg">21 Jul</td>
+         <td class="tg">Racial Harmony Day</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">24 Feb</td>
-         <td class="tg">Mathematics WA1 (P3 – P5)</td>
+         <td class="tg">22 - 23 Jul</td>
+         <td class="tg">Class Photo-Taking</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				 <td class="tg">25 Feb</td>
-         <td class="tg">English ACE1 (P6)</td>
+         <td class="tg">24 - 25 Jul</td>
+         <td class="tg">P6 English/Mother Tongue Language Prelim Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				 <td class="tg">27 Feb</td>
-         <td class="tg">Mother Tongue ACE1 (P6)</td>
+         <td class="tg">4 Aug</td>
+         <td class="tg">P3 – P5 English Language WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">25 – 27 Feb</td>
-         <td class="tg">Science WA1 (P3 – P5)</td>
+         <td class="tg">5 Aug</td>
+         <td class="tg">P3 – P5 Mother Tongue/Foundation Mother Tongue Language WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 – 7 Mar</td>
-         <td class="tg">English Week</td>
+	<td class="tg">7 Aug</td>
+         <td class="tg">P5 Science WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Mar</td>
-         <td class="tg">MTL/FMTL WA1 (P3 – P5)</td>
+				 <td class="tg">7 Aug</td>
+         <td class="tg">P3 Outdoor Leadership Adventure Day Camp</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				  <td class="tg">4 Mar</td>
-         <td class="tg">Mathematics ACE1 (P6)</td>
+         <td class="tg">11 Aug</td>
+         <td class="tg">National Day School Holiday</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">6 Mar</td>
-         <td class="tg">        
-
-Science ACE1 (P6)</td>
+         <td class="tg">13 - 14 Aug</td>
+         <td class="tg">PSLE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 – 4, 6 – 7 Mar</td>
-         <td class="tg">P5 (S, T, R, I) Code For Fun (PM)</td>
+         <td class="tg">15 Aug</td>
+         <td class="tg">P5 HMT WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">10 – 11, 13 – 14 Mar</td>
-         <td class="tg">P5 (V, E, Con, Inno) Code For Fun (PM)</td>
+				  <td class="tg">18 Aug</td>
+         <td class="tg">P6 Prelim English/Mother Tongue Listening Comprehension</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">15 – 23 Mar</td>
-         <td class="tg">March Holidays</td>
+				<td class="tg">18 Aug</td>
+         <td class="tg">P3 – P5 Mathematics WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">25 Mar</td>
-         <td class="tg">P5 Cohort Learning Journey (PM)</td>
+         <td class="tg">19 Aug</td>
+         <td class="tg">P3 Science WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">28 Mar</td>
-         <td class="tg">P3 Cohort Learning Journey (PM)</td>
+         <td class="tg">20 Aug</td>
+         <td class="tg">P4 Science WA3</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">31 Mar</td>
-         <td class="tg">Hari Raya Puasa (Public Holiday)</td>
+         <td class="tg">21 Aug</td>
+         <td class="tg">P3 GEP Screening Exercise</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">1 Apr</td>
-         <td class="tg">P4 Museum Based Learning (PM)</td>
+         <td class="tg">21 Aug</td>
+         <td class="tg">P6 English Prelim</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 - 4 Apr</td>
-         <td class="tg">P4 Camp (2D1N)</td>
+         <td class="tg">22 Aug</td>
+         <td class="tg">P6 Mathematics Prelim</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">3 Apr</td>
-         <td class="tg">P5 Home-Based Learning (HBL)</td>
+         <td class="tg">26 - 29 Aug</td>
+         <td class="tg">P5 Immersion Trip to Jakarta</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">4 Apr</td>
-         <td class="tg">P3 Home-Based Learning (HBL)</td>
+         <td class="tg">25 Aug</td>
+         <td class="tg">P6 Mother Tongue Language Prelim</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				   <td class="tg">4 Apr</td>
-         <td class="tg">Hosting Overseas School – Sajja Pittaya School </td>
+         <td class="tg">26 Aug</td>
+         <td class="tg">P6 Science Prelim</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">8 &amp; 11 Apr</td>
-         <td class="tg">P4 Museum Based Learning (PM)</td>
+         <td class="tg">27 Aug</td>
+         <td class="tg">P6 Higher Mother Tongue Language Prelim</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">14 – 17 Apr</td>
-         <td class="tg">STRIVE2THRIVE Week</td>
+         <td class="tg">27 - 29 Aug</td>
+         <td class="tg">P4 &amp; P5 Makerspace Enrichment</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				  <td class="tg">15 Apr</td>
-         <td class="tg">P6 Cohort LJ (ACM) </td>
+				   <td class="tg">1 Sept</td>
+         <td class="tg">P4 &amp; P5 Makerspace Enrichment</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">1 Sept</td>
+         <td class="tg">P3 Inter-Class Games</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">4 Sept</td>
+         <td class="tg">Teachers’ Day Celebrations</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+				  <td class="tg">5 Sept</td>
+         <td class="tg">Teachers’ Day School Holiday</td>
          <td class="tg"></td>
       </tr>
       <tr>
@@ -201,118 +199,183 @@ Science ACE1 (P6)</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">21 – 25 Apr</td>
-         <td class="tg">Science Week</td>
+         <td class="tg">6 – 14 Sept</td>
+         <td class="tg">September School Holidays</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">21 – 23 Apr</td>
-         <td class="tg">Hosting Overseas School – Santa Laurensia Elementary School </td>
+				<td class="tg">11 - 12 Sept</td>
+         <td class="tg">P6 Study Camp</td>
          <td class="tg"></td>
       </tr>
       <tr>
-					<td class="tg">24 Apr</td>
-         <td class="tg">Hosting Overseas School – Micang Elementary School </td>
+					<td class="tg">16 Sept</td>
+         <td class="tg">PSLE Listening Comprehension</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">24 Apr</td>
-         <td class="tg">P3 Cohort Learning Journey (PM)  </td>
+				<td class="tg">18 Sept</td>
+         <td class="tg">P5 English/Foundation English Language EYE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">28 Apr</td>
-         <td class="tg">EL WA2 (P3 – P5) </td>
+				<td class="tg">19 Sept</td>
+         <td class="tg">P5 Mother Tongue/Foundation Mother Tongue EYE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-						<td class="tg">29 Apr</td>
-         <td class="tg">MTL/FMTL WA2 (P3 – P5)  </td>
+						<td class="tg">25 - 26 Sept</td>
+         <td class="tg">PSLE Written Papers</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">1 May</td>
-         <td class="tg">Labour Day (Public Holiday)</td>
+         <td class="tg">25 Sept</td>
+         <td class="tg">P2 Home-Based Learning</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">5 May</td>
-         <td class="tg">Mathematics WA2 (P3 – P5) </td>
+				<td class="tg">26 Sept</td>
+         <td class="tg">P5 Home-Based Learning</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">6 - 8 May </td>
-         <td class="tg">Science WA2 (P3 – P5) </td>
+				<td class="tg">29 - 1 Oct </td>
+         <td class="tg">PSLE Written Papers</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">12 May </td>
-         <td class="tg">Vesak Day (Public Holiday) </td>
+				<td class="tg">29 Sept</td>
+         <td class="tg">P4 Home-Based Learning</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">13 May</td>
-         <td class="tg">P3 Cohort Learning Journey (PM) </td>
+				<td class="tg">30 Sept</td>
+         <td class="tg">P3 Home-Based Learning</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">13 May</td>
-         <td class="tg">English ACE2 (P6)</td>
+				<td class="tg">2 Oct</td>
+         <td class="tg">Children’s Day Celebrations</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">14 May</td>
-         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
+				<td class="tg">3 Oct</td>
+         <td class="tg">Children’s Day</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">15 May</td>
-         <td class="tg">P3 Cohort Learning Journey (PM) </td>
+				<td class="tg">6 - 7 Oct</td>
+         <td class="tg">P3 English &amp; Mother Tongue EYE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">15 May</td>
-         <td class="tg">P5 Cohort Learning Journey (IHC) )</td>
+				<td class="tg">6 Oct</td>
+         <td class="tg">P4 English EYE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">15 May</td>
-         <td class="tg">Mother Tongue ACE2 (P6)</td>
+				<td class="tg">7 Oct</td>
+         <td class="tg">P4 Mother Tongue EYE Oral</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">16 May</td>
-         <td class="tg">P5 HMTL WA2 </td>
+				<td class="tg">8 Oct</td>
+         <td class="tg">P3 – P5 English EYE Paper 1 &amp; LC</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">19 - 23 May</td>
-         <td class="tg">Taiwan Overseas Trip  </td>
-         <td class="tg">Selected students only </td>
-      </tr>
-      <tr>
-				<td class="tg">19 May</td>
-         <td class="tg">P6 Cohort Learning Journey (ACM) </td>
+				<td class="tg">9 Oct</td>
+         <td class="tg">P3 – P5 Mother Tongue Language EYE Paper 1 &amp; LC</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">20 May</td>
-         <td class="tg">Mathematics ACE2 (P6)</td>
+				<td class="tg">9 Oct</td>
+         <td class="tg">P6 HPB: Next steps transition</td>
          <td class="tg"></td>
       </tr>
       <tr>
-				<td class="tg">22 May</td>
-         <td class="tg">Science ACE2 (P6)</td>
+				<td class="tg">13 - 15 Oct</td>
+         <td class="tg">PSLE Marking Exercise</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">29 May</td>
-         <td class="tg">Parent – Teacher Conference (PM) (F2F)</td>
+				<td class="tg">14 Oct</td>
+         <td class="tg">P3 GEP Selection Exercise</td>
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">30 May</td>
-         <td class="tg">Parent – Teacher Conference (Online)</td>
+         <td class="tg">14 / 15 / 17 Oct</td>
+         <td class="tg">P4 MBL to Kreta Ayer Heritage Gallery</td>
+         <td class="tg"></td>
+      </tr>
+      <tr>
+         <td class="tg">16 Oct</td>
+         <td class="tg">P6 HPB: Next steps transition</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">20 Oct</td>
+         <td class="tg">Deepavali</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">22 Oct</td>
+         <td class="tg">P5 Higher Mother Tongue Language EYE</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">23 Oct</td>
+         <td class="tg">P3 – P5 English Language EYE</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">24 Oct</td>
+         <td class="tg">P3 – P5 Mathematics EYE</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">27 Oct</td>
+         <td class="tg">P3 – P5 Mother Tongue Language EYE</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">28 Oct</td>
+         <td class="tg">P3 – P5 Science EYE</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">4 - 5 Nov</td>
+         <td class="tg">P6 AI for Fun</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">7 Nov</td>
+         <td class="tg">Admin Day</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">10 Nov</td>
+         <td class="tg">P3 – P6 Student Leaders’ Appreciation Day</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">12 Nov</td>
+         <td class="tg">P6 VIA: Cardboard Carnival Day</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">19 Nov</td>
+         <td class="tg">P1 – P5 Promotion Day</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">20 Nov</td>
+         <td class="tg">Annual Awards &amp; P6 Graduation</td>
+         <td class="tg"></td>
+      </tr>
+<tr>
+         <td class="tg">21 Nov</td>
+         <td class="tg">AY2026 P1 Orientation</td>
          <td class="tg"></td>
       </tr>
    </tbody>
