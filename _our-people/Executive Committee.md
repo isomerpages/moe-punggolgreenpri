@@ -40,6 +40,7 @@ variant: markdown
 			<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
 		</tr>
 		<tr><td>Ms Cai Aimei</td><td>HOD CCE</td></tr>
+				<tr><td>Mr Tan Ee Cheng</td><td>HOD Educational Technology</td></tr>
 		<tr><td>Ms Priyadakshini D/O Surendiran S</td><td>HOD English Language</td></tr>
 		<tr><td>Mr Rajendran S/O Nagappan</td><td>HOD Mathematics</td></tr>
 		<tr><td>Ms Wong Wai Yu Stella</td><td>HOD Mother Tongue Languages</td></tr>
@@ -49,7 +50,6 @@ variant: markdown
 		<tr><td>Ms Brindha Sankar</td><td>HOD Special Educational Needs</td></tr>
 		<tr><td>Mr Jack Ong Shu Chieh</td><td>HOD Student Management</td></tr>
 		<tr><td>Mdm Raihana Bte Mohd Nor</td><td>School Staff Developer</td></tr>
-		<tr><td>Mr Tan Ee Cheng</td><td>HOD Educational Technology (Int)</td></tr>
 	</tbody>
 </table>
 
