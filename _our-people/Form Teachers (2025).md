@@ -129,7 +129,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Teamwork</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Vanisree Sajjan<br><a href="mailto:vanisree_sajjan@moe.edu.sg">vanisree_sajjan@moe.edu.sg</a><br>
-		</td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Hong Meirong<br><a href="mailto:hong_mei_rong@moe.edu.sg">hong_mei_rong@moe.edu.sg</a></td>
+		</td><td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Na Kim Gek<br><a href="mailto:na_kim_gek@moe.edu.sg">na_kim_gek@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Responsibility</td>
@@ -257,7 +257,7 @@ variant: markdown
   <tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Innovation</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sri Khairunnisa<br><a href="mailto:sri_khairunnisa_paat_sumanto@moe.edu.sg">sri_khairunnisa_paat_sumanto@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Eunice Tse<br><a href="mailto:kang_gek_noy_eunice@moe.edu.sg">kang_gek_noy_eunice@moe.edu.sg</a><br><br>Ms Parameswary<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Eunice Tse<br><a href="mailto:kang_gek_noy_eunice@moe.edu.sg">kang_gek_noy_eunice@moe.edu.sg</a><br><br>Ms Nur Alysa Syafira Bte Mohd Asek <br><a href="mailto:nur_alysa_syafira_mohamad@moe.edu.sg">nur_alysa_syafira_mohamad@moe.edu.sg</a></td>
   </tr>
   <tr>
 	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr He Guo Yuan Desmond    Assistant Year Head / Upper Pri  (Int)</td>
