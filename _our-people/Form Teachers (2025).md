@@ -80,7 +80,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Responsibility</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Lynn Kirk-Quek Si Yi<br><a href="mailto:lynn_kirk-quek_si_yi@moe.edu.sg">lynn_kirk-quek_si_yi@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Vishalini D/O Peramagantan<br><a href="mailto:vishalini_peramagantan@moe.edu.sg">vishalini_peramagantan@moe.edu.sg</a><br><br>Ms Parameswary<br><a href="mailto:parameswary_moghan_naidu@moe.edu.sg">parameswary_moghan_naidu@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Vishalini D/O Peramagantan<br><a href="mailto:vishalini_peramagantan@moe.edu.sg">vishalini_peramagantan@moe.edu.sg</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">2 Integrity</td>
