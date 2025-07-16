@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - For Parents/Leave of Absence Application.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/School Safety Information.md
