@@ -25,4 +25,4 @@ third_nav_title: For Parents
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Schools will charge an annual nominal fee for a child on LOA. For LOA periods of less than a year, the annual LOA fee should be pro-rated accordingly. Upon successful application, the school will advise on the payment procedure for LOA fee.  </li>
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">All successful LOA applications will expire at the end of the year and you will need to inform the school in November if you wish to renew the LOA for another year. Your child’s LOA status will expire if you choose not to renew. </li></ol>
 
-[Apply Leave of Absence](https://form.gov.sg/60b993b55d28890012f98b70) 
+[Apply Leave of Absence](https://form.gov.sg/60b993b55d28890012f98b70)
