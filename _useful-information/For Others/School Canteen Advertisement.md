@@ -23,7 +23,11 @@ third_nav_title: For Others
          </tr>
 		</tbody></table>
 		<b>Application Procedure</b><br>
-1. 		Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office. <br>
-
-3. 	Attach the following documents together with the Application Form:	<br>
-4. 	Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+<ol>
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.
+	<br>•	Application Form for individual stallholder
+	<br>•	Application Form for Business </li>
+<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Attach the following documents together with the Application Form: 
+<br>    
+	</li>
+	</ol>
