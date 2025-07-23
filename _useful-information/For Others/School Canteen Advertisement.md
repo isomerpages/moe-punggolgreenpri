@@ -61,7 +61,7 @@ third_nav_title: For Others
 		<br>•	Contact Person: Ms Meredith Chiow (Administration Manager)
 	</li>
 	</ol>
-	<b>How to get there?</b>
+<b>How to get there?</b>
 	<br>•	Nearest MRT: Punggol MRT – 10 minutes walking distance
 	<br>•	Bus number: 117, 119, 381, 382, 666 - 3 minutes walking distance
 	<br><br>
