@@ -17,7 +17,7 @@ sections:
           url: /for-students
         - title: Useful Information
           description: For Others
-          url: /for-others
+          url: /school-canteen-advertisement/
   - infopic:
       title: Announcement for AY2026 P1 Parents
       id: infopic
