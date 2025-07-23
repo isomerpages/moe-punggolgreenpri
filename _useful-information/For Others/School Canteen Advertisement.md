@@ -22,7 +22,7 @@ third_nav_title: For Others
 					 <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal. </td>
          </tr>
 		</tbody></table>
-		<b>Application Procedure</b><br>
+<b>Application Procedure</b><br>
 <ol>
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.
 	<br>•	
