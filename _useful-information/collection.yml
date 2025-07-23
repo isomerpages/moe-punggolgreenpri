@@ -2,8 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - For Others/School Canteen Advertisement.md
-      - For Others/.keep
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Leave of Absence Application.md
@@ -17,3 +15,5 @@ collections:
       - For Parents/Homework Policy.md
       - For Parents/Communication Guidelines.md
       - For Students.md
+      - For Others/.keep
+      - For Others/School Canteen Advertisement.md
