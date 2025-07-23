@@ -22,3 +22,8 @@ third_nav_title: For Others
 					 <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International cuisine ie, Japanese, Western, Korean etc is acceptable. Open to proposal. </td>
          </tr>
 		</tbody></table>
+		<b>Application Procedure</b><br>
+1. 		Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office. <br>
+
+3. 	Attach the following documents together with the Application Form:	<br>
+4. 	Submit the completed application form and documents by closing date via email OR to the School’s General Office.
