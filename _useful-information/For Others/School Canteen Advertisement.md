@@ -30,4 +30,21 @@ third_nav_title: For Others
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Attach the following documents together with the Application Form: 
 <br>    
 	</li>
+	<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+	<br>•	Address: 98 Punggol Walk Singapore 828772
+	<br>•	Contact No: 6538 3011
+		<br>•	Email: admin_punggolgreen_ps@moe.edu.sg
+		<br>•	Contact Person: Ms Meredith Chiow (Administration Manager)
+	</li>
 	</ol>
+	<b>How to get there?</b>
+	<br>•	Nearest MRT: Punggol MRT – 10 minutes walking distance
+	<br>•	Bus number: 117, 119, 381, 382, 666 - 3 minutes walking distance
+	<br><br>
+	<b>Interested applicants must meet the following criteria:</b>
+	
+	
+<b>Note to successful applicants:</b>
+<br>•	Successful applicant and stall assistant(s)/ employee(s) operating the stall must attend and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore approved training providers. 
+<br>•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall. 
+<br><br>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
