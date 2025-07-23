@@ -77,7 +77,7 @@ third_nav_title: For Others
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder. 
 <br>•	Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work.
 <br>•	Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.
-<br>•	Able to provide cooked food/drinks  that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).
+<br>•	Able to provide cooked food/drinks  that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the  <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> “Healthy Meals in Schools Programme (HMSP)” guidelines </a>.
 <br>•	Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines.
 <br>•	Healthy and fit to operate the stall.
 <br>•	Must be in personal attendance at the stall.
@@ -86,7 +86,7 @@ third_nav_title: For Others
 
 </td>
             <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.
-<br>•	Able to provide cooked food/drinks that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).
+<br>•	Able to provide cooked food/drinks that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> “Healthy Meals in Schools Programme (HMSP)” guidelines </a>.
 <br>•	Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines. 
 <br>•	Employee(s) operating the stall is healthy and fit.
 <br>•	Preferably possess catering experience or experience operating in a school environment.
@@ -97,4 +97,4 @@ third_nav_title: For Others
 <b>Note to successful applicants:</b>
 <br>•	Successful applicant and stall assistant(s)/ employee(s) operating the stall must attend and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore approved training providers. 
 <br>•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall. 
-<br><br>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
+<br><br><i>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</i>
