@@ -25,8 +25,11 @@ third_nav_title: For Others
 		<b>Application Procedure</b><br>
 <ol>
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.
-	<br>•	Application Form for individual stallholder
-	<br>•	Application Form for Business </li>
+	<br>•	
+	<a href="/files/Useful%20Information/Application_Form__For_Individual_.pdf">Application Form for individual stallholder</a>
+	<br>•	<a href="/files/Useful%20Information/Application_Form__For_Business_Entity_.pdf">Application Form for Business</a>
+	</li>
+	
 <li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Attach the following documents together with the Application Form: <br>
 	<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 700px" class="tg">
    <colgroup><col style="width: 350px"><col style="width: 350px"></colgroup>
@@ -54,7 +57,7 @@ third_nav_title: For Others
 	<li style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 	<br>•	Address: 98 Punggol Walk Singapore 828772
 	<br>•	Contact No: 6538 3011
-		<br>•	Email:admin_punggolgreen_ps@moe.edu.sg
+		<br>•	Email:<a href="mailto:admin_punggolgreen_ps@moe.edu.sg">admin_punggolgreen_ps@moe.edu.sg</a>
 		<br>•	Contact Person: Ms Meredith Chiow (Administration Manager)
 	</li>
 	</ol>
