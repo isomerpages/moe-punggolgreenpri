@@ -15,6 +15,9 @@ sections:
         - title: Useful Information
           description: For Students
           url: /for-students
+        - title: Useful Information
+          description: For Others
+          url: /for-others
   - infopic:
       title: Announcement for AY2026 P1 Parents
       id: infopic
@@ -34,5 +37,5 @@ sections:
   - infobar:
       title: School Canteen Advertisement
       button: more information
-      url: /our-partners-in-education/school-canteen-advertisement/
+      url: /school-canteen-advertisement/
 ---
