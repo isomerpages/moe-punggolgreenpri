@@ -34,5 +34,5 @@ sections:
   - infobar:
       title: School Canteen Advertisement
       button: more information
-      url: /our-partners-in-education/school-canteen-advertisement/
+      url: /school-canteen-advertisement/
 ---
