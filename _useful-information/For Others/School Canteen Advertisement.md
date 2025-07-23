@@ -65,9 +65,9 @@ third_nav_title: For Others
 	<br>•	Nearest MRT: Punggol MRT – 10 minutes walking distance
 	<br>•	Bus number: 117, 119, 381, 382, 666 - 3 minutes walking distance
 	<br><br>
-	<b>Interested applicants must meet the following criteria:</b>
-	<br>
-		<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 700px" class="tg">
+<b>Interested applicants must meet the following criteria:</b>
+<br>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 700px" class="tg">
    <colgroup><col style="width: 350px"><col style="width: 350px"></colgroup>
       <thead>
          <tr>
