@@ -7,6 +7,7 @@ third_nav_title: For Parents
 ---
 <h2 style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify; font-weight:bold">For Parents</h2>
 <ul>
+	 <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/leave-of-absence-application/">Leave of Absence Application</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/school-safety-information/">School Safety Information</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/staff-appreciation-form/">Staff Appreciation Form</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/school-wait-list/">School Wait List</a></li>
