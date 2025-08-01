@@ -10,7 +10,7 @@ third_nav_title: For Parents
 Primary School.</p>
 <p><strong>Please click on the link below to apply for Waiting List</strong>
 </p>
-<p><a href="https://form.gov.sg/60c800c75cb16b0011a671f4" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/60c800c75cb16b0011a671f4</a>
+<p><a href="https://go.gov.sg/pgpswaitlistform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgpswaitlistform</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Our%20Partners%20in%20Education/WAITLIST%20QR%20CODE.png">
