@@ -194,11 +194,6 @@ description: ""
          <td class="tg"></td>
       </tr>
       <tr>
-         <td class="tg">18 Apr</td>
-         <td class="tg">Good Friday (Public Holiday)</td>
-         <td class="tg"></td>
-      </tr>
-      <tr>
          <td class="tg">6 – 14 Sept</td>
          <td class="tg">September School Holidays</td>
          <td class="tg"></td>
