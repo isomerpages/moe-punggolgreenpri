@@ -43,6 +43,6 @@ sections:
       id: infopic
       description: Notice to former students visiting Punggol Green Primary School
         (PGPS) on 4 September 2025 for Teacher's Day.
-      image: /images/trday.png
+      image: /images/Screenshot_2025_08_26_115606.png
       alt: Image alt text
 ---
