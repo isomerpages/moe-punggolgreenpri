@@ -38,4 +38,11 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
+  - infopic:
+      title: PGPS Alumni Visit on Teacher’s Day 2025
+      id: infopic
+      description: Notice to former students visiting Punggol Green Primary School
+        (PGPS) on 4 September 2025 for Teacher's Day.
+      image: /images/trday.png
+      alt: Image alt text
 ---
