@@ -315,12 +315,12 @@ description: ""
       </tr>
 <tr>
          <td class="tg">22 Oct</td>
-         <td class="tg">P5 Higher Mother Tongue Language EYE</td>
+         <td class="tg">P5 Higher Mother Tongue Language EYE Paper 1 &amp; 2</td>
          <td class="tg"></td>
       </tr>
 <tr>
          <td class="tg">23 Oct</td>
-         <td class="tg">P3 – P5 English Language EYE</td>
+         <td class="tg">P3 – P5 English Language EYE Paper 2</td>
          <td class="tg"></td>
       </tr>
 <tr>
@@ -330,7 +330,7 @@ description: ""
       </tr>
 <tr>
          <td class="tg">27 Oct</td>
-         <td class="tg">P3 – P5 Mother Tongue Language EYE</td>
+         <td class="tg">P3 – P5 Mother Tongue Language EYE Paper 2</td>
          <td class="tg"></td>
       </tr>
 <tr>
