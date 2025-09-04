@@ -52,8 +52,6 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 </tbody></table>
 Click on the CCA to find out more!
 
-Not sure which CCA to choose? Want to find out more about DSA? You can click here to <a href="https://sites.google.com/moe.edu.sg/pgps-cca-exp">"AskTrevis!"</a>
-
 <b>Other Useful Resources</b>
  <table style="width: 600px; border-collapse: collapse;">
 	<colgroup>
