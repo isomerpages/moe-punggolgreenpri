@@ -359,17 +359,17 @@ description: ""
          <td class="tg"></td>
       </tr>
 <tr>
-         <td class="tg">19 Nov</td>
+         <td class="tg">18 Nov</td>
          <td class="tg">P1 – P5 Promotion Day</td>
          <td class="tg"></td>
       </tr>
 <tr>
-         <td class="tg">20 Nov</td>
+         <td class="tg">19 Nov</td>
          <td class="tg">Annual Awards &amp; P6 Graduation</td>
          <td class="tg"></td>
       </tr>
 <tr>
-         <td class="tg">21 Nov</td>
+         <td class="tg">20 Nov</td>
          <td class="tg">AY2026 P1 Orientation</td>
          <td class="tg"></td>
       </tr>
