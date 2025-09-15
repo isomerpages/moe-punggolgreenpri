@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MOE Kindergarten/1__Superstars_Spolight_4th_tab_r.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MOE Kindergarten/No__1_Updated_Superstar_spotlight_mk.jpg">
 </div>
 <p></p>
 <p></p>
