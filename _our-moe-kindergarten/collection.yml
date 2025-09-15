@@ -2,9 +2,9 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - Collaboration.md
       - MK @ Punggol Green.md
       - MK Curriculum and Timetable.md
+      - Collaboration.md
       - Inside Scoops.md
       - Superstar Spotlight.md
       - KCare.md
