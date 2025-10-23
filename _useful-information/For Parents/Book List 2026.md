@@ -27,7 +27,7 @@ third_nav_title: For Parents
 [2026 Punggol Green Primary P4 Booklist](/files/Useful%20Information/Booklist_2026_PGPS_P4.pdf)
 <br>
 
-[2025 Punggol Green Primary P4 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P4_HMT.pdf)
+[2026 Punggol Green Primary P4 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P4_HMT.pdf)
 
 ---
 
