@@ -6,12 +6,12 @@ variant: markdown
 third_nav_title: For Parents
 ---
 **Primary 1**<br>
-[2025 Punggol Green Primary P1 Booklist](/files/Partners%20in%20Education/2025_P1_Booklist.pdf)
+[2026 Punggol Green Primary P1 Booklist](/files/Useful%20Information/Booklist_2026_PGPS_P1.pdf)
 
 ---
 
 **Primary 2** <br>
-[2025 Punggol Green Primary P2 Booklist](/files/Partners%20in%20Education/2025_P2_Booklist.pdf)
+[2026 Punggol Green Primary P2 Booklist](/files/Useful%20Information/Booklist_2025_PGPS_P2.pdf)
 
 ---
 
