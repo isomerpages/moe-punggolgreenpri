@@ -19,7 +19,7 @@ third_nav_title: For Parents
 [2026 Punggol Green Primary P3 Booklist](/files/Useful%20Information/Booklist_2026_PGPS_P3.pdf)
 <br>
 
-[2026 Punggol Green Primary P3 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P3_HMT.pdf)
+[2026 Punggol Green Primary P3 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_PGPS_P3_HMT.pdf)
 
 ---
 
@@ -27,17 +27,17 @@ third_nav_title: For Parents
 [2026 Punggol Green Primary P4 Booklist](/files/Useful%20Information/Booklist_2026_PGPS_P4.pdf)
 <br>
 
-[2026 Punggol Green Primary P4 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P4_HMT.pdf)
+[2026 Punggol Green Primary P4 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_PGPS_P4_HMT.pdf)
 
 ---
 
 **Primary 5 Foundation**<br>
-[2026 Punggol Green Primary P5 Booklist (Foundation)](/files/Useful%20Information/Booklist_2026_P5_FDN.pdf)
+[2026 Punggol Green Primary P5 Booklist (Foundation)](/files/Useful%20Information/Booklist_2026_PGPS_P5_FDN.pdf)
 
 ---
 
 **Primary 5 Higher Mother Tongue**<br>
-[2026 Punggol Green Primary P5 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P5_HMT.pdf)
+[2026 Punggol Green Primary P5 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_PGPS_P5_HMT.pdf)
 
 ---
 
@@ -47,12 +47,12 @@ third_nav_title: For Parents
 ---
 
 **Primary 6 Foundation**<br>
-[2026 Punggol Green Primary P6 Booklist (Foundation)](/files/Useful%20Information/Booklist_2026_P6_FDN.pdf)
+[2026 Punggol Green Primary P6 Booklist (Foundation)](/files/Useful%20Information/Booklist_2026_PGPS_P6_FDN.pdf)
 
 ---
 
 **Primary 6 Higher Mother Tongue**<br>
-[2026 Punggol Green Primary P6 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_P6_HMT.pdf)
+[2026 Punggol Green Primary P6 Booklist (HMT)](/files/Useful%20Information/Booklist_2026_PGPS_P6_HMT.pdf)
 
 ---
 
