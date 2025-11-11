@@ -19,6 +19,14 @@ sections:
           description: For Others
           url: /for-others
   - infopic:
+      title: Caring Teacher Award 2026
+      id: infopic
+      description: Infopic description
+      button: More Details
+      url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
+      image: /images/CTA_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: PGPS Alumni Visit on Teacher’s Day 2025
       id: infopic
       description: Notice to former students visiting Punggol Green Primary School
@@ -45,12 +53,4 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
-  - infopic:
-      title: Caring Teacher Award 2026
-      id: infopic
-      description: Infopic description
-      button: More Details
-      url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
-      image: /images/CTA_Poster.jpg
-      alt: Image alt text
 ---
