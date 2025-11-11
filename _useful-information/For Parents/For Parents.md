@@ -19,4 +19,5 @@ third_nav_title: For Parents
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/gpa-insurance-for-students/">GPA Insurance for Students</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/homework-policy/">Homework Policy</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/communication-guidelines/">Communication Guidelines</a></li>
+	<li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/">Caring Teacher Award 2026</a></li>
 </ul>
