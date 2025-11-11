@@ -19,11 +19,11 @@ sections:
           description: For Others
           url: /for-others
   - infopic:
-      title: PGPS Alumni Visit on Teacher’s Day 2025
+      title: Caring Teacher Award 2026
       id: infopic
-      description: Notice to former students visiting Punggol Green Primary School
-        (PGPS) on 4 September 2025 for Teacher's Day.
-      image: /images/Screenshot_2025_08_26_115606.png
+      button: More Details
+      url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
+      image: /images/CTA_Poster.jpg
       alt: Image alt text
   - infopic:
       title: Announcement for AY2026 P1 Parents
