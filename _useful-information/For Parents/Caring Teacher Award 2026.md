@@ -24,3 +24,5 @@ School Staff Developer (SSD)
 </p>
 
 
+<img src="/images/QR_code.png" style="width:75%">
+<br>
