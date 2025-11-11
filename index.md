@@ -26,13 +26,6 @@ sections:
       image: /images/CTA_Poster.jpg
       alt: Image alt text
   - infopic:
-      title: PGPS Alumni Visit on Teacher’s Day 2025
-      id: infopic
-      description: Notice to former students visiting Punggol Green Primary School
-        (PGPS) on 4 September 2025 for Teacher's Day.
-      image: /images/Screenshot_2025_08_26_115606.png
-      alt: Image alt text
-  - infopic:
       title: Announcement for AY2026 P1 Parents
       id: infopic
       url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
