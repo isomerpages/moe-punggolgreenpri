@@ -21,10 +21,13 @@ information.</p>
 <p>Best regards,<br>
 Mdm Raihana Mohd Nor <br>
 School Staff Developer (SSD)
-</p>
+</p> <br>
 
 
 <img src="/images/QR_code.png" style="width:75%">
-<br>
-<center>[Nominate teacher here](https://www.cta.nie.edu.sg/nominate) </center>
+
+<center> <a rel="noopener noreferrer" target="_blank" href="https://www.cta.nie.edu.sg/nominate">
+  Nominate for the Caring Teacher Award
+</a>
+ </center>
 <br>
