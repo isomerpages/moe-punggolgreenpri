@@ -26,3 +26,5 @@ School Staff Developer (SSD)
 
 <img src="/images/QR_code.png" style="width:75%">
 <br>
+<center>[Nominate teacher here](https://www.cta.nie.edu.sg/nominate) </center>
+<br>
