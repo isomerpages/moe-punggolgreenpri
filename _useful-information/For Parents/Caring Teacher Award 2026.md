@@ -17,3 +17,10 @@ information.</p>
 <p>Mdm Raihana Mohd Nor</p>
 <p>School Staff Developer (SSD)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code.png">
+</div>
+<p><a href="https://www.cta.nie.edu.sg/nominate" rel="noopener nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a>
+</p>
+<p></p>
+<p></p>
