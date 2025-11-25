@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: 2025 PSLE Results Release
       id: infopic
-      button: More Details
+      button: More Detailssss
       url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
       image: /images/Screenshot_2025_11_25_145717.png
   - infopic:
