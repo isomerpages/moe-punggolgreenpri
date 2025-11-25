@@ -24,6 +24,9 @@ sections:
       button: More Detailssss
       url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
       image: /images/Screenshot_2025_11_25_145717.png
+  - resources:
+      title: KEY HIGHLIGHTS
+      id: resources
   - infopic:
       title: Caring Teacher Award 2026
       id: infopic
@@ -49,7 +52,4 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
-  - resources:
-      title: KEY HIGHLIGHTS
-      id: resources
 ---
