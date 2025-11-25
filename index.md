@@ -24,6 +24,7 @@ sections:
       button: More Details
       url: https://www.punggolgreenpri.moe.edu.sg/files/2025_PSLE_Results_Release_Briefing_Slides.pdf
       image: /images/Screenshot_2025_11_25_145717.png
+      alt: 2025 PSLE Results Release
   - resources:
       title: KEY HIGHLIGHTS
       id: resources
