@@ -49,4 +49,7 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
+  - resources:
+      title: KEY HIGHLIGHTS
+      id: resources
 ---
