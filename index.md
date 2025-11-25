@@ -39,10 +39,13 @@ sections:
       url: https://punggolgreenpri.moe.edu.sg/staff-appreciation-form/
       image: /images/Staff_Appreciation_Form_Img.jpg
       alt: Image alt text
-  - resources:
-      subtitle: Key highlights
   - infobar:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
+  - infopic:
+      title: 2025 PSLE Results Release
+      id: infopic
+      button: More Details
+      url: https://staging-lite.d39haxu07oanx3.amplifyapp.com/files/2025_PSLE_Results_Release_Briefing_Slides.pdf
 ---
