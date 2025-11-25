@@ -19,6 +19,12 @@ sections:
           description: For Others
           url: /for-others
   - infopic:
+      title: 2025 PSLE Results Release
+      id: infopic
+      button: More Details
+      url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
+      image: /images/Screenshot_2025_11_25_145717.png
+  - infopic:
       title: Caring Teacher Award 2026
       id: infopic
       button: More Details
@@ -43,9 +49,4 @@ sections:
       title: School Canteen Advertisement
       button: more information
       url: /school-canteen-advertisement/
-  - infopic:
-      title: 2025 PSLE Results Release
-      id: infopic
-      button: More Details
-      url: https://staging-lite.d39haxu07oanx3.amplifyapp.com/files/2025_PSLE_Results_Release_Briefing_Slides.pdf
 ---
