@@ -13,7 +13,7 @@ variant: markdown
 		<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
 	</tr>
 	<tr>
-		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Hanafi Asmore</td> 
+		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Chua Pei Pei </td> 
 		<td style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Principal</td>
 	</tr>
 	<tr>
