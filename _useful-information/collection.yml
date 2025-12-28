@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - For Parents/Acceptable Use Policy For 2026.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Leave of Absence Application.md
