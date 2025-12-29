@@ -133,7 +133,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Responsibility</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Raudhah Mohamed Amin <br><a href="mailto:XXX">XXX</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Siti Raudhah Mohamed Amin <br><a href="mailto:siti_raudah_mohamed_amin@moe.edu.sg">siti_raudah_mohamed_amin@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Goh Qian Yi <br><a href="mailto:XXX">XXX</a></td>
 	</tr>
 	<tr>
