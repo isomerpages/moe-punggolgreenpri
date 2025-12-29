@@ -178,7 +178,7 @@ variant: markdown
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Teamwork</td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mrs Vanisree Sajjan<br><a href="mailto:vanisree_sajjan@moe.edu.sg">vanisree_sajjan@moe.edu.sg</a></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin<br><a href="mailto:nadira_noordin@moe.edu.sg">nadira_noordin@moe.edu.sg</a><br><br>XXX<br><a href="mailto:XXX">XXX</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nadira Bte Noordin<br><a href="mailto:nadira_noordin@moe.edu.sg">nadira_noordin@moe.edu.sg</a><br><br>Ms Zoe<br><a href="mailto:XXX">XXX</a></td>
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">4 Responsibility</td>
@@ -227,7 +227,7 @@ variant: markdown
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Teamwork</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Muhammad Fadzli<br><a href="mailto:muhammad_fadzli_sahat@moe.edu.sg">muhammad_fadzli_sahat@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Junjie<br><a href="mailto:cai_junjie_a@moe.edu.sg">cai_junjie_a@moe.edu.sg</a><br><br>XXX<br><a href="mailto:XXX">XXX</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Cai Junjie<br><a href="mailto:cai_junjie_a@moe.edu.sg">cai_junjie_a@moe.edu.sg</a><br><br>Mdm Soo Peng<br><a href="mailto:XXX">XXX</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Responsibility</td>
