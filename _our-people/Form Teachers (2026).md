@@ -152,7 +152,7 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maimunah Bte Kadir <br><a href="mailto:maimunah_abdul_kadir@moe.edu.sg">maimunah_abdul_kadir@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*XXX   Assistant Year Head / Middle Pri</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Nur Azimah Binte Syed Hussain   Assistant Year Head / Middle Pri</td>
 	</tr>
 </tbody></table>
 
