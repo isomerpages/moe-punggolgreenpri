@@ -260,7 +260,7 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">XXX<br><a href="mailto:XXX">XXX</a></td>
   </tr>
   <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr He Guo Yuan Desmond    Assistant Year Head / Upper Pri  (Int)</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">XXX    Assistant Year Head / Upper Pri  (Int)</td>
   </tr>
 </tbody></table>
 
@@ -314,6 +314,6 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Rajendran S/O Nagappan<br><a href="mailto:rajendran_nagappan@moe.edu.sg">rajendran_nagappan@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mr Adrian Yeo    Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">XXX    Year Head / Upper Pri</td>
 	</tr>
 </tbody></table>
