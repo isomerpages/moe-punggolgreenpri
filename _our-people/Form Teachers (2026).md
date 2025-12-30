@@ -54,7 +54,7 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sri Rahayu Bte M. Hamim <br><a href="mailto:sri_rahayu_mohamed_hamim@moe.edu.sg">sri_rahayu_mohamed_hamim@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mrs Seah-Koh Wei Ning    Year Head / Lower Primary</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mrs Seah-Koh Wei Ning    Year Head / Lower Primary<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
 	</tr>
 </tbody></table>
 
