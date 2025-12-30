@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - School Leaders.md
       - Executive Committee.md
       - Form Teachers (2026).md
       - Student Wellbeing Support Staff.md
