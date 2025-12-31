@@ -54,9 +54,8 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Sri Rahayu Bte M. Hamim <br><a href="mailto:sri_rahayu_mohamed_hamim@moe.edu.sg">sri_rahayu_mohamed_hamim@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mrs Seah-Koh Wei Ning    Year Head / Lower Primary<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
-	</tr>
-</tbody></table>
+	
+</tr></tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 2</b></p>
 
@@ -108,8 +107,8 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Ms Kay Xiao Yan<br><a href="mailto:kay_xiao_yan@moe.edu.sg">kay_xiao_yan@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*XXX  Assistant Year Head / Lower Primary</td>
-	</tr>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mrs Seah-Koh Wei Ning    Year Head / Lower Primary<br><a href="mailto:koh_wei_ning@moe.edu.sg">koh_wei_ning@moe.edu.sg</a></td>
+	</tr>	
 </tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 3</b></p>
@@ -128,7 +127,7 @@ variant: markdown
 	</tr>
 	<tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">3 Teamwork</td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Nur Azimah Binte Syed Hussain*<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a></td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">*Mdm Nur Azimah Binte Syed Hussain<br><a href="mailto:nur_azimah_syed_hussain@moe.edu.sg">nur_azimah_syed_hussain@moe.edu.sg</a></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafizah Bte Jumaeh<br><a href="mailto:hafizah_jumaeh@moe.edu.sg">hafizah_jumaeh@moe.edu.sg</a></td>
 	</tr>
 	<tr>
@@ -152,7 +151,7 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Maimunah Bte Kadir <br><a href="mailto:maimunah_abdul_kadir@moe.edu.sg">maimunah_abdul_kadir@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Nur Azimah Binte Syed Hussain   Assistant Year Head / Middle Pri</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Nur Azimah Binte Syed Hussain   Assistant Year Head / Lower Primary (P1-P3)</td>
 	</tr>
 </tbody></table>
 
@@ -201,8 +200,8 @@ variant: markdown
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Vijayaseelan<br><a href="mailto:vijayaseelan_narayanasamy@moe.edu.sg">vijayaseelan_narayanasamy@moe.edu.sg</a></td>
 	</tr>
 	<tr>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Lee Peiyan   Year Head / Middle Pri </td>
-	</tr>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Mdm Lee Peiyan   Year Head / Middle Primary<br><a href="mailto:lee_pei_yan@moe.edu.sg">lee_pei_yan@moe.edu.sg</a></td>
+	</tr>	
 </tbody></table>
 
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Primary 5</b></p>
@@ -231,7 +230,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Integrity</td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Khadijah Bte Ab Samat*<br><a href="mailto:khadijah_ab_samat@moe.edu.sg">khadijah_ab_samat@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">*Mdm Khadijah Bte Ab Samat<br><a href="mailto:khadijah_ab_samat@moe.edu.sg">khadijah_ab_samat@moe.edu.sg</a></td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafidzoh Sirri Bte Sajani<br><a href="mailto:hafidzoh_sirri_sajani@moe.edu.sg">hafidzoh_sirri_sajani@moe.edu.sg</a></td>
   </tr>
   <tr>
@@ -250,7 +249,7 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Kwang Yong<br><a href="mailto:kwang_yong@moe.edu.sg">kwang_yong@moe.edu.sg</a></td>
   </tr>
   <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">XXX    Assistant Year Head / Upper Pri  (Int)</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">*Mdm Khadijah Bte Ab Samat    Assistant Year Head / Upper Primary (P4-P6)</td>
   </tr>
 </tbody></table>
 
@@ -304,6 +303,6 @@ variant: markdown
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mr Rajendran S/O Nagappan<br><a href="mailto:rajendran_nagappan@moe.edu.sg">rajendran_nagappan@moe.edu.sg</a></td>
   </tr>
 <tr>
-	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">XXX    Year Head / Upper Pri</td>
+	<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:center" colspan="3">Ms Ruhernie Abu Yamin    Year Head / Upper Primary (Int)<br><a href="mailto:ruhernie_abu_yamin@moe.edu.sg">ruhernie_abu_yamin@moe.edu.sg</a></td>
 	</tr>
 </tbody></table>
