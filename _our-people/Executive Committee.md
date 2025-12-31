@@ -137,7 +137,7 @@ variant: markdown
 		<tr><td>Mdm Nor Aisha Bte Mohd Ismail</td><td>English Language</td></tr>
 		<tr><td>Mdm Siti Nur Hajar Bte Abd Rahman</td><td>English Language</td></tr>
 		<tr><td>Mdm Haryani Bte Ngaingati</td><td>Instructional Mentoring</td></tr>
-		<tr><td>Mdm Kuan Sherrelyyn</td><td>Lower Primary</td></tr>
+		<tr><td>Mdm Kuan Sherrielyn</td><td>Lower Primary</td></tr>
 		<tr><td>Mdm Siti Hajar Bte Mohd Aljuhari</td><td>Learning Support</td></tr>
 		<tr><td>Mdm Siti Ramzah Bte Mohd Parik</td><td>Mathematics</td></tr>
 		<tr><td>Ms Suhaila Bte Mohd Taib</td><td>Mathematics</td></tr>
