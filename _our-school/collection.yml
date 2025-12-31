@@ -2,12 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Principal's Message.md
       - Our Vision, Mission, Values.md
       - School History and Information.md
       - School Crest & Song.md
       - School Rules.md
       - School Core Values STRIVE.md
       - School Mascot.md
-      - School Calendar (Semester 2).md
       - Use of Personal Data.md
