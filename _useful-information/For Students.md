@@ -9,5 +9,5 @@ description: ""
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://workspace.google.com/dashboard">Student iCON (Google Workspace)</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a></li>
     <li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/app/login">MIMs Portal Password Self-Reset (For P5 and P6)</a></li>
-	<li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/files/Useful%20Information/acceptableusepolicyaupfor2026.pdf">Acceptable Use Policy for 2026</a></li>
+	<li><a style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;" target="_blank" href="https://www.punggolgreenpri.moe.edu.sg/files/Useful%20Information/acceptableusepolicyaupfor2026.pdf">Acceptable Use Policy for Technology Use For 2026</a></li>
 </ul>
