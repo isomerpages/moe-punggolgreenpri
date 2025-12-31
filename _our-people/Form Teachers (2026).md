@@ -231,7 +231,7 @@ variant: markdown
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Integrity</td>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">*Mdm Khadijah Bte Ab Samat<br><a href="mailto:khadijah_ab_samat@moe.edu.sg">khadijah_ab_samat@moe.edu.sg</a></td>
-    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafidzoh Sirri Bte Sajani<br><a href="mailto:hafidzoh_sirri_sajani@moe.edu.sg">hafidzoh_sirri_sajani@moe.edu.sg</a></td>
+    <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">Mdm Hafidzoh Sirri Bte Sajani<br><a href="mailto:hafidzoh_sirri_sajani@moe.edu.sg">hafidzoh_sirri_sajani@moe.edu.sg</a><br><br>Mdm Teo Soo Pheng <br><a href="mailto:teo_soo_pheng@moe.edu.sg">teo_soo_pheng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">5 Valour</td>
