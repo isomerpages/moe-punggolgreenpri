@@ -29,13 +29,6 @@ sections:
       title: KEY HIGHLIGHTS
       id: resources
   - infopic:
-      title: Caring Teacher Award 2026
-      id: infopic
-      button: More Details
-      url: https://punggolgreenpri.moe.edu.sg/caring-teacher-award-2026/
-      image: /images/CTA_Poster.jpg
-      alt: Image alt text
-  - infopic:
       title: Announcement for AY2026 P1 Parents
       id: infopic
       url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
