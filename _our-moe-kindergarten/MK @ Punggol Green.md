@@ -4,7 +4,7 @@ permalink: /mk-punggol-green/
 variant: markdown
 description: ""
 ---
-![](/images/Our%20MOE%20Kindergarten/1_Staff_tab_1st_tab.png)
+![MK Staff](/images/Our%20MOE%20Kindergarten/1_Staff_tab_1st_tab1.png)
 
 ![](/images/Our%20MOE%20Kindergarten/2__Staff_tab_1st_tab.png)
 
