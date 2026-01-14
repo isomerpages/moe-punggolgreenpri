@@ -4,3 +4,5 @@ permalink: /open-house-2026/
 variant: tiptap
 description: ""
 ---
+<p><strong>Coming soon....</strong>
+</p>
