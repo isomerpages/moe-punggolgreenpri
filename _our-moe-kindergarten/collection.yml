@@ -2,7 +2,6 @@ collections:
   our-moe-kindergarten:
     output: true
     order:
-      - Open House 2026.md
       - MK @ Punggol Green.md
       - MK Curriculum and Timetable.md
       - Collaboration.md
@@ -12,3 +11,4 @@ collections:
       - Other Information.md
       - Resources for Parents.md
       - MK Forms.md
+      - Open House 2026.md
