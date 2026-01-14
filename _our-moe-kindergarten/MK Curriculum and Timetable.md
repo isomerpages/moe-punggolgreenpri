@@ -15,5 +15,3 @@ variant: markdown
     Click here to watch 'A day in MOE Kindergarten @ Punggol Green!' 
   </a>
 </p>
-
-
