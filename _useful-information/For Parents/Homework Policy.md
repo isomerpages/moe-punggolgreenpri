@@ -5,11 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: For Parents
 ---
-<img src="/images/HWP1.png" style="width:100%"><br> 
-<img src="/images/HWP2.png" style="width:100%"><br>  
-<img src="/images/HWP3.png" style="width:100%"><br>  
-<img src="/images/HWP4.png" style="width:100%"><br> 
-<img src="/images/HWP5.png" style="width:100%"><br>  
-<img src="/images/HWP6.png" style="width:100%"><br>  
-<img src="/images/HWP7.png" style="width:100%"><br>  
-<img src="/images/HWP8.png" style="width:100%"><br>
+<img src="/images/Screenshot_2026_01_20_134043.png" style="width:100%"><br> 
+<img src="/images/HWa.png" style="width:100%"><br> 
+<img src="/images/Hwb.png" style="width:100%"><br> 
+<img src="/images/Hwc.png" style="width:100%"><br> 
+<img src="/images/HW_Policy.png" style="width:100%"><br>
