@@ -26,14 +26,16 @@ We always Counsel with Compassion and always seek to understand the students’ 
 <br>
 <br>
 
-Learn for Life Club Activities <br>
+<strong>Learn for Life Club Activities</strong><br>
 
 Our Learn for Life Club Activities on Fridays incorporate Fun Activities to inculcate Social-Emotional Competencies and Skills to our members! We also had our annual camp at the end of 2025 to mark the end of the year’s programmes and celebrate our students’ Learning and we invited parents to join in some of the games!
-<br>
-<br>
+<br><br>
 
-Peer Support Leader (PSL) Programme  Punggol Green Primary School, the Peer Support Leader (PSL) Programme has been implemented since 2022 to create a safe, caring, and inclusive school environment. Guided by the school’s values and the vision of “Every Student a Peer Supporter”, PSLs look out for the well-being of their peers and promote positive relationships among students.
+<strong>Peer Support Leader (PSL) Programme</strong><br>
 
+Punggol Green Primary School, the Peer Support Leader (PSL) Programme has been implemented since 2022 to create a safe, caring, and inclusive school environment. Guided by the school’s values and the vision of “Every Student a Peer Supporter”, PSLs look out for the well-being of their peers and promote positive relationships among students.
+<br><br>
 Peer Support Leaders provide an additional layer of care in the school community. As peers, they are often the first to notice when someone is feeling upset, left out, or struggling. By stepping in early and alerting trusted adults when needed, PSLs help ensure that timely support is provided.
+
 
 PSLs also play an important role in preventing bullying by being upstanders. They help classmates feel included, discourage unkind behaviour, and seek help from teachers when necessary, helping to keep the school a safe place for everyone.
