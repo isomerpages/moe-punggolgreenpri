@@ -15,7 +15,7 @@ Goal :&nbsp;**Every PGPS Student a Self-Disciplined Student**
 
 Approach : Discipline with Dignity, Counsel with Compassion
 
-<img src="/images/Our%20Curriculum/Student%20Management.png" style="width:75%">
+![](/images/Student_Management.jpg)
 
 
 In Punggol Green Primary School, we practice the culture of mutual respect between the teachers and the students. When we discipline the students, we do not diminish the self-esteem of the students. We focus on correcting the behaviours of the students and not directing our efforts at the students, where their sense of self-worth may be affected. The words and actions we choose must make meaning, always falling back on our School’s values and Students’ Outcomes.
@@ -37,5 +37,3 @@ Peer Support Leader (PSL) Programme  Punggol Green Primary School, the Peer Supp
 Peer Support Leaders provide an additional layer of care in the school community. As peers, they are often the first to notice when someone is feeling upset, left out, or struggling. By stepping in early and alerting trusted adults when needed, PSLs help ensure that timely support is provided.
 
 PSLs also play an important role in preventing bullying by being upstanders. They help classmates feel included, discourage unkind behaviour, and seek help from teachers when necessary, helping to keep the school a safe place for everyone.
-
-
