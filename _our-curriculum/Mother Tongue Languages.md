@@ -61,7 +61,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
     *   MTL Competitions
     ![](/images/Enrichment_Programme5.jpg)<br>
-		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
+		 ![](/images/Enrichment_Programme6.png)
 
 <br>
 
