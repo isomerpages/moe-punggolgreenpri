@@ -75,11 +75,12 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     ![](/images/MTL_Assesstment_for_Learning_Tasks6.jpg)<br>
 		![](/images/MTL_Assesstment_for_Learning_Tasks7.jpg)
     *    Language Week
-    ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek01.jpg)<br>
-		 ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek02.jpg)
-<br>
+   ![](/images/MTL_Assesstment_for_Learning_Tasks8.jpg))<br>
+	![](/images/MTL_Assesstment_for_Learning_Tasks9.jpg)<br>
+	![](/images/MTL_Assesstment_for_Learning_Tasks10.jpg)
        
   *   Caring Citizens
       *    Experiential Learning
    ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning01.jpg)<br>
- ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
+   ![](/images/MTL_Assesstment_for_Learning_Tasks12.jpg)<br>
+	 ![](/images/MTL_Assesstment_for_Learning_Tasks13.jpg)
