@@ -49,15 +49,13 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
 *   Self-Directed Learners
     * PGPS MTL Voice 21 Enrichment Programme
-    ![](/images/Our%20Curriculum/MTL2024/MTLVoice2101.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLVoice2102.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLVoice2103.jpg)
-
+    ![](/images/Enrichment_Programme.jpg)<br>
+	  ![](/images/MTL_Assesstment_for_Learning_Tasks.jpg)
 
     * MTL Assessment for Learning Tasks	
-    ![](/images/Our%20Curriculum/MTL2024/MTLAFL01.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLAFL02.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLAFL03.jpg)
+   ![](/images/MTL_Assesstment_for_Learning_Tasks2.jpg)<br>
+	 ![](/images/MTL_Assesstment_for_Learning_Tasks3.jpg)<br>
+
 
 
 <br>
