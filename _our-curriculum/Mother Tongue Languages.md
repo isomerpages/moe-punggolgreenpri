@@ -75,7 +75,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 	 ![](/images/Enrichment_Programme11.jpg)
        
   *   Caring Citizens
-      *    Experiential Learning
+      *   Experiential Learning
  ![](/images/Enrichment_Programme12.jpg)<br>
  ![](/images/Enrichment_Programme13.jpg)<br>
  ![](/images/Enrichment_Programme14.jpg)
