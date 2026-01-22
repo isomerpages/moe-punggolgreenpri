@@ -14,9 +14,8 @@ The purpose of learning MTL at primary school is to equip our students with lite
 
 The 3 MTL subjects offered at PGPS are Chinese Language, Malay Language and Tamil Language. At the end of Primary 6, students are expected to have a sound foundation in listening, speaking, reading and writing MTL, coupled with interaction skills that would enable them to use MTL for communication in their daily life. 
 
-  
-
 For lower primary students and students who need more support in MTL, the learning of oracy will precede the learning of reading and writing. For students at the higher levels and students with a stronger foundation in MTL, learning proceed from reading to oracy and writing. Students are provided with opportunities to progress to different levels of achievement during their primary school years.
+
 
 ![](/images/Our%20Curriculum/MTL%202.jpg)
 
@@ -25,11 +24,13 @@ For lower primary students and students who need more support in MTL, the learni
 
 In alignment with the school’s direction, the mission of the PGPS MTL Department is to <font color="#538135" size="5">curate MTL experiences that are relevant, fun and integrated</font>. 
 
+![](/images/Our%20Curriculum/MTL_Mission.jpg)
+
 MTL teachers make intentional efforts to ignite the Joy of Learning (JOL), leverage on EdTech to enhance the effectiveness and efficiency of MTL learning, and integrate MTL with the Emerging 21st Century Competencies (E21CC).
 
-At the Orientation Stage (Primary 1 and 2), MTL teachers focus on arousing students’ interest and inculcating good learning habits. At the Exploration Stage (Primary 3 and 4), students are exposed to a variety of MTL activities that allow them to discover and pursue their interests. At the Mastery Stage (Primary 5 and 6), MTL teachers empower students to apply MTL within and beyond the classroom with confidence.  
+At the Orientation Stage (Primary 1 and 2), MTL teachers focus on arousing students’ interest and inculcating good learning habits. At the Exploration Stage (Primary 3 and 4), students are exposed to a variety of MTL activities that allow them to discover and pursue their interests. At the Mastery Stage (Primary 5 and 6), MTL teachers empower students to apply MTL within and beyond the classroom with confidence.
 
-![](/images/Our%20Curriculum/MTL_Mission.jpg)
+
 
 ![](/images/Our%20Curriculum/MTL%205.png)
 
@@ -48,15 +49,13 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
 *   Self-Directed Learners
     * PGPS MTL Voice 21 Enrichment Programme
-    ![](/images/Our%20Curriculum/MTL2024/MTLVoice2101.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLVoice2102.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLVoice2103.jpg)
-
+    ![](/images/Enrichment_Programme.jpg)<br>
+	  ![](/images/MTL_Assesstment_for_Learning_Tasks.jpg)
 
     * MTL Assessment for Learning Tasks	
-    ![](/images/Our%20Curriculum/MTL2024/MTLAFL01.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLAFL02.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLAFL03.jpg)
+   ![](/images/MTL_Assesstment_for_Learning_Tasks2.jpg)<br>
+	 ![](/images/MTL_Assesstment_for_Learning_Tasks3.jpg)<br>
+
 
 
 <br>
@@ -64,7 +63,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 *   Confident Leaders
 
     *   MTL Competitions
-    ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions01.jpg)<br>
+   ![](/images/MTL_Assesstment_for_Learning_Tasks4.jpg)<br>
 		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
 
 <br>
@@ -73,8 +72,8 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
     *    Reading Programme
     
-    ![](/images/Our%20Curriculum/MTL2024/MTLReadingProgramme01.jpg)<br>
-		![](/images/Our%20Curriculum/MTL2024/MTLReadingProgramme02.jpg)
+    ![](/images/MTL_Assesstment_for_Learning_Tasks6.jpg)<br>
+		![](/images/MTL_Assesstment_for_Learning_Tasks7.jpg)
     *    Language Week
     ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek01.jpg)<br>
 		 ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek02.jpg)
