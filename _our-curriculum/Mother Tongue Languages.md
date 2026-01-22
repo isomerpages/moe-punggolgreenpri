@@ -68,13 +68,12 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 *   Innovative Collaborators
 
     *    Reading Programme
-    
-    ![](/images/Enrichment_Programme7.jpg)<br>
-		![](/images/Enrichment_Programme8.jpg)
+       ![](/images/Enrichment_Programme7.jpg)<br>
+		   ![](/images/Enrichment_Programme8.jpg)
     *    Language Week
     ![](/images/Enrichment_Programme9.jpg)<br>
-	![](/images/Enrichment_Programme10.jpg)<br>
-	![](/images/MTL_Assesstment_for_Learning_Tasks10.jpg)
+	 ![](/images/Enrichment_Programme10.jpg)<br>
+	 ![](/images/Enrichment_Programme11.jpg)
        
   *   Caring Citizens
       *    Experiential Learning
