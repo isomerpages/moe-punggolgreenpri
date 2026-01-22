@@ -69,7 +69,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
     *    Reading Programme
     
-    ![](/images/MTL_Assesstment_for_Learning_Tasks6.jpg)<br>
+    ![](/images/Enrichment_Programme7.jpg)<br>
 		![](/images/MTL_Assesstment_for_Learning_Tasks7.jpg)
     *    Language Week
     ![](/images/MTL_Assesstment_for_Learning_Tasks8.jpg))<br>
