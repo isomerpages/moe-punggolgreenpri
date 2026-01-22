@@ -60,7 +60,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 *   Confident Leaders
 
     *   MTL Competitions
-    ![](/images/MTL_Assesstment_for_Learning_Tasks4.jpg)<br>
+    ![](/images/Enrichment_Programme5.jpg)<br>
 		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
 
 <br>
