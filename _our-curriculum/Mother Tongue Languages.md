@@ -16,7 +16,6 @@ The 3 MTL subjects offered at PGPS are Chinese Language, Malay Language and Tami
 
 For lower primary students and students who need more support in MTL, the learning of oracy will precede the learning of reading and writing. For students at the higher levels and students with a stronger foundation in MTL, learning proceed from reading to oracy and writing. Students are provided with opportunities to progress to different levels of achievement during their primary school years.
 
-
 ![](/images/Our%20Curriculum/MTL%202.jpg)
 
 **<font size="5"><u>Mission and Stage Outcomes</u></font>**
@@ -53,17 +52,15 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 	  ![](/images/MTL_Assesstment_for_Learning_Tasks.jpg)
 
     * MTL Assessment for Learning Tasks	
-   ![](/images/MTL_Assesstment_for_Learning_Tasks2.jpg)<br>
+    ![](/images/MTL_Assesstment_for_Learning_Tasks2.jpg)<br>
 	 ![](/images/MTL_Assesstment_for_Learning_Tasks3.jpg)<br>
-
-
 
 <br>
 
 *   Confident Leaders
 
     *   MTL Competitions
-   ![](/images/MTL_Assesstment_for_Learning_Tasks4.jpg)<br>
+    ![](/images/MTL_Assesstment_for_Learning_Tasks4.jpg)<br>
 		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
 
 <br>
@@ -75,7 +72,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     ![](/images/MTL_Assesstment_for_Learning_Tasks6.jpg)<br>
 		![](/images/MTL_Assesstment_for_Learning_Tasks7.jpg)
     *    Language Week
-   ![](/images/MTL_Assesstment_for_Learning_Tasks8.jpg))<br>
+    ![](/images/MTL_Assesstment_for_Learning_Tasks8.jpg))<br>
 	![](/images/MTL_Assesstment_for_Learning_Tasks9.jpg)<br>
 	![](/images/MTL_Assesstment_for_Learning_Tasks10.jpg)
        
