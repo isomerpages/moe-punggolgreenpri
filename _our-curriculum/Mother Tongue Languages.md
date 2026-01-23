@@ -54,7 +54,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     * MTL Assessment for Learning Tasks	
     ![](/images/Enrichment_Programme3.jpg)<br>
 	![](/images/Enrichment_Programme4.jpg)<br>
-<br>
+
 
 *   Confident Leaders
 
@@ -73,7 +73,7 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
     ![](/images/Enrichment_Programme9.jpg)<br>
 	 ![](/images/Enrichment_Programme10.jpg)<br>
 	 ![](/images/Enrichment_Programme11.jpg)
-       
+      <br>
   *   Caring Citizens
       *   Experiential Learning
  ![](/images/Enrichment_Programme12.jpg)<br>
