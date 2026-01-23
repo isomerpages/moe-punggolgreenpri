@@ -42,7 +42,7 @@ variant: markdown
 
 </b></p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;"><b>
   2026 Sexuality Education Lessons in CCE 2021
-</b></div><b>
+</b></div>
 
 
 <p style="text-align:center; font-weight:bold; font-size:22px;">
@@ -138,4 +138,4 @@ variant: markdown
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 27/02/2026.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@moe.edu.sg</a> (Mdm Cai Aimei  / HOD Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
-</b></ol>
+</ol>
