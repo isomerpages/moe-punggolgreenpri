@@ -46,7 +46,7 @@ variant: markdown
 <b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</b></p>
    </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a>  for more information on the scope of Sexuality Education in the school curriculum.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The subjects that incorporate topics on sexuality include:
-      <ul>
+        <ul style="margin-top:0;">
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Science</li>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Character and Citizenship Education (CCE)</li>
       </ul>
