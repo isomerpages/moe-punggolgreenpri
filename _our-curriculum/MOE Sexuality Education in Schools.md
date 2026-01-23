@@ -9,7 +9,7 @@ variant: markdown
     Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
   </li>
 
-  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;margin-bottom:0;">
+  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;margin-bottom:16px;">
     The <b>Goals</b> of Sexuality Education are:
     <ul style="margin-top:0;margin-bottom:0;">
       <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
@@ -24,7 +24,7 @@ variant: markdown
     </ul>
   </li>
 
-  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;margin-top:0;">
+  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">
     The <b>Key Messages</b> of Sexuality Education are:
     <ul style="margin-top:0;margin-bottom:0;">
       <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
@@ -40,6 +40,8 @@ variant: markdown
         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
       </li>
     </ul>
+
+
 
 
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a>  for more information on MOE Sexuality Education.<br><br>
