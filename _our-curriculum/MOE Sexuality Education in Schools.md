@@ -60,7 +60,7 @@ variant: markdown
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="display:block; margin:0 auto; width:150px;">
 </b></p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;"><b>
   2026 Sexuality Education Lessons in CCE 2021
-</b></div>\
+</b></div>
 <p style="text-align:center; font-weight:bold; font-size:22px;">
   Primary 5
 </p>
