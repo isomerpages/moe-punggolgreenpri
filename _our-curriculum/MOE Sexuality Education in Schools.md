@@ -5,78 +5,40 @@ description: ""
 variant: markdown
 ---
 <ol>
-  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">
-    Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-  </li>
-
-  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;margin-bottom:0;">
-    The <b>Goals</b> of Sexuality Education are:
-    <ul style="margin-top:0;margin-bottom:0;">
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
-      </li>
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Guide students to make wise, informed and responsible decisions on sexuality matters.
-      </li>
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
-      </li>
-    </ul>
-  </li>
-
-  <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;margin-top:0;">
-    The <b>Key Messages</b> of Sexuality Education are:
-    <ul style="margin-top:0;margin-bottom:0;">
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Love and respect yourself as you love and respect others;
-      </li>
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Build positive relationships based on love and respect (which are the foundation for strong families);
-      </li>
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Make responsible decisions for yourself, your family and society; and
-      </li>
-      <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type:lower-alpha;margin-bottom:0;">
-        Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-      </li>
-    </ul>
-  </li>
-</ol>
-
-
-<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">
-  You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.
-  <br><br>
-  <b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</b>
-</p>
-
-
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The <b>Goals</b> of Sexuality Education are:</li>
+      <ul>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. </li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Guide students to make wise, informed and responsible decisions on sexuality matters. </li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li>
+      </ul>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The <b>Key Messages</b> of Sexuality Education are:
+      <ul>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Love and respect yourself as you love and respect others;</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Make responsible decisions for yourself, your family and society; and</li>
+         <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+      </ul>
+<p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> (https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br><br>
+<b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</b></p>
+   </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> (https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The subjects that incorporate topics on sexuality include:
       <ul>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Science</li>
          <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Character and Citizenship Education (CCE)</li>
       </ul>
-
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;"><b><u>Sexuality Education Lessons:</u></b></p>
-
    </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. </li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. </li>
   
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;"><b>At Punggol Green Primary School, the following Sexuality Education lessons will be taught in 2026:<br><br>
-
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="display:block; margin:0 auto; width:150px;">
-
 </b></p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;"><b>
   2026 Sexuality Education Lessons in CCE 2021
-</b></div>
-
-
+</b></div>\
 <p style="text-align:center; font-weight:bold; font-size:22px;">
   Primary 5
 </p>
-
-
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
 <col style="width: 155px">
@@ -112,23 +74,14 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;">
-
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="display:block; margin:0 auto; width:150px;">
-
 </p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;">
   2026 Sexuality Education Lessons in CCE 2021
 </div>
-
-
-
-
 <p style="text-align:center; font-weight:bold; font-size:22px;">
   Primary 6
 </p>
-
-
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
 <col style="width: 155px">
@@ -158,10 +111,8 @@ variant: markdown
   </tr> 
 </tbody>
 </table>
-
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;"><b>Information for Parents</b></p>
-
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
-
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a>. The completed opt-out form is to be submitted by 27/02/2026.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 27/02/2026.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@moe.edu.sg</a> (Mdm Cai Aimei  / HOD Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
+</ol>
