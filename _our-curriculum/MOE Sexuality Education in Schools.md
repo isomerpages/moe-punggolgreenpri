@@ -38,10 +38,17 @@ variant: markdown
   
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;"><b>At Punggol Green Primary School, the following Sexuality Education lessons will be taught in 2026:<br><br>
 
-<img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
-2026 Sexuality Education Lessons in CCE 2021<br><br>
+<img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="display:block; margin:0 auto; width:150px;">
 
-Primary 5</b></p>
+</b></p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;"><b>
+  2026 Sexuality Education Lessons in CCE 2021
+</b></div><b>
+
+
+<p style="text-align:center; font-weight:bold; font-size:22px;">
+  Primary 5
+</p>
+
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
@@ -81,11 +88,19 @@ Primary 5</b></p>
 
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;">
 
-<img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
+<img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="display:block; margin:0 auto; width:150px;">
 
-<b>2026 Sexuality Education Lessons in CCE 2021<br><br>
+</p><div style="text-align:center; font-weight:bold; font-size:20px; margin-top:12px;">
+  2026 Sexuality Education Lessons in CCE 2021
+</div>
 
-Primary 6</b></p>
+
+
+
+<p style="text-align:center; font-weight:bold; font-size:22px;">
+  Primary 6
+</p>
+
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:780px">
 <colgroup>
@@ -123,4 +138,4 @@ Primary 6</b></p>
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 27/02/2026.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@moe.edu.sg</a> (Mdm Cai Aimei  / HOD Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
-</ol>
+</b></ol>
