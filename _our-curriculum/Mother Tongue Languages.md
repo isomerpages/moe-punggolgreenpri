@@ -16,7 +16,6 @@ The 3 MTL subjects offered at PGPS are Chinese Language, Malay Language and Tami
 
 For lower primary students and students who need more support in MTL, the learning of oracy will precede the learning of reading and writing. For students at the higher levels and students with a stronger foundation in MTL, learning proceed from reading to oracy and writing. Students are provided with opportunities to progress to different levels of achievement during their primary school years.
 
-
 ![](/images/Our%20Curriculum/MTL%202.jpg)
 
 **<font size="5"><u>Mission and Stage Outcomes</u></font>**
@@ -49,37 +48,34 @@ PGPS students are exposed to a wide variety of MTL programmes that are aligned w
 
 *   Self-Directed Learners
     * PGPS MTL Voice 21 Enrichment Programme
-    ![](/images/Enrichment_Programme.jpg)<br>
-	  ![](/images/MTL_Assesstment_for_Learning_Tasks.jpg)
+    ![](/images/Enrichment_Programme1.jpg)<br>
+    ![](/images/Enrichment_Programme2.jpg)
 
     * MTL Assessment for Learning Tasks	
-   ![](/images/MTL_Assesstment_for_Learning_Tasks2.jpg)<br>
-	 ![](/images/MTL_Assesstment_for_Learning_Tasks3.jpg)<br>
+    ![](/images/Enrichment_Programme3.jpg)<br>
+	![](/images/Enrichment_Programme4.jpg)<br>
 
-
-
-<br>
 
 *   Confident Leaders
 
     *   MTL Competitions
-   ![](/images/MTL_Assesstment_for_Learning_Tasks4.jpg)<br>
-		 ![](/images/Our%20Curriculum/MTL2024/MTLCompetitions02.jpg)
+    ![](/images/Enrichment_Programme5.jpg)<br>
+		 ![](/images/Enrichment_Programme6.png)
 
 <br>
 
 *   Innovative Collaborators
 
-    *    Reading Programme
-    
-    ![](/images/MTL_Assesstment_for_Learning_Tasks6.jpg)<br>
-		![](/images/MTL_Assesstment_for_Learning_Tasks7.jpg)
-    *    Language Week
-    ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek01.jpg)<br>
-		 ![](/images/Our%20Curriculum/MTL2024/MTLLanguageWeek02.jpg)
-<br>
-       
+    *   Reading Programme
+       ![](/images/Enrichment_Programme7.jpg)<br>
+		   ![](/images/Enrichment_Programme8.jpg)
+    *   Language Week
+    ![](/images/Enrichment_Programme9.jpg)<br>
+	 ![](/images/Enrichment_Programme10.jpg)<br>
+	 ![](/images/Enrichment_Programme11.jpg)
+      <br>
   *   Caring Citizens
-      *    Experiential Learning
-   ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning01.jpg)<br>
- ![](/images/Our%20Curriculum/MTL2024/MTLExperientialLearning02.jpg)
+      *   Experiential Learning
+ ![](/images/Enrichment_Programme12.jpg)<br>
+ ![](/images/Enrichment_Programme13.jpg)<br>
+ ![](/images/Enrichment_Programme14.jpg)
