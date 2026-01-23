@@ -22,7 +22,7 @@ variant: markdown
 
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> (https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br><br>
 
-<b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</b></p>
+<b>OVERVIEW OF PUNGGOL GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</b></p>
 
    </li><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> (https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.</li>
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">The subjects that incorporate topics on sexuality include:
@@ -39,7 +39,7 @@ variant: markdown
 <p style="line-height:1.3;font-family:arial;font-size:16px;text-align:center;"><b>At Punggol Green Primary School, the following Sexuality Education lessons will be taught in 2025:<br><br>
 
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
-2025 Sexuality Education Lessons in CCE 2021<br><br>
+2026 Sexuality Education Lessons in CCE 2021<br><br>
 
 Primary 5</b></p>
 
@@ -83,7 +83,7 @@ Primary 5</b></p>
 
 <img src="/images/Our%20Curriculum/MOE_Logo.jpg" style="text-align:center;width:150px;">
 
-<b>2025 Sexuality Education Lessons in CCE 2021<br><br>
+<b>2026 Sexuality Education Lessons in CCE 2021<br><br>
 
 Primary 6</b></p>
 
@@ -121,6 +121,6 @@ Primary 6</b></p>
 
    <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 28/02/2025.</li>
-   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@schools.gov.sg</a> (Mdm Cai Aimei  / HOD Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/pgps-parent-opt-out-form">here</a> (https://go.gov.sg/pgps-parent-opt-out-form). The completed opt-out form is to be submitted by 27/02/2026.</li>
+   <li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;">Parents can contact the school at <a href="mailto:cai_aimei@schools.gov.sg">cai_aimei@moe.edu.sg</a> (Mdm Cai Aimei  / HOD Character and Citizenship Education) for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
