@@ -20,7 +20,7 @@ third_nav_title: For Parents
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in any activity conducted by the abovementioned student care centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the student care centre, in Singapore, or elsewhere; and </li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">In the KCare Centre associated with his or her MOE Kindergarten located in his or her school; and</li>
 	<li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify;list-style-type: lower-alpha;">Participating in any activity conducted by the abovementioned KCare Centre, regardless of the time at which such activity is conducted and whether the activity is conducted in the KCare Centre, in Singapore, or elsewhere.</li></ol>
-<p>For more details on the insurance coverage, please click <a href="(https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students)">here</a>. </p>
+<p>For more details on the insurance coverage, please click <a href="[https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students]()">here</a>. </p>
 <p><u><b>Claim Procedures</b></u></p>
 <p><u>New Claim Submission </u></p>
 <ol><li style="line-height:1.3;font-family:arial;font-size:16px;text-align:justify; list-style-type: numeric">Go to Income Insurance’s GPA portal at <a>https://studentgpa.incomegroupins.com.sg</a></li>
