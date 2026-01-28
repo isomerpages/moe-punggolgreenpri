@@ -12,11 +12,10 @@ variant: markdown
     </tr>
     <tr><td>Ms Meredith Chiow</td><td>Administrative Manager</td></tr>
     <tr><td>Ms Aloysia Ang</td><td>Admin Executive</td></tr>
-    <tr><td>Ms Rachel Low</td><td>Admin Executive (MK)</td></tr>
+    
     <tr><td>Mdm Sherina Jaffar</td><td>Corporate Support Officer</td></tr>
-    <tr><td>Mdm Dwie Indah</td><td>Corporate Support Officer</td></tr>
-    <tr><td>Mdm Oong Ai Ing Irene</td><td>Corporate Support Officer</td></tr>
-</tbody></table>
+    <tr><td>Mdm Dwie Indah</td><td>Corporate Support 
+</td></tr></tbody></table>
 
 <br>
 
