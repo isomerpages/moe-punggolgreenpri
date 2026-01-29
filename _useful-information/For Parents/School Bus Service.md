@@ -8,10 +8,52 @@ third_nav_title: For Parents
 BT&amp;Tan Transport Pte Ltd <br>
 Contact Number: 6483 7260
 
-**Bus fares applicable from 1 January 2026 to 31 December 2027:**
+<p><strong>Bus fares applicable from 1 January 2026 to 31 December 2027:</strong></p>
 
-|     Distance       |     Up to 15-seater     |              |     &gt;15-seater     |              |
-|--------------------|-------------------------|--------------|--------------------|--------------|
-|                    |     1 way               |     2 way    |     1 way          |     2 way    |
-|     Up to 2km      |     $180                |     $220     |     $150           |     $180     |
-|     &gt;2 – 4km       |     $200                |     $240     |     $180           |     $210    |
+<table width="100%" cellspacing="0" cellpadding="8" border="1">
+  <tbody><tr>
+    <th></th>
+    <th colspan="2">Up to 15 seater</th>
+    <th colspan="2">&gt;15 seater</th>
+  </tr>
+  <tr>
+    <th>Distance</th>
+    <th>1 way</th>
+    <th>2 way</th>
+    <th>1 way</th>
+    <th>2 way</th>
+  </tr>
+  <tr>
+    <td>Up to 2km</td>
+    <td>$180</td>
+    <td>$220</td>
+    <td>$150</td>
+    <td>$180</td>
+  </tr>
+  <tr>
+    <td>&gt;2 – 4km</td>
+    <td>$200</td>
+    <td>$240</td>
+    <td>$180</td>
+    <td>$210</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
