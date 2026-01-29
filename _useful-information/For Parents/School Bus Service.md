@@ -8,10 +8,42 @@ third_nav_title: For Parents
 BT&amp;Tan Transport Pte Ltd <br>
 Contact Number: 6483 7260
 
-**Bus fares applicable from 1 January 2024 to 31 December 2025:**
+<p><strong>Bus fares applicable from 1 January 2026 to 31 December 2027:</strong></p>
 
-|     Distance       |     Up to 15-seater     |              |     &gt;15-seater     |              |
-|--------------------|-------------------------|--------------|--------------------|--------------|
-|                    |     1 way               |     2 way    |     1 way          |     2 way    |
-|     Up to 2km      |     $160                |     $200     |     $130           |     $160     |
-|     &gt;2 – 4km       |     $180                |     $220     |     $160           |     $190     |
+<table style="border-collapse:collapse; border:1px solid #000;" width="100%" cellspacing="0" cellpadding="8">
+  
+  <tbody><tr>
+    <th style="border:1px solid #000; text-align:left;" rowspan="2">
+      Distance
+    </th>
+    <th style="border:1px solid #000; text-align:left;" colspan="2">
+      Up to 15 seater
+    </th>
+    <th style="border:1px solid #000; text-align:left;" colspan="2">
+      &gt;15 seater
+    </th>
+  </tr>
+
+  <tr>
+    <th style="border:1px solid #000; text-align:left;">1 way</th>
+    <th style="border:1px solid #000; text-align:left;">2 way</th>
+    <th style="border:1px solid #000; text-align:left;">1 way</th>
+    <th style="border:1px solid #000; text-align:left;">2 way</th>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #000;">Up to 2km</td>
+    <td style="border:1px solid #000;">$180</td>
+    <td style="border:1px solid #000;">$220</td>
+    <td style="border:1px solid #000;">$150</td>
+    <td style="border:1px solid #000;">$180</td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #000;">&gt;2 – 4km</td>
+    <td style="border:1px solid #000;">$200</td>
+    <td style="border:1px solid #000;">$240</td>
+    <td style="border:1px solid #000;">$180</td>
+    <td style="border:1px solid #000;">$210</td>
+  </tr>
+</tbody></table>
