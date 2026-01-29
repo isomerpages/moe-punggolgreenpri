@@ -8,7 +8,7 @@ third_nav_title: For Parents
 BT&amp;Tan Transport Pte Ltd <br>
 Contact Number: 6483 7260
 
-**Bus fares applicable from 1 January 2024 to 31 December 2025:**
+**Bus fares applicable from 1 January 2026 to 31 December 2027:**
 
 |     Distance       |     Up to 15-seater     |              |     &gt;15-seater     |              |
 |--------------------|-------------------------|--------------|--------------------|--------------|
