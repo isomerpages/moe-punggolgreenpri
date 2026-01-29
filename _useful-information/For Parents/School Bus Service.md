@@ -47,5 +47,3 @@ Contact Number: 6483 7260
     <td style="border:1px solid #000;">$210</td>
   </tr>
 </tbody></table>
-
-
