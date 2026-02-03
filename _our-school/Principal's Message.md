@@ -28,4 +28,3 @@ growth and lasting joy for every member of our school family.</p>
 <p>For further details on our community life, you can explore the Punggol
 Green Primary School website.</p>
 <p>Mdm Chua Pei Pei</p>
-<p>Principal</p>
