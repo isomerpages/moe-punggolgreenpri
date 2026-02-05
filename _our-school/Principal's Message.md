@@ -9,6 +9,6 @@ description: ""
 <p>Our identity is shaped by our school’s core values of Self-Discipline, Teamwork, Responsibility, Integrity, Valour and Empathy. We strive to nurture students who are not only eager to learn but are also compassionate individuals who choose to do the right thing even when no one is watching. Our vision : <b>Future-Ready Leaders With The Heart For Others</b> is a promise to provide a safe and joyful space where children can discover their potential and grow into leaders who care deeply for the world around them.</p>
 <p>This journey is a shared one, fueled by the dedication of our teachers and the vital partnership of our parents. We invite families to walk alongside us with trust and mutual respect, keeping our common goal at heart: the well-being and growth of your children. Together, by turning small acts of excellence into daily habits, we can ensure that 2026 is a year of meaningful growth and lasting joy for every member of our school family.</p>
 <p>For further details on our community life, please explore the&nbsp;Punggol Green Primary School website.</p><br>
-Warmest regards <br><br> 
+Warmest regards, <br><br> 
 Mdm Chua Pei Pei<br>
 Principal
