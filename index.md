@@ -18,23 +18,9 @@ sections:
         - title: Useful Information
           description: For Others
           url: /for-others
-  - infopic:
-      title: 2025 PSLE Results Release
-      id: infopic
-      button: More Details
-      url: https://www.punggolgreenpri.moe.edu.sg/files/2025_PSLE_Results_Release_Briefing_Slides.pdf
-      image: /images/Screenshot_2025_11_25_145717.png
-      alt: 2025 PSLE Results Release
   - resources:
       title: KEY HIGHLIGHTS
       id: resources
-  - infopic:
-      title: Announcement for AY2026 P1 Parents
-      id: infopic
-      url: https://sites.google.com/moe.edu.sg/pgpsfirststeps
-      image: /images/e_Banner_for_PGPS_School_Website__AY2026_P1_.png
-      alt: Image alt text
-      button: More details
   - infopic:
       title: Staff Appreciation Form
       id: infopic
