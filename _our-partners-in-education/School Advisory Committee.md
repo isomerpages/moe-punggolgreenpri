@@ -4,4 +4,4 @@ permalink: /school-advisory-committee/
 variant: markdown
 description: ""
 ---
-![](/images/PSG.png)
+![](/images/PSG_Photos.png)
