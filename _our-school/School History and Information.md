@@ -6,8 +6,8 @@ variant: markdown
 ---
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;">
 	<b>Background</b><br><br>
-	Punggol Green Primary School is a newly built school that serves the Punggol West community in 2013. It is located at 98 Punggol Walk, next to Punggol Sapphire and Punggol Ripples. The school is built under the new norms to support the Primary Education Review &amp; Implementation (PERI) Committee’s recommendations to enhance primary school education.<br><br>
-Punggol Green Primary School began its operations in 2013 under the leadership of Mrs. Seah Lay Tin, former principal of Ang Mo Kio Primary School. In 2019, Mr Hanafi B Asmore, former Principal of Punggol Primary School, took over Mrs Seah to become the second Principal of Punggol Green Primary School. As an educator, Mr Hanafi firmly believes that every child can learn and excel and has interests and talents. He also takes a broader definition of success. With this strong belief, he is committed to maximising the potential of each and every pupil.</p>
+	Punggol Green Primary School is a newly built school that serves the Punggol West community. It is located at 98 Punggol Walk, next to Punggol Sapphire and Punggol Ripples. The school is built under the new norms to support the Primary Education Review &amp; Implementation (PERI) Committee’s recommendations to enhance primary school education.<br><br>
+Punggol Green Primary School began its operations in 2013 under the leadership of Mrs. Seah Lay Tin, former principal of Ang Mo Kio Primary School. In 2019, Mr Hanafi B Asmore, former Principal of Punggol Primary School, succeeded her as the school’s second Principal.<br><br>In 2026, Mdm Chua was appointed as the third Principal of Punggol Green Primary School. As an educator, Mdm Chua champions the 'Power of Yet' and the belief that every student can succeed through resilience and a growth mindset. She views challenges not as obstacles, but as essential opportunities to strengthen our abilities. By embracing the idea that mastery is a journey of persistence, she hopes to empower our learners to turn 'I can't' into 'I can't yet.' Mdm Chua firmly believes that that every child can flourish with heart and determination, nurtured in a safe and joyful community into future-ready leaders with a heart for others. </p>
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:justify;"><b>Basic Information</b></p>
 
@@ -50,7 +50,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
    </tbody>
 </table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Curriculum Time 2025 (P1 - P6)</b></p>
+<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>School Curriculum Time 2026 (P1 - P6)</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
    <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
@@ -62,7 +62,7 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
    </thead>
 </table>
 
-<p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Recess Timings for 2025</b></p>
+<p style="line-height: 1.1; font-size:16px; font-family:Arial; text-align:justify;"><b>Recess Timings for 2026</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
    <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
@@ -96,14 +96,11 @@ Punggol Green Primary School began its operations in 2013 under the leadership o
       <tr>
          <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal" colspan="2">There will be a 10-minute snack break from Monday to Friday.</td>
       </tr>
-      <tr>
-         <td style="background-color:#FFF;font-family:Arial;font-size:16px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal" colspan="2">*P3 and P5 recess timings will be swapped on Fridays for Term 1 due to the the P3 swimsafer programme.</td>
-      </tr>
-   </tbody>
+      </tbody>
 </table>
 
 
-<p style="line-height: 1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2025</b></p>
+<p style="line-height: 1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Dismissal Timings for 2026</b></p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
    <thead>
