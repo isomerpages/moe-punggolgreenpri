@@ -14,8 +14,8 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:#E8EDFF; border:1px solid #000; padding:12px; text-align:center; font-size:14px;">
-      <a href="https://go.gov.sg/mkpgwaitlist25">
-        https://go.gov.sg/mkpgwaitlist25
+      <a href="https://go.gov.sg/mkpgwaitlist26">
+        https://go.gov.sg/mkpgwaitlist26
       </a>
     </td>
   </tr>
@@ -102,5 +102,3 @@ variant: markdown
   </tr>
 
 </tbody></table>
-
-
