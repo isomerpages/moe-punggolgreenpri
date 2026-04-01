@@ -21,7 +21,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:#E8EDFF; border:1px solid #000; padding:15px; text-align:center;">
-      <img style="width:200px; height:auto;" alt="Waitlist QR Code" src="/images/Our%20MOE%20Kindergarten/waitlist.png">
+      <img style="width:200px; height:auto;" alt="Waitlist QR Code" src="/images/https___go_gov_sg_pgpsmk.png">
     </td>
   </tr>
 
