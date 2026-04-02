@@ -14,14 +14,14 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:#E8EDFF; border:1px solid #000; padding:12px; text-align:center; font-size:14px;">
-      <a href="https://go.gov.sg/mkpgwaitlist25">
-        https://go.gov.sg/mkpgwaitlist25
+      <a href="https://go.gov.sg/mkpgwaitlist26">
+        https://go.gov.sg/mkpgwaitlist26
       </a>
     </td>
   </tr>
   <tr>
     <td style="background-color:#E8EDFF; border:1px solid #000; padding:15px; text-align:center;">
-      <img style="width:200px; height:auto;" alt="Waitlist QR Code" src="/images/Our%20MOE%20Kindergarten/waitlist.png">
+      <img style="width:200px; height:auto;" alt="Waitlist QR Code" src="/images/go_gov_sg_pgpsmk.png">
     </td>
   </tr>
 
@@ -102,5 +102,3 @@ variant: markdown
   </tr>
 
 </tbody></table>
-
-
