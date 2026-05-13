@@ -45,7 +45,7 @@ CCA is strongly encouraged for students at PGPS. Students can choose from any of
 	</tr>
 <tr>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom:2px solid #0d0d0d;"></td>
-		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;">Strings Ensemble</td>
+		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"> </td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;; border-right: 2px solid #0d0d0d; border-left: 2px solid #0d0d0d;border-bottom: 2px solid #0d0d0d;"></td>
 		<td style="padding:10px 5px; vertical-align:middle; line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;border-bottom: 2px solid #0d0d0d; border-right: 2px solid #0d0d0d; border-left: none;"></td>
 	</tr>
