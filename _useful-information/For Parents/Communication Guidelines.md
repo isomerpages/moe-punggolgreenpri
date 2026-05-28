@@ -30,6 +30,10 @@ third_nav_title: For Parents
             <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">School Email</td>
             <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">admin_punggolgreen_ps@moe.edu.sg</td>
         </tr>
+<tr>
+            <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">Teacher's Email</td>
+            <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">You may find our teacher's email addresses<a style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;" href="https://www.punggolgreenpri.moe.edu.sg/our-people/form-teachers-2026/">here.</a></td>
+        </tr>
         <tr>
             <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">Mailing Address</td>
             <td style="padding:10px 5px; vertical-align:middle; font-size:16px; font-family:Arial;">98 Punggol Walk, Singapore 828772</td>
