@@ -67,14 +67,8 @@ By Primary 5 and 6, we encourage our students to explore the exciting possibilit
 VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore. Anchored on Awareness, Agency and Advocacy, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
 From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
-
-![](/images/VIA_Photograph.jpg)
-  
-<img src="/images/Our%20Curriculum/P5_Food_Donation_Drive_2024_compressed.jpg" style="width:65%">
-<br>
-<img src="/images/Our%20Curriculum/P6_Cardboard_Carnival_2024_compressed.jpg" style="width:65%">
-
-<br>
+<img src="/images/VIA_Photograph.jpg" style="width:95%">
+<br> 
 
 **<u>National Education (NE)</u>**&nbsp;
 
