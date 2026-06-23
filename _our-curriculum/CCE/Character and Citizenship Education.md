@@ -68,7 +68,7 @@ VIA nurtures caring and socially responsible students who are equipped with valu
 
 From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
 
-
+![](/images/VIA_Photograph.jpg)
   
 <img src="/images/Our%20Curriculum/P5_Food_Donation_Drive_2024_compressed.jpg" style="width:65%">
 <br>
