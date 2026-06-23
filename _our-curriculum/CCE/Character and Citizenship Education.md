@@ -58,21 +58,16 @@ Through case scenarios and dialogues, students are encouraged to think criticall
 
   
 
-<u>Education &amp; Career Guidance (ECG): Our Aspirations</u><br>
+<u>Education &amp; Career Guidance (ECG): </u><br>
 What do you want to be when you grow up? At PGPS, we believe it is never too early to start finding out. Our ECG efforts guide students to know themselves well, beginning with self-discovery activities from the early years, and progressing into reflective conversations about their strengths, interests, and aspirations.
 
-  
-
-<i>ECG@PGPS: For Students, By Students</i> was conceptualised to enable Primary 5 and 6 students to share their aspirations with their juniors and motivate them to start thinking of their own aspirations. With the MySkillsFuture Portal to guide them, the programme serves as a stepping stone to greater awareness and knowledge of the different educational pathways and career possibilities for our students.  
-
-  
+By Primary 5 and 6, we encourage our students to explore the exciting possibilities ahead. At our annual ECG Bazaar and Forum, they interact with representatives from secondary schools and hear firsthand from PGPS alumni about the journey beyond primary school. Guided by the MySkillsFuture Portal, students gain greater awareness of the different educational pathways and career possibilities that await them. These experiences make the future feel real, relevant, and within reach.   
 
 <u>Values-in-Action (VIA)</u><br>
-Our VIA programmes aim to create meaningful learning experiences to support students’ development as caring and socially responsible citizens who contribute actively to the community, through the learning and application of values, knowledge and skills. 
+VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore. Anchored on Awareness, Agency and Advocacy, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
-  
+From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
 
-As young as Primary 1 &amp; 2, our students develop social awareness by playing a part in providing a conducive school environment for themselves and their peers. As they proceed to Primary 3 &amp; 4, our students explore the importance of taking care of the environment. With the mastery of the skills and attributes throughout their early years, the Primary 5 &amp; 6 students then open their hearts and reach out to connect with those in the community. 
 
   
 
