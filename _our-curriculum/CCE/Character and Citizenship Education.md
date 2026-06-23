@@ -9,7 +9,7 @@ variant: markdown
 
 
 **<font size="5">Department Mission</font>**<br>
-Nurture future-ready leaders of exemplary character who are empowered in making a difference for the society
+Nurture future-ready leaders of exemplary character who are empowered to make a difference for society
 
 
 **<font size="5">Overview of CCE@PGPS</font>**<br>  
@@ -50,16 +50,16 @@ Anchored on the school’s core values (STRIVE), and guided by the MOE’s Frame
   
 
 <u>Form Teacher Guidance Period (FTGP):</u><br>
-FTGP lessons emphasize on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
+FTGP lessons emphasise on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
 
   
 
-Through case scenarios and dialogues, students are encouraged to think through and clarify their thoughts through examining self and others’ personal feelings. With the growing awareness and empathy, our students make decisions through identifying and evaluating choices based on their values and beliefs.
+Through case scenarios and dialogues, students are encouraged to think critically and clarify their thoughts through examining their own feelings and those of others. With growing awareness and empathy, our students make more informed decisions through identifying and evaluating choices based on their values and beliefs.
 
   
 
 <u>Education &amp; Career Guidance (ECG): Our Aspirations</u><br>
-It is never too young to have an aspiration on what we want to be when we grow up. You will be surprised by how varied our students’ aspirations could be, from becoming a Master Chef, a YouTuber to a LEGO designer! 
+What do you want to be when you grow up? At PGPS, we believe it is never too early to start finding out. Our ECG efforts guide students to know themselves well, beginning with self-discovery activities from the early years, and progressing into reflective conversations about their strengths, interests, and aspirations.
 
   
 
