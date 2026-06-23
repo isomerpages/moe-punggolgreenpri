@@ -63,6 +63,8 @@ What do you want to be when you grow up? At PGPS, we believe it is never too ear
 
 By Primary 5 and 6, we encourage our students to explore the exciting possibilities ahead. At our annual ECG Bazaar and Forum, they interact with representatives from secondary schools and hear firsthand from PGPS alumni about the journey beyond primary school. Guided by the MySkillsFuture Portal, students gain greater awareness of the different educational pathways and career possibilities that await them. These experiences make the future feel real, relevant, and within reach.   
 
+![](/images/ECG_Photograph.jpg)
+
 <u>Values-in-Action (VIA)</u><br>
 VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore. Anchored on Awareness, Agency and Advocacy, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
