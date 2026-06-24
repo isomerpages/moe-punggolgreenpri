@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 The Parent Support Group (PSG) @ PGPS was formed to promote and forge a strong partnership between home and school. We believe that this strong partnership will benefit both the school and the parents as they work together to make the school a more conducive and nurturing environment for the children’s holistic growth. We strongly encourage parents to take an active role in their children’s education in school by joining the PSG.
-<p>Parent Support Group EXCO Team Members 202​6 
-      </p><table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
-   <colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
+
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px" class="tg">
+	<colgroup><col style="width: 200px"><col style="width: 300px"></colgroup>
 	<thead>
          <tr>
             <th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal;font-weight:700;color:#666;">Name</th>
@@ -79,3 +80,4 @@ If you would like to volunteer your services as a parent Volunteer, please scan 
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:center;">We look forward to working closely with you to make PGPS a more vibrant and caring school for your child!</p>
 <img src="/images/PSG_Photograph.jpg">
+
