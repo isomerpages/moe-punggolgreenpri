@@ -19,3 +19,4 @@ If you would like to volunteer your services as a parent Volunteer, please scan 
 
 <p style="line-height:1.3;font-size:16px;font-family:Arial;text-align:center;">We look forward to working closely with you to make PGPS a more vibrant and caring school for your child!</p>
 <img src="/images/PSG_Photograph.jpg">
+<img src="/images/PSG.png">
