@@ -69,9 +69,8 @@ By Primary 5 and 6, we encourage our students to explore the exciting possibilit
 VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore.Anchored on <i>Awareness, Agency and Advocacy</i>, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
 From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
-<img src="/images/VIA_Photograph.jpg" style="width:95%">
-<br> 
-
+<img src="/images/via_photograph.jpg" style="width:95%">
+<br>
 <u>National Education (NE)</u>&nbsp;<br>
 As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events <i>(Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)</i>, students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
 
