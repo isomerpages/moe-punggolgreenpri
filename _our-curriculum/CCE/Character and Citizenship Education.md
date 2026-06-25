@@ -72,8 +72,7 @@ From Primary 1, students begin to take on daily responsibilities at home, learni
 <img src="/images/VIA_Photograph.jpg" style="width:95%">
 <br> 
 
-**<u>National Education (NE)</u>**&nbsp;
-
-As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day), students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
+<u>National Education (NE)</u>&nbsp;<br>
+As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events <i>(Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)</i>, students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
 
 <img src="/images/NE_Photograph.jpg" style="width:95%">
