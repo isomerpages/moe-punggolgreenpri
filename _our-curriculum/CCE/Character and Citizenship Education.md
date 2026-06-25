@@ -9,7 +9,7 @@ variant: markdown
 
 
 **<font size="5">Department Mission</font>**<br>
-Nurture future-ready leaders of exemplary character who are empowered in making a difference for the society
+Nurture future-ready leaders of exemplary character who are empowered to make a difference for society
 
 
 **<font size="5">Overview of CCE@PGPS</font>**<br>  
@@ -50,47 +50,30 @@ Anchored on the school’s core values (STRIVE), and guided by the MOE’s Frame
   
 
 <u>Form Teacher Guidance Period (FTGP):</u><br>
-FTGP lessons emphasize on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
+FTGP lessons emphasise on explicit teaching of social emotional competencies as the basic skills taught at the Primary levels lay the foundation for more complex conversations and discussions at the secondary levels and beyond. Topics related to developing citizenship dispositions are also taught in FTGP to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
 
   
 
-Through case scenarios and dialogues, students are encouraged to think through and clarify their thoughts through examining self and others’ personal feelings. With the growing awareness and empathy, our students make decisions through identifying and evaluating choices based on their values and beliefs.
+Through case scenarios and dialogues, students are encouraged to think critically and clarify their thoughts through examining their own feelings and those of others. With growing awareness and empathy, our students make more informed decisions through identifying and evaluating choices based on their values and beliefs.
 
   
 
-<u>Education &amp; Career Guidance (ECG): Our Aspirations</u><br>
-It is never too young to have an aspiration on what we want to be when we grow up. You will be surprised by how varied our students’ aspirations could be, from becoming a Master Chef, a YouTuber to a LEGO designer! 
+<u>Education &amp; Career Guidance (ECG): </u><br>
+What do you want to be when you grow up? At PGPS, we believe it is never too early to start finding out. Our ECG efforts guide students to know themselves well, beginning with self-discovery activities from the early years, and progressing into reflective conversations about their strengths, interests, and aspirations.
 
-  
+By Primary 5 and 6, we encourage our students to explore the exciting possibilities ahead. At our annual ECG Bazaar and Forum, they interact with representatives from secondary schools and hear firsthand from PGPS alumni about the journey beyond primary school. Guided by the MySkillsFuture Portal, students gain greater awareness of the different educational pathways and career possibilities that await them. These experiences make the future feel real, relevant, and within reach.   
 
-<i>ECG@PGPS: For Students, By Students</i> was conceptualised to enable Primary 5 and 6 students to share their aspirations with their juniors and motivate them to start thinking of their own aspirations. With the MySkillsFuture Portal to guide them, the programme serves as a stepping stone to greater awareness and knowledge of the different educational pathways and career possibilities for our students.  
-
-  
+![](/images/ECG_Photograph.jpg)
 
 <u>Values-in-Action (VIA)</u><br>
-Our VIA programmes aim to create meaningful learning experiences to support students’ development as caring and socially responsible citizens who contribute actively to the community, through the learning and application of values, knowledge and skills. 
+VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore. Anchored on Awareness, Agency and Advocacy, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
-  
-
-As young as Primary 1 &amp; 2, our students develop social awareness by playing a part in providing a conducive school environment for themselves and their peers. As they proceed to Primary 3 &amp; 4, our students explore the importance of taking care of the environment. With the mastery of the skills and attributes throughout their early years, the Primary 5 &amp; 6 students then open their hearts and reach out to connect with those in the community. 
-
-  
-
-<center><u>School-Wide VIA:</u></center>
-
-<img src="/images/Our%20Curriculum/CCE%203.png" style="width:65%">
-
-
-<center><u>Level-Wide VIA:</u></center>
-
-<img src="/images/Our%20Curriculum/P5_Food_Donation_Drive_2024_compressed.jpg" style="width:65%">
-<br>
-<img src="/images/Our%20Curriculum/P6_Cardboard_Carnival_2024_compressed.jpg" style="width:65%">
-
-<br>
+From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
+<img src="/images/VIA_Photograph.jpg" style="width:95%">
+<br> 
 
 **<u>National Education (NE)</u>**&nbsp;
 
-As part of the students’ holistic education, our students experience the 4 NE Commemorative Events (<i>Total Defence Day, International Friendship Day, Racial Harmony Day, National Day</i> ) to deepen their appreciation of our shared past and Singapore’s current realities. Through customised programmes and lessons, the commemoration of events also aims to develop them to be concerned and active citizens. 
+As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day), students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
 
-<img src="/images/Our%20Curriculum/National_Day_2024.jpg" style="width:65%">
+<img src="/images/ecg_photograph.jpg" style="width:95%">
