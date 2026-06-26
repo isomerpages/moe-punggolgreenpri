@@ -18,7 +18,7 @@ CCE@PGPS is aligned to the school’s vision of ‘Future-Ready Leaders With The
 
   
 
-Anchored on the school’s core values (STRIVE), and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
+Anchored on the school’s core values (S.T.R.I.V.E.), and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
 
   
 
@@ -65,7 +65,7 @@ By Primary 5 and 6, we encourage our students to explore the exciting possibilit
 
 ![](/images/ecg_photograph.jpg)
 
-<u>Values in Action</u><br>
+<u>Values in Action:</u><br>
 VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore.Anchored on <i>Awareness, Agency and Advocacy</i>, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
 From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
