@@ -18,7 +18,7 @@ CCE@PGPS is aligned to the school’s vision of ‘Future-Ready Leaders With The
 
   
 
-Anchored on the school’s core values (STRIVE), and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
+Anchored on the school’s core values (S.T.R.I.V.E.), and guided by the MOE’s Framework for 21st Century Competencies and Student Outcomes, our students’ total CCE experience is delivered through the curriculum and co-curriculum and we hope to achieve the following student outcomes:
 
   
 
@@ -63,17 +63,15 @@ What do you want to be when you grow up? At PGPS, we believe it is never too ear
 
 By Primary 5 and 6, we encourage our students to explore the exciting possibilities ahead. At our annual ECG Bazaar and Forum, they interact with representatives from secondary schools and hear firsthand from PGPS alumni about the journey beyond primary school. Guided by the MySkillsFuture Portal, students gain greater awareness of the different educational pathways and career possibilities that await them. These experiences make the future feel real, relevant, and within reach.   
 
-![](/images/ECG_Photograph.jpg)
+![](/images/ecg_photograph.jpg)
 
-<u>Values-in-Action (VIA)</u><br>
-VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore. Anchored on Awareness, Agency and Advocacy, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
+<u>Values in Action:</u><br>
+VIA nurtures caring and socially responsible students who are equipped with values, skills and civic literacy to contribute meaningfully to Singapore.Anchored on <i>Awareness, Agency and Advocacy</i>, our VIA programme develops students through the learning and application of values, knowledge and skills. Students reflect on their experience, the values they have put into practice, and initiate ways they can continue to contribute to their communities.
 
 From Primary 1, students begin to take on daily responsibilities at home, learning to care for themselves, their family and friends. As they progress, they exercise greater ownership of our school environment and eventually extend their contribution through community outreach. 
-<img src="/images/VIA_Photograph.jpg" style="width:95%">
-<br> 
+<img src="/images/via_photograph.jpg" style="width:95%">
+<br>
+<u>National Education (NE)</u>&nbsp;<br>
+As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events <i>(Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)</i>, students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
 
-**<u>National Education (NE)</u>**&nbsp;
-
-As part of students’ holistic education, NE is a key component of CCE that provides students with opportunities to experience and explore their national identity as Singaporeans. Through the commemoration of the four NE events (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day), students deepen their appreciation of our shared past and Singapore’s present realities, which fosters a sense of belonging, hope and responsibility. Supported by lessons and activities, these experiences aim to develop students into concerned and active citizens who contribute to their communities and Singapore while pursuing their personal goals. 
-
-<img src="/images/ecg_photograph.jpg" style="width:95%">
+<img src="/images/NE_Photograph.jpg" style="width:95%">
