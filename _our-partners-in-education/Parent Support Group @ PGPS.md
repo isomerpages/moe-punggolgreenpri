@@ -26,7 +26,7 @@ The Parent Support Group (PSG) @ PGPS was formed to promote and forge a strong p
 			<tr><td>Ms Alice</td><td>Advisor</td></tr>
 </tbody></table>
 
-Over the years, we have developed a very supportive group of parent volunteers who contribute both their time and talents. They are actively involved in many areas of the school programmes and activities. These include Learning Journeys, festive and commemorative celebrations. [Our PSG was also featured on Schoolbag, where they were recognised for partnering the school to strengthen parent-child bonds and support families in needundefined](https://www.schoolbag.edu.sg/story/parent-support-groups-volunteer-initiatives/).<br><br>
+Over the years, we have developed a very supportive group of parent volunteers who contribute both their time and talents. They are actively involved in many areas of the school programmes and activities. These include Learning Journeys, festive and commemorative celebrations. [Our PSG was also featured on Schoolbag, where they were recognised for partnering the school to strengthen parent-child bonds and support families in need](https://www.schoolbag.edu.sg/story/parent-support-groups-volunteer-initiatives/).<br><br>
 As a member of our PSG, you can be a supportive partner in education and inspire fellow parents to raise a generation of happy, kind and confident children together.
 If you would like to volunteer your services as a parent Volunteer, please scan the QR Code or click the link.<br>
 
