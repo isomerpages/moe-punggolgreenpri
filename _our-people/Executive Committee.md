@@ -66,7 +66,7 @@ variant: markdown
 		</tr>
 		<tr><td>Mdm Lee Peiyan</td><td>YH/Middle Primary</td></tr>
 		<tr><td>Mrs Seah-Koh Wei Ning</td><td>YH/Lower Primary</td></tr>
-		<tr><td>Ms Ruhernie Abu Yamin</td><td>YH/Upper Primary - Internal</td></tr>
+		<tr><td>Ms Ruhernie Abu Yamin</td><td>YH/Upper Primary</td></tr>
 		<tr><td>Ms Nur Azimah Bte Syed Hussain</td><td>AYH/Lower Primary (P1-3)</td></tr>
 		<tr><td>Mdm Khadijah Bte Ab Samat</td><td>AYH/Upper Primary (P4-6)</td></tr>
 	</tbody>
