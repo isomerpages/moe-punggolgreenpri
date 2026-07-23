@@ -91,22 +91,6 @@ variant: markdown
 	</tbody>
 </table>
 
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Internal Appointments</b></p>
-
-<table style="width: 580px">
-	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tbody>
-		<tr>
-			<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
-			<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Designation</th>
-		</tr>
-		<tr><td>Mr Ikmal Hisharm Bin Mohd Noor</td><td>SH/Talent Development - Internal</td></tr>
-		<tr><td>Mdm Noor Nadiya Bte Abdul Salim</td><td>LH/Data Management - Internal</td></tr>
-		<tr><td>Mdm Nadzerah Bte Mohd Jufri</td><td>LH/Malay Language - Internal</td></tr>
-		<tr><td>Mdm Nursayidah Bte Abdul Rahim</td><td>SH/21<sup>st</sup> Century Competencies - Internal</td></tr>
-	</tbody>
-</table>
-
 <p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Teacher Leaders Council</b></p>
 
 <table style="width: 580px">
@@ -119,27 +103,5 @@ variant: markdown
 		<tr><td>Mdm Norhidayana Bte Jabar</td><td>LT/Malay Language (ML)</td></tr>
 		<tr><td>Mdm Yee Sook Kwan</td><td>ST/Chinese Language (CL)</td></tr>
 		<tr><td>Mdm Tan Wai Mun Dolly</td><td>ST/Science (SC)</td></tr>
-	</tbody>
-</table>
-
-<p style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;"><b>Teacher Mentors</b></p>
-
-<table style="width: 580px">
-	<colgroup><col style="width:50%"><col style="width:50%"></colgroup>
-	<tbody>
-		<tr>
-			<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Name</th>
-			<th style="line-height:1.3; font-size:16px; font-family:Arial; text-align:justify;background-color:#DDD; color:#666">Specialisation</th>
-		</tr>
-		<tr><td>Ms Ita Nursyahirah Bte Mohd Amin</td><td>Art</td></tr>
-		<tr><td>Mdm Low Ai Choo</td><td>Classroom Management</td></tr>
-		<tr><td>Mr Jumat B Baba</td><td>English Language</td></tr>
-		<tr><td>Mdm Nor Aisha Bte Mohd Ismail</td><td>English Language</td></tr>
-		<tr><td>Mdm Siti Nur Hajar Bte Abd Rahman</td><td>English Language</td></tr>
-		<tr><td>Mdm Haryani Bte Ngaingati</td><td>Instructional Mentoring</td></tr>
-		<tr><td>Mdm Kuan Sherrielyn</td><td>Lower Primary</td></tr>
-		<tr><td>Mdm Siti Hajar Bte Mohd Aljuhari</td><td>Learning Support</td></tr>
-		<tr><td>Mdm Siti Ramzah Bte Mohd Parik</td><td>Mathematics</td></tr>
-		<tr><td>Ms Suhaila Bte Mohd Taib</td><td>Mathematics</td></tr>
 	</tbody>
 </table>
