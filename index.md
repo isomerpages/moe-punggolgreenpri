@@ -28,8 +28,4 @@ sections:
       url: https://punggolgreenpri.moe.edu.sg/staff-appreciation-form/
       image: /images/Staff_Appreciation_Form_Img.jpg
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      button: more information
-      url: /school-canteen-advertisement/
 ---
